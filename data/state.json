@@ -86,7 +86,7 @@
    "seeded": true
   },
   "greenhouse:tarabutgateway": {
-   "fails": 1,
+   "fails": 2,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/tarabutgateway/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/tarabutgateway/jobs"
   },
   "greenhouse:think-cell": {
@@ -102,7 +102,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 1,
+   "fails": 2,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/ziina/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -138,7 +138,7 @@
    "seeded": true
   },
   "lever:kitopi": {
-   "fails": 1,
+   "fails": 2,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/kitopi; eu: https://api.eu.lever.co/v0/postings/kitopi"
   },
   "lever:palantir": {
@@ -146,7 +146,7 @@
    "seeded": true
   },
   "lever:sarwa": {
-   "fails": 1,
+   "fails": 2,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/sarwa; eu: https://api.eu.lever.co/v0/postings/sarwa"
   },
   "smartrecruiters:AristaNetworks": {
@@ -678,6 +678,7 @@
   "ashby:openai:020b2aae-8be0-408c-ab49-20eefa8541af": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0322d6d8-6588-4209-a304-83e768063a25": "2026-09-24T20:59:40+00:00",
   "ashby:openai:04435c05-7a05-4802-894d-c173327fbac8": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:04c7b3d3-8523-41a2-8f84-39a739ebf207": "2026-09-24T23:52:56+00:00",
   "ashby:openai:05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d": "2026-09-24T20:59:40+00:00",
   "ashby:openai:063d1957-23f0-4976-b8bd-93a0d4a31cfb": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0681fa01-76c2-47da-9ebd-b4677521e049": "2026-09-24T20:59:40+00:00",
@@ -776,6 +777,7 @@
   "ashby:openai:21ee6dd3-dcd0-425a-91e9-34a23ab3e434": "2026-09-24T20:59:40+00:00",
   "ashby:openai:23014bc8-37d4-4fd9-9a77-d95fdd33437f": "2026-09-24T20:59:40+00:00",
   "ashby:openai:23239cae-2a91-4985-94d1-a2acbb3ffa25": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:2348230a-295f-434d-9b16-653e01ddbd0b": "2026-09-24T23:52:56+00:00",
   "ashby:openai:23b158fe-709e-4bf5-856c-d10953d32f60": "2026-09-24T20:59:40+00:00",
   "ashby:openai:240d459b-696d-43eb-8497-fab3e56ecd9b": "2026-09-24T20:59:40+00:00",
   "ashby:openai:241154df-ab1a-4dfa-8b18-66e087d1e636": "2026-09-24T20:59:40+00:00",
@@ -1026,6 +1028,7 @@
   "ashby:openai:6e20368e-d51e-4562-8b94-0166317d52c7": "2026-09-24T20:59:40+00:00",
   "ashby:openai:6eb386ac-9056-4795-aa79-a27e105faf5c": "2026-09-24T20:59:40+00:00",
   "ashby:openai:6fbb72e6-1d69-4863-aaf3-3c5830e49e8a": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:6fd50ace-941b-4559-992f-e53f9b76c9a0": "2026-09-24T23:52:56+00:00",
   "ashby:openai:6fdc9e35-c9d9-49fb-a8f7-80d2d7f03968": "2026-09-24T20:59:40+00:00",
   "ashby:openai:708121e8-51ac-4a24-a2ff-bd9889ba5486": "2026-09-24T20:59:40+00:00",
   "ashby:openai:70aaaafa-fe2f-4409-9a72-c0faf50d7d01": "2026-09-24T20:59:40+00:00",
@@ -2562,6 +2565,7 @@
   "lever:crypto:365dbb9a-e156-4174-b124-1596ba35e0de": "2026-09-24T20:59:40+00:00",
   "lever:crypto:38187660-9908-465f-9b89-562dcf10db2c": "2026-09-24T20:59:40+00:00",
   "lever:crypto:39c827b6-19c8-4dfb-b872-d5f429e937b3": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:4557d4e7-7588-404d-860c-edf68a1ab200": "2026-09-24T23:52:56+00:00",
   "lever:crypto:47509c3a-b034-470b-903a-b8e0441d5d28": "2026-09-24T20:59:40+00:00",
   "lever:crypto:51646e99-8d21-4264-8f22-3acf5c679b5a": "2026-09-24T20:59:40+00:00",
   "lever:crypto:5e8ddb0f-c326-41d3-be2e-382be2b5a3e0": "2026-09-24T20:59:40+00:00",
@@ -2584,6 +2588,7 @@
   "lever:crypto:9b9a56cd-0aaf-46ec-8704-538dcecb72dc": "2026-09-24T20:59:40+00:00",
   "lever:crypto:a26d7d57-a930-49b3-8245-1f9cb91f59cd": "2026-09-24T20:59:40+00:00",
   "lever:crypto:a3ac2fc1-37c6-45d3-834e-25e9f94aaf5c": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:a898683e-d211-4e8c-8576-21f676993d90": "2026-09-24T23:52:56+00:00",
   "lever:crypto:ac03000c-445b-42a3-8da3-4a872116bd91": "2026-09-24T20:59:40+00:00",
   "lever:crypto:ad15d681-71b3-4e60-8eb3-79de77c11aeb": "2026-09-24T20:59:40+00:00",
   "lever:crypto:b17ac35d-1b67-40de-bd45-4de7dfda2cd8": "2026-09-24T20:59:40+00:00",
@@ -3569,13 +3574,16 @@
   "workday:parsons/Search:/job/US---CA-Fountain-Valley/Senior-Civil-Inspector_R183411-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Airports_R177024-2": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Project-Control-Specialist--Airports_R186445-1": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CA-Los-Angeles/Sr-Document-Controls-Specialist--Airports_R186537": "2026-09-24T23:52:56+00:00",
   "workday:parsons/Search:/job/US---CA-Pasadena/Civil-Design-Engineer_R185408": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Playa-Del-Rey/Supervising-Structural-Engineer---Wastewater_R185075": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-San-Diego/Senior-AFSIM-Simulation-Engineer---TS-SCI_R186530": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-San-Diego/Senior-Civil-Drainage-Engineer_R186496": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Boulder/Senior-DevSecOps-Engineer_R183461": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Boulder/Tier-1-Systems-Administrator---Tuesday-Saturday---Holidays_R185081": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CO-Colorado-Springs/Software-Engineer--Mid-level_R186540": "2026-09-24T23:52:56+00:00",
   "workday:parsons/Search:/job/US---CO-Colorado-Springs/Software-Engineer-II_R182260": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CO-Colorado-Springs/Software-Engineer_R186539": "2026-09-24T23:52:56+00:00",
   "workday:parsons/Search:/job/US---CO-Denver/Associate-Drainage-Engineer_R177957-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Denver/DevSecOps-Engineer_R184138": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Denver/Drainage-Engineer-II_R185242": "2026-09-24T20:59:40+00:00",
@@ -3707,6 +3715,7 @@
   "workday:parsons/Search:/job/US---MO-Saint-Louis/Roadway-Engineer-I_R179972-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NC-Field-Location/Field-Project-Manager--Airports_R180840": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NC-Fort-Liberty/Fire-Alarm-Technician_R181691": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---NC-Raleigh/Senior-Bridge-Engineer_R185002": "2026-09-24T23:52:56+00:00",
   "workday:parsons/Search:/job/US---NC-Raleigh/Senior-Project-Manager---Transportation-Design_R185395": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NJ-Eatontown/Floating-Assistant-Manager---Vehicle-Inspection-Facility_R177194": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NJ-Picatinny/Software-Engineer---ATAK-Android_R182705": "2026-09-24T20:59:40+00:00",
@@ -3832,6 +3841,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Home-Care-GA-Engineering-Lead_R-1187258": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Warehouse-Supervisor_R-1188292": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Executivo-de-Negcios-SR---Food-Service---Cuiab-MT_R-1187236": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Promotor-De-Merchandising_R-1185383": "2026-09-24T23:52:56+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Brussels-Belgium/Account-Manager---Home-Care_R-1185803-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Burton-Factory/Asset-Care-Coordinator_R-1188622": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Delhi-Regional-Office/Expert-Sales-Executive_R-1188548-1": "2026-09-24T20:59:40+00:00",
@@ -3952,6 +3962,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Toronto-ON/Market-Collaboration-Planner_R-1186363-2": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Analista-de-Logstica_R-1188222": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Asistente-de-Formulacin-y-Desarrollo-de-Producto_R-1181776-1": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Product-Formulation-Development-Assistant_R-1188056": "2026-09-24T23:52:56+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Trumbull-CT/Design-Manager_R-1175494": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tultitlan-Mexico/KAE-Autoservicios_R-1188523": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992": "2026-09-24T20:59:40+00:00",
