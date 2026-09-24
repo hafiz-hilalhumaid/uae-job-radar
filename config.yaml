@@ -1,0 +1,89 @@
+# UAE Job Radar settings. Plain lists — no regex needed.
+# Word matching is case-insensitive and whole-word; spaces and hyphens are
+# interchangeable, so "full stack" also matches "Full-Stack" and "fullstack".
+
+contact_email: ""        # optional: added to the User-Agent so a board operator could reach you
+workers: 8               # boards read in parallel (per-ATS limits keep it polite)
+drop_boards_after_days: 60   # auto-found boards with no UAE job for this long stop being watched
+
+thresholds:
+  instant: 70            # score >= this -> Telegram alert on the next hourly check
+  digest: 40             # score >= this -> held for the next digest (Mon/Wed/Fri morning)
+  urgent_on_quiet_days: 90   # on quiet days, only scores >= this ping you instantly
+
+schedule:
+  timezone: Asia/Kolkata
+  quiet_days: [Sun]      # alerts are held for the Monday digest
+
+location:
+  include_regional_remote: true   # also keep "Remote – Middle East / MENA / GCC" roles
+
+seniority:
+  your_years: 4.7        # roles asking 8+ years get pushed down, <=5 years get a small boost
+
+titles:
+  categories:            # a title must match at least one category; best category sets base points
+    frontend:
+      points: 45
+      words: [frontend, front end, ui engineer, ui developer, react, reactjs, react.js, typescript,
+              next.js, nextjs, javascript, web developer, web engineer]
+    fullstack:
+      points: 45
+      words: [full stack, fullstack]
+    ai:
+      points: 42
+      words: [ai engineer, ai developer, applied ai, ai product engineer, ai platform engineer, agentic,
+              ai agent, ai agents, llm, genai, gen ai, generative ai, forward deployed, ai native,
+              ml engineer, machine learning engineer]
+    software:
+      points: 30
+      words: [software engineer, software developer, software development engineer, sde, swe,
+              product engineer, application developer, applications engineer]
+  exclude:               # any of these in the title drops the job
+    [intern, internship, trainee, graduate, student, apprentice, qa, quality assurance, test, tester,
+     testing, sdet, devops, sre, site reliability, android, ios, flutter, kotlin, swift, embedded,
+     firmware, network, security, data engineer, data analyst, analyst, data scientist, scientist,
+     researcher, salesforce, sap, servicenow, dynamics, oracle, support, sales, business developer,
+     business development, account, recruiter, marketing, designer, manager, director, head of, vp,
+     vice president, chief, emirati, uae national, nationals only]
+
+keywords:                # found in the job description -> added to the score (total capped)
+  cap: 25
+  boosts:
+    react: 6
+    typescript: 6
+    next.js: 3
+    nextjs: 3
+    redux: 2
+    node.js: 2
+    nodejs: 2
+    python: 2
+    fastapi: 3
+    llm: 4
+    llms: 4
+    agentic: 5
+    ai agents: 4
+    langchain: 3
+    langgraph: 3
+    rag: 2
+    mcp: 2
+
+# Workday has no "list everything" call that's practical to page through, so the radar
+# searches each Workday site for these terms and keeps the UAE results.
+workday_keywords: [software, frontend, front end, react, full stack, developer, AI engineer]
+
+# ---------------------------------------------------------------------------------------------
+# Optional paid/free aggregators. Each one only runs if its secret exists in GitHub.
+aggregators:
+  fantastic:             # secret APIFY_TOKEN. Career-site jobs from 54 job systems, incl. Workday,
+    enabled: true        # SuccessFactors, Oracle, Taleo, iCIMS. Billed per job returned (see README).
+    limit: 300
+    daily_catchup_hour: 7        # local hour whose run asks for the last 24h instead of 1h (fills gaps)
+    locations: [United Arab Emirates]
+    title_search: [Frontend, Front End, "React:*", TypeScript, JavaScript, Full Stack, Fullstack,
+                   Software Engineer, Software Developer, Web Developer, AI Engineer, Agentic, LLM,
+                   Machine Learning Engineer, Forward Deployed]
+    title_exclusions: [Intern, Internship, Sales, Manager]
+  jsearch:               # secret RAPIDAPI_KEY. Google for Jobs (Bayt, LinkedIn, Indeed, company sites).
+    every_hours: 4       # free plan = 200 requests/month; 1 query every 4 hours = ~180
+    queries: ["frontend OR react OR full stack developer jobs in United Arab Emirates"]

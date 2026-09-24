@@ -1,0 +1,76 @@
+# UAE Job Radar — YOUR watchlist (seeded from the 24 Sep 2026 research).
+#
+# Every board here is checked every hour. Most coverage comes from data/uae_boards.json,
+# which the weekly harvest + daily sweep fill automatically with every board that has UAE jobs.
+# Put companies here that you always want watched, even when they have no UAE opening today.
+# Identifiers marked "likely" were not seen in a live URL; the digest reports any that fail.
+# Add more with:  python radar.py discover candidates.txt
+# Pause one:      add  enabled: false
+#
+# Fields: ats = greenhouse | lever | ashby | smartrecruiters | workable | recruitee | teamtailor | workday
+#   greenhouse: host: eu for boards on job-boards.eu.greenhouse.io (US host is tried as fallback)
+#   smartrecruiters: country: ae filters server-side (default); set country: "" to read all
+#   teamtailor: id is the careers-site base URL; default_location used if the feed has none
+#   workday: tenant / shard / site from the careers URL  https://{tenant}.{shard}.myworkdayjobs.com/{site}
+
+# ---------------- Strongest fit for React / TypeScript / AI roles ----------------
+- {name: Binance, ats: lever, id: binance}
+- {name: Ether.fi, ats: ashby, id: ether.fi}
+- {name: Brain Co., ats: ashby, id: brainco}
+- {name: OpenAI, ats: ashby, id: openai}
+- {name: Mistral AI, ats: ashby, id: mistral.ai}
+- {name: Cohere, ats: ashby, id: cohere}
+- {name: Ziina, ats: greenhouse, id: ziina, host: eu}
+- {name: Careem, ats: greenhouse, id: careem}
+- {name: Bayut / dubizzle, ats: workable, id: bayutdubizzle}
+- {name: Orbit, ats: workable, id: weorbit}
+- {name: Vitol, ats: smartrecruiters, id: Vitol}
+- {name: Kitopi, ats: lever, id: kitopi}
+- {name: Lean Technologies, ats: ashby, id: leantech}
+- {name: AI71, ats: greenhouse, id: ai71, host: eu}
+- {name: Crypto.com, ats: lever, id: crypto}
+- {name: Palantir, ats: lever, id: palantir}
+- {name: Qashio, ats: teamtailor, id: "https://careers.qashio.com", default_location: "Dubai, United Arab Emirates"}
+- {name: Property Finder, ats: teamtailor, id: "https://propertyfinder.teamtailor.com", default_location: "Dubai, United Arab Emirates"}
+
+# ---------------- Good fit ----------------
+- {name: talabat (Delivery Hero), ats: smartrecruiters, id: DeliveryHero}
+- {name: MultiBank Group, ats: ashby, id: mexdigital}
+- {name: Syndica, ats: ashby, id: syndica}
+- {name: OneBullEx, ats: greenhouse, id: onebullex, host: eu}
+- {name: SellAnyCar, ats: smartrecruiters, id: SellAnyCarcom}
+- {name: Tamara, ats: greenhouse, id: tamara, host: eu}
+- {name: Tarabut, ats: greenhouse, id: tarabutgateway, host: eu}      # likely (older posting)
+- {name: Sarwa, ats: lever, id: sarwa}                                # likely (older posting)
+- {name: Washmen, ats: lever, id: Washmen}
+- {name: Fresha, ats: lever, id: fresha}                              # likely
+- {name: Yassir, ats: lever, id: Yassir}
+- {name: 1inch, ats: lever, id: 1inch}
+- {name: Keyrock, ats: ashby, id: keyrock}
+- {name: Ode with Anthropic, ats: ashby, id: odewithanthropic}        # Dubai office; likely
+- {name: Gecko Robotics, ats: ashby, id: gecko-robotics}
+- {name: Ruya AI, ats: greenhouse, id: ruyaai, host: eu}
+- {name: Cobblestone Energy, ats: greenhouse, id: cobblestoneenergy}
+- {name: Bybit, ats: greenhouse, id: bybit, host: eu}
+- {name: Copper, ats: greenhouse, id: copperco, host: eu}
+- {name: Addepar, ats: greenhouse, id: addepar1}                      # Dubai office; likely
+- {name: Udacity, ats: greenhouse, id: udacity}
+
+# ---------------- Lower fit / broad employers ----------------
+- {name: Cobblestone Energy (grad board), ats: greenhouse, id: cobblestoneenergy4}
+- {name: Valtech, ats: greenhouse, id: valtech, host: eu}
+- {name: think-cell, ats: greenhouse, id: think-cell, host: eu}
+- {name: Publicis Groupe, ats: smartrecruiters, id: PublicisGroupe}
+- {name: Ghobash Group, ats: smartrecruiters, id: GhobashGroup}
+- {name: Arista Networks, ats: smartrecruiters, id: AristaNetworks}
+- {name: Extreme Networks, ats: lever, id: extremenetworks}
+- {name: Aldar, ats: lever, id: aldar}                                # likely
+- {name: Masdar, ats: smartrecruiters, id: masdar}                    # likely
+- {name: Parsons, ats: workday, tenant: parsons, shard: wd5, site: Search}
+- {name: Unilever, ats: workday, tenant: unilever, shard: wd3, site: Unilever_Experienced_Professionals}
+
+# Not pollable by this script (no public feed) — check by hand or with a page-change monitor:
+#   G42 group (careers.g42.ai), MBZUAI, Tabby, Noon, Mamo, NymCard, Anghami, Huspy,
+#   Emirates Group, Emirates NBD, FAB, Mashreq, ADNOC, Majid Al Futtaim, Dubai Careers portal.
+# Startup portfolio boards (open daily, filter by UAE):
+#   jobs.hub71.com · jobs.global.vc · jobs.mevp.com · careers.becocapital.com
