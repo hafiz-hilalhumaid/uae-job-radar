@@ -19,7 +19,7 @@ It doesn't rely on a hand-picked list. Four layers feed one Telegram chat, dedup
 | Layer | Who it covers | Delay | Cost |
 |---|---|---|---|
 | **1. Every board with a UAE job** — monthly `harvest` pulls every Greenhouse/Lever/Ashby/Workable/SmartRecruiters/Recruitee/Teamtailor board ID from Common Crawl's public web index; daily `sweep` checks each once and keeps those with UAE jobs; `poll` checks all of those hourly | Startups, scale-ups, global tech/fintech/crypto firms with UAE teams | ≤ ~1 hour | Free |
-| **2. Fantastic.jobs** (optional) — a database of 175k+ career sites on 54 job systems | Big employers on Workday, SuccessFactors, Oracle, Taleo, iCIMS, Zoho… (banks, conglomerates, many Abu Dhabi groups) | ~2–4 hours | Pay per job returned |
+| **2. Fantastic.jobs** (optional) — a database of 175k+ career sites on 54 job systems | Big employers on Workday, SuccessFactors, Oracle, Taleo, iCIMS, Zoho… (banks, conglomerates, many Abu Dhabi groups) | daily mode: up to ~1 day · hourly mode: ~2–4 hours | Pay per job; the free $5/month Apify credit likely covers daily mode |
 | **3. Board alerts via Gmail** | Companies and agencies that post only on LinkedIn, Bayt, GulfTalent, Naukrigulf, Indeed | depends on each site's alert timing | Free |
 | **4. Google for Jobs via JSearch** (optional) | Anything Google indexes, including company sites with job markup | hours | Free plan: every 4 hours |
 
@@ -160,7 +160,7 @@ To add specific companies by hand:
 | Piece | Monthly cost |
 |---|---|
 | GitHub Actions, Telegram, Gmail script, Common Crawl | Free (public repo) |
-| Fantastic.jobs (optional) | $4 per 1,000 jobs returned. With the UAE + title filters it is probably a few dollars to ~$15/month (my estimate). Check Apify's usage page after the first week and lower `limit` or `title_search` if needed. |
+| Fantastic.jobs (optional) | Through Apify, **not** Fantastic's own $95+/month API plans. $4 per 1,000 jobs returned, no monthly fee. Apify's free plan includes $5 of usage a month (≈1,250 jobs) and stops runs when it's used up, so there is no surprise bill. The default `mode: daily` bills each job once; `mode: hourly` is faster but re-bills the daily catch-up. Check the actor's Pricing tab for any per-run fee before switching to hourly (that's ~720 runs a month). |
 | JSearch (optional) | Free plan (200 requests/month) at one query every 4 hours |
 
 ## Troubleshooting

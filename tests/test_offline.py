@@ -192,7 +192,15 @@ def main():
     sources.Http.request = fake_request
 
     real_load_yaml = radar.load_yaml
-    radar.load_yaml = lambda name: COMPANIES if name == "companies.yaml" else real_load_yaml(name)
+
+    def test_yaml(name):
+        if name == "companies.yaml":
+            return COMPANIES
+        cfg = real_load_yaml(name)
+        if name == "config.yaml":
+            cfg["aggregators"]["fantastic"]["mode"] = "hourly"   # exercise the feed on every test run
+        return cfg
+    radar.load_yaml = test_yaml
 
     tmp = Path(tempfile.mkdtemp())
     radar.DATA, radar.JOBS_FILE, radar.STATE_FILE = tmp, tmp / "jobs.json", tmp / "state.json"

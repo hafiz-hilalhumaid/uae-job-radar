@@ -391,9 +391,15 @@ def cmd_poll(args) -> int:
     # 2) Aggregators (optional, need API keys) - catch employers not on the watchlist.
     agg = settings.get("aggregators") or {}
     apify_token = os.getenv("APIFY_TOKEN", "").strip()
-    if apify_token and (agg.get("fantastic") or {}).get("enabled", True):
-        catchup = int((agg.get("fantastic") or {}).get("daily_catchup_hour", -1))
-        window = "24h" if local_now.hour == catchup else "1h"
+    fcfg = agg.get("fantastic") or {}
+    mode = str(fcfg.get("mode", "daily")).lower()
+    daily_hour = int(fcfg.get("daily_hour", 7))
+    today_local = local_now.date().isoformat()
+    daily_due = local_now.hour >= daily_hour and state.get("fantastic_daily") != today_local
+    window = "24h" if daily_due else "1h"
+    if apify_token and fcfg.get("enabled", True) and (mode == "hourly" or daily_due):
+        if daily_due:
+            state["fantastic_daily"] = today_local     # once a day, even if GitHub runs the job late
         try:
             feed = fantastic_jobs(ctx, apify_token, window)
             print(f"[fantastic] {len(feed)} UAE jobs in the last {window}")
