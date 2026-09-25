@@ -1,5 +1,6 @@
 {
  "bootstrapped": true,
+ "fantastic_daily": "2026-09-25",
  "health": {
   "ashby:brainco": {
    "fails": 0,
@@ -45,6 +46,9 @@
    "fails": 0,
    "seeded": true
   },
+  "fantastic": {
+   "fails": 0
+  },
   "greenhouse:addepar1": {
    "fails": 0,
    "seeded": true
@@ -86,7 +90,7 @@
    "seeded": true
   },
   "greenhouse:tarabutgateway": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/tarabutgateway/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/tarabutgateway/jobs"
   },
   "greenhouse:think-cell": {
@@ -102,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/ziina/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -138,7 +142,7 @@
    "seeded": true
   },
   "lever:kitopi": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/kitopi; eu: https://api.eu.lever.co/v0/postings/kitopi"
   },
   "lever:palantir": {
@@ -146,7 +150,7 @@
    "seeded": true
   },
   "lever:sarwa": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/sarwa; eu: https://api.eu.lever.co/v0/postings/sarwa"
   },
   "smartrecruiters:AristaNetworks": {
@@ -224,7 +228,11 @@
   "lever:fresha": "global",
   "lever:palantir": "global"
  },
- "queue": [],
+ "queue": [
+  "fantastic:2380428853",
+  "fantastic:2380177543",
+  "fantastic:2380177859"
+ ],
  "rejected": {
   "ashby:brainco:026974f4-059e-4a7e-be18-863e4c866441": "2026-09-24T20:59:40+00:00",
   "ashby:brainco:036ef874-49fc-4e6b-b162-7550d5616ca8": "2026-09-24T20:59:40+00:00",
@@ -1502,6 +1510,7 @@
   "ashby:syndica:1e21d4e9-a888-45ef-95a6-1aeb76b5c5a9": "2026-09-24T20:59:40+00:00",
   "ashby:syndica:27ff63f6-a750-4028-b3ac-fd11388ba6ab": "2026-09-24T20:59:40+00:00",
   "ashby:syndica:3bb5b2f3-bf8b-4774-8add-491e7106798f": "2026-09-24T20:59:40+00:00",
+  "fantastic:2380566154": "2026-09-25T06:23:32+00:00",
   "greenhouse:addepar1:8235819002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8342445002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8376073002": "2026-09-24T20:59:40+00:00",
@@ -1752,6 +1761,8 @@
   "greenhouse:bybit:4978947101": "2026-09-24T20:59:40+00:00",
   "greenhouse:bybit:4980838101": "2026-09-24T20:59:40+00:00",
   "greenhouse:bybit:4980893101": "2026-09-24T20:59:40+00:00",
+  "greenhouse:bybit:4986978101": "2026-09-25T06:23:32+00:00",
+  "greenhouse:bybit:4987000101": "2026-09-25T06:23:32+00:00",
   "greenhouse:careem:7004825002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:7107610002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8320185002": "2026-09-24T20:59:40+00:00",
@@ -2496,6 +2507,7 @@
   "lever:binance:c87b4a35-5979-4163-b1cf-d75981f164fb": "2026-09-24T20:59:40+00:00",
   "lever:binance:c899ed69-9dea-49a0-9732-8cdce5c99ecf": "2026-09-24T20:59:40+00:00",
   "lever:binance:c92271de-8ff8-450c-bf1b-b7741a641bb6": "2026-09-24T20:59:40+00:00",
+  "lever:binance:ca44ee4e-392b-4745-9ad9-8e287f5a6d37": "2026-09-25T06:23:32+00:00",
   "lever:binance:cb698a86-3c5a-4017-b3c2-0e58a1428c9e": "2026-09-24T20:59:40+00:00",
   "lever:binance:cdaad664-05ea-4813-b7bf-578098a4d049": "2026-09-24T20:59:40+00:00",
   "lever:binance:d06cced2-d8cc-4587-a747-64771019ec3c": "2026-09-24T20:59:40+00:00",
@@ -3526,6 +3538,7 @@
   "workday:parsons/Search:/job/QA---Doha/Principal-Drainage-Engineer_R177059-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/QA---Doha/Resident-Engineer--Roads---Bridges_R183905": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/QA---Doha/Senior-Drainage-Engineer_R177060": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/QA---Doha/Senior-Traffic-Engineer_R186132": "2026-09-25T06:23:32+00:00",
   "workday:parsons/Search:/job/SA---Al-Kharj/Airborne-Radar-Specialist--This-position-is-located-in-Kingdom-of-Saudi-Arabia--International-Assignment----NO-REMOTE-WORK--_R182334-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/SA---Riyadh-Qiddiya/Director---Systems-and-Rolling-Stock_R182474-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/SA---Riyadh-Qiddiya/Senior-Manager--Design---Interface_R182480": "2026-09-24T20:59:40+00:00",
@@ -3851,6 +3864,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Promotor-De-Merchandising_R-1185383": "2026-09-24T23:52:56+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Brussels-Belgium/Account-Manager---Home-Care_R-1185803-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Burton-Factory/Asset-Care-Coordinator_R-1188622": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Chennai-Regional-Office/Territory-Sales-Officer_R-1188654": "2026-09-25T06:23:32+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Delhi-Regional-Office/Expert-Sales-Executive_R-1188548-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cancun-Mexico/Lder-de-Ventas_R-1188696": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Multiskilled-Flexibles-Operator_R-1183181": "2026-09-24T20:59:40+00:00",
@@ -3937,6 +3951,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Chennai-Regional-Office/Territory-Sales-officer_R-1188414": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188295-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188354-1": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188706-1": "2026-09-25T06:23:32+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Heilbronn/Bezirksleitung---Hamburg--d-w-m-_R-1187522-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1187918": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1187958": "2026-09-24T20:59:40+00:00",
