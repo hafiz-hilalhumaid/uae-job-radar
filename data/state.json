@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 14,
+   "fails": 15,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1471,6 +1471,7 @@
   "ashby:openai:f0529a1d-fb6a-4229-a590-8caff1785bb3": "2026-09-24T20:59:40+00:00",
   "ashby:openai:f0d51f11-0f35-4e10-b8bb-d24191ba26f3": "2026-09-24T20:59:40+00:00",
   "ashby:openai:f1567543-4de1-468e-9054-bc5fd21a55e2": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:f16eaf44-208f-4374-b576-f033ed6e5eed": "2026-09-25T23:32:08+00:00",
   "ashby:openai:f21b387c-617b-4473-9e84-2fbfa89c27a9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:f2293c9f-d036-4198-a268-3dad738c8d19": "2026-09-24T20:59:40+00:00",
   "ashby:openai:f386b209-1259-4b79-bf5a-aa97fc7ce77b": "2026-09-24T20:59:40+00:00",
@@ -4019,6 +4020,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---USA/Territory-Development-Manager---Chicago_R-1188197": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---USA/Territory-Development-Manager---Jacksonville_R-1188535": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---USA/Territory-Development-Manager--Los-Angeles_R-1186361": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Warsaw-Poland/Area-Sales-Manager--poudniowo-wschodnia-Polska-_R-1188659": "2026-09-25T23:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote-Chicago-IL/Regional-Sales-Manager--Chicago_R-1188193": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rio-de-Janeiro-Brazil/Promotor-De-Merchadising_R-1185836": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Commercial-Trade-Assistant---Unilever-Food-Solutions_R-1187580": "2026-09-24T20:59:40+00:00",
