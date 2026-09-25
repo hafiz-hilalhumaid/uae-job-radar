@@ -650,6 +650,12 @@ def cmd_digest(args) -> int:
     state = load_state()
     now_dt = now_utc()
 
+    today_local = now_dt.astimezone(tz).date().isoformat()
+    if state.get("last_digest") == today_local:
+        print(f"Digest already sent today ({today_local}); skipping.")
+        return 0
+    state["last_digest"] = today_local
+
     queued = [jobs[u] for u in dict.fromkeys(state["queue"]) if u in jobs and jobs[u].get("status") == "open"]
     queued.sort(key=lambda r: -r["score"])
     lines = [f"📬 <b>Digest · {now_dt.astimezone(tz).strftime('%a %d %b')}</b> — "

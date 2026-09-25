@@ -98,6 +98,30 @@ Optional, for layers 2 and 4:
 The full list is always in `data/matches.md` (also `data/matches.csv` for Sheets). Auto-found
 boards are in `data/uae_boards.json`. The digest runs Mon/Wed/Fri at 08:03 IST.
 
+### 4b. Reliable schedule (recommended)
+Since late August 2026, GitHub's built-in cron has been firing far less often than configured. An hourly
+job may run only 2–3 times a day. `apps_script/Scheduler.gs` fixes this by starting the workflows through
+GitHub's API on Google's timer: poll every hour, sweep daily ~04:00 IST, digest Mon/Wed/Fri ~08:00 IST.
+GitHub's own cron stays on as a backup. Duplicate runs are harmless, and the digest is sent once a day
+at most.
+
+1. **GitHub token:** your profile picture → **Settings → Developer settings → Personal access tokens →
+   Fine-grained tokens → Generate new token**.
+   - Name: `uae-job-radar scheduler`.
+   - Expiration: past the end of your search if offered, otherwise the longest available. Note the date.
+   - Repository access: **Only select repositories** → `uae-job-radar`.
+   - Permissions → Repository permissions → **Actions: Read and write**.
+   - **Generate token** and copy it.
+2. **script.google.com:** open your forwarder project, or create a **New project**. Add a script file
+   (**＋ → Script**) named `Scheduler` and paste `apps_script/Scheduler.gs` into it. Check `RADAR` at the
+   top matches your GitHub username and repo name.
+3. **Project Settings → Script properties → Add script property:** `GITHUB_TOKEN` = the token.
+4. Select `setupSchedulerTriggers` → **Run** → approve the permissions.
+5. **Test:** select `runPoll` → **Run**. A new poll run should appear in your Actions tab within a minute.
+
+If the token expires or is revoked, Google e-mails you that the trigger failed. Create a new token and
+update `GITHUB_TOKEN`.
+
 ### 5. Board alerts → Telegram (LinkedIn, Indeed, Bayt, GulfTalent, Naukrigulf…)
 1. Create job alerts on each site. Use UAE as the location, one alert per role keyword
    (frontend, react, full stack, software engineer, AI engineer), and the most frequent option each offers.

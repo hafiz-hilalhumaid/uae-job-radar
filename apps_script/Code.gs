@@ -128,7 +128,10 @@ function pruneSeen() {
 
 /** Run once. Checks the label every 10 minutes and prunes daily. */
 function setupTriggers() {
-  ScriptApp.getProjectTriggers().forEach(t => ScriptApp.deleteTrigger(t));
+  const mine = ['forwardJobAlerts', 'pruneSeen'];
+  ScriptApp.getProjectTriggers()
+    .filter(t => mine.indexOf(t.getHandlerFunction()) !== -1)
+    .forEach(t => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('forwardJobAlerts').timeBased().everyMinutes(10).create();
   ScriptApp.newTrigger('pruneSeen').timeBased().everyDays(1).atHour(3).create();
 }

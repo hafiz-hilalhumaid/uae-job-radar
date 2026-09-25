@@ -325,6 +325,9 @@ def main():
     print("\n=== DIGEST ===")
     run("digest")
     assert radar.load_json(radar.STATE_FILE, {})["queue"] == []
+    before = radar.STATE_FILE.stat().st_mtime_ns
+    run("digest")                                   # second scheduler firing the same day: no repeat
+    assert radar.STATE_FILE.stat().st_mtime_ns == before
     print("\nALL CHECKS PASSED")
 
 
