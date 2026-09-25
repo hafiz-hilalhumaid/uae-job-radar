@@ -86,7 +86,7 @@
    "seeded": true
   },
   "greenhouse:tarabutgateway": {
-   "fails": 2,
+   "fails": 3,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/tarabutgateway/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/tarabutgateway/jobs"
   },
   "greenhouse:think-cell": {
@@ -102,7 +102,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 2,
+   "fails": 3,
    "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/ziina/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -138,7 +138,7 @@
    "seeded": true
   },
   "lever:kitopi": {
-   "fails": 2,
+   "fails": 3,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/kitopi; eu: https://api.eu.lever.co/v0/postings/kitopi"
   },
   "lever:palantir": {
@@ -146,7 +146,7 @@
    "seeded": true
   },
   "lever:sarwa": {
-   "fails": 2,
+   "fails": 3,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/sarwa; eu: https://api.eu.lever.co/v0/postings/sarwa"
   },
   "smartrecruiters:AristaNetworks": {
@@ -1074,6 +1074,7 @@
   "ashby:openai:7be58f3a-6005-42ed-86fa-77773ebfb294": "2026-09-24T20:59:40+00:00",
   "ashby:openai:7bee6731-7619-4fb4-a2f4-7f0003a0fd9e": "2026-09-24T20:59:40+00:00",
   "ashby:openai:7c936cfb-99c4-4e18-a033-75baa07cbb81": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:7caed1e8-c6f6-4569-9d45-2d7a7a56a025": "2026-09-25T04:55:49+00:00",
   "ashby:openai:7ce64627-b273-48e1-b3bc-ef4be0444706": "2026-09-24T20:59:40+00:00",
   "ashby:openai:7d49af15-623e-476a-9d35-831c5c9c9bf5": "2026-09-24T20:59:40+00:00",
   "ashby:openai:7d87459c-6085-4479-8e77-9255e6dd8329": "2026-09-24T20:59:40+00:00",
@@ -2257,6 +2258,7 @@
   "lever:binance:0bf300ac-397b-42b2-82a0-6ededbc65057": "2026-09-24T20:59:40+00:00",
   "lever:binance:0cb402ad-7715-4127-ad25-14ab4b142983": "2026-09-24T20:59:40+00:00",
   "lever:binance:0de37732-ab17-4b6d-8507-58039706abda": "2026-09-24T20:59:40+00:00",
+  "lever:binance:0e95f863-3dd6-4ffe-a01d-4a3c2b473aff": "2026-09-25T04:55:49+00:00",
   "lever:binance:102bf83f-e63d-4c80-bfbd-d8c327a99690": "2026-09-24T20:59:40+00:00",
   "lever:binance:1046727e-f855-44ef-a18d-37c2bfb9d6d6": "2026-09-24T20:59:40+00:00",
   "lever:binance:10e63f0e-7bfb-431d-8b79-5030c758d730": "2026-09-24T20:59:40+00:00",
@@ -2511,6 +2513,7 @@
   "lever:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3": "2026-09-24T20:59:40+00:00",
   "lever:binance:dc0c742c-847c-4b86-88df-ddac253399a8": "2026-09-24T20:59:40+00:00",
   "lever:binance:ddcf4046-5d3e-4034-810d-6b93eb969d81": "2026-09-24T20:59:40+00:00",
+  "lever:binance:de72d087-7b79-4496-80b6-d6110276b1e6": "2026-09-25T04:55:49+00:00",
   "lever:binance:deb28ea3-d0de-4fa4-ba31-f6f9ead74838": "2026-09-24T20:59:40+00:00",
   "lever:binance:e21ea35c-3cb2-479e-9d74-c8149441d9fb": "2026-09-24T20:59:40+00:00",
   "lever:binance:e2ff393c-1ca5-4c31-adcd-a2e373bab71f": "2026-09-24T20:59:40+00:00",
@@ -2732,6 +2735,7 @@
   "lever:extremenetworks:dc7de9db-7057-4321-8a80-b0ec64d53dae": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:df3274b9-25bd-4bde-bdb6-e8e473e7f636": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:df354e5a-d7a7-4c2a-b0fb-99703efa263e": "2026-09-24T20:59:40+00:00",
+  "lever:extremenetworks:df51e812-7eec-4b4f-b4a9-fd6935ddc107": "2026-09-25T04:55:49+00:00",
   "lever:extremenetworks:df628dc1-4b7d-4934-bbd9-e234b52d537d": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:dff7b4a2-6854-44f2-a6b8-0b0ce9b8546a": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:e4618bac-b6d3-41f6-94a3-125e098c3d6e": "2026-09-24T20:59:40+00:00",
@@ -2986,6 +2990,7 @@
   "lever:palantir:3c84af24-b7aa-483e-b2c3-e1d83494fe15": "2026-09-24T20:59:40+00:00",
   "lever:palantir:3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f": "2026-09-24T20:59:40+00:00",
   "lever:palantir:3d0d9d92-0321-4459-a17d-fa1a76636a43": "2026-09-24T20:59:40+00:00",
+  "lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": "2026-09-25T04:55:49+00:00",
   "lever:palantir:3e53ec44-d8f3-4b0b-b77f-c481e9cd06fd": "2026-09-24T20:59:40+00:00",
   "lever:palantir:3f662628-2877-42fb-8866-a2b709de17ca": "2026-09-24T20:59:40+00:00",
   "lever:palantir:403e8826-3421-43db-ac48-4ddac10cc78d": "2026-09-24T20:59:40+00:00",
@@ -3080,6 +3085,7 @@
   "lever:palantir:8c95f750-9d42-456e-91fd-464ad87e4b83": "2026-09-24T20:59:40+00:00",
   "lever:palantir:8de3d5d0-8c0a-40ee-9f57-a75165c98689": "2026-09-24T20:59:40+00:00",
   "lever:palantir:8f308f3e-43d2-49c9-accd-cc7af0f1565c": "2026-09-24T20:59:40+00:00",
+  "lever:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69": "2026-09-25T04:55:49+00:00",
   "lever:palantir:8f7bbffa-92aa-4d25-9586-943b3322a27d": "2026-09-24T20:59:40+00:00",
   "lever:palantir:909875b4-1940-41bd-b08d-a269c7235100": "2026-09-24T20:59:40+00:00",
   "lever:palantir:91117724-9389-48dc-912f-98e48d4d45d8": "2026-09-24T20:59:40+00:00",
@@ -3161,6 +3167,7 @@
   "lever:palantir:ce20af4c-4de3-4079-bbdf-bc30a2e25404": "2026-09-24T20:59:40+00:00",
   "lever:palantir:ce8ca664-60dc-4f9a-8986-3c96673bcfdf": "2026-09-24T20:59:40+00:00",
   "lever:palantir:cf08f44c-bf75-45ed-9fab-f4836e51013e": "2026-09-24T20:59:40+00:00",
+  "lever:palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b": "2026-09-25T04:55:49+00:00",
   "lever:palantir:cf76738e-3030-42fa-92ac-a9446df956fc": "2026-09-24T20:59:40+00:00",
   "lever:palantir:d084b769-6f53-4409-afa8-c183b059b384": "2026-09-24T20:59:40+00:00",
   "lever:palantir:d1ac83d0-e923-42a5-8e6d-58dd0cab25ca": "2026-09-24T20:59:40+00:00",
@@ -3847,6 +3854,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Delhi-Regional-Office/Expert-Sales-Executive_R-1188548-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cancun-Mexico/Lder-de-Ventas_R-1188696": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Multiskilled-Flexibles-Operator_R-1183181": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Project-Engineer_R-1188130": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chennai-Regional-Office/Territory-Sales-Officer_R-1188135": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Controls---Automation-Engineer_R-1188474": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Senior-Material-Planner_R-1187809": "2026-09-24T20:59:40+00:00",
@@ -3855,6 +3863,8 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colima-Mexico/Lder-de-Ventas_R-1188632": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colombo-Sri-Lanka/Executive---Channel-Marketing-Projects_R-1188707": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colombo-Sri-Lanka/Intern---Customer-Strategy---Planning_R-1188558": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Colombo-Sri-Lanka/Junior-Brand-Manager_R-1187262": "2026-09-25T04:55:49+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Cuernavaca-Mexico/COORDINADOR-DE-LABORATORIO-DE-MATERIA-PRIMA_R-1188469-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Culiacan-Mexico/Key-Account-Executive--Casa-Ley---Calimax-_R-1186130": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1187272": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1187546": "2026-09-24T20:59:40+00:00",
@@ -3885,8 +3895,10 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Production-Maintenance-Technician---2nd-shift_R-1186857": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Kolkata-Regional-Office/Assistant-DC-Manager_R-1188139-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/Engineering-Gennext_R-1188372": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/HR-System-Gennext_R-1187923-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/XMLNAME--Engineering---Sustainability-GenNext--_R-1188373-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/LA-Hub/Territory-Development-Manager---LA_R-1187169": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/La-Lucia-Durban-South-Africa/Payroll-Manager_R-1187612-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Leeds-Office-and-RD/Key-Account-Executive---Scotland_R-1187133": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Lerma-Mexico/CBD-Asesor-EDGE_R-1184209-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Lucknow-Regional-Office/Assistant-Area-Sales-and-Customer-Manager-_R-1180976-1": "2026-09-24T20:59:40+00:00",
@@ -3894,11 +3906,13 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HO/Key-Account-Executive_R-1187953": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HO/Senior-Executive---Ultralogistic_R-1188395-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HO/Sr-Key-Account-Executive_R-1186019-1": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Ecodesign-Manager_R-1187175-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Global-Fabric-Cleaning-Powders-Senior-R-D-Associate_R-1187802": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/R-D-Associate-Packaging--Home-Care--India_R-1185915": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Unilever-Post-Doctoral-Fellowship-Program_R-1181426-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Munro-Argentina/Jefe-de-Ejecucin_R-1187928-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mysore-Beverages-Factory/Project-Executive---Instrumentation_R-1188560-1": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Mysore-Beverages-Factory/SrInstrumentation---Digital-Transformation-Executive_R-1188687-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/North-Rocks-Sydney-Australia/Business-Development-Manager-Dr-Squatch-ANZ_R-1186897": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/North-Rocks-Sydney-Australia/Head-of-Marketing---ANZ-UFS_R-1183933-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Nuevo-Leon/Logistics-Coordinator_R-1188039": "2026-09-24T20:59:40+00:00",
@@ -3928,6 +3942,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1187958": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Lucknow-Regional-Office/Territory-Sales-Officer_R-1188151": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Rueil-Malmaison-France/Responsable-de-Secteur-GMS--F-H----Unilever-Food_R-1184249": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Taguig-Philippines/B-W-Store-Operations---Luzon-Reseller-Supermarkets_R-1188436": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Taguig-Philippines/Channel-Development-Manager_R-1187699": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Taguig-Philippines/Channel-and-Distributor-Manager-for-Greater-Manila-Area---LVL--North-GMA-_R-1188006": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Taguig-Philippines/Customer-Development-Executive_R-1187728": "2026-09-24T20:59:40+00:00",
