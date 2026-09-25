@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 11,
+   "fails": 12,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3990,6 +3990,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Raeford-NC/Maintenance-Planner_R-1188546": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Raeford-NC/Process-Engineer_R-1187634": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rajpura-Factory/Production-Executive_R-1188289": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Recife-Brazil/Gestor-De-Execucao---Imperatriz-MA_R-1188586": "2026-09-25T21:32:07+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Reg-Vendas-Sul/Executivo-De-Negcios-SR---Londrina-PR_R-1187590": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Reg-Vendas-Sul/Promotor-De-Merchandising--Joinville-SC---Exclusiva-PcD_R-1182146": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Cairo-Egypt/Customer-Development-Executive_R-1187416": "2026-09-24T20:59:40+00:00",
