@@ -81,7 +81,14 @@ aggregators:
                          # hourly = every poll asks for the last hour, plus the daily 24h catch-up
                          #          (faster, but jobs from the catch-up are billed twice)
     daily_hour: 7        # local hour (config timezone) at/after which the daily run happens
-    limit: 300
+    limit: 12            # max jobs per run. On Apify's free plan a test cost $0.25 for 20 jobs, so
+                         # 12 a day keeps a month inside the free $5 (31 x 12 x $0.0125 = ~$4.65)
+    ats_exclude: [greenhouse, lever.co, ashby, workable, smartrecruiters, recruitee, teamtailor]
+                         # job systems the radar already reads itself for free, so the paid daily jobs
+                         # only come from Workday, Oracle, SuccessFactors, Taleo, iCIMS... Names as used by
+                         # the Apify job feed (greenhouse, lever.co, ashby confirmed on its page; the rest
+                         # follow its lowercase naming - if Apify rejects one, the radar retries without it)
+    ats_include: []      # alternative: list only the systems you want (Apify's "ats" field)
     locations: [United Arab Emirates]
     title_search: [Frontend, Front End, "React:*", TypeScript, JavaScript, Full Stack, Fullstack,
                    Software Engineer, Software Developer, Web Developer, AI Engineer, Agentic, LLM,

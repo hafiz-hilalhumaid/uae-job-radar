@@ -25,7 +25,7 @@
 - {name: Bayut / dubizzle, ats: workable, id: bayutdubizzle}
 - {name: Orbit, ats: workable, id: weorbit}
 - {name: Vitol, ats: smartrecruiters, id: Vitol}
-- {name: Kitopi, ats: lever, id: kitopi}
+- {name: Kitopi, ats: lever, id: kitopi, enabled: false}   # Lever board gone (404, 25 Sep 2026) - find its new board with `discover`
 - {name: Lean Technologies, ats: ashby, id: leantech}
 - {name: AI71, ats: greenhouse, id: ai71, host: eu}
 - {name: Crypto.com, ats: lever, id: crypto}
@@ -40,8 +40,8 @@
 - {name: OneBullEx, ats: greenhouse, id: onebullex, host: eu}
 - {name: SellAnyCar, ats: smartrecruiters, id: SellAnyCarcom}
 - {name: Tamara, ats: greenhouse, id: tamara, host: eu}
-- {name: Tarabut, ats: greenhouse, id: tarabutgateway, host: eu}      # likely (older posting)
-- {name: Sarwa, ats: lever, id: sarwa}                                # likely (older posting)
+- {name: Tarabut, ats: greenhouse, id: tarabutgateway, host: eu, enabled: false}   # old board gone; careers.tarabut.com
+- {name: Sarwa, ats: lever, id: sarwa, enabled: false}                 # Lever board gone (404, 25 Sep 2026); careers.sarwa.co
 - {name: Washmen, ats: lever, id: Washmen}
 - {name: Fresha, ats: lever, id: fresha}                              # likely
 - {name: Yassir, ats: lever, id: Yassir}

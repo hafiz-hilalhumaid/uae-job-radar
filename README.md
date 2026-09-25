@@ -155,12 +155,20 @@ To add specific companies by hand:
    For each board it finds, it prints a ready-to-paste line with UAE job counts and the board URL.
 4. Confirm the URL is the right company, then paste the line into `companies.yaml`.
 
+## Spend the Fantastic.jobs credit only where it counts
+
+The radar already reads Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Teamtailor
+boards itself, for free. `config.yaml` → `ats_exclude` tells the paid feed to skip those, so the ~12 jobs
+a day come only from systems the radar can't read (Workday, Oracle, SuccessFactors, Taleo, iCIMS…).
+It's already filled in. If Apify ever rejects one of the names, the radar retries with the three names
+confirmed on the feed's page (greenhouse, lever.co, ashby) and says so in the Actions log.
+
 ## Costs
 
 | Piece | Monthly cost |
 |---|---|
 | GitHub Actions, Telegram, Gmail script, Common Crawl | Free (public repo) |
-| Fantastic.jobs (optional) | $0 on Apify's free plan. It works through Apify, **not** Fantastic's own $95+/month API plans: $4 per 1,000 jobs, paid from Apify's free $5 monthly credit (≈1,250 jobs). With no card on file, Apify blocks runs when the credit is used up and charges nothing. The only effect is that this layer pauses until your Apify cycle resets; the radar sends a Telegram message when that happens and when it's back. The default `mode: daily` bills each job once, so the credit lasts longest. |
+| Fantastic.jobs (optional) | $0 on Apify's free plan. It works through Apify, **not** Fantastic's own $95+/month API plans. The "$4 per 1,000 jobs" on the Apify page is the best-plan price; on the free plan a test run cost **$0.25 for 20 jobs (~$12.50 per 1,000)**, so the free $5 buys roughly 400 jobs a month. `limit: 12` in daily mode stays inside that. With no card on file, Apify blocks runs when the credit is used up and charges nothing; the radar sends a Telegram message when the feed pauses and when it's back. |
 | JSearch (optional) | Free plan (200 requests/month) at one query every 4 hours |
 
 ## Troubleshooting

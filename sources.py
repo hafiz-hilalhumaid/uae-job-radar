@@ -138,21 +138,21 @@ def _first_host_with_data(ctx: Context, cache_key: str, hosts: dict, order: list
 
 
 # --------------------------------------------------------------------------- Greenhouse
-# Documented Job Board API. Some UAE companies live on Greenhouse's EU instance
-# (job-boards.eu.greenhouse.io); the EU API hostname below is tried as a fallback
-# and the working host is cached per board.
-GREENHOUSE_HOSTS = {"us": "https://boards-api.greenhouse.io", "eu": "https://boards-api.eu.greenhouse.io"}
+# US-region boards: documented JSON Job Board API. EU-region boards (job-boards.eu.greenhouse.io,
+# used by several UAE companies) have no reachable public API host - the first live run showed
+# boards-api.eu.greenhouse.io doesn't resolve and the US API 404s for them - so those are read
+# from the public board page itself. Whichever works is remembered per board.
+GREENHOUSE_API = "https://boards-api.greenhouse.io"
+GREENHOUSE_EU_BOARD = "https://job-boards.eu.greenhouse.io"
+_GH_LINK = re.compile(
+    r'<a\b[^>]*?href="(?P<href>[^"]*?/jobs/(?P<id>\d{4,})[^"]*)"[^>]*>(?P<inner>.*?)</a>', re.S | re.I)
+_GH_LOCATION = re.compile(r'class="[^"]*location[^"]*"[^>]*>(?P<loc>.*?)</', re.S | re.I)
 
 
-def greenhouse(c: dict, ctx: Context) -> list[Job]:
-    token = c["id"]
-    order = ["eu", "us"] if c.get("host") == "eu" else ["us", "eu"]
-
-    def fetch(base):
-        return ctx.http.get_json(f"{base}/v1/boards/{token}/jobs", params={"content": "true"}).get("jobs", [])
-
+def _greenhouse_api(c: dict, ctx: Context) -> list[Job]:
+    data = ctx.http.get_json(f"{GREENHOUSE_API}/v1/boards/{c['id']}/jobs", params={"content": "true"})
     jobs = []
-    for j in _first_host_with_data(ctx, f"greenhouse:{token}", GREENHOUSE_HOSTS, order, fetch):
+    for j in data.get("jobs", []):
         offices = [o.get("location") or o.get("name") or "" for o in (j.get("offices") or []) if o]
         location = ", ".join(x for x in [(j.get("location") or {}).get("name", "")] + offices if x)
         jobs.append(Job(
@@ -163,6 +163,70 @@ def greenhouse(c: dict, ctx: Context) -> list[Job]:
             description=clean_html(j.get("content")),
         ))
     return jobs
+
+
+def _greenhouse_eu_page(c: dict, ctx: Context) -> list[Job]:
+    """Read an EU-region board from its public HTML page (title + location per job link)."""
+    token = c["id"]
+    jobs, seen = [], set()
+    for page in range(1, 11):                       # boards paginate; stop when a page adds nothing
+        html_text = ctx.http.get_bytes(f"{GREENHOUSE_EU_BOARD}/{token}",
+                                       params={"page": page} if page > 1 else None).decode("utf-8", "replace")
+        added = 0
+        for m in _GH_LINK.finditer(html_text):
+            job_id = m.group("id")
+            if job_id in seen:
+                continue
+            seen.add(job_id)
+            added += 1
+            parts = [p for p in (clean_html(x) for x in re.split(r"<[^>]+>", m.group("inner"))) if p]
+            location = ", ".join(parts[1:])
+            if not location:                        # older board layout: location sits next to the link
+                near = _GH_LOCATION.search(html_text[m.end(): m.end() + 500])
+                location = clean_html(near.group("loc")) if near else ""
+            href = m.group("href")
+            url = href if href.startswith("http") else f"{GREENHOUSE_EU_BOARD}{href if href.startswith('/') else '/' + href}"
+            jobs.append(Job(source="greenhouse", company=c["name"], native_id=job_id,
+                            title=parts[0] if parts else "", location=location, url=url))
+        if not added:
+            break
+    return jobs
+
+
+def greenhouse(c: dict, ctx: Context) -> list[Job]:
+    token = c["id"]
+    readers = {"us": _greenhouse_api, "eu_page": _greenhouse_eu_page}
+    order = ["eu_page", "us"] if c.get("host") == "eu" else ["us", "eu_page"]
+    cached = ctx.cache.get(f"greenhouse:{token}")
+    if cached in readers:
+        order = [cached] + [r for r in order if r != cached]
+    errors, got_empty = [], False
+    for name in order:
+        try:
+            jobs = readers[name](c, ctx)
+        except (NotFound, requests.RequestException) as exc:
+            errors.append(f"{name}: {exc}")
+            continue
+        if jobs:
+            ctx.cache[f"greenhouse:{token}"] = name
+            return jobs
+        got_empty = True
+    if got_empty:
+        return []                                  # board exists, just no openings right now
+    raise NotFound("; ".join(errors))
+
+
+def greenhouse_enrich(job: Job, c: dict, ctx: Context) -> None:
+    """EU-page jobs arrive without a description: read the job page for scoring and location."""
+    if not job.url:
+        return
+    page = ctx.http.get_bytes(job.url).decode("utf-8", "replace")
+    if not job.location:
+        near = _GH_LOCATION.search(page)
+        if near:
+            job.location = clean_html(near.group("loc"))
+    body = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", page)
+    job.description = clean_html(body)[:20000]
 
 
 # --------------------------------------------------------------------------- Lever
@@ -418,6 +482,7 @@ ADAPTERS = {
 
 # Called only for new, title-matching jobs whose list response lacks a description or a clear location.
 ENRICHERS = {
+    "greenhouse": greenhouse_enrich,          # only used for EU-page jobs (API jobs have descriptions)
     "smartrecruiters": smartrecruiters_enrich,
     "workday": workday_enrich,
 }
@@ -501,6 +566,7 @@ def pretty_name(ident: str) -> str:
 # Career-site jobs from 54 ATS platforms (incl. Workday, SuccessFactors, Oracle, Taleo, iCIMS),
 # through their Apify actor. Billed per job returned. Needs an Apify API token.
 FANTASTIC_URL = "https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items"
+FANTASTIC_CONFIRMED_ATS = {"greenhouse", "lever.co", "ashby"}   # spellings seen on the feed's Apify page
 
 
 def fantastic_jobs(ctx: Context, api_token: str, time_range: str) -> list[Job]:
@@ -515,8 +581,23 @@ def fantastic_jobs(ctx: Context, api_token: str, time_range: str) -> list[Job]:
         body["titleSearch"] = cfg["title_search"]
     if cfg.get("title_exclusions"):
         body["titleExclusionSearch"] = cfg["title_exclusions"]
-    items = ctx.http.request("POST", FANTASTIC_URL, json_body=body, timeout=300,
-                             headers={"Authorization": f"Bearer {api_token}"}).json()
+    if cfg.get("ats_include"):
+        body["ats"] = cfg["ats_include"]
+    if cfg.get("ats_exclude"):
+        body["atsExclusionFilter"] = cfg["ats_exclude"]
+    headers = {"Authorization": f"Bearer {api_token}"}
+    try:
+        items = ctx.http.request("POST", FANTASTIC_URL, json_body=body, timeout=300, headers=headers).json()
+    except requests.HTTPError as exc:
+        # Apify validates input against the feed's list of job-system names. If one of ours is not
+        # on that list, retry with only the names confirmed on the feed's own page.
+        bad_input = exc.response is not None and exc.response.status_code == 400
+        if not (bad_input and "atsExclusionFilter" in body):
+            raise
+        body["atsExclusionFilter"] = [a for a in body["atsExclusionFilter"] if a in FANTASTIC_CONFIRMED_ATS]
+        print(f"[fantastic] input rejected ({str(exc)[:120]}); retrying with ats_exclude = "
+              f"{body['atsExclusionFilter']}")
+        items = ctx.http.request("POST", FANTASTIC_URL, json_body=body, timeout=300, headers=headers).json()
     jobs = []
     for it in items if isinstance(items, list) else []:
         locs = []

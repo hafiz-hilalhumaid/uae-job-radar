@@ -104,6 +104,7 @@ RSS = b"""<?xml version="1.0" encoding="UTF-8"?>
 COMPANIES = [
     {"name": "Careem", "ats": "greenhouse", "id": "careem", "tier": "A"},
     {"name": "Ziina", "ats": "greenhouse", "id": "ziina", "host": "eu", "tier": "A"},
+    {"name": "Tamara", "ats": "greenhouse", "id": "tamara", "host": "eu"},
     {"name": "Binance", "ats": "lever", "id": "binance", "tier": "A"},
     {"name": "Ether.fi", "ats": "ashby", "id": "ether.fi", "tier": "A"},
     {"name": "Vitol", "ats": "smartrecruiters", "id": "Vitol", "tier": "A"},
@@ -173,9 +174,26 @@ def fake_post_json(self, url, body, headers=None):
     return data if body.get("offset") == 0 else {"jobPostings": []}
 
 
+EU_PAGES = {
+    # new-style board page: title and location inside the link; a classic-layout row; a non-UAE job
+    "https://job-boards.eu.greenhouse.io/tamara": b"""<html><body><table>
+<tr class="job-post"><td><a href="https://job-boards.eu.greenhouse.io/tamara/jobs/4988000101">
+<p class="body body--medium">Senior Frontend Engineer</p><p class="body body__secondary body--metadata">Dubai, United Arab Emirates</p></a></td></tr>
+<tr class="job-post"><td><a href="https://job-boards.eu.greenhouse.io/tamara/jobs/4988000201">
+<p class="body">Backend Engineer</p><p class="body body__secondary">Riyadh, Saudi Arabia</p></a></td></tr>
+</table><div class="opening"><a href="/tamara/jobs/4988000301">Full Stack Engineer</a><span class="location">Dubai</span></div>
+</body></html>""",
+    "https://job-boards.eu.greenhouse.io/tamara/jobs/4988000101": b"""<html><head><script>var x=1;</script></head>
+<body><div class="job__location">Dubai, United Arab Emirates</div><div>React, TypeScript, Next.js. 5+ years of experience.
+Visa sponsorship provided.</div></body></html>""",
+}
+
+
 def fake_get_bytes(self, url, params=None):
     if url == "https://careers.qashio.com/jobs.rss":
         return RSS
+    if url in EU_PAGES:
+        return EU_PAGES[url]          # ignores ?page=2, like a board with a single page
     raise sources.NotFound(url)
 
 
@@ -235,10 +253,15 @@ def main():
     assert "Software Engineer - React" not in titles        # Lahore
     assert "Account Executive" not in titles
     assert "Senior Software Engineer" in titles              # Workday, resolved via detail call
-    assert len(jobs) == 9, len(jobs)
+    assert len(jobs) == 11, len(jobs)
+    tam = {r["title"]: r for r in jobs.values() if r["company"] == "Tamara"}
+    assert set(tam) == {"Senior Frontend Engineer", "Full Stack Engineer"}, tam   # Riyadh job dropped
+    assert "visa/relocation" in tam["Senior Frontend Engineer"]["flags"]          # read from the job page
+    assert tam["Full Stack Engineer"]["url"] == "https://job-boards.eu.greenhouse.io/tamara/jobs/4988000301"
     state = radar.load_json(radar.STATE_FILE, {})
     assert state["bootstrapped"] and state["health"]["lever:doesnotexist"]["fails"] == 1
-    assert state["host_cache"]["greenhouse:ziina"] == "us"
+    assert state["host_cache"]["greenhouse:ziina"] == "us"          # EU page missing -> US API fallback
+    assert state["host_cache"]["greenhouse:tamara"] == "eu_page"
     ziina = next(r for r in jobs.values() if r["company"] == "Ziina")
     assert "UAE residents only" in ziina["flags"], ziina
     unlisted = next(r for r in jobs.values() if r["title"] == "AI Engineer, Agents")

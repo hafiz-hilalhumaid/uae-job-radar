@@ -272,11 +272,12 @@ class Tracker:
             self.state["rejected"][uid] = self.now
             return None
         loc = location_type(job, self.settings)
-        ambiguous = is_ambiguous_location(job)
+        can_enrich = board is not None and board["ats"] in ENRICHERS
+        ambiguous = is_ambiguous_location(job) or (not job.location and can_enrich)
         if loc is None and not ambiguous:
             self.state["rejected"][uid] = self.now
             return None
-        if board is not None and board["ats"] in ENRICHERS and (ambiguous or not job.description):
+        if can_enrich and (ambiguous or not job.description):
             try:
                 ENRICHERS[board["ats"]](job, board, self.ctx)
             except Exception as exc:  # noqa: BLE001
