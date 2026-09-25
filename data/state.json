@@ -228,11 +228,7 @@
   "lever:fresha": "global",
   "lever:palantir": "global"
  },
- "queue": [
-  "fantastic:2380428853",
-  "fantastic:2380177543",
-  "fantastic:2380177859"
- ],
+ "queue": [],
  "rejected": {
   "ashby:brainco:026974f4-059e-4a7e-be18-863e4c866441": "2026-09-24T20:59:40+00:00",
   "ashby:brainco:036ef874-49fc-4e6b-b162-7550d5616ca8": "2026-09-24T20:59:40+00:00",
