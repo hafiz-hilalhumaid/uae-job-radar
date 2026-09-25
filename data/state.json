@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 10,
+   "fails": 11,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -783,6 +783,7 @@
   "ashby:openai:2183189b-a982-4a81-878a-109d278ed2ee": "2026-09-24T20:59:40+00:00",
   "ashby:openai:21bfde35-ffec-42d2-a2c6-8a03dad789d5": "2026-09-24T20:59:40+00:00",
   "ashby:openai:21ee6dd3-dcd0-425a-91e9-34a23ab3e434": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:2250282b-7f1a-43e6-bf55-e603cbf0fd89": "2026-09-25T20:32:07+00:00",
   "ashby:openai:23014bc8-37d4-4fd9-9a77-d95fdd33437f": "2026-09-24T20:59:40+00:00",
   "ashby:openai:23239cae-2a91-4985-94d1-a2acbb3ffa25": "2026-09-24T20:59:40+00:00",
   "ashby:openai:2348230a-295f-434d-9b16-653e01ddbd0b": "2026-09-24T23:52:56+00:00",
@@ -3768,6 +3769,7 @@
   "workday:parsons/Search:/job/US---MI-Troy/Bridge-Engineer-II_R178163-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---MI-Troy/Roadway-Engineer-II_R178161": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---MN-Minneapolis/Associate-Roadway-Engineer_R178534-2": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---MN-Minneapolis/Roadway-Engineer-II_R178536-1": "2026-09-25T20:32:07+00:00",
   "workday:parsons/Search:/job/US---MN-Minneapolis/Senior-Roadway-Engineer_R178537-1": "2026-09-25T18:50:51+00:00",
   "workday:parsons/Search:/job/US---MO-Kansas-City/Roadway-Engineer-I_R179971-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---MO-Saint-Louis/Roadway-Engineer-I_R179972-1": "2026-09-24T20:59:40+00:00",
