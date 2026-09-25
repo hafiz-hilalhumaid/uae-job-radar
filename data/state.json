@@ -106,8 +106,8 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 4,
-   "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/ziina/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
+   "fails": 5,
+   "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
    "fails": 0,
