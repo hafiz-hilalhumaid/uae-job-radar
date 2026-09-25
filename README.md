@@ -160,7 +160,7 @@ To add specific companies by hand:
 | Piece | Monthly cost |
 |---|---|
 | GitHub Actions, Telegram, Gmail script, Common Crawl | Free (public repo) |
-| Fantastic.jobs (optional) | Through Apify, **not** Fantastic's own $95+/month API plans. $4 per 1,000 jobs returned, no monthly fee. Apify's free plan includes $5 of usage a month (≈1,250 jobs) and stops runs when it's used up, so there is no surprise bill. The default `mode: daily` bills each job once; `mode: hourly` is faster but re-bills the daily catch-up. Check the actor's Pricing tab for any per-run fee before switching to hourly (that's ~720 runs a month). |
+| Fantastic.jobs (optional) | $0 on Apify's free plan. It works through Apify, **not** Fantastic's own $95+/month API plans: $4 per 1,000 jobs, paid from Apify's free $5 monthly credit (≈1,250 jobs). With no card on file, Apify blocks runs when the credit is used up and charges nothing. The only effect is that this layer pauses until your Apify cycle resets; the radar sends a Telegram message when that happens and when it's back. The default `mode: daily` bills each job once, so the credit lasts longest. |
 | JSearch (optional) | Free plan (200 requests/month) at one query every 4 hours |
 
 ## Troubleshooting

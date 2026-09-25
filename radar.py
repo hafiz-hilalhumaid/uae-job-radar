@@ -397,12 +397,18 @@ def cmd_poll(args) -> int:
     today_local = local_now.date().isoformat()
     daily_due = local_now.hour >= daily_hour and state.get("fantastic_daily") != today_local
     window = "24h" if daily_due else "1h"
+    fantastic_alert = None
     if apify_token and fcfg.get("enabled", True) and (mode == "hourly" or daily_due):
-        if daily_due:
-            state["fantastic_daily"] = today_local     # once a day, even if GitHub runs the job late
+        fhealth = state["health"].setdefault("fantastic", {"fails": 0})
         try:
             feed = fantastic_jobs(ctx, apify_token, window)
             print(f"[fantastic] {len(feed)} UAE jobs in the last {window}")
+            if daily_due:
+                state["fantastic_daily"] = today_local  # once a day, even if GitHub runs the job late
+            if fhealth.get("fails"):
+                fantastic_alert = "✅ Fantastic.jobs feed is working again."
+            fhealth.clear()
+            fhealth["fails"] = 0
             for job in feed:
                 found = extract_board(job.url)          # teach the radar a new board to watch directly
                 if found and found["ats"] in ADAPTERS:
@@ -414,8 +420,18 @@ def cmd_poll(args) -> int:
                 if rec:
                     (seeded if first_run else new_recs).append(rec)
         except Exception as exc:  # noqa: BLE001
+            # Most likely the Apify free credit is used up: Apify blocks runs (no charge) until the
+            # next monthly cycle. Say so once a day instead of failing silently; retry next hour.
             print(f"[fantastic] ERROR {type(exc).__name__}: {exc}", file=sys.stderr)
-            state["health"].setdefault("fantastic", {})["last_error"] = str(exc)[:200]
+            fhealth["fails"] = int(fhealth.get("fails", 0)) + 1
+            fhealth["last_error"] = f"{type(exc).__name__}: {str(exc)[:200]}"
+            if fhealth.get("alerted") != today_local:
+                fhealth["alerted"] = today_local
+                fantastic_alert = (
+                    "⚠️ <b>Fantastic.jobs feed paused.</b> Apify refused the request:\n"
+                    f"<code>{h(fhealth['last_error'])}</code>\n\nIf your free $5 credit is used up, nothing is "
+                    "charged; it resumes when your Apify monthly cycle resets (Apify Console → Billing). "
+                    "Every other layer keeps running. The radar retries each hour and tells you when it's back.")
 
     rapid_key = os.getenv("RAPIDAPI_KEY", "").strip()
     js_cfg = agg.get("jsearch") or {}
@@ -463,6 +479,8 @@ def cmd_poll(args) -> int:
 
     # 5) Notify.
     tg = Telegram(enabled=not args.no_notify)
+    if fantastic_alert:
+        tg.send(fantastic_alert)
     if first_run:
         state["bootstrapped"] = True
         open_recs = sorted((r for r in jobs.values() if r.get("status") == "open"), key=lambda r: -r["score"])
@@ -569,8 +587,9 @@ def cmd_sweep(args) -> int:
     settings = load_yaml("config.yaml")
     tokens = load_json(TOKENS_FILE, {}).get("boards", [])
     if not tokens:
-        print("No boards yet - run `python radar.py harvest` first.", file=sys.stderr)
-        return 1
+        # Normal before the first harvest has finished: nothing to sweep yet, so don't fail the run.
+        print("No harvested boards yet. Run the 'harvest' workflow once; sweeps start working after it.")
+        return 0
     boards, auto = load_boards()
     known = {company_key(c) for c in boards}
     state = load_state()
@@ -649,7 +668,8 @@ def cmd_digest(args) -> int:
                      "manager, even for roles not posted yet:\n" +
                      "\n".join(f"• {h(name)}: {n} new matching roles" for name, n in ramping))
 
-    broken = [(ck, hl) for ck, hl in state["health"].items() if int(hl.get("fails", 0)) >= 3]
+    broken = [(ck, hl) for ck, hl in state["health"].items()
+              if int(hl.get("fails", 0)) >= (1 if ck == "fantastic" else 3)]
     if broken:
         lines.append("🛠 <b>Boards failing 3+ times in a row</b> (fix or disable in companies.yaml):\n" +
                      "\n".join(f"• {h(ck)} — {h(short(hl.get('last_error', ''), 90))}" for ck, hl in broken[:12]))

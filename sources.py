@@ -91,7 +91,9 @@ class Http:
                 last_error = RuntimeError(f"HTTP {resp.status_code} from {url}")
                 time.sleep(3 * (attempt + 1) * (2 if attempts > 3 else 1))
                 continue
-            resp.raise_for_status()
+            if resp.status_code >= 400:
+                # Keep the service's own error text (e.g. Apify's reason) - it's what tells you what went wrong.
+                raise requests.HTTPError(f"HTTP {resp.status_code}: {resp.text[:200]}", response=resp)
             time.sleep(self.pause)
             return resp
         raise last_error or RuntimeError(f"request failed: {url}")
