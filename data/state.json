@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 8,
+   "fails": 9,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3946,6 +3946,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/Data-Science-Manager_R-1182609": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Independence-MO/Associate-Manager--HRBP_R-1180860-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Independence-MO/Senior-Industrial-Finance-Manager---NA-Foods_R-1180272": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Ipojuca-Brazil/Gerente-de-Engenharia-e-Tecnologia---Suape-e-Igarassu_R-1188424": "2026-09-25T19:15:57+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jefferson-City-MO/Category-Packaging-Equipment-Engineer_R-1188238": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Compounding-Mixer-Lead_R-1188195": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Line-Leader_R-1188176": "2026-09-24T20:59:40+00:00",
