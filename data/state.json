@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 37,
+   "fails": 38,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3965,6 +3965,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Kolkata-Regional-Office/Assistant-DC-Manager_R-1188139-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/Engineering-Gennext_R-1188372": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/HR-System-Gennext_R-1187923-1": "2026-09-25T04:55:49+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/Project-Assistant-Manager_R-1186622-1": "2026-09-26T19:32:13+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Konya-HPC/XMLNAME--Engineering---Sustainability-GenNext--_R-1188373-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/LA-Hub/Territory-Development-Manager---LA_R-1187169": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/La-Lucia-Durban-South-Africa/Payroll-Manager_R-1187612-1": "2026-09-25T04:55:49+00:00",
