@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 41,
+   "fails": 42,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3557,6 +3557,7 @@
   "workday:parsons/Search:/job/AE---Dubai/Resident-Engineer---Advanced-Traffic-Management-Systems--ATMS----System-Integration_R186505": "2026-09-25T10:11:01+00:00",
   "workday:parsons/Search:/job/AE---Dubai/Resident-Engineer--Infrastructure---Community-Development-_R181058": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/AE---Dubai/Resident-Engineer--Infrastructure---Roads-_R181172": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/AE---Dubai/Resident-Engineer--Infrastructure-_R181218": "2026-09-26T22:32:11+00:00",
   "workday:parsons/Search:/job/AE---Dubai/Resident-Engineer--Roads---Bridges_R171936-2": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/AE---Dubai/Rolling-Stock-Specialist--Metro-Rail-_R175633-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/AE---Dubai/Senior-Structural-Engineer---Construction--Roads-and-Bridges--_R184946": "2026-09-24T20:59:40+00:00",
