@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-09-25",
+ "fantastic_daily": "2026-09-26",
  "health": {
   "ashby:brainco": {
    "fails": 0,
@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 16,
+   "fails": 17,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -669,8 +669,10 @@
   "ashby:mistral.ai:fe861cdd-7b32-411e-b596-4bcaba99cb5c": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:ff7ed398-275b-41d6-9c83-11484d2d0f98": "2026-09-24T20:59:40+00:00",
   "ashby:odewithanthropic:0a382a4a-7bd9-435e-be98-cb2fa7465721": "2026-09-24T20:59:40+00:00",
+  "ashby:odewithanthropic:0d49754d-051e-4fb4-8bd3-0152ded416b8": "2026-09-26T01:32:06+00:00",
   "ashby:odewithanthropic:22e6bcd3-b80d-462d-bd79-9deae131ee94": "2026-09-24T20:59:40+00:00",
   "ashby:odewithanthropic:5e655487-e0f9-4471-96fd-355b1f5e0185": "2026-09-24T20:59:40+00:00",
+  "ashby:odewithanthropic:85dd7bb7-c45d-419b-bdfe-49f04639c8c6": "2026-09-26T01:32:06+00:00",
   "ashby:odewithanthropic:950a2e5a-3658-491c-8a98-3a546f0df9a6": "2026-09-24T20:59:40+00:00",
   "ashby:odewithanthropic:d1218507-6d99-4cfb-b7d5-cd34a633cda2": "2026-09-24T20:59:40+00:00",
   "ashby:odewithanthropic:d539bdad-0d66-4366-9295-71ce890cfc50": "2026-09-24T20:59:40+00:00",
@@ -710,6 +712,7 @@
   "ashby:openai:0b9e565a-ae5f-40fc-8350-b59f71f76df1": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0cf4a8f4-a57a-494b-aad8-4df8ac096939": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0d8019ec-e034-49ad-8f6b-29abb459b98f": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1": "2026-09-26T01:32:06+00:00",
   "ashby:openai:0e078d07-fb0b-4893-b90a-f50e413f3e13": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08": "2026-09-24T20:59:40+00:00",
   "ashby:openai:0ec3c7aa-38fe-425c-a704-411067bca9d9": "2026-09-24T20:59:40+00:00",
@@ -2449,6 +2452,7 @@
   "lever:binance:8dba5264-ddca-4456-bf09-983f7541b3fd": "2026-09-24T20:59:40+00:00",
   "lever:binance:8df2d358-6d9f-4de0-93dd-962109eb9ce1": "2026-09-24T20:59:40+00:00",
   "lever:binance:8e3f4049-7274-43c8-9866-27a4a8ad06ea": "2026-09-24T20:59:40+00:00",
+  "lever:binance:8f148612-9a2a-4b73-9f9e-cfcc005953bf": "2026-09-26T01:32:06+00:00",
   "lever:binance:9050c659-301e-4b6b-b1cf-42d9c1969614": "2026-09-24T20:59:40+00:00",
   "lever:binance:909abbaa-aa23-4607-960f-3fcaf8634ff0": "2026-09-24T20:59:40+00:00",
   "lever:binance:90f277fe-fd32-4027-be91-960677df96b3": "2026-09-24T20:59:40+00:00",
@@ -2501,6 +2505,7 @@
   "lever:binance:b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7": "2026-09-24T20:59:40+00:00",
   "lever:binance:b46a1b43-d138-408d-af45-de505982b47a": "2026-09-24T20:59:40+00:00",
   "lever:binance:b47da2b5-fbd0-4b17-b0db-2b5b33e92ed0": "2026-09-24T20:59:40+00:00",
+  "lever:binance:b5627380-0111-4d47-bbd5-9cb8b312fb8c": "2026-09-26T01:32:06+00:00",
   "lever:binance:b6a7e960-52b6-400c-ac58-f6d578b59fbd": "2026-09-24T20:59:40+00:00",
   "lever:binance:b7142863-b96a-4075-aa16-9431083c1420": "2026-09-24T20:59:40+00:00",
   "lever:binance:b9f6cfe1-3eeb-4d85-98b7-d32519052467": "2026-09-24T20:59:40+00:00",
@@ -3835,6 +3840,7 @@
   "workday:parsons/Search:/job/US---TN-Memphis/Vice-President-Business-Development--East-Central-Region_R182559": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TX-Austin/BIM-Coordinator-Analyst--Airports_R186585": "2026-09-26T00:32:08+00:00",
   "workday:parsons/Search:/job/US---TX-Austin/BIM-Manager--Airports_R186584-1": "2026-09-26T00:32:08+00:00",
+  "workday:parsons/Search:/job/US---TX-Austin/Vertical-Construction-Manager--Airports_R186587": "2026-09-26T01:32:06+00:00",
   "workday:parsons/Search:/job/US---TX-Bedford/CEI-Senior-Project-Manager_R177001-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TX-Dallas/Project-Manager---Digital-Transformation---AI_R183471": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TX-Field-Location/Electrician---Air-Traffic-Systems--100--Travel-_R178846-1": "2026-09-24T20:59:40+00:00",

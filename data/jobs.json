@@ -360,6 +360,27 @@
   "url": "https://careers.capgemini.com/job/Dubai-Senior-Product-Owner%2C-Agentic-AI/1440947033/",
   "workplace": "Hybrid"
  },
+ "fantastic:2382652744": {
+  "category": "fullstack",
+  "company": "Capgemini",
+  "company_key": "fantastic",
+  "expires": "2026-10-17T01:32:06+00:00",
+  "fingerprint": "capgemini|senior full stack consultant|abudhabi",
+  "first_seen": "2026-09-26T01:32:06+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-09-25T00:00:00",
+  "salary": "",
+  "score": 84,
+  "source": "fantastic/successfactors",
+  "status": "open",
+  "title": "Senior Full Stack Consultant",
+  "uid": "fantastic:2382652744",
+  "url": "https://careers.capgemini.com/job/Abu-Dhabi-Senior-Full-Stack-Consultant/1441450633/",
+  "workplace": "On-site"
+ },
  "greenhouse:ruyaai:4944185101": {
   "category": "ai",
   "company": "Ruya AI",
