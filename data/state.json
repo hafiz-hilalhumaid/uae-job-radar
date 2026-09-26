@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 22,
+   "fails": 23,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -198,13 +198,11 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 1,
-   "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "fails": 0,
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 1,
-   "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "fails": 0,
    "seeded": true
   }
  },
