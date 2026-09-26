@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 15,
+   "fails": 16,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3833,6 +3833,8 @@
   "workday:parsons/Search:/job/US---TN-Memphis/Roadway-Engineer-II_R177888-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TN-Memphis/Senior-Bridge-Engineer_R177818": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TN-Memphis/Vice-President-Business-Development--East-Central-Region_R182559": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---TX-Austin/BIM-Coordinator-Analyst--Airports_R186585": "2026-09-26T00:32:08+00:00",
+  "workday:parsons/Search:/job/US---TX-Austin/BIM-Manager--Airports_R186584-1": "2026-09-26T00:32:08+00:00",
   "workday:parsons/Search:/job/US---TX-Bedford/CEI-Senior-Project-Manager_R177001-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TX-Dallas/Project-Manager---Digital-Transformation---AI_R183471": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---TX-Field-Location/Electrician---Air-Traffic-Systems--100--Travel-_R178846-1": "2026-09-24T20:59:40+00:00",
