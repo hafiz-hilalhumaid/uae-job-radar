@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 66,
+   "fails": 67,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3928,6 +3928,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Project-Engineer_R-1188130": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chennai-Regional-Office/Territory-Sales-Officer_R-1188135": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Controls---Automation-Engineer_R-1188474": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Quality-Manager_R-1188149": "2026-09-27T18:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Senior-Material-Planner_R-1187809": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cikarang-Indonesia/B-W-ID-Asst-Engineering-Manager-for-Utility--Building---Environment_R-1188275": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Col-Bosques-de-las-Lomas-Mexico/Asesor-Clientes-Mayoreo--Zona-Metropolitana-y-Sur-de-Mxico_R-1187539": "2026-09-24T20:59:40+00:00",
@@ -4040,6 +4041,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Riyadh-Saudi-Arabia/Key-Accounts-Assistant-Manager_R-1187944": "2026-09-27T13:32:13+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Commercial-Trade-Assistant---Unilever-Food-Solutions_R-1187580": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Customer-Marketing-Manager--Foodservice_R-1181102": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Portfolio-Marketing-Manager---Foodservice-NL_R-1181076": "2026-09-27T18:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rueil-Malmaison/National-Field-Sales-Director--H-F-_R-1187999": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/San-Salvador-El-Salvador/Analista-de-bodega-de-promociones_R-1187687": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Sarawak-Malaysia/Regional-Sales-Operations-Assistant-Manager---East-Malaysia_R-1186869": "2026-09-24T20:59:40+00:00",
