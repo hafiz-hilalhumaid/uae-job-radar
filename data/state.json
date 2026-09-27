@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 59,
+   "fails": 60,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -4036,6 +4036,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Warsaw-Poland/Area-Sales-Manager--poudniowo-wschodnia-Polska-_R-1188659": "2026-09-25T23:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote-Chicago-IL/Regional-Sales-Manager--Chicago_R-1188193": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rio-de-Janeiro-Brazil/Promotor-De-Merchadising_R-1185836": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Riyadh-Saudi-Arabia/Key-Accounts-Assistant-Manager_R-1187944": "2026-09-27T13:32:13+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Commercial-Trade-Assistant---Unilever-Food-Solutions_R-1187580": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rotterdam---Hofplein-19/Customer-Marketing-Manager--Foodservice_R-1181102": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Rueil-Malmaison/National-Field-Sales-Director--H-F-_R-1187999": "2026-09-24T20:59:40+00:00",
