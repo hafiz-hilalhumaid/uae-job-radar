@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 57,
+   "fails": 58,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1780,6 +1780,8 @@
   "greenhouse:bybit:4980893101": "2026-09-24T20:59:40+00:00",
   "greenhouse:bybit:4986978101": "2026-09-25T06:23:32+00:00",
   "greenhouse:bybit:4987000101": "2026-09-25T06:23:32+00:00",
+  "greenhouse:bybit:4988003101": "2026-09-27T11:32:09+00:00",
+  "greenhouse:bybit:4988006101": "2026-09-27T11:32:09+00:00",
   "greenhouse:careem:7004825002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:7107610002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8320185002": "2026-09-24T20:59:40+00:00",
