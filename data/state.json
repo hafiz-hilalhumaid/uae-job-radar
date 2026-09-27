@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 63,
+   "fails": 64,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3485,6 +3485,7 @@
   "teamtailor:https://propertyfinder.teamtailor.com:2a371c0a-cb4a-4811-80d5-263183a22d5d": "2026-09-24T20:59:40+00:00",
   "teamtailor:https://propertyfinder.teamtailor.com:2a5f6f0c-5f7b-46ab-8ae4-1d441543bfa6": "2026-09-24T20:59:40+00:00",
   "teamtailor:https://propertyfinder.teamtailor.com:2bab1adc-b185-485a-98eb-d91643d51ed2": "2026-09-24T20:59:40+00:00",
+  "teamtailor:https://propertyfinder.teamtailor.com:2f78ee42-116e-4a99-b762-4ef1c9fbb820": "2026-09-27T16:32:10+00:00",
   "teamtailor:https://propertyfinder.teamtailor.com:375385ac-0bf4-4936-a0a3-d91b1d47020d": "2026-09-24T20:59:40+00:00",
   "teamtailor:https://propertyfinder.teamtailor.com:528dab70-13d5-43aa-9d9f-9f96b47d8987": "2026-09-24T20:59:40+00:00",
   "teamtailor:https://propertyfinder.teamtailor.com:645e2660-dcd0-42f5-8252-3b268a11e071": "2026-09-24T20:59:40+00:00",
