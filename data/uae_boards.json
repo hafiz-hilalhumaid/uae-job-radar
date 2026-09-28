@@ -1,0 +1,2756 @@
+{
+ "ashby:Airwallex": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Airwallex",
+  "last_uae": "2026-09-28",
+  "name": "Airwallex",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:Aspora": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Aspora",
+  "last_uae": "2026-09-28",
+  "name": "Aspora",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:Cohere": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Cohere",
+  "last_uae": "2026-09-28",
+  "name": "Cohere",
+  "uae_jobs": 9,
+  "via": "sweep"
+ },
+ "ashby:ElevenLabs": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "ElevenLabs",
+  "last_uae": "2026-09-28",
+  "name": "Elevenlabs",
+  "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "ashby:Keyrock": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Keyrock",
+  "last_uae": "2026-09-28",
+  "name": "Keyrock",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:LeanTech": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "LeanTech",
+  "last_uae": "2026-09-28",
+  "name": "Leantech",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:OpenAI": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "OpenAI",
+  "last_uae": "2026-09-28",
+  "name": "Openai",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:PaveBank": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "PaveBank",
+  "last_uae": "2026-09-28",
+  "name": "Pavebank",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:Rogo": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Rogo",
+  "last_uae": "2026-09-28",
+  "name": "Rogo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:Snowflake": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Snowflake",
+  "last_uae": "2026-09-28",
+  "name": "Snowflake",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:Sui Foundation": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "Sui Foundation",
+  "last_uae": "2026-09-28",
+  "name": "Sui Foundation",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:TaptapSend": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "TaptapSend",
+  "last_uae": "2026-09-28",
+  "name": "Taptapsend",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "ashby:The-Flex": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "The-Flex",
+  "last_uae": "2026-09-28",
+  "name": "The Flex",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:VidRush": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "VidRush",
+  "last_uae": "2026-09-28",
+  "name": "Vidrush",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:airwallex": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "airwallex",
+  "last_uae": "2026-09-28",
+  "name": "Airwallex",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:alcazar-energy": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "alcazar-energy",
+  "last_uae": "2026-09-28",
+  "name": "Alcazar Energy",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "ashby:aspora": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "aspora",
+  "last_uae": "2026-09-28",
+  "name": "Aspora",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:asula": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "asula",
+  "last_uae": "2026-09-28",
+  "name": "Asula",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:atlys": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "atlys",
+  "last_uae": "2026-09-28",
+  "name": "Atlys",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:binance.us": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "binance.us",
+  "last_uae": "2026-09-28",
+  "name": "Binance.Us",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:camunda": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "camunda",
+  "last_uae": "2026-09-28",
+  "name": "Camunda",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:cerebras": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "cerebras",
+  "last_uae": "2026-09-28",
+  "name": "Cerebras",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:checkout.com": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "checkout.com",
+  "last_uae": "2026-09-28",
+  "name": "Checkout.Com",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "ashby:clickhouse": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "clickhouse",
+  "last_uae": "2026-09-28",
+  "name": "Clickhouse",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:cognition": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "cognition",
+  "last_uae": "2026-09-28",
+  "name": "Cognition",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:column": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "column",
+  "last_uae": "2026-09-28",
+  "name": "Column",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:comand-ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "comand-ai",
+  "last_uae": "2026-09-28",
+  "name": "Comand Ai",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:cygnify": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "cygnify",
+  "last_uae": "2026-09-28",
+  "name": "Cygnify",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:delinea": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "delinea",
+  "last_uae": "2026-09-28",
+  "name": "Delinea",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:deliveroo": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "deliveroo",
+  "last_uae": "2026-09-28",
+  "name": "Deliveroo",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:easygenerator": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "easygenerator",
+  "last_uae": "2026-09-28",
+  "name": "Easygenerator",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "ashby:elevenlabs": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "elevenlabs",
+  "last_uae": "2026-09-28",
+  "name": "Elevenlabs",
+  "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "ashby:happyrobot.ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "happyrobot.ai",
+  "last_uae": "2026-09-28",
+  "name": "Happyrobot.Ai",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:harmattan-ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "harmattan-ai",
+  "last_uae": "2026-09-28",
+  "name": "Harmattan Ai",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:horizon3ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "horizon3ai",
+  "last_uae": "2026-09-28",
+  "name": "Horizon3Ai",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:iceye": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "iceye",
+  "last_uae": "2026-09-28",
+  "name": "Iceye",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:illumio": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "illumio",
+  "last_uae": "2026-09-28",
+  "name": "Illumio",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:imagineart": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "imagineart",
+  "last_uae": "2026-09-28",
+  "name": "Imagineart",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:infinitefield": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "infinitefield",
+  "last_uae": "2026-09-28",
+  "name": "Infinitefield",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:kong": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "kong",
+  "last_uae": "2026-09-28",
+  "name": "Kong",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:kraken.com": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "kraken.com",
+  "last_uae": "2026-09-28",
+  "name": "Kraken.Com",
+  "uae_jobs": 19,
+  "via": "sweep"
+ },
+ "ashby:legora": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "legora",
+  "last_uae": "2026-09-28",
+  "name": "Legora",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:lilt-production": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "lilt-production",
+  "last_uae": "2026-09-28",
+  "name": "Lilt Production",
+  "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "ashby:netgear": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "netgear",
+  "last_uae": "2026-09-28",
+  "name": "Netgear",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:noda-ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "noda-ai",
+  "last_uae": "2026-09-28",
+  "name": "Noda Ai",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:nomic.ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "nomic.ai",
+  "last_uae": "2026-09-28",
+  "name": "Nomic.Ai",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:northslope-technologies": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "northslope-technologies",
+  "last_uae": "2026-09-28",
+  "name": "Northslope Technologies",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:paires": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "paires",
+  "last_uae": "2026-09-28",
+  "name": "Paires",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:pod-network": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "pod-network",
+  "last_uae": "2026-09-28",
+  "name": "Pod Network",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:polene-paris": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "polene-paris",
+  "last_uae": "2026-09-28",
+  "name": "Polene Paris",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:pragmatike": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "pragmatike",
+  "last_uae": "2026-09-28",
+  "name": "Pragmatike",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:quartermaster": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "quartermaster",
+  "last_uae": "2026-09-28",
+  "name": "Quartermaster",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:redis": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "redis",
+  "last_uae": "2026-09-28",
+  "name": "Redis",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:rogo": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "rogo",
+  "last_uae": "2026-09-28",
+  "name": "Rogo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:sardine": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "sardine",
+  "last_uae": "2026-09-28",
+  "name": "Sardine",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:singu": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "singu",
+  "last_uae": "2026-09-28",
+  "name": "Singu",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:snowflake": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "snowflake",
+  "last_uae": "2026-09-28",
+  "name": "Snowflake",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:soterinsure": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "soterinsure",
+  "last_uae": "2026-09-28",
+  "name": "Soterinsure",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:sparta-commodities": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "sparta-commodities",
+  "last_uae": "2026-09-28",
+  "name": "Sparta Commodities",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:stratum-ai": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "stratum-ai",
+  "last_uae": "2026-09-28",
+  "name": "Stratum Ai",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:symbiotic": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "symbiotic",
+  "last_uae": "2026-09-28",
+  "name": "Symbiotic",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:tenex": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "tenex",
+  "last_uae": "2026-09-28",
+  "name": "Tenex",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:the-exploration-company": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "the-exploration-company",
+  "last_uae": "2026-09-28",
+  "name": "The Exploration Company",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:the-flex": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "the-flex",
+  "last_uae": "2026-09-28",
+  "name": "The Flex",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:thndr": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "thndr",
+  "last_uae": "2026-09-28",
+  "name": "Thndr",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:trm-labs": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "trm-labs",
+  "last_uae": "2026-09-28",
+  "name": "Trm Labs",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:vClusterLabs": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "vClusterLabs",
+  "last_uae": "2026-09-28",
+  "name": "Vclusterlabs",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:valerie-group": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "valerie-group",
+  "last_uae": "2026-09-28",
+  "name": "Valerie Group",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:ziina": {
+  "ats": "ashby",
+  "found": "2026-09-28",
+  "id": "ziina",
+  "last_uae": "2026-09-28",
+  "name": "Ziina",
+  "uae_jobs": 16,
+  "via": "sweep"
+ },
+ "greenhouse:Tamara": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "Tamara",
+  "last_uae": "2026-09-28",
+  "name": "Tamara",
+  "uae_jobs": 12,
+  "via": "sweep"
+ },
+ "greenhouse:aift": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "aift",
+  "last_uae": "2026-09-28",
+  "name": "Aift",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:alpaca": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "alpaca",
+  "last_uae": "2026-09-28",
+  "name": "Alpaca ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:alphafmcroles": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "alphafmcroles",
+  "last_uae": "2026-09-28",
+  "name": "Alpha Financial Markets Consulting",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:alphasightsresumedrop": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "alphasightsresumedrop",
+  "last_uae": "2026-09-28",
+  "name": "AlphaSights Campus Recruiting",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:andurilindustries": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "andurilindustries",
+  "last_uae": "2026-09-28",
+  "name": "Anduril Industries",
+  "uae_jobs": 15,
+  "via": "sweep"
+ },
+ "greenhouse:appian": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "appian",
+  "last_uae": "2026-09-28",
+  "name": "Appian Corporation ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:appspace": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "appspace",
+  "last_uae": "2026-09-28",
+  "name": "Appspace",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:armada": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "armada",
+  "last_uae": "2026-09-28",
+  "name": "Armada",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:artefact": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "artefact",
+  "last_uae": "2026-09-28",
+  "name": "Artefact",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:artefactlinkedin": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "artefactlinkedin",
+  "last_uae": "2026-09-28",
+  "name": "LinkedIn Job Wrapping",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:aspenviewtech": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "aspenviewtech",
+  "last_uae": "2026-09-28",
+  "name": "Aspenview Technology Partners",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:audiomob": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "audiomob",
+  "last_uae": "2026-09-28",
+  "name": "Audiomob",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:avepoint": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "avepoint",
+  "last_uae": "2026-09-28",
+  "name": "Avepoint",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:axon": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "axon",
+  "last_uae": "2026-09-28",
+  "name": "Axon",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:beyondtrust": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "beyondtrust",
+  "last_uae": "2026-09-28",
+  "name": "Beyondtrust",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:bidease": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "bidease",
+  "last_uae": "2026-09-28",
+  "name": "Bidease",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:bigticket": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "bigticket",
+  "last_uae": "2026-09-28",
+  "name": "Bigticket",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "greenhouse:braze": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "braze",
+  "last_uae": "2026-09-28",
+  "name": "Braze",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:bursonglobalcareers": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "bursonglobalcareers",
+  "last_uae": "2026-09-28",
+  "name": "Burson",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:celonis": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "celonis",
+  "last_uae": "2026-09-28",
+  "name": "Celonis",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:censys": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "censys",
+  "last_uae": "2026-09-28",
+  "name": "Censys",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:chaosindustries": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "chaosindustries",
+  "last_uae": "2026-09-28",
+  "name": "CHAOS Industries",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:classpass": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "classpass",
+  "last_uae": "2026-09-28",
+  "name": "Classpass",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:cloudflare": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "cloudflare",
+  "last_uae": "2026-09-28",
+  "name": "Cloudflare",
+  "uae_jobs": 21,
+  "via": "sweep"
+ },
+ "greenhouse:cobblestoneenergy1": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "cobblestoneenergy1",
+  "last_uae": "2026-09-28",
+  "name": "Cobblestone Energy.",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:cognite": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "cognite",
+  "last_uae": "2026-09-28",
+  "name": "Cognite",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:coinbase": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "coinbase",
+  "last_uae": "2026-09-28",
+  "name": "Coinbase",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:couchbaseinc": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "couchbaseinc",
+  "last_uae": "2026-09-28",
+  "name": "Couchbase, Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:cssmerge": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "cssmerge",
+  "last_uae": "2026-09-28",
+  "name": "ATOMS Careers page",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:datacamp": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "datacamp",
+  "last_uae": "2026-09-28",
+  "name": "Datacamp",
+  "uae_jobs": 8,
+  "via": "sweep"
+ },
+ "greenhouse:diligentcorporation": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "diligentcorporation",
+  "last_uae": "2026-09-28",
+  "name": "Diligent Corporation",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:dmgevents": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "dmgevents",
+  "last_uae": "2026-09-28",
+  "name": "dmg events",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:drivewealth": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "drivewealth",
+  "last_uae": "2026-09-28",
+  "name": "Drivewealth",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:dvtrading": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "dvtrading",
+  "last_uae": "2026-09-28",
+  "name": "DV Trading",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:ebury": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "ebury",
+  "last_uae": "2026-09-28",
+  "name": "Ebury",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:elastic": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "elastic",
+  "last_uae": "2026-09-28",
+  "name": "Elastic",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:envoyglobalinc": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "envoyglobalinc",
+  "last_uae": "2026-09-28",
+  "name": "Envoy Global, Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:esri": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "esri",
+  "last_uae": "2026-09-28",
+  "name": "Esri",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:feverup": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "feverup",
+  "last_uae": "2026-09-28",
+  "name": "Feverup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:figureai": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "figureai",
+  "last_uae": "2026-09-28",
+  "name": "Figure",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:fireblocks": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "fireblocks",
+  "last_uae": "2026-09-28",
+  "name": "Fireblocks",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:gallup": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "gallup",
+  "last_uae": "2026-09-28",
+  "name": "Gallup",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:geotab": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "geotab",
+  "last_uae": "2026-09-28",
+  "name": "Geotab",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:gibsondunn": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "gibsondunn",
+  "last_uae": "2026-09-28",
+  "name": "Gibson Dunn",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:gitlab": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "gitlab",
+  "last_uae": "2026-09-28",
+  "name": "Gitlab",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:harnessinc": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "harnessinc",
+  "last_uae": "2026-09-28",
+  "name": "Harness ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:inmobi": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "inmobi",
+  "last_uae": "2026-09-28",
+  "name": "InMobi ",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:intersystems": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "intersystems",
+  "last_uae": "2026-09-28",
+  "name": "Intersystems",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "greenhouse:jensenhughes": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "jensenhughes",
+  "last_uae": "2026-09-28",
+  "name": "Jensen Hughes",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:marinomanagementllc": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "marinomanagementllc",
+  "last_uae": "2026-09-28",
+  "name": "Dalio Family Office",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:momentumcorporateservicesllcdbamomentum": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "momentumcorporateservicesllcdbamomentum",
+  "last_uae": "2026-09-28",
+  "name": "Momentumcorporateservicesllcdbamomentum",
+  "uae_jobs": 14,
+  "via": "sweep"
+ },
+ "greenhouse:monks": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "monks",
+  "last_uae": "2026-09-28",
+  "name": "Monks",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:nebius": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "nebius",
+  "last_uae": "2026-09-28",
+  "name": "Nebius",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:pallet": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "pallet",
+  "last_uae": "2026-09-28",
+  "name": "Pallet",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:pharomanagement": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "pharomanagement",
+  "last_uae": "2026-09-28",
+  "name": "Pharo Management",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:planetlabs": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "planetlabs",
+  "last_uae": "2026-09-28",
+  "name": "Planet",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:point72": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "point72",
+  "last_uae": "2026-09-28",
+  "name": "Point72 ",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:prenuvo": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "prenuvo",
+  "last_uae": "2026-09-28",
+  "name": "Prenuvo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:purestorage": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "purestorage",
+  "last_uae": "2026-09-28",
+  "name": "Everpure",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:quberesearchandtechnologies": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "quberesearchandtechnologies",
+  "last_uae": "2026-09-28",
+  "name": "Qube Research & Technologies",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:rapp": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "rapp",
+  "last_uae": "2026-09-28",
+  "name": "Rapp",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:recordedfuture": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "recordedfuture",
+  "last_uae": "2026-09-28",
+  "name": "Recorded Future",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:referralsuseonly": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "referralsuseonly",
+  "last_uae": "2026-09-28",
+  "name": "Referral Board",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:ripple": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "ripple",
+  "last_uae": "2026-09-28",
+  "name": "Ripple ",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:saildroneinc": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "saildroneinc",
+  "last_uae": "2026-09-28",
+  "name": "Saildrone",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:scaleai": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "scaleai",
+  "last_uae": "2026-09-28",
+  "name": "Scale AI",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:schonfeld": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "schonfeld",
+  "last_uae": "2026-09-28",
+  "name": "Schonfeld ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:sentinellabs": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "sentinellabs",
+  "last_uae": "2026-09-28",
+  "name": "SentinelOne",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:sonymusicentertainment": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "sonymusicentertainment",
+  "last_uae": "2026-09-28",
+  "name": "Sony Music Global Job Board",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:speechify": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "speechify",
+  "last_uae": "2026-09-28",
+  "name": "Speechify",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:straitsx": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "straitsx",
+  "last_uae": "2026-09-28",
+  "name": "Straitsx",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:telnyx54": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "telnyx54",
+  "last_uae": "2026-09-28",
+  "name": "Telnyx",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:theeconomistgroup": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "theeconomistgroup",
+  "last_uae": "2026-09-28",
+  "name": "Theeconomistgroup",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:thinkmarkets": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "thinkmarkets",
+  "last_uae": "2026-09-28",
+  "name": "Thinkmarkets",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:thirdbridge": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "thirdbridge",
+  "last_uae": "2026-09-28",
+  "name": "Third Bridge",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:ultimagenomics": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "ultimagenomics",
+  "last_uae": "2026-09-28",
+  "name": "Ultima Genomics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:vaticlabs": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "vaticlabs",
+  "last_uae": "2026-09-28",
+  "name": "Vatic Labs",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:veeamsoftware": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "veeamsoftware",
+  "last_uae": "2026-09-28",
+  "name": "Veeamsoftware",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:verkada": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "verkada",
+  "last_uae": "2026-09-28",
+  "name": "Verkada",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:wallstreetprep": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "wallstreetprep",
+  "last_uae": "2026-09-28",
+  "name": "Wall Street Prep",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:wheely": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "wheely",
+  "last_uae": "2026-09-28",
+  "name": "Wheely",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:winton": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "winton",
+  "last_uae": "2026-09-28",
+  "name": "Winton",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:workatbackbase": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "workatbackbase",
+  "last_uae": "2026-09-28",
+  "name": "Backbase",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:wppmedia": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "wppmedia",
+  "last_uae": "2026-09-28",
+  "name": "WPP Media",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:xantium": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "xantium",
+  "last_uae": "2026-09-28",
+  "name": "Xantium ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:xntltd": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "xntltd",
+  "last_uae": "2026-09-28",
+  "name": "Xntltd",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:zenput": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "zenput",
+  "last_uae": "2026-09-28",
+  "name": "Crunchtime",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:zscaler": {
+  "ats": "greenhouse",
+  "found": "2026-09-28",
+  "id": "zscaler",
+  "last_uae": "2026-09-28",
+  "name": "Zscaler",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "lever:creatio": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "creatio",
+  "last_uae": "2026-09-28",
+  "name": "Creatio",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "lever:efficioconsulting": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "efficioconsulting",
+  "last_uae": "2026-09-28",
+  "name": "Efficioconsulting",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "lever:lyrahealth": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "id": "lyrahealth",
+  "last_uae": "2026-09-28",
+  "name": "Lyrahealth",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "lever:paytm": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "id": "paytm",
+  "last_uae": "2026-09-28",
+  "name": "Paytm",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "lever:quadcode": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "quadcode",
+  "last_uae": "2026-09-28",
+  "name": "Quadcode",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "lever:shieldai": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "id": "shieldai",
+  "last_uae": "2026-09-28",
+  "name": "Shieldai",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "lever:xm": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "xm",
+  "last_uae": "2026-09-28",
+  "name": "Xm",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "lever:xtb": {
+  "ats": "lever",
+  "found": "2026-09-28",
+  "host": "eu",
+  "id": "xtb",
+  "last_uae": "2026-09-28",
+  "name": "Xtb",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "recruitee:aikidosecurity": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "aikidosecurity",
+  "last_uae": "2026-09-28",
+  "name": "Aikidosecurity",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "recruitee:confirmo": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "confirmo",
+  "last_uae": "2026-09-28",
+  "name": "Confirmo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "recruitee:fundamentalhospitality": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "fundamentalhospitality",
+  "last_uae": "2026-09-28",
+  "name": "Fundamentalhospitality",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "recruitee:heliumdoc": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "heliumdoc",
+  "last_uae": "2026-09-28",
+  "name": "Heliumdoc",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "recruitee:hudsonmanpower": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "hudsonmanpower",
+  "last_uae": "2026-09-28",
+  "name": "Hudsonmanpower",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "recruitee:lenskartcareers": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "lenskartcareers",
+  "last_uae": "2026-09-28",
+  "name": "Lenskartcareers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "recruitee:meddy1": {
+  "ats": "recruitee",
+  "found": "2026-09-28",
+  "id": "meddy1",
+  "last_uae": "2026-09-28",
+  "name": "Meddy1",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:AECOM2": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "AECOM2",
+  "last_uae": "2026-09-28",
+  "name": "Aecom2",
+  "uae_jobs": 194,
+  "via": "sweep"
+ },
+ "smartrecruiters:AbbVie": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "AbbVie",
+  "last_uae": "2026-09-28",
+  "name": "Abbvie",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "smartrecruiters:AccorCorpo": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "AccorCorpo",
+  "last_uae": "2026-09-28",
+  "name": "Accorcorpo",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:AccorHotel": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "AccorHotel",
+  "last_uae": "2026-09-28",
+  "name": "Accorhotel",
+  "uae_jobs": 365,
+  "via": "sweep"
+ },
+ "smartrecruiters:ArchirodonGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "ArchirodonGroup",
+  "last_uae": "2026-09-28",
+  "name": "Archirodongroup",
+  "uae_jobs": 103,
+  "via": "sweep"
+ },
+ "smartrecruiters:Avaloq1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Avaloq1",
+  "last_uae": "2026-09-28",
+  "name": "Avaloq1",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:AveryDennison": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "AveryDennison",
+  "last_uae": "2026-09-28",
+  "name": "Averydennison",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:B71": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "B71",
+  "last_uae": "2026-09-28",
+  "name": "B71",
+  "uae_jobs": 8,
+  "via": "sweep"
+ },
+ "smartrecruiters:BESIX": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "BESIX",
+  "last_uae": "2026-09-28",
+  "name": "Besix",
+  "uae_jobs": 35,
+  "via": "sweep"
+ },
+ "smartrecruiters:BEUMERGroup1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "BEUMERGroup1",
+  "last_uae": "2026-09-28",
+  "name": "Beumergroup1",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:BeckersGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "BeckersGroup",
+  "last_uae": "2026-09-28",
+  "name": "Beckersgroup",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:Bosch-HomeComfort": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Bosch-HomeComfort",
+  "last_uae": "2026-09-28",
+  "name": "Bosch Homecomfort",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "smartrecruiters:Brainlab": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Brainlab",
+  "last_uae": "2026-09-28",
+  "name": "Brainlab",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Canva": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Canva",
+  "last_uae": "2026-09-28",
+  "name": "Canva",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:CliffordChance": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "CliffordChance",
+  "last_uae": "2026-09-28",
+  "name": "Cliffordchance",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "smartrecruiters:Coface": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Coface",
+  "last_uae": "2026-09-28",
+  "name": "Coface",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "smartrecruiters:DeltaElectronics": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "DeltaElectronics",
+  "last_uae": "2026-09-28",
+  "name": "Deltaelectronics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:DreesSommerSE": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "DreesSommerSE",
+  "last_uae": "2026-09-28",
+  "name": "Dreessommerse",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:EgisGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "EgisGroup",
+  "last_uae": "2026-09-28",
+  "name": "Egisgroup",
+  "uae_jobs": 130,
+  "via": "sweep"
+ },
+ "smartrecruiters:Endava": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Endava",
+  "last_uae": "2026-09-28",
+  "name": "Endava",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:EtihadAirways5": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "EtihadAirways5",
+  "last_uae": "2026-09-28",
+  "name": "Etihadairways5",
+  "uae_jobs": 55,
+  "via": "sweep"
+ },
+ "smartrecruiters:GermanInternationalSchoolDubai": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "GermanInternationalSchoolDubai",
+  "last_uae": "2026-09-28",
+  "name": "Germaninternationalschooldubai",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "smartrecruiters:HelloKindred": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "HelloKindred",
+  "last_uae": "2026-09-28",
+  "name": "Hellokindred",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:IFS1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "IFS1",
+  "last_uae": "2026-09-28",
+  "name": "Ifs1",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "smartrecruiters:IHSTowers": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "IHSTowers",
+  "last_uae": "2026-09-28",
+  "name": "Ihstowers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:InfiniteQuant": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "InfiniteQuant",
+  "last_uae": "2026-09-28",
+  "name": "Infinitequant",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:InformaGroupPlc": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "InformaGroupPlc",
+  "last_uae": "2026-09-28",
+  "name": "Informagroupplc",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:JobsForHumanity": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "JobsForHumanity",
+  "last_uae": "2026-09-28",
+  "name": "Jobsforhumanity",
+  "uae_jobs": 26,
+  "via": "sweep"
+ },
+ "smartrecruiters:KanadeviaInova": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "KanadeviaInova",
+  "last_uae": "2026-09-28",
+  "name": "Kanadeviainova",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:Keenfinity": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Keenfinity",
+  "last_uae": "2026-09-28",
+  "name": "Keenfinity",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "smartrecruiters:Masdar": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Masdar",
+  "last_uae": "2026-09-28",
+  "name": "Masdar",
+  "uae_jobs": 18,
+  "via": "sweep"
+ },
+ "smartrecruiters:Nagarro1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Nagarro1",
+  "last_uae": "2026-09-28",
+  "name": "Nagarro1",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "smartrecruiters:Namshi": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Namshi",
+  "last_uae": "2026-09-28",
+  "name": "Namshi",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "smartrecruiters:NielsenIQ": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "NielsenIQ",
+  "last_uae": "2026-09-28",
+  "name": "Nielseniq",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:ParkerDrilling1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "ParkerDrilling1",
+  "last_uae": "2026-09-28",
+  "name": "Parkerdrilling1",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "smartrecruiters:REPAGROUP": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "REPAGROUP",
+  "last_uae": "2026-09-28",
+  "name": "Repagroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:RHG": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "RHG",
+  "last_uae": "2026-09-28",
+  "name": "Rhg",
+  "uae_jobs": 39,
+  "via": "sweep"
+ },
+ "smartrecruiters:Ramboll3": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Ramboll3",
+  "last_uae": "2026-09-28",
+  "name": "Ramboll3",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:RhaegalSandbox": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "RhaegalSandbox",
+  "last_uae": "2026-09-28",
+  "name": "Rhaegalsandbox",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:RolandBerger": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "RolandBerger",
+  "last_uae": "2026-09-28",
+  "name": "Rolandberger",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "smartrecruiters:Rotork1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Rotork1",
+  "last_uae": "2026-09-28",
+  "name": "Rotork1",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:SGS": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "SGS",
+  "last_uae": "2026-09-28",
+  "name": "Sgs",
+  "uae_jobs": 24,
+  "via": "sweep"
+ },
+ "smartrecruiters:SanaCommerce": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "SanaCommerce",
+  "last_uae": "2026-09-28",
+  "name": "Sanacommerce",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:ShijiGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "ShijiGroup",
+  "last_uae": "2026-09-28",
+  "name": "Shijigroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Sia": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Sia",
+  "last_uae": "2026-09-28",
+  "name": "Sia",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:SikaAG": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "SikaAG",
+  "last_uae": "2026-09-28",
+  "name": "Sikaag",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Sobi": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Sobi",
+  "last_uae": "2026-09-28",
+  "name": "Sobi",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Socotec": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Socotec",
+  "last_uae": "2026-09-28",
+  "name": "Socotec",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Sutherland": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Sutherland",
+  "last_uae": "2026-09-28",
+  "name": "Sutherland",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:TALENT2AFRICA": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "TALENT2AFRICA",
+  "last_uae": "2026-09-28",
+  "name": "Talent2Africa",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Talan": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "Talan",
+  "last_uae": "2026-09-28",
+  "name": "Talan",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:TurnerTownsend": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "TurnerTownsend",
+  "last_uae": "2026-09-28",
+  "name": "Turnertownsend",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:VeoliaEnvironnementSA": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "VeoliaEnvironnementSA",
+  "last_uae": "2026-09-28",
+  "name": "Veoliaenvironnementsa",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "smartrecruiters:abbvie": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "abbvie",
+  "last_uae": "2026-09-28",
+  "name": "Abbvie",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "smartrecruiters:aecom2": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "aecom2",
+  "last_uae": "2026-09-28",
+  "name": "Aecom2",
+  "uae_jobs": 194,
+  "via": "sweep"
+ },
+ "smartrecruiters:averydennison": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "averydennison",
+  "last_uae": "2026-09-28",
+  "name": "Averydennison",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:beckersgroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "beckersgroup",
+  "last_uae": "2026-09-28",
+  "name": "Beckersgroup",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:beumergroup1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "beumergroup1",
+  "last_uae": "2026-09-28",
+  "name": "Beumergroup1",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:canva": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "canva",
+  "last_uae": "2026-09-28",
+  "name": "Canva",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:coface": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "coface",
+  "last_uae": "2026-09-28",
+  "name": "Coface",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "smartrecruiters:jobsforhumanity": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "jobsforhumanity",
+  "last_uae": "2026-09-28",
+  "name": "Jobsforhumanity",
+  "uae_jobs": 26,
+  "via": "sweep"
+ },
+ "smartrecruiters:nagarro1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "nagarro1",
+  "last_uae": "2026-09-28",
+  "name": "Nagarro1",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "smartrecruiters:sgs": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "sgs",
+  "last_uae": "2026-09-28",
+  "name": "Sgs",
+  "uae_jobs": 24,
+  "via": "sweep"
+ },
+ "smartrecruiters:sutherland": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-28",
+  "id": "sutherland",
+  "last_uae": "2026-09-28",
+  "name": "Sutherland",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://abdulrauf1-1741255834.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://abdulrauf1-1741255834.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Abdulrauf1 1741255834",
+  "uae_jobs": 19,
+  "via": "sweep"
+ },
+ "teamtailor:https://bsm.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://bsm.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Bsm",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://cartrackasiacareerpage.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://cartrackasiacareerpage.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Cartrackasiacareerpage",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://davidkennedyrecruitment.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://davidkennedyrecruitment.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Davidkennedyrecruitment",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "teamtailor:https://equiomgroup.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://equiomgroup.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Equiomgroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://fourprinciples.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://fourprinciples.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Fourprinciples",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://indigoresearch.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://indigoresearch.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Indigoresearch",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://itpmediagroup.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://itpmediagroup.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Itpmediagroup",
+  "uae_jobs": 37,
+  "via": "sweep"
+ },
+ "teamtailor:https://naffco.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://naffco.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Naffco",
+  "uae_jobs": 97,
+  "via": "sweep"
+ },
+ "teamtailor:https://reloadlogistics.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://reloadlogistics.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Reloadlogistics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://toppansecurity.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://toppansecurity.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Toppansecurity",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "teamtailor:https://tradingview.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://tradingview.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Tradingview",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://tribebuilders.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://tribebuilders.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Tribebuilders",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://wiser.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-28",
+  "id": "https://wiser.teamtailor.com",
+  "last_uae": "2026-09-28",
+  "name": "Wiser",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:abu-dhabi-investment-council": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "abu-dhabi-investment-council",
+  "last_uae": "2026-09-28",
+  "name": "Abu Dhabi Investment Council",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:accellor": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "accellor",
+  "last_uae": "2026-09-28",
+  "name": "Accellor",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:adia": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "adia",
+  "last_uae": "2026-09-28",
+  "name": "Adia",
+  "uae_jobs": 9,
+  "via": "sweep"
+ },
+ "workable:agility": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "agility",
+  "last_uae": "2026-09-28",
+  "name": "Agility",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:ahsproperties": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "ahsproperties",
+  "last_uae": "2026-09-28",
+  "name": "Ahsproperties",
+  "uae_jobs": 31,
+  "via": "sweep"
+ },
+ "workable:ai-acquisition": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "ai-acquisition",
+  "last_uae": "2026-09-28",
+  "name": "Ai Acquisition",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:alex-staff-agency-careers": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "alex-staff-agency-careers",
+  "last_uae": "2026-09-28",
+  "name": "Alex Staff Agency Careers",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:arabicai": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "arabicai",
+  "last_uae": "2026-09-28",
+  "name": "Arabicai",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:avomind": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "avomind",
+  "last_uae": "2026-09-28",
+  "name": "Avomind",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:bask-health-1": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "bask-health-1",
+  "last_uae": "2026-09-28",
+  "name": "Bask Health 1",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:brainlake-agency": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "brainlake-agency",
+  "last_uae": "2026-09-28",
+  "name": "Brainlake Agency",
+  "uae_jobs": 9,
+  "via": "sweep"
+ },
+ "workable:capitex": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "capitex",
+  "last_uae": "2026-09-28",
+  "name": "Capitex",
+  "uae_jobs": 55,
+  "via": "sweep"
+ },
+ "workable:caxton": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "caxton",
+  "last_uae": "2026-09-28",
+  "name": "Caxton",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:cequens": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "cequens",
+  "last_uae": "2026-09-28",
+  "name": "Cequens",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:chaingpt": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "chaingpt",
+  "last_uae": "2026-09-28",
+  "name": "Chaingpt",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:covergo": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "covergo",
+  "last_uae": "2026-09-28",
+  "name": "Covergo",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:crossbordertalents": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "crossbordertalents",
+  "last_uae": "2026-09-28",
+  "name": "Crossbordertalents",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:cxg": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "cxg",
+  "last_uae": "2026-09-28",
+  "name": "Cxg",
+  "uae_jobs": 13,
+  "via": "sweep"
+ },
+ "workable:d2b-1": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "d2b-1",
+  "last_uae": "2026-09-28",
+  "name": "D2B 1",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:decentralized-masters": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "decentralized-masters",
+  "last_uae": "2026-09-28",
+  "name": "Decentralized Masters",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:destinusgroup": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "destinusgroup",
+  "last_uae": "2026-09-28",
+  "name": "Destinusgroup",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:elevate-47": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "elevate-47",
+  "last_uae": "2026-09-28",
+  "name": "Elevate 47",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:emaratech-2": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "emaratech-2",
+  "last_uae": "2026-09-28",
+  "name": "Emaratech 2",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:emirates-investment-authority": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "emirates-investment-authority",
+  "last_uae": "2026-09-28",
+  "name": "Emirates Investment Authority",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "workable:enermech": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "enermech",
+  "last_uae": "2026-09-28",
+  "name": "Enermech",
+  "uae_jobs": 14,
+  "via": "sweep"
+ },
+ "workable:eramtalent-1": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "eramtalent-1",
+  "last_uae": "2026-09-28",
+  "name": "Eramtalent 1",
+  "uae_jobs": 50,
+  "via": "sweep"
+ },
+ "workable:eva-pharma": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "eva-pharma",
+  "last_uae": "2026-09-28",
+  "name": "Eva Pharma",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:fenergocareers": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "fenergocareers",
+  "last_uae": "2026-09-28",
+  "name": "Fenergocareers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:flowerbx": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "flowerbx",
+  "last_uae": "2026-09-28",
+  "name": "Flowerbx",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:foodics": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "foodics",
+  "last_uae": "2026-09-28",
+  "name": "Foodics",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:fpmarkets": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "fpmarkets",
+  "last_uae": "2026-09-28",
+  "name": "Fpmarkets",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:freedx": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "freedx",
+  "last_uae": "2026-09-28",
+  "name": "Freedx",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:fuku": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "fuku",
+  "last_uae": "2026-09-28",
+  "name": "Fuku",
+  "uae_jobs": 27,
+  "via": "sweep"
+ },
+ "workable:fuseenergy": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "fuseenergy",
+  "last_uae": "2026-09-28",
+  "name": "Fuseenergy",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "workable:gigabrands": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "gigabrands",
+  "last_uae": "2026-09-28",
+  "name": "Gigabrands",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:gramian": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "gramian",
+  "last_uae": "2026-09-28",
+  "name": "Gramian",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:hire-resolve-the-top-recruitment-agency": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "hire-resolve-the-top-recruitment-agency",
+  "last_uae": "2026-09-28",
+  "name": "Hire Resolve The Top Recruitment Agency",
+  "uae_jobs": 154,
+  "via": "sweep"
+ },
+ "workable:horizontal-digital": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "horizontal-digital",
+  "last_uae": "2026-09-28",
+  "name": "Horizontal Digital",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:hudabeauty": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "hudabeauty",
+  "last_uae": "2026-09-28",
+  "name": "Hudabeauty",
+  "uae_jobs": 17,
+  "via": "sweep"
+ },
+ "workable:huzzle": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "huzzle",
+  "last_uae": "2026-09-28",
+  "name": "Huzzle",
+  "uae_jobs": 16,
+  "via": "sweep"
+ },
+ "workable:ibmcid": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "ibmcid",
+  "last_uae": "2026-09-28",
+  "name": "Ibmcid",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "workable:icarda": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "icarda",
+  "last_uae": "2026-09-28",
+  "name": "Icarda",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:iglooinsure": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "iglooinsure",
+  "last_uae": "2026-09-28",
+  "name": "Iglooinsure",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:infosys-consulting-europe": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "infosys-consulting-europe",
+  "last_uae": "2026-09-28",
+  "name": "Infosys Consulting Europe",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:innovaccer-analytics": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "innovaccer-analytics",
+  "last_uae": "2026-09-28",
+  "name": "Innovaccer Analytics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:intellecthq": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "intellecthq",
+  "last_uae": "2026-09-28",
+  "name": "Intellecthq",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:irth": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "irth",
+  "last_uae": "2026-09-28",
+  "name": "Irth",
+  "uae_jobs": 22,
+  "via": "sweep"
+ },
+ "workable:kayali": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "kayali",
+  "last_uae": "2026-09-28",
+  "name": "Kayali",
+  "uae_jobs": 12,
+  "via": "sweep"
+ },
+ "workable:keller-executive-search": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "keller-executive-search",
+  "last_uae": "2026-09-28",
+  "name": "Keller Executive Search",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:max-accelerate": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "max-accelerate",
+  "last_uae": "2026-09-28",
+  "name": "Max Accelerate",
+  "uae_jobs": 39,
+  "via": "sweep"
+ },
+ "workable:mira-construction-l-dot-l-c-1": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "mira-construction-l-dot-l-c-1",
+  "last_uae": "2026-09-28",
+  "name": "Mira Construction L Dot L C 1",
+  "uae_jobs": 93,
+  "via": "sweep"
+ },
+ "workable:mm-coaching-limited": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "mm-coaching-limited",
+  "last_uae": "2026-09-28",
+  "name": "Mm Coaching Limited",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:mullers-solutions-1": {
+  "ats": "workable",
+  "found": "2026-09-28",
+  "id": "mullers-solutions-1",
+  "last_uae": "2026-09-28",
+  "name": "Mullers Solutions 1",
+  "uae_jobs": 91,
+  "via": "sweep"
+ }
+}
