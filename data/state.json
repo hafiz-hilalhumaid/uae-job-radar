@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 89,
+   "fails": 90,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1559,6 +1559,7 @@
   "greenhouse:addepar1:8575882002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8575949002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8576364002": "2026-09-24T20:59:40+00:00",
+  "greenhouse:addepar1:8582888002": "2026-09-28T14:32:11+00:00",
   "greenhouse:addepar1:8593067002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8594203002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8594212002": "2026-09-24T20:59:40+00:00",
@@ -2622,8 +2623,11 @@
   "lever:crypto:23c7fc4e-768d-49ce-b73e-2da6f729c9f6": "2026-09-24T20:59:40+00:00",
   "lever:crypto:2a8eb2c0-eb04-4d85-8e8a-70835d61764e": "2026-09-24T20:59:40+00:00",
   "lever:crypto:2b22d4ce-69f2-497e-bdf4-57c80fc1268a": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:3224df58-3da7-46ba-a537-d7b03e2bca43": "2026-09-28T14:32:11+00:00",
+  "lever:crypto:32f705b6-e128-447a-9778-8d42c73cb1bb": "2026-09-28T14:32:11+00:00",
   "lever:crypto:365dbb9a-e156-4174-b124-1596ba35e0de": "2026-09-24T20:59:40+00:00",
   "lever:crypto:38187660-9908-465f-9b89-562dcf10db2c": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:3877cedd-abc7-4a38-b0fb-b81d62768b08": "2026-09-28T14:32:11+00:00",
   "lever:crypto:39c827b6-19c8-4dfb-b872-d5f429e937b3": "2026-09-24T20:59:40+00:00",
   "lever:crypto:4557d4e7-7588-404d-860c-edf68a1ab200": "2026-09-24T23:52:56+00:00",
   "lever:crypto:47509c3a-b034-470b-903a-b8e0441d5d28": "2026-09-24T20:59:40+00:00",
@@ -2649,6 +2653,7 @@
   "lever:crypto:9b9a56cd-0aaf-46ec-8704-538dcecb72dc": "2026-09-24T20:59:40+00:00",
   "lever:crypto:a26d7d57-a930-49b3-8245-1f9cb91f59cd": "2026-09-24T20:59:40+00:00",
   "lever:crypto:a3ac2fc1-37c6-45d3-834e-25e9f94aaf5c": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:a82e3953-2f34-43bb-b0da-16f8bb06da93": "2026-09-28T14:32:11+00:00",
   "lever:crypto:a898683e-d211-4e8c-8576-21f676993d90": "2026-09-24T23:52:56+00:00",
   "lever:crypto:ac03000c-445b-42a3-8da3-4a872116bd91": "2026-09-24T20:59:40+00:00",
   "lever:crypto:ad15d681-71b3-4e60-8eb3-79de77c11aeb": "2026-09-24T20:59:40+00:00",
@@ -4085,6 +4090,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Sarawak-Malaysia/Regional-Sales-Operations-Assistant-Manager---East-Malaysia_R-1186869": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Chef-de-Cozinha---Exclusiva-para-Pessoas-com-Deficincia_R-1187757": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Chef-de-Cozinha---Ribeiro-Preto-e-regio_R-1187759": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Executivo-De-Negocios-Senior---Cana-Farma--So-Paulo-_R-1188432": "2026-09-28T14:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Promotor-De-Merchandising---Leme-SP---Vaga-Exclusiva-para-Pessoas-com-Deficincia_R-1187162": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Promotor-De-Merchandising---So-Jos-dos-Campos-SP---Vaga-Exclusiva-para-Pessoas-com-Deficincia_R-1187681": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/So-Paulo-Brazil/Promotor-De-Merchandising---Zona-Leste-SP---Vaga-Exclusiva-para-Pessoas-com-Deficincia_R-1188571": "2026-09-24T20:59:40+00:00",
