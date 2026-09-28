@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 92,
+   "fails": 93,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1022,6 +1022,7 @@
   "ashby:openai:673ca4f5-b5dc-448f-be3c-4f888a6d13ed": "2026-09-24T20:59:40+00:00",
   "ashby:openai:6742bd76-dcc7-4bbd-bdb3-00c315bc0254": "2026-09-24T20:59:40+00:00",
   "ashby:openai:67c67c36-e710-4f21-bd9c-759eb72cfabf": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:67eb66cd-d89e-4312-a2cf-59e9a0a5e43f": "2026-09-28T16:32:08+00:00",
   "ashby:openai:6882c919-600e-43c8-92f9-803d4eb3bcd2": "2026-09-24T20:59:40+00:00",
   "ashby:openai:6897d024-88c1-43ed-adb8-5d2fc5eec984": "2026-09-24T20:59:40+00:00",
   "ashby:openai:68b1e4ba-da3f-4712-ad14-8c12ebaa28a4": "2026-09-24T20:59:40+00:00",
@@ -1136,6 +1137,7 @@
   "ashby:openai:88a57561-561b-4a14-bc43-78bc7f144164": "2026-09-24T20:59:40+00:00",
   "ashby:openai:894ce80d-c587-4ef0-92d2-b16deb9a06b9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:898a87fb-4cb8-450e-9840-ee5dc710a57d": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:89b0bd3b-52ef-42c1-9a58-08ce4eb7428d": "2026-09-28T16:32:08+00:00",
   "ashby:openai:89d61ae8-1ce1-4187-9edd-da8029979e41": "2026-09-24T20:59:40+00:00",
   "ashby:openai:89f58eb2-519f-4a36-8be0-2e594724e1bc": "2026-09-24T20:59:40+00:00",
   "ashby:openai:8a3fdf98-ad82-4082-ace0-9edb89bc8f6d": "2026-09-24T20:59:40+00:00",
@@ -1364,6 +1366,7 @@
   "ashby:openai:cc203d0d-96cd-4615-b5f1-3f25d6b08a95": "2026-09-24T20:59:40+00:00",
   "ashby:openai:cc434f5b-dc0b-42fd-97ec-e0171545c6e9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:ccd3c68b-5860-40b5-9aff-e99da9aa669c": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:cd3c9c99-9527-4ba2-bea7-9f8f4892bc62": "2026-09-28T16:32:08+00:00",
   "ashby:openai:cd3f8166-9f07-4d1b-944d-a4a6593a196a": "2026-09-24T20:59:40+00:00",
   "ashby:openai:ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e": "2026-09-24T20:59:40+00:00",
   "ashby:openai:cebd0a1e-2724-4beb-8ed0-d9c7934d1222": "2026-09-24T20:59:40+00:00",
@@ -1630,6 +1633,7 @@
   "greenhouse:addepar1:8822336002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8827908002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8842072002": "2026-09-24T20:59:40+00:00",
+  "greenhouse:addepar1:8842074002": "2026-09-28T16:32:08+00:00",
   "greenhouse:addepar1:8843937002": "2026-09-25T18:50:51+00:00",
   "greenhouse:bybit:4807252101": "2026-09-28T06:32:08+00:00",
   "greenhouse:bybit:4855357101": "2026-09-24T20:59:40+00:00",
@@ -2515,6 +2519,7 @@
   "lever:binance:afb2f865-cdfb-4a86-b08a-aee3e31c8cf7": "2026-09-24T20:59:40+00:00",
   "lever:binance:b19b7ecb-6f08-4558-a14f-ab92024b9146": "2026-09-24T20:59:40+00:00",
   "lever:binance:b1b01056-0de9-4b4a-9962-bee31fb8e7d3": "2026-09-24T20:59:40+00:00",
+  "lever:binance:b20adcce-7e6a-4d8b-b178-f55c521fe097": "2026-09-28T16:32:08+00:00",
   "lever:binance:b212ded6-6e81-492e-bd34-120c26b42f29": "2026-09-24T20:59:40+00:00",
   "lever:binance:b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef": "2026-09-24T20:59:40+00:00",
   "lever:binance:b3a59fdb-ec6e-494e-8459-d16d4ae1da8f": "2026-09-24T20:59:40+00:00",
@@ -3973,6 +3978,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Senior-Material-Planner_R-1187809": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cikarang-Indonesia/B-W-ID-Asst-Engineering-Manager-for-Utility--Building---Environment_R-1188275": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Col-Bosques-de-las-Lomas-Mexico/Asesor-Clientes-Mayoreo--Zona-Metropolitana-y-Sur-de-Mxico_R-1187539": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Col-Bosques-de-las-Lomas-Mexico/Ejecutivo-de-Ventas_R-1187984": "2026-09-28T16:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colima-Mexico/Lder-de-Ventas_R-1188632": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colombo-Sri-Lanka/Executive---Channel-Marketing-Projects_R-1188707": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Colombo-Sri-Lanka/Intern---Customer-Strategy---Planning_R-1188558": "2026-09-24T20:59:40+00:00",

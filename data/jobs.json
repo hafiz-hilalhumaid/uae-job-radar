@@ -230,6 +230,7 @@
  },
  "ashby:odewithanthropic:a546a133-5856-4372-a960-f3632bec207f": {
   "category": "software",
+  "closed_at": "2026-09-28T16:32:08+00:00",
   "company": "Ode with Anthropic",
   "company_key": "ashby:odewithanthropic",
   "fingerprint": "odewithanthropic|staff software engineer|dubai",
@@ -245,7 +246,7 @@
   "salary": "",
   "score": 24,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Staff Software Engineer (UAE)",
   "uid": "ashby:odewithanthropic:a546a133-5856-4372-a960-f3632bec207f",
   "url": "https://jobs.ashbyhq.com/odewithanthropic/a546a133-5856-4372-a960-f3632bec207f",
