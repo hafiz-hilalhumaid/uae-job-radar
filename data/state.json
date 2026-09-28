@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 88,
+   "fails": 89,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -641,6 +641,7 @@
   "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:de55e9e0-d97d-4b14-aa6c-911efe187403": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:deb0e225-6e51-40f9-b26a-7b34d03914c3": "2026-09-24T20:59:40+00:00",
+  "ashby:mistral.ai:df384485-38c0-4316-89d2-6f2b6517a503": "2026-09-28T13:32:11+00:00",
   "ashby:mistral.ai:e1c3ff8a-07f7-433c-acb0-9709e845418e": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:e1efda00-adfe-442f-930d-31a92fa328d6": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:e334f268-1929-4882-b69a-655dfe066114": "2026-09-24T20:59:40+00:00",
@@ -1808,6 +1809,7 @@
   "greenhouse:careem:8764209002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8789147002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8805500002": "2026-09-24T20:59:40+00:00",
+  "greenhouse:careem:8805501002": "2026-09-28T13:32:11+00:00",
   "greenhouse:cobblestoneenergy4:7772319003": "2026-09-24T20:59:40+00:00",
   "greenhouse:cobblestoneenergy4:7772321003": "2026-09-24T20:59:40+00:00",
   "greenhouse:cobblestoneenergy:7772325003": "2026-09-24T20:59:40+00:00",
@@ -2635,6 +2637,7 @@
   "lever:crypto:72b1b6ea-3d5d-43cc-a8b8-a74f2918f456": "2026-09-24T20:59:40+00:00",
   "lever:crypto:7bbc9bd9-1783-40df-a0dd-d2b86a35c3da": "2026-09-24T20:59:40+00:00",
   "lever:crypto:842868b8-912c-43a6-a961-cbbe34e5367b": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:848f577a-3688-4aff-966c-2b6d81531038": "2026-09-28T13:32:11+00:00",
   "lever:crypto:8596f625-56f5-4508-b496-d573aa64c721": "2026-09-24T20:59:40+00:00",
   "lever:crypto:8f7df3ad-1fff-40be-86bc-2e7d780cc28b": "2026-09-24T20:59:40+00:00",
   "lever:crypto:9234bb04-5930-4a3f-bd9c-ee016bc74a4d": "2026-09-24T20:59:40+00:00",
@@ -3808,6 +3811,7 @@
   "workday:parsons/Search:/job/US---MO-Saint-Louis/Roadway-Engineer-I_R179972-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NC-Field-Location/Field-Project-Manager--Airports_R180840": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NC-Fort-Liberty/Fire-Alarm-Technician_R181691": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---NC-Hope-Mills/Plumbing-Technician_R186560": "2026-09-28T13:32:11+00:00",
   "workday:parsons/Search:/job/US---NC-Raleigh/Senior-Bridge-Engineer_R185002": "2026-09-24T23:52:56+00:00",
   "workday:parsons/Search:/job/US---NC-Raleigh/Senior-Project-Manager---Transportation-Design_R185395": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---NJ-Eatontown/Floating-Assistant-Manager---Vehicle-Inspection-Facility_R177194": "2026-09-24T20:59:40+00:00",
@@ -3929,6 +3933,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/61-Katherine-Street/Junior-Brand-Manager--Rajah_R-1187484": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/6th-of-October-Egypt/MPC-Mechanical-Maintenance-Engineer_R-1188148": "2026-09-28T07:32:14+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Agdao-Davao-City-Philippines/Major-Accounts-Executive---South-Mindanao_R-1187987": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Alexandria-Egypt/Mechanical-Maintenance-Engineer_R-1188542": "2026-09-28T13:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Assistant-Brand-Manager--Talent-Pooling-_R-1188509": "2026-09-28T03:32:10+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Key-Account-Manager_R-89237": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Amli-Factory-Silvassa/Senior-Quality-Executive---CM-Ops-HC-_R-1186258-1": "2026-09-24T20:59:40+00:00",
