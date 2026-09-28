@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 73,
+   "fails": 74,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3926,6 +3926,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cancun-Mexico/Lder-de-Ventas_R-1188696": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Multiskilled-Flexibles-Operator_R-1183181": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Project-Engineer_R-1188130": "2026-09-25T04:55:49+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Section-Lead_R-1188650": "2026-09-28T00:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chennai-Regional-Office/Territory-Sales-Officer_R-1188135": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Controls---Automation-Engineer_R-1188474": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Chicago-IL/Quality-Manager_R-1188149": "2026-09-27T18:32:08+00:00",
