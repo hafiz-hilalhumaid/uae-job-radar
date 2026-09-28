@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 97,
+   "fails": 98,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -422,6 +422,7 @@
   "ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082": "2026-09-24T20:59:40+00:00",
   "ashby:gecko-robotics:047b90af-e85e-44e8-94f3-ceab8ffd0d55": "2026-09-24T20:59:40+00:00",
   "ashby:gecko-robotics:07b4bc1b-500f-493c-ab28-383b543a3e85": "2026-09-24T20:59:40+00:00",
+  "ashby:gecko-robotics:0ffeeb6d-88a7-4677-912d-8316457a72ca": "2026-09-28T21:32:11+00:00",
   "ashby:gecko-robotics:1629806f-c5a1-4af1-b1c9-0d6cc354eff4": "2026-09-24T20:59:40+00:00",
   "ashby:gecko-robotics:177e7de3-da40-473a-9677-f47ecafecb19": "2026-09-24T20:59:40+00:00",
   "ashby:gecko-robotics:1ae83c3f-565a-48c9-85f7-55ab1c75593d": "2026-09-24T20:59:40+00:00",
@@ -692,6 +693,7 @@
   "ashby:openai:00f7eaa5-315d-44bd-9c11-047ee53f2b0d": "2026-09-24T20:59:40+00:00",
   "ashby:openai:01091aed-427d-4e10-8cdb-fb500cf55bb9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:020b2aae-8be0-408c-ab49-20eefa8541af": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:0320cd25-ede1-4d25-8a61-65d801f1726e": "2026-09-28T21:32:11+00:00",
   "ashby:openai:0322d6d8-6588-4209-a304-83e768063a25": "2026-09-24T20:59:40+00:00",
   "ashby:openai:04435c05-7a05-4802-894d-c173327fbac8": "2026-09-24T20:59:40+00:00",
   "ashby:openai:04c7b3d3-8523-41a2-8f84-39a739ebf207": "2026-09-24T23:52:56+00:00",
@@ -843,6 +845,7 @@
   "ashby:openai:32425ea6-a64b-408d-ae54-38342b83c875": "2026-09-24T20:59:40+00:00",
   "ashby:openai:32905f5c-9405-4073-bc65-c57fcf55a83d": "2026-09-24T20:59:40+00:00",
   "ashby:openai:32a314f3-17d6-4f94-ba1b-88076d9ac4f4": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:32ca0028-c12d-4def-a200-946ec8d4ea5f": "2026-09-28T21:32:11+00:00",
   "ashby:openai:3302ceaf-f6ca-4803-9846-7fff7ad48a0d": "2026-09-24T20:59:40+00:00",
   "ashby:openai:333ebd68-cc1d-4706-8d0a-07f3e50d7bfd": "2026-09-24T20:59:40+00:00",
   "ashby:openai:33b8effb-b048-4934-a279-87fff192a330": "2026-09-24T20:59:40+00:00",
@@ -1071,6 +1074,7 @@
   "ashby:openai:73e56947-5d8b-414d-a0ac-9dc9b04e2406": "2026-09-24T20:59:40+00:00",
   "ashby:openai:73fdf2c0-4318-4b13-addc-b66bc1308ba4": "2026-09-24T20:59:40+00:00",
   "ashby:openai:74b9aa04-0b9d-459a-9e2d-0e43fae67a79": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:74be2291-5744-40fd-9c65-7a4a516ebd48": "2026-09-28T21:32:11+00:00",
   "ashby:openai:7512a020-2f3c-4f19-921d-b76edaeba5d3": "2026-09-24T20:59:40+00:00",
   "ashby:openai:7536171d-0f98-4964-8f22-7968db062105": "2026-09-24T20:59:40+00:00",
   "ashby:openai:759dd316-cbe9-4e73-af57-808502568b29": "2026-09-24T20:59:40+00:00",
@@ -1268,6 +1272,7 @@
   "ashby:openai:af508ed6-e657-44df-beb8-3c31ae73492b": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b00e0207-d65f-4445-87d5-798f6c895dec": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b0729478-f363-498e-a088-b659c40d4580": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:b073abb1-cf6c-4fd9-a318-732fdd2f1408": "2026-09-28T21:32:11+00:00",
   "ashby:openai:b08126cc-8134-45f0-aeb3-4b00e96547de": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b09b4216-426d-443c-9b87-23570fd9a694": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b15442c5-8e3c-4370-9abf-4b9c63f56de0": "2026-09-24T20:59:40+00:00",
@@ -3683,6 +3688,7 @@
   "workday:parsons/Search:/job/US---CA-Camarillo/Software-Engineer-II---Secret_R185493": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Field-Location/Associate-Field-Engineer---Water-Wastewater_R186494": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Field-Location/Junior-Engineer_R185269": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CA-Field-Location/Lead-Construction-Inspector---Water-Wastewater_R186522": "2026-09-28T21:32:11+00:00",
   "workday:parsons/Search:/job/US---CA-Fountain-Valley/Senior-Civil-Inspector_R183411-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Airports_R177024-2": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Night-Shift---Airports_R186664": "2026-09-28T20:32:11+00:00",
