@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 78,
+   "fails": 79,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3923,6 +3923,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Customer-Support-Manager---Makro-Body---Face_R-1185419-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Foods-RDC-Processing-Assistant-Manager--Cooking-Aids_R-1187983": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Home-Care-GA-Engineering-Lead_R-1187258": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Sale-Representative---HORECA-Central_R-1188737": "2026-09-28T04:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Warehouse-Supervisor_R-1188292": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Executivo-de-Negcios-SR---Food-Service---Cuiab-MT_R-1187236": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Promotor-De-Merchandising_R-1185383": "2026-09-24T23:52:56+00:00",
