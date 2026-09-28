@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 93,
+   "fails": 94,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -737,6 +737,7 @@
   "ashby:openai:11aaa7ee-21b6-431f-99b1-42c4b830949e": "2026-09-24T20:59:40+00:00",
   "ashby:openai:11c51b12-3ba0-4a7a-a0d2-ed0661324dc3": "2026-09-24T20:59:40+00:00",
   "ashby:openai:12342ebb-dcd4-45e2-b875-fc5447fdb7d8": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:125db0ea-d5e1-4c49-bc1a-e6ffc8ea71ff": "2026-09-28T17:32:11+00:00",
   "ashby:openai:12f6b6ef-be98-4159-9aef-7baac78489bc": "2026-09-24T20:59:40+00:00",
   "ashby:openai:1328e781-c66c-4f71-8eb0-6c684273833b": "2026-09-24T20:59:40+00:00",
   "ashby:openai:137e3df0-2bd4-4ad4-8edb-8455a7fdc912": "2026-09-24T20:59:40+00:00",
@@ -1450,6 +1451,7 @@
   "ashby:openai:e6981259-c1d0-46de-8376-56bde28cfb10": "2026-09-24T20:59:40+00:00",
   "ashby:openai:e6d5ca02-f30b-4ac5-a69d-c947efb430f9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:e71cf565-4b21-4b0d-bf45-b22e58ca95eb": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:e7594296-a38b-43a1-b4f8-01253a3b7732": "2026-09-28T17:32:11+00:00",
   "ashby:openai:e7a4ee23-138a-4004-916e-72a452e7d115": "2026-09-24T20:59:40+00:00",
   "ashby:openai:e8558280-69dc-438a-b905-623f75ae6d62": "2026-09-24T20:59:40+00:00",
   "ashby:openai:e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92": "2026-09-24T20:59:40+00:00",
@@ -4014,6 +4016,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Independence-MO/Senior-Industrial-Finance-Manager---NA-Foods_R-1180272": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ipojuca-Brazil/Gerente-de-Engenharia-e-Tecnologia---Suape-e-Igarassu_R-1188424": "2026-09-25T19:15:57+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jefferson-City-MO/Category-Packaging-Equipment-Engineer_R-1188238": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Jefferson-City-MO/Quality-Technician-1---A-Shift-Days--2-2-3-schedule_R-1188763": "2026-09-28T17:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Compounding-Mixer-Lead_R-1188195": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Line-Leader_R-1188176": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Production-Maintenance-Technician---2nd-shift_R-1186857": "2026-09-24T20:59:40+00:00",
