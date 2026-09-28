@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 87,
+   "fails": 88,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -2736,6 +2736,7 @@
   "lever:extremenetworks:6c732de0-9ffa-4222-8567-0101b93f060f": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:6c9cfd9d-d092-49ea-bfe6-616ded8efb17": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:6ceb0208-fa99-4578-a81f-5752f33d31f3": "2026-09-24T20:59:40+00:00",
+  "lever:extremenetworks:722adb7a-f5d5-4765-8772-cec4cf322faf": "2026-09-28T12:32:08+00:00",
   "lever:extremenetworks:72a65033-c231-47e5-9d23-03fe60df26f2": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:74d2b8ab-2bf9-4d9c-bba7-4258db5b7a7b": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:74ff9c4c-28d4-4c7d-9aaa-ab7cb7bd53f1": "2026-09-24T20:59:40+00:00",
@@ -3462,6 +3463,7 @@
   "smartrecruiters:GhobashGroup:744000151585919": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:GhobashGroup:744000151782529": "2026-09-25T10:11:01+00:00",
   "smartrecruiters:GhobashGroup:744000152076689": "2026-09-28T06:32:08+00:00",
+  "smartrecruiters:GhobashGroup:744000152157649": "2026-09-28T12:32:08+00:00",
   "smartrecruiters:SellAnyCarcom:744000127580164": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:SellAnyCarcom:744000139963739": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:SellAnyCarcom:744000147474454": "2026-09-24T20:59:40+00:00",
