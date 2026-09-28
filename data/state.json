@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 80,
+   "fails": 81,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1623,6 +1623,7 @@
   "greenhouse:addepar1:8827908002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8842072002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8843937002": "2026-09-25T18:50:51+00:00",
+  "greenhouse:bybit:4807252101": "2026-09-28T06:32:08+00:00",
   "greenhouse:bybit:4855357101": "2026-09-24T20:59:40+00:00",
   "greenhouse:bybit:4855359101": "2026-09-24T20:59:40+00:00",
   "greenhouse:bybit:4856962101": "2026-09-24T20:59:40+00:00",
@@ -2542,6 +2543,7 @@
   "lever:binance:cb698a86-3c5a-4017-b3c2-0e58a1428c9e": "2026-09-24T20:59:40+00:00",
   "lever:binance:cdaad664-05ea-4813-b7bf-578098a4d049": "2026-09-24T20:59:40+00:00",
   "lever:binance:d06cced2-d8cc-4587-a747-64771019ec3c": "2026-09-24T20:59:40+00:00",
+  "lever:binance:d0e313e2-3f7e-4ea0-8cc9-984f0a90aab1": "2026-09-28T06:32:08+00:00",
   "lever:binance:d12d1a22-19b4-4c05-96c0-4305170bde02": "2026-09-24T20:59:40+00:00",
   "lever:binance:d1aa9019-a6de-4187-a64a-d7c0db657e0f": "2026-09-24T20:59:40+00:00",
   "lever:binance:d364b698-90b3-4a32-ae97-653dd2735e51": "2026-09-24T20:59:40+00:00",
@@ -3449,6 +3451,7 @@
   "smartrecruiters:GhobashGroup:744000150931860": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:GhobashGroup:744000151585919": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:GhobashGroup:744000151782529": "2026-09-25T10:11:01+00:00",
+  "smartrecruiters:GhobashGroup:744000152076689": "2026-09-28T06:32:08+00:00",
   "smartrecruiters:SellAnyCarcom:744000127580164": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:SellAnyCarcom:744000139963739": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:SellAnyCarcom:744000147474454": "2026-09-24T20:59:40+00:00",
@@ -4069,6 +4072,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Taguig-Philippines/Area-Sales-Manager---South-Luzon_R-1188005": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Taguig-Philippines/Breeze-Brand-Manager_R-1188145": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tangerang-Indonesia/Asst-End-to-End-Import--Customs---Regulatory-Manager---Foods_R-1186372": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Thayngen-Switzerland/Factory-Controller_R-1187314-1": "2026-09-28T06:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Toronto-ON/Key-Account-Manager---Loblaws-APDEO-and-HABL_R-1188025": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Toronto-ON/Market-Collaboration-Planner_R-1186363-2": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Analista-de-Logstica_R-1188222": "2026-09-24T20:59:40+00:00",
