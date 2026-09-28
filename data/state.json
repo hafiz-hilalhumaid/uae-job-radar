@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 83,
+   "fails": 84,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -525,6 +525,7 @@
   "ashby:mistral.ai:4b25c97e-ab58-4148-9126-9d4e2c41aaf7": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:4c19b931-3a95-48b3-ac96-9e4c52f5a603": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:4c78b767-a3bb-454c-914e-4d5c4d38a0ec": "2026-09-24T20:59:40+00:00",
+  "ashby:mistral.ai:4f2f058d-3a04-4b0d-b964-700c1d7790ac": "2026-09-28T08:32:08+00:00",
   "ashby:mistral.ai:4f7e2c43-638d-4595-9d10-da4708128fa7": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:505fa238-b9d0-4277-8a26-36a0b1df04b1": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:50656710-0001-42b0-8571-2880492b1233": "2026-09-25T15:15:07+00:00",
@@ -657,6 +658,7 @@
   "ashby:mistral.ai:efef411a-91fb-44b1-b01b-bd1275e9231c": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:f090ef1d-372e-40dc-bf46-ce0bf2850204": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:f10d218f-3d4b-4a64-b852-b26adcd3e773": "2026-09-24T20:59:40+00:00",
+  "ashby:mistral.ai:f144a78d-f4dc-4ffb-ab3a-220ca9437c7d": "2026-09-28T08:32:08+00:00",
   "ashby:mistral.ai:f1776857-196e-4eaa-80f0-cec349dd01a9": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:f37ed15b-f987-4bda-966b-0a1788dc7da7": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:f3e60b63-24a5-4cfc-8a57-b3cd67d47435": "2026-09-24T20:59:40+00:00",
@@ -2658,6 +2660,7 @@
   "lever:crypto:d81d6ff1-cedc-47d5-952f-292861d3acbd": "2026-09-24T20:59:40+00:00",
   "lever:crypto:dcf3d6d2-c95a-4d24-9346-33bb7b5d6d6a": "2026-09-24T20:59:40+00:00",
   "lever:crypto:e2b6df6f-6a44-4ffe-b764-1a858787dfc6": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:e4017800-e255-4016-a6d6-c59f294c2bd9": "2026-09-28T08:32:08+00:00",
   "lever:crypto:e79894fe-5917-4140-b780-6f4c3c9fa292": "2026-09-24T20:59:40+00:00",
   "lever:crypto:e9c5cfa8-5217-4988-be58-7d809c09e529": "2026-09-24T20:59:40+00:00",
   "lever:crypto:ed7f015a-45b0-4072-9bfc-27345a4e8db8": "2026-09-24T20:59:40+00:00",
@@ -3938,6 +3941,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Delhi-Regional-Office/Expert-Sales-Executive_R-1188548-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cancun-Mexico/Lder-de-Ventas_R-1188696": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Casalpusterlengo-Italy/Operations-Manager_R-1185528-1": "2026-09-28T07:32:14+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Facilities-Engineer_R-1188494": "2026-09-28T08:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Multiskilled-Flexibles-Operator_R-1183181": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Project-Engineer_R-1188130": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Section-Lead_R-1188650": "2026-09-28T00:32:11+00:00",
