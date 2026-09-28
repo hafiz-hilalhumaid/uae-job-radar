@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 77,
+   "fails": 78,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -2598,11 +2598,13 @@
   "lever:binance:ff9b1c8a-b0de-4bb4-a81e-d2cd51f57e31": "2026-09-24T20:59:40+00:00",
   "lever:crypto:002808f7-bcc1-42f7-8055-2556606b8092": "2026-09-24T20:59:40+00:00",
   "lever:crypto:02dca29b-b1cb-489e-a50d-749de57b5a86": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:07b3bcec-8ff2-4b6f-b990-3b9307df3317": "2026-09-28T03:32:10+00:00",
   "lever:crypto:097a7b81-68bd-4cc5-a5a4-7eed9c8a0325": "2026-09-24T20:59:40+00:00",
   "lever:crypto:0bc3949b-e1fe-4ad8-8590-ad106c0a1061": "2026-09-24T20:59:40+00:00",
   "lever:crypto:0c856e71-a38e-444d-9265-c24d4d49a413": "2026-09-24T20:59:40+00:00",
   "lever:crypto:139ed8a4-a76d-4305-becf-71e180bbe771": "2026-09-24T20:59:40+00:00",
   "lever:crypto:14df25f6-7f3f-4a53-bba3-12e9ddcfff5d": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:1e8d77e1-c6f4-4eaa-b666-1c27feb4a96d": "2026-09-28T03:32:10+00:00",
   "lever:crypto:1edb4f86-713f-44a9-8e9c-489c662d810c": "2026-09-24T20:59:40+00:00",
   "lever:crypto:20284560-b5b2-4543-af1f-7a1fcf6ec1ad": "2026-09-24T20:59:40+00:00",
   "lever:crypto:21c6973a-b800-4db1-adeb-b3c4f8b7df70": "2026-09-24T20:59:40+00:00",
@@ -2767,6 +2769,7 @@
   "lever:extremenetworks:c3017f47-8150-44ae-8522-71fd28657e25": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:c42ecc66-232d-4c7d-b92d-fe6b49f7a043": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:c65d36d7-ec0c-4f06-abcf-22c4aa85cced": "2026-09-24T20:59:40+00:00",
+  "lever:extremenetworks:c7c66213-9702-4519-b8fa-1b0e0e494472": "2026-09-28T03:32:10+00:00",
   "lever:extremenetworks:c7e396a4-78ee-4e0c-a5f3-895073ff2652": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:c977b005-42fb-4935-906a-1d5f05c3dd00": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:cb61f234-b22e-4c60-b4b9-cd48f5761385": "2026-09-24T20:59:40+00:00",
@@ -3909,6 +3912,7 @@
   "workday:parsons/Search:/job/US-WV---Summit-Point/Systems-Engineer--Multiple-Levels---Evergreen-_R181344": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/61-Katherine-Street/Junior-Brand-Manager--Rajah_R-1187484": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Agdao-Davao-City-Philippines/Major-Accounts-Executive---South-Mindanao_R-1187987": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Assistant-Brand-Manager--Talent-Pooling-_R-1188509": "2026-09-28T03:32:10+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Key-Account-Manager_R-89237": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Amli-Factory-Silvassa/Senior-Quality-Executive---CM-Ops-HC-_R-1186258-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Auckland-New-Zealand/Customer-Manager--Foods_R-1187991": "2026-09-24T20:59:40+00:00",
