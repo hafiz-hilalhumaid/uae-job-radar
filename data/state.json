@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 85,
+   "fails": 86,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -382,6 +382,7 @@
   "ashby:cohere:cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3": "2026-09-24T20:59:40+00:00",
   "ashby:cohere:cd987666-aeda-4da6-a23c-d84d4231d33b": "2026-09-24T20:59:40+00:00",
   "ashby:cohere:cfbcd878-ed1c-4cdb-a02b-729d86bf2178": "2026-09-24T20:59:40+00:00",
+  "ashby:cohere:d1ab4fbd-3271-4057-8b20-dfaad4270fa8": "2026-09-28T10:32:07+00:00",
   "ashby:cohere:d28fbc03-cb09-49da-84b9-e12c16182695": "2026-09-24T20:59:40+00:00",
   "ashby:cohere:d42f5fd4-1ffc-45b9-957c-f09862db6af6": "2026-09-24T20:59:40+00:00",
   "ashby:cohere:dbe76343-a8ae-445c-b2f9-c5a304d54f6a": "2026-09-24T20:59:40+00:00",
@@ -3964,6 +3965,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1187272": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1187546": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1187672": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Delhi-Regional-Office/Key-Account-Executive_R-1188497-1": "2026-09-28T10:32:07+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Delhi-Regional-Office/Sr-Logistics-Executive_R-1188505-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Dubai-United-Arab-Emirates/Demand-Creation-Specialist---Abu-Dhabi--UAE_R-1183767": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Dubai-United-Arab-Emirates/Key-Account-Executive---Home-Care_R-1186883": "2026-09-24T20:59:40+00:00",
