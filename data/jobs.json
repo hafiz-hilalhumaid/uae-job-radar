@@ -228,6 +228,29 @@
   "url": "https://jobs.ashbyhq.com/mistral.ai/0d281150-b40e-4a6b-a533-a424b04d44e3",
   "workplace": ""
  },
+ "ashby:odewithanthropic:a546a133-5856-4372-a960-f3632bec207f": {
+  "category": "software",
+  "company": "Ode with Anthropic",
+  "company_key": "ashby:odewithanthropic",
+  "fingerprint": "odewithanthropic|staff software engineer|dubai",
+  "first_seen": "2026-09-28T11:32:11+00:00",
+  "flags": [
+   "8+ yrs asked",
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai Office, United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-08-14T11:42:27.000+00:00",
+  "salary": "",
+  "score": 24,
+  "source": "ashby",
+  "status": "open",
+  "title": "Staff Software Engineer (UAE)",
+  "uid": "ashby:odewithanthropic:a546a133-5856-4372-a960-f3632bec207f",
+  "url": "https://jobs.ashbyhq.com/odewithanthropic/a546a133-5856-4372-a960-f3632bec207f",
+  "workplace": "OnSite"
+ },
  "ashby:openai:2226c39d-371b-4dec-bf60-2d76dbe4c445": {
   "category": "ai",
   "company": "OpenAI",

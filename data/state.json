@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 86,
+   "fails": 87,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -613,6 +613,7 @@
   "ashby:mistral.ai:b85acb55-fe6d-4f63-80bb-6309dd26ec58": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:b9575492-5cd8-45cf-b572-5f04eb1b388b": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:bc22e675-cd5a-4933-99f5-690bd41e300c": "2026-09-24T20:59:40+00:00",
+  "ashby:mistral.ai:bc659575-b7c2-406c-825b-fdd58c503594": "2026-09-28T11:32:11+00:00",
   "ashby:mistral.ai:bfcdaedc-be9c-48a9-9165-f7e234923cfd": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:c0215b73-450d-461e-a74b-5cbb8cfe57da": "2026-09-24T20:59:40+00:00",
   "ashby:mistral.ai:c0b30af5-714f-405b-a2f2-c6a52f53d6f4": "2026-09-24T20:59:40+00:00",
@@ -2033,6 +2034,7 @@
   "greenhouse:valtech:4964147101": "2026-09-24T20:59:40+00:00",
   "greenhouse:valtech:4964256101": "2026-09-24T20:59:40+00:00",
   "greenhouse:valtech:4966573101": "2026-09-24T20:59:40+00:00",
+  "greenhouse:valtech:4967933101": "2026-09-28T11:32:11+00:00",
   "greenhouse:valtech:4968033101": "2026-09-24T20:59:40+00:00",
   "greenhouse:valtech:4968180101": "2026-09-24T20:59:40+00:00",
   "greenhouse:valtech:4968376101": "2026-09-24T20:59:40+00:00",
@@ -2786,6 +2788,7 @@
   "lever:extremenetworks:ce22b645-a338-4863-9c6e-9aa37f648989": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:cff10340-bd5f-4f76-bbd9-d8475d178f21": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:d4227a6b-8e6d-45d0-ba86-5a696dfada88": "2026-09-24T20:59:40+00:00",
+  "lever:extremenetworks:d491a211-53e8-4aad-a81d-e0142daed9b8": "2026-09-28T11:32:11+00:00",
   "lever:extremenetworks:d4cae863-c627-4ad3-a510-2f9fdce3a4fa": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:d75d5bd4-9836-41a9-80f5-7d07f15418f6": "2026-09-24T20:59:40+00:00",
   "lever:extremenetworks:d91abd19-18f0-4454-9866-b53fc5f4aad4": "2026-09-24T20:59:40+00:00",
@@ -3937,6 +3940,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Home-Care-GA-Engineering-Lead_R-1187258": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Sale-Representative---HORECA-Central_R-1188737": "2026-09-28T04:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Bangkok-Thailand/Warehouse-Supervisor_R-1188292": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Beirut-Lebanon/CD-Operation-Specialist-Jordan_R-1186485-1": "2026-09-28T11:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Executivo-de-Negcios-SR---Food-Service---Cuiab-MT_R-1187236": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Braslia-Brazil/Promotor-De-Merchandising_R-1185383": "2026-09-24T23:52:56+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Brussels-Belgium/Account-Manager---Home-Care_R-1185803-1": "2026-09-24T20:59:40+00:00",
@@ -4039,6 +4043,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1188219": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1188362": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Chennai-Regional-Office/Territory-Sales-officer_R-1188414": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188207-1": "2026-09-28T11:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188295-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188354-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1188706-1": "2026-09-25T06:23:32+00:00",
@@ -4089,6 +4094,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Toronto-ON/Market-Collaboration-Planner_R-1186363-2": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Analista-de-Logstica_R-1188222": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Asistente-de-Formulacin-y-Desarrollo-de-Producto_R-1181776-1": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Jefe-de-Mantenimiento-Empaque-B-W-y-Celdas-de-Palletizado_R-1187435": "2026-09-28T11:32:11+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tortuguitas-Argentina/Product-Formulation-Development-Assistant_R-1188056": "2026-09-24T23:52:56+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Trumbull-CT/Design-Manager_R-1175494": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Tultitlan-Mexico/KAE-Autoservicios_R-1188523": "2026-09-24T20:59:40+00:00",
