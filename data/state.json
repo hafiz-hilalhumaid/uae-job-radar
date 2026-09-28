@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 99,
+   "fails": 100,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1200,6 +1200,7 @@
   "ashby:openai:98eec6be-1d69-406d-88ba-3cb43f3fcbd7": "2026-09-24T20:59:40+00:00",
   "ashby:openai:98f65aa5-0f19-4942-9296-63382883dc55": "2026-09-24T20:59:40+00:00",
   "ashby:openai:990397de-c00c-4577-b093-d8c82b4e9145": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:9909555b-3dc4-4ba2-859e-43eae7c97a34": "2026-09-28T22:32:09+00:00",
   "ashby:openai:991948b7-0305-4125-bb9a-625f5bc24189": "2026-09-24T20:59:40+00:00",
   "ashby:openai:994bf78e-55ec-4c02-9326-6f90c08bcebe": "2026-09-24T20:59:40+00:00",
   "ashby:openai:99f4a8ea-6bd0-49a3-b90a-5004c8923523": "2026-09-24T20:59:40+00:00",
@@ -3925,6 +3926,7 @@
   "workday:parsons/Search:/job/US---VA-Arlington/Scrum-Master---Release-Train-Engineer---TS-SCI_R169906": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---VA-Arlington/Software-Developer-TS-SCI_R186426": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---VA-Arlington/UI-UX-Designer_R185187": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---VA-Bowling-Green/GIS-Specialist_R185967": "2026-09-28T22:32:09+00:00",
   "workday:parsons/Search:/job/US---VA-Centreville/Embedded-Engineer---TS-SCI_R175642-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---VA-Centreville/Hardware-Reverse-Engineer_R175651-1": "2026-09-24T20:59:40+00:00",
