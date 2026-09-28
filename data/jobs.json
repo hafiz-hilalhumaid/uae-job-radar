@@ -587,6 +587,7 @@
  },
  "smartrecruiters:DeliveryHero:744000149320649": {
   "category": "software",
+  "closed_at": "2026-09-28T09:32:07+00:00",
   "company": "talabat (Delivery Hero)",
   "company_key": "smartrecruiters:DeliveryHero",
   "fingerprint": "talabatdeliveryhero|staff software engineer|dubai",
@@ -601,7 +602,7 @@
   "salary": "",
   "score": 10,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Staff Software Engineer",
   "uid": "smartrecruiters:DeliveryHero:744000149320649",
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000149320649-staff-software-engineer",

@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 84,
+   "fails": 85,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1157,6 +1157,7 @@
   "ashby:openai:915a325b-55f6-44e2-8314-34ec0d8bb2c9": "2026-09-24T20:59:40+00:00",
   "ashby:openai:91653d95-27fc-44bd-bbb3-7078fd6a5718": "2026-09-24T20:59:40+00:00",
   "ashby:openai:91cf75be-a3c6-4f39-9623-f72186fd8553": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:923eebc8-5591-4057-892f-5825de1a5460": "2026-09-28T09:32:07+00:00",
   "ashby:openai:9248eab6-74e0-4940-98eb-ca09b17da532": "2026-09-24T20:59:40+00:00",
   "ashby:openai:932c9cc1-c542-4f67-8d0d-443de87b8213": "2026-09-24T20:59:40+00:00",
   "ashby:openai:93568fc5-8c7a-4cc1-8aad-198d67bf348f": "2026-09-24T20:59:40+00:00",
@@ -1869,6 +1870,7 @@
   "greenhouse:tamara:4975371101": "2026-09-27T09:32:09+00:00",
   "greenhouse:tamara:4977400101": "2026-09-24T20:59:40+00:00",
   "greenhouse:tamara:4979581101": "2026-09-24T20:59:40+00:00",
+  "greenhouse:tamara:4980823101": "2026-09-28T09:32:07+00:00",
   "greenhouse:think-cell:4551502101": "2026-09-24T20:59:40+00:00",
   "greenhouse:think-cell:4671792101": "2026-09-24T20:59:40+00:00",
   "greenhouse:think-cell:4807325101": "2026-09-24T20:59:40+00:00",
@@ -3338,6 +3340,7 @@
   "smartrecruiters:DeliveryHero:744000151369084": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:DeliveryHero:744000151574392": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:DeliveryHero:744000151790782": "2026-09-25T10:11:01+00:00",
+  "smartrecruiters:DeliveryHero:744000152113831": "2026-09-28T09:32:07+00:00",
   "smartrecruiters:GhobashGroup:744000042220982": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:GhobashGroup:744000044225296": "2026-09-24T20:59:40+00:00",
   "smartrecruiters:GhobashGroup:744000050476170": "2026-09-24T20:59:40+00:00",
@@ -3974,6 +3977,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Brand-Manager---Upro-HomeCare_R-1184504": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Distributive-Account-Manager---HCM_R-1186548": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/General-Trade-Key-Account--Chains-Manager--Chain-Customers--Ho-Chi-Minh-City-_R-1188012": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Home-Care-Key-Account-Manager---Mega-Mart---Lotte_R-1188813": "2026-09-28T09:32:07+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Operation-Manager---Small-Format---Central_R-1187108": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Operation-Manager---Small-Format---Mekong-Delta_R-1187109": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Ho-Chi-Minh-City-Vietnam/Quality-Manager---Cu-Chi-Plant_R-1186312": "2026-09-24T20:59:40+00:00",
