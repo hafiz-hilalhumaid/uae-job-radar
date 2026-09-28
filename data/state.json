@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 98,
+   "fails": 99,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3691,6 +3691,7 @@
   "workday:parsons/Search:/job/US---CA-Field-Location/Lead-Construction-Inspector---Water-Wastewater_R186522": "2026-09-28T21:32:11+00:00",
   "workday:parsons/Search:/job/US---CA-Fountain-Valley/Senior-Civil-Inspector_R183411-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Airports_R177024-2": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Airports_R186674": "2026-09-28T21:59:34+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Construction-Manager--Night-Shift---Airports_R186664": "2026-09-28T20:32:11+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Project-Control-Specialist--Airports_R186445-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-Los-Angeles/Sr-Document-Controls-Specialist--Airports_R186537": "2026-09-24T23:52:56+00:00",
@@ -4066,6 +4067,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Nuevo-Leon/Logistics-Coordinator_R-1188045": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Nuevo-Leon/Logistics-FLM-Coordinador-de-Outbound_R-1187011": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Nuevo-Leon/Stock---Inventory-Lead_R-1188031": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Oaxaca-Mexico/Supervisor-de-ventas-IC_R-1187933": "2026-09-28T21:59:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Paris-France/Stage-Conseiller-de-Vente---Maille-Paris_R-1187391": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Patna-PTNH-DC/DC-Customer-Service-Executive_R-1188210-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Phnom-Penh-Cambodia/IT-Business-Partner---Cambodia-and-Laos-and-Supply-Chain---1UL-SLMCL_R-1185620-1": "2026-09-24T20:59:40+00:00",
