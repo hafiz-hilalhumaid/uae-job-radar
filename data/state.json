@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 90,
+   "fails": 91,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -1618,6 +1618,7 @@
   "greenhouse:addepar1:8784459002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8795532002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8799874002": "2026-09-24T20:59:40+00:00",
+  "greenhouse:addepar1:8799876002": "2026-09-28T15:26:02+00:00",
   "greenhouse:addepar1:8799881002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8799895002": "2026-09-24T20:59:40+00:00",
   "greenhouse:addepar1:8802895002": "2026-09-24T20:59:40+00:00",
@@ -3677,6 +3678,7 @@
   "workday:parsons/Search:/job/US---CA-Playa-Del-Rey/Supervising-Structural-Engineer---Wastewater_R185075": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-San-Diego/Senior-AFSIM-Simulation-Engineer---TS-SCI_R186530": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CA-San-Diego/Senior-Civil-Drainage-Engineer_R186496": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/US---CO-Boulder/Lead-Cyber-Security-Systems-Engineer_R186575": "2026-09-28T15:26:02+00:00",
   "workday:parsons/Search:/job/US---CO-Boulder/Senior-DevSecOps-Engineer_R183461": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Boulder/Tier-1-Systems-Administrator---Tuesday-Saturday---Holidays_R185081": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---CO-Colorado-Springs/Software-Engineer--Mid-level_R186540": "2026-09-24T23:52:56+00:00",
