@@ -106,7 +106,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 82,
+   "fails": 83,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "lever:1inch": {
@@ -3915,6 +3915,7 @@
   "workday:parsons/Search:/job/US-WV---Summit-Point/Software-Engineering-Manager--Evergreen-_R181348": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US-WV---Summit-Point/Systems-Engineer--Multiple-Levels---Evergreen-_R181344": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/61-Katherine-Street/Junior-Brand-Manager--Rajah_R-1187484": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/6th-of-October-Egypt/MPC-Mechanical-Maintenance-Engineer_R-1188148": "2026-09-28T07:32:14+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Agdao-Davao-City-Philippines/Major-Accounts-Executive---South-Mindanao_R-1187987": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Assistant-Brand-Manager--Talent-Pooling-_R-1188509": "2026-09-28T03:32:10+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Almaty-Kazakhstan/Key-Account-Manager_R-89237": "2026-09-24T20:59:40+00:00",
@@ -3936,6 +3937,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Chennai-Regional-Office/Territory-Sales-Officer_R-1188654": "2026-09-25T06:23:32+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/CHC-Remote-Delhi-Regional-Office/Expert-Sales-Executive_R-1188548-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cancun-Mexico/Lder-de-Ventas_R-1188696": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Casalpusterlengo-Italy/Operations-Manager_R-1185528-1": "2026-09-28T07:32:14+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Multiskilled-Flexibles-Operator_R-1183181": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Project-Engineer_R-1188130": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Cavite-Philippines/Section-Lead_R-1188650": "2026-09-28T00:32:11+00:00",
