@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-09-28",
+ "fantastic_daily": "2026-09-29",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -734,7 +734,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 102,
+   "fails": 103,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -6557,6 +6557,7 @@
   "ashby:OpenAI:cffa3a8d-918a-4e91-a1c6-3fa84a454408": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:d085d2ec-0256-4ecf-b493-81ea34942e51": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:d1121575-a1a7-47c9-97e6-56c70f441143": "2026-09-28T23:32:12+00:00",
+  "ashby:OpenAI:d189f09f-fd23-4cda-8559-81fe5253e260": "2026-09-29T01:32:08+00:00",
   "ashby:OpenAI:d1a10222-51ae-4fa4-9581-e4586917c024": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:d1a1ab49-399f-42a4-b12c-bb7047b7cdd9": "2026-09-29T00:32:17+00:00",
   "ashby:OpenAI:d1c6cb87-a44d-4d04-92a8-dc40eccd090e": "2026-09-28T23:32:12+00:00",
@@ -11611,6 +11612,7 @@
   "ashby:openai:cffa3a8d-918a-4e91-a1c6-3fa84a454408": "2026-09-24T20:59:40+00:00",
   "ashby:openai:d085d2ec-0256-4ecf-b493-81ea34942e51": "2026-09-24T20:59:40+00:00",
   "ashby:openai:d1121575-a1a7-47c9-97e6-56c70f441143": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:d189f09f-fd23-4cda-8559-81fe5253e260": "2026-09-29T01:32:08+00:00",
   "ashby:openai:d1a10222-51ae-4fa4-9581-e4586917c024": "2026-09-24T20:59:40+00:00",
   "ashby:openai:d1a1ab49-399f-42a4-b12c-bb7047b7cdd9": "2026-09-29T00:32:17+00:00",
   "ashby:openai:d1c6cb87-a44d-4d04-92a8-dc40eccd090e": "2026-09-24T20:59:40+00:00",
@@ -12821,6 +12823,7 @@
   "ashby:ziina:edf1492b-7ade-429b-835a-bba2e7d9374b": "2026-09-28T23:32:12+00:00",
   "ashby:ziina:f7550c0e-b0bd-4786-8c52-e3956bef3717": "2026-09-28T23:32:12+00:00",
   "fantastic:2380566154": "2026-09-25T06:23:32+00:00",
+  "fantastic:2385786538": "2026-09-29T01:32:08+00:00",
   "greenhouse:Tamara:4604220101": "2026-09-28T23:32:12+00:00",
   "greenhouse:Tamara:4630959101": "2026-09-28T23:32:12+00:00",
   "greenhouse:Tamara:4680072101": "2026-09-28T23:32:12+00:00",
@@ -14542,6 +14545,7 @@
   "greenhouse:andurilindustries:5208229007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5208262007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5208269007": "2026-09-28T23:32:12+00:00",
+  "greenhouse:andurilindustries:5208357007": "2026-09-29T01:32:08+00:00",
   "greenhouse:andurilindustries:5208437007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5208441007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5208464007": "2026-09-28T23:32:12+00:00",
@@ -15536,6 +15540,7 @@
   "greenhouse:andurilindustries:5251009007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5251112007": "2026-09-29T00:32:17+00:00",
   "greenhouse:andurilindustries:5251160007": "2026-09-29T00:32:17+00:00",
+  "greenhouse:andurilindustries:5251234007": "2026-09-29T01:32:08+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -26556,6 +26561,7 @@
   "greenhouse:wppmedia:5374849008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5374851008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5374855008": "2026-09-28T23:32:12+00:00",
+  "greenhouse:wppmedia:5374922008": "2026-09-29T01:32:08+00:00",
   "greenhouse:wppmedia:5374982008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5375009008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5375045008": "2026-09-28T23:32:12+00:00",
@@ -39908,6 +39914,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Heilbronn/Bezirksleitung---Hamburg--d-w-m-_R-1187522-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1187918": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1187958": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---La-Rioja-Argentina/Ejecutivo-de-Distribucion---Zona-Salta-y-Jujuy_R-1188381": "2026-09-29T01:32:08+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Lucknow-Regional-Office/Territory-Sales-Officer_R-1188151": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Rueil-Malmaison-France/Responsable-de-Secteur-GMS--F-H----Unilever-Food_R-1184249": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Remote---Taguig-Philippines/B-W-Store-Operations---Luzon-Reseller-Supermarkets_R-1188436": "2026-09-25T04:55:49+00:00",
