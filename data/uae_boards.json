@@ -2752,5 +2752,266 @@
   "name": "Mullers Solutions 1",
   "uae_jobs": 91,
   "via": "sweep"
+ },
+ "workable:mysigrid": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "mysigrid",
+  "last_uae": "2026-09-29",
+  "name": "Mysigrid",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:nobox-hr-outsourcing-solutions": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "nobox-hr-outsourcing-solutions",
+  "last_uae": "2026-09-29",
+  "name": "Nobox Hr Outsourcing Solutions",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:optasia": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "optasia",
+  "last_uae": "2026-09-29",
+  "name": "Optasia",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "workable:pavago": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "pavago",
+  "last_uae": "2026-09-29",
+  "name": "Pavago",
+  "uae_jobs": 45,
+  "via": "sweep"
+ },
+ "workable:progressoft": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "progressoft",
+  "last_uae": "2026-09-29",
+  "name": "Progressoft",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:pxgeo": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "pxgeo",
+  "last_uae": "2026-09-29",
+  "name": "Pxgeo",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "workable:re7-capital": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "re7-capital",
+  "last_uae": "2026-09-29",
+  "name": "Re7 Capital",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:rentokil-initial": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "rentokil-initial",
+  "last_uae": "2026-09-29",
+  "name": "Rentokil Initial",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "workable:robusta": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "robusta",
+  "last_uae": "2026-09-29",
+  "name": "Robusta",
+  "uae_jobs": 16,
+  "via": "sweep"
+ },
+ "workable:scalesource-1": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "scalesource-1",
+  "last_uae": "2026-09-29",
+  "name": "Scalesource 1",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:secure-iq-services": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "secure-iq-services",
+  "last_uae": "2026-09-29",
+  "name": "Secure Iq Services",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:shipa": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "shipa",
+  "last_uae": "2026-09-29",
+  "name": "Shipa",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "workable:sideinc": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "sideinc",
+  "last_uae": "2026-09-29",
+  "name": "Sideinc",
+  "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "workable:ssc-hr": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "ssc-hr",
+  "last_uae": "2026-09-29",
+  "name": "Ssc Hr",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:sunreef-yachts-1": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "sunreef-yachts-1",
+  "last_uae": "2026-09-29",
+  "name": "Sunreef Yachts 1",
+  "uae_jobs": 32,
+  "via": "sweep"
+ },
+ "workable:tamatem": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "tamatem",
+  "last_uae": "2026-09-29",
+  "name": "Tamatem",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:ten-group": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "ten-group",
+  "last_uae": "2026-09-29",
+  "name": "Ten Group",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:the-collecting-group": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "the-collecting-group",
+  "last_uae": "2026-09-29",
+  "name": "The Collecting Group",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:the-optimal-group": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "the-optimal-group",
+  "last_uae": "2026-09-29",
+  "name": "The Optimal Group",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:toloka-ai": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "toloka-ai",
+  "last_uae": "2026-09-29",
+  "name": "Toloka Ai",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:toloka-annotators": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "toloka-annotators",
+  "last_uae": "2026-09-29",
+  "name": "Toloka Annotators",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "workable:unisongroup": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "unisongroup",
+  "last_uae": "2026-09-29",
+  "name": "Unisongroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:visit": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "visit",
+  "last_uae": "2026-09-29",
+  "name": "Visit",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:we-are-social-1": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "we-are-social-1",
+  "last_uae": "2026-09-29",
+  "name": "We Are Social 1",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:weekday-1": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "weekday-1",
+  "last_uae": "2026-09-29",
+  "name": "Weekday 1",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
+ "workable:whitecollarshrm": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "whitecollarshrm",
+  "last_uae": "2026-09-29",
+  "name": "Whitecollarshrm",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:whiteshield": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "whiteshield",
+  "last_uae": "2026-09-29",
+  "name": "Whiteshield",
+  "uae_jobs": 8,
+  "via": "sweep"
+ },
+ "workable:zaintech": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "zaintech",
+  "last_uae": "2026-09-29",
+  "name": "Zaintech",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:zealgroup": {
+  "ats": "workable",
+  "found": "2026-09-29",
+  "id": "zealgroup",
+  "last_uae": "2026-09-29",
+  "name": "Zealgroup",
+  "uae_jobs": 4,
+  "via": "sweep"
  }
 }
