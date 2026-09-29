@@ -1404,5 +1404,27 @@
   "uid": "workable:mullers-solutions-1:DD42BDFE1B",
   "url": "https://apply.workable.com/j/DD42BDFE1B",
   "workplace": ""
+ },
+ "workable:whiteshield:4902818A47": {
+  "category": "ai",
+  "company": "Whiteshield",
+  "company_key": "workable:whiteshield",
+  "fingerprint": "whiteshield|forward deployed policy architect|dubai",
+  "first_seen": "2026-09-29T13:32:09+00:00",
+  "flags": [
+   "Arabic required"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-09-29",
+  "salary": "",
+  "score": 27,
+  "source": "workable",
+  "status": "open",
+  "title": "Forward Deployed Policy Architect (FDPA)",
+  "uid": "workable:whiteshield:4902818A47",
+  "url": "https://apply.workable.com/j/4902818A47",
+  "workplace": ""
  }
 }
