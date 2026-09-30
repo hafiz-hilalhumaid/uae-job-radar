@@ -742,7 +742,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 147,
+   "fails": 148,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -9478,6 +9478,7 @@
   "ashby:harmattan-ai:96f23a6d-3b0b-4034-919b-cfc6f4190ccf": "2026-09-28T23:32:12+00:00",
   "ashby:harmattan-ai:9b62c196-7eb8-4e48-a524-f529a9a23da7": "2026-09-28T23:32:12+00:00",
   "ashby:harmattan-ai:9bb52e22-114d-4e5a-ba90-6ef31466bbe1": "2026-09-28T23:32:12+00:00",
+  "ashby:harmattan-ai:9cf06151-87ad-4137-98e9-14de0ba73b05": "2026-09-30T13:41:33+00:00",
   "ashby:harmattan-ai:9d0411ae-5cc4-47cb-8d37-c8ffcf82334c": "2026-09-30T10:32:10+00:00",
   "ashby:harmattan-ai:9d735123-888d-4791-bb4c-95cd84b8be49": "2026-09-28T23:32:12+00:00",
   "ashby:harmattan-ai:9f92d708-a4f7-4cdc-b156-45457f78ba18": "2026-09-28T23:32:12+00:00",
@@ -40219,6 +40220,7 @@
   "workable:kayali:F176533343": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:003DD7C64A": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:01336E1DDF": "2026-09-28T23:32:12+00:00",
+  "workable:keller-executive-search:01C5C87828": "2026-09-30T13:41:33+00:00",
   "workable:keller-executive-search:026541C3C3": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:04818DAFB0": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:058473448B": "2026-09-28T23:32:12+00:00",
@@ -44197,6 +44199,7 @@
   "workable:weekday-1:88EB99DCF7": "2026-09-30T13:37:39+00:00",
   "workable:weekday-1:88F161D10B": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:89042D2D22": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:893823D6F7": "2026-09-30T13:41:33+00:00",
   "workable:weekday-1:89407CCB82": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:89985924BF": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:8A6256B605": "2026-09-29T03:32:08+00:00",
