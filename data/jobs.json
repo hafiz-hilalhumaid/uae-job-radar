@@ -1307,6 +1307,7 @@
  },
  "teamtailor:https://propertyfinder.teamtailor.com:a64b5c19-d8ba-4e7f-9f31-191c6ec2356f": {
   "category": "software",
+  "closed_at": "2026-09-30T07:32:14+00:00",
   "company": "Property Finder",
   "company_key": "teamtailor:https://propertyfinder.teamtailor.com",
   "fingerprint": "propertyfinder|senior software engineer backend|dubai",
@@ -1319,7 +1320,7 @@
   "salary": "",
   "score": 62,
   "source": "teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer - Backend",
   "uid": "teamtailor:https://propertyfinder.teamtailor.com:a64b5c19-d8ba-4e7f-9f31-191c6ec2356f",
   "url": "https://propertyfinder.teamtailor.com/jobs/8450790-senior-software-engineer-backend",
