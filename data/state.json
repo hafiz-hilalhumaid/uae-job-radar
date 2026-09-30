@@ -742,7 +742,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 145,
+   "fails": 146,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -12705,6 +12705,7 @@
   "ashby:snowflake:e285a14e-4c03-4899-b180-f69276b5a8c9": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:e2b03b7a-2c85-4599-8b04-8757c582d226": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:e32988e0-4e39-42a0-a9d3-e3e98248668e": "2026-09-28T23:32:12+00:00",
+  "ashby:snowflake:e3fd1181-4a50-453b-bc16-42e1b7fccdaa": "2026-09-30T12:45:51+00:00",
   "ashby:snowflake:e4078469-b527-4886-8fdc-7727efc90d8d": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:e47d5736-b86b-4c10-a487-4cc3a012096e": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:e4bb8aa6-a4b5-48c6-8a29-bfbbd5b7fe83": "2026-09-28T23:32:12+00:00",
@@ -31474,6 +31475,7 @@
   "lever:xtb:3e62d343-e1f5-4850-8130-f56c31fa1bb0": "2026-09-28T23:32:12+00:00",
   "lever:xtb:5d0f0d0a-5b12-43d7-a609-cd34b53922e3": "2026-09-28T23:32:12+00:00",
   "lever:xtb:60843490-effe-4b5e-8e38-99e2af0d9d9c": "2026-09-28T23:32:12+00:00",
+  "lever:xtb:61db2e8a-3106-4c08-8614-bd5b189e87e5": "2026-09-30T12:45:51+00:00",
   "lever:xtb:66487079-9cea-4a80-b1c2-e92016c99bf3": "2026-09-28T23:32:12+00:00",
   "lever:xtb:6847f541-3f95-4ee3-b88a-896f165b3b1e": "2026-09-28T23:32:12+00:00",
   "lever:xtb:78d9fff8-d7b1-4788-b295-02a5e8f64869": "2026-09-28T23:32:12+00:00",
