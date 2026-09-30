@@ -1167,6 +1167,7 @@
  },
  "teamtailor:https://abdulrauf1-1741255834.teamtailor.com:187c2514-a6ff-4342-b1f5-94af78f09cb7": {
   "category": "frontend",
+  "closed_at": "2026-09-30T21:37:33+00:00",
   "company": "Abdulrauf1 1741255834",
   "company_key": "teamtailor:https://abdulrauf1-1741255834.teamtailor.com",
   "fingerprint": "abdulrauf11741255834|frontend game developer phaser js|dubai",
@@ -1179,7 +1180,7 @@
   "salary": "",
   "score": 71,
   "source": "teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "Frontend Game Developer - Phaser.js",
   "uid": "teamtailor:https://abdulrauf1-1741255834.teamtailor.com:187c2514-a6ff-4342-b1f5-94af78f09cb7",
   "url": "https://jobs.burjlinebuilders.com/jobs/8378353-frontend-game-developer-phaser-js",
