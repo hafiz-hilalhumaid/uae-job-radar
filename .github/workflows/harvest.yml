@@ -5,6 +5,10 @@ on:
     # Monthly (3rd of the month, 02:23 IST). Common Crawl publishes new crawls roughly monthly.
     - cron: "53 20 2 * *"
   workflow_dispatch:
+    inputs:
+      crawls:
+        description: "How many recent Common Crawl crawls to read (2 = monthly top-up, 6 = one-off deep harvest, ~75 min)"
+        default: "2"
 
 permissions:
   contents: write
@@ -19,13 +23,15 @@ jobs:
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main          # latest state, even if this run waited behind another one
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
       - name: Collect job-board IDs from Common Crawl
-        run: python radar.py harvest --crawls 2
+        run: python radar.py harvest --crawls ${{ inputs.crawls || '2' }}
       - name: Save board list
         run: |
           git config user.name "uae-job-radar"
