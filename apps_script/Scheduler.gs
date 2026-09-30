@@ -4,9 +4,10 @@
  * GitHub's built-in cron has been firing far less often than configured since late Aug 2026
  * (an hourly job may run only 2-3 times a day). This script presses the "Run workflow" button
  * for you through GitHub's API on Google's own, reliable timer:
- *   poll   every hour
- *   sweep  daily around 04:00 IST
- *   digest Mon / Wed / Fri around 08:00 IST
+ *   poll    every hour
+ *   sweep   daily around 04:00 IST
+ *   digest  Mon / Wed / Fri around 08:00 IST
+ *   harvest monthly, on the 3rd around 02:00 IST
  * GitHub's cron stays on as a backup; duplicate runs are harmless (the digest sends once a day).
  *
  * Setup (5 min): README → "Reliable schedule".
@@ -19,6 +20,7 @@ const RADAR = { owner: 'hafiz-hilalhumaid', repo: 'uae-job-radar', ref: 'main' }
 
 function runPoll() { dispatch_('poll.yml'); }
 function runSweep() { dispatch_('sweep.yml'); }
+function runHarvest() { dispatch_('harvest.yml'); }
 function runDigest() {
   const day = Utilities.formatDate(new Date(), 'Asia/Kolkata', 'EEE');
   if (['Mon', 'Wed', 'Fri'].indexOf(day) !== -1) dispatch_('digest.yml');
@@ -47,11 +49,12 @@ function dispatch_(workflow) {
 
 /** Run once. Replaces only this file's triggers (the e-mail forwarder's triggers are left alone). */
 function setupSchedulerTriggers() {
-  const mine = ['runPoll', 'runSweep', 'runDigest'];
+  const mine = ['runPoll', 'runSweep', 'runDigest', 'runHarvest'];
   ScriptApp.getProjectTriggers()
     .filter(t => mine.indexOf(t.getHandlerFunction()) !== -1)
     .forEach(t => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('runPoll').timeBased().everyHours(1).create();
   ScriptApp.newTrigger('runSweep').timeBased().everyDays(1).atHour(4).inTimezone('Asia/Kolkata').create();
   ScriptApp.newTrigger('runDigest').timeBased().everyDays(1).atHour(8).inTimezone('Asia/Kolkata').create();
+  ScriptApp.newTrigger('runHarvest').timeBased().onMonthDay(3).atHour(2).inTimezone('Asia/Kolkata').create();
 }
