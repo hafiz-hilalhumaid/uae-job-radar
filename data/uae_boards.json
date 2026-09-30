@@ -665,6 +665,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:anaplan": {
+  "ats": "greenhouse",
+  "found": "2026-09-30",
+  "id": "anaplan",
+  "last_uae": "2026-09-30",
+  "name": "Anaplan",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:andurilindustries": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1001,6 +1010,15 @@
   "last_uae": "2026-09-30",
   "name": "Fireblocks",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:flyzipline": {
+  "ats": "greenhouse",
+  "found": "2026-09-30",
+  "id": "flyzipline",
+  "last_uae": "2026-09-30",
+  "name": "Zipline ",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:gallup": {
