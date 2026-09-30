@@ -1408,6 +1408,7 @@
  },
  "workable:whiteshield:4902818A47": {
   "category": "ai",
+  "closed_at": "2026-09-30T18:37:34+00:00",
   "company": "Whiteshield",
   "company_key": "workable:whiteshield",
   "fingerprint": "whiteshield|forward deployed policy architect|dubai",
@@ -1422,7 +1423,7 @@
   "salary": "",
   "score": 27,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Policy Architect (FDPA)",
   "uid": "workable:whiteshield:4902818A47",
   "url": "https://apply.workable.com/j/4902818A47",
