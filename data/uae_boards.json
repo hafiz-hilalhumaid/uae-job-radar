@@ -1700,6 +1700,15 @@
   "uae_jobs": 3,
   "via": "sweep"
  },
+ "smartrecruiters:Boskalis": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "Boskalis",
+  "last_uae": "2026-09-30",
+  "name": "Boskalis",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "smartrecruiters:Brainlab": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -1817,6 +1826,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:IOTAGROUP": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "IOTAGROUP",
+  "last_uae": "2026-09-30",
+  "name": "Iotagroup",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
  "smartrecruiters:InfiniteQuant": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -1833,6 +1851,15 @@
   "last_uae": "2026-09-30",
   "name": "Informagroupplc",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:Iqarus": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "Iqarus",
+  "last_uae": "2026-09-30",
+  "name": "Iqarus",
+  "uae_jobs": 3,
   "via": "sweep"
  },
  "smartrecruiters:JobsForHumanity": {
@@ -1860,6 +1887,15 @@
   "last_uae": "2026-09-30",
   "name": "Keenfinity",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "smartrecruiters:LiftedanUpworkCompany": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "LiftedanUpworkCompany",
+  "last_uae": "2026-09-30",
+  "name": "Liftedanupworkcompany",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:Masdar": {
@@ -1905,6 +1941,15 @@
   "last_uae": "2026-09-30",
   "name": "Parkerdrilling1",
   "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "smartrecruiters:QIMA": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "QIMA",
+  "last_uae": "2026-09-30",
+  "name": "Qima",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:REPAGROUP": {
@@ -1968,6 +2013,24 @@
   "last_uae": "2026-09-30",
   "name": "Sgs",
   "uae_jobs": 24,
+  "via": "sweep"
+ },
+ "smartrecruiters:SQUIRCLEITCONSULTINGSERVICESPVTLTD": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "SQUIRCLEITCONSULTINGSERVICESPVTLTD",
+  "last_uae": "2026-09-30",
+  "name": "Squircleitconsultingservicespvtltd",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:SamsungEnA": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "SamsungEnA",
+  "last_uae": "2026-09-30",
+  "name": "Samsungena",
+  "uae_jobs": 14,
   "via": "sweep"
  },
  "smartrecruiters:SanaCommerce": {
@@ -2069,6 +2132,15 @@
   "uae_jobs": 7,
   "via": "sweep"
  },
+ "smartrecruiters:Whitecollars": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "Whitecollars",
+  "last_uae": "2026-09-30",
+  "name": "Whitecollars",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:abbvie": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2085,6 +2157,15 @@
   "last_uae": "2026-09-30",
   "name": "Aecom2",
   "uae_jobs": 194,
+  "via": "sweep"
+ },
+ "smartrecruiters:avaloq1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "avaloq1",
+  "last_uae": "2026-09-30",
+  "name": "Avaloq1",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:averydennison": {
@@ -2132,6 +2213,42 @@
   "uae_jobs": 5,
   "via": "sweep"
  },
+ "smartrecruiters:egisgroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "egisgroup",
+  "last_uae": "2026-09-30",
+  "name": "Egisgroup",
+  "uae_jobs": 128,
+  "via": "sweep"
+ },
+ "smartrecruiters:endava": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "endava",
+  "last_uae": "2026-09-30",
+  "name": "Endava",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:hellokindred": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "hellokindred",
+  "last_uae": "2026-09-30",
+  "name": "Hellokindred",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:ifs1": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "ifs1",
+  "last_uae": "2026-09-30",
+  "name": "Ifs1",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
  "smartrecruiters:jobsforhumanity": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2148,6 +2265,15 @@
   "last_uae": "2026-09-30",
   "name": "Nagarro1",
   "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "smartrecruiters:nielseniq": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "nielseniq",
+  "last_uae": "2026-09-30",
+  "name": "Nielseniq",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:sgs": {
@@ -2168,6 +2294,33 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:turnertownsend": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "turnertownsend",
+  "last_uae": "2026-09-30",
+  "name": "Turnertownsend",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "smartrecruiters:veoliaenvironnementsa": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "veoliaenvironnementsa",
+  "last_uae": "2026-09-30",
+  "name": "Veoliaenvironnementsa",
+  "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "smartrecruiters:whitecollars": {
+  "ats": "smartrecruiters",
+  "found": "2026-09-30",
+  "id": "whitecollars",
+  "last_uae": "2026-09-30",
+  "name": "Whitecollars",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "teamtailor:https://abdulrauf1-1741255834.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-28",
@@ -2175,6 +2328,15 @@
   "last_uae": "2026-09-30",
   "name": "Abdulrauf1 1741255834",
   "uae_jobs": 19,
+  "via": "sweep"
+ },
+ "teamtailor:https://altavia.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-30",
+  "id": "https://altavia.teamtailor.com",
+  "last_uae": "2026-09-30",
+  "name": "Altavia",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "teamtailor:https://bsm.teamtailor.com": {
@@ -2258,6 +2420,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "teamtailor:https://swissas.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-09-30",
+  "id": "https://swissas.teamtailor.com",
+  "last_uae": "2026-09-30",
+  "name": "Swissas",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "teamtailor:https://toppansecurity.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-28",
@@ -2292,6 +2463,15 @@
   "last_uae": "2026-09-30",
   "name": "Wiser",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:abakus-center": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "abakus-center",
+  "last_uae": "2026-09-30",
+  "name": "Abakus Center",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:abu-dhabi-investment-council": {
@@ -2348,6 +2528,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:al-jomaih-energy-and-water": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "al-jomaih-energy-and-water",
+  "last_uae": "2026-09-30",
+  "name": "Al Jomaih Energy And Water",
+  "uae_jobs": 6,
+  "via": "sweep"
+ },
  "workable:alex-staff-agency-careers": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2357,6 +2546,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "workable:apt-resources": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "apt-resources",
+  "last_uae": "2026-09-30",
+  "name": "Apt Resources",
+  "uae_jobs": 252,
+  "via": "sweep"
+ },
  "workable:arabicai": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2364,6 +2562,15 @@
   "last_uae": "2026-09-30",
   "name": "Arabicai",
   "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:arcsen": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "arcsen",
+  "last_uae": "2026-09-30",
+  "name": "Arcsen",
+  "uae_jobs": 6,
   "via": "sweep"
  },
  "workable:avomind": {
@@ -2384,6 +2591,33 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "workable:bbgc": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "bbgc",
+  "last_uae": "2026-09-30",
+  "name": "Bbgc",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:beond": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "beond",
+  "last_uae": "2026-09-30",
+  "name": "Beond",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:blackstone-eit-2": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "blackstone-eit-2",
+  "last_uae": "2026-09-30",
+  "name": "Blackstone Eit 2",
+  "uae_jobs": 75,
+  "via": "sweep"
+ },
  "workable:brainlake-agency": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2393,6 +2627,15 @@
   "uae_jobs": 9,
   "via": "sweep"
  },
+ "workable:brixio": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "brixio",
+  "last_uae": "2026-09-30",
+  "name": "Brixio",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
  "workable:capitex": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2400,6 +2643,15 @@
   "last_uae": "2026-09-30",
   "name": "Capitex",
   "uae_jobs": 55,
+  "via": "sweep"
+ },
+ "workable:careers-imdad": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "careers-imdad",
+  "last_uae": "2026-09-30",
+  "name": "Careers Imdad",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:caxton": {
@@ -2420,12 +2672,39 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:chain-reaction-1": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "chain-reaction-1",
+  "last_uae": "2026-09-30",
+  "name": "Chain Reaction 1",
+  "uae_jobs": 12,
+  "via": "sweep"
+ },
  "workable:chaingpt": {
   "ats": "workable",
   "found": "2026-09-28",
   "id": "chaingpt",
   "last_uae": "2026-09-30",
   "name": "Chaingpt",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:conares": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "conares",
+  "last_uae": "2026-09-30",
+  "name": "Conares",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:cordx": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "cordx",
+  "last_uae": "2026-09-30",
+  "name": "Cordx",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -2483,6 +2762,33 @@
   "uae_jobs": 4,
   "via": "sweep"
  },
+ "workable:digifycareers": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "digifycareers",
+  "last_uae": "2026-09-30",
+  "name": "Digifycareers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:division50": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "division50",
+  "last_uae": "2026-09-30",
+  "name": "Division50",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:driven-properties-1": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "driven-properties-1",
+  "last_uae": "2026-09-30",
+  "name": "Driven Properties 1",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
  "workable:elevate-47": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2499,6 +2805,15 @@
   "last_uae": "2026-09-30",
   "name": "Emaratech 2",
   "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:emerging-travel-group": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "emerging-travel-group",
+  "last_uae": "2026-09-30",
+  "name": "Emerging Travel Group",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:emirates-investment-authority": {
@@ -2537,12 +2852,30 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:experts-plus": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "experts-plus",
+  "last_uae": "2026-09-30",
+  "name": "Experts Plus",
+  "uae_jobs": 117,
+  "via": "sweep"
+ },
  "workable:fenergocareers": {
   "ats": "workable",
   "found": "2026-09-28",
   "id": "fenergocareers",
   "last_uae": "2026-09-30",
   "name": "Fenergocareers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:flexxon-1": {
+  "ats": "workable",
+  "found": "2026-09-30",
+  "id": "flexxon-1",
+  "last_uae": "2026-09-30",
+  "name": "Flexxon 1",
   "uae_jobs": 1,
   "via": "sweep"
  },
