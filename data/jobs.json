@@ -1084,6 +1084,26 @@
   "url": "https://jobs.eu.lever.co/quadcode/33963386-c714-43f1-966f-a8887e4b156a",
   "workplace": "remote"
  },
+ "recruitee:tether:2637659": {
+  "category": "ai",
+  "company": "Tether",
+  "company_key": "recruitee:tether",
+  "fingerprint": "tether|ai research engineer|uae",
+  "first_seen": "2026-10-01T23:37:38+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Remote job",
+  "notified": "seed",
+  "posted_at": "2026-06-11 19:37:12 UTC",
+  "salary": "",
+  "score": 65,
+  "source": "recruitee",
+  "status": "open",
+  "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
+  "uid": "recruitee:tether:2637659",
+  "url": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-6",
+  "workplace": "Remote"
+ },
  "smartrecruiters:DeliveryHero:744000104668570": {
   "category": "software",
   "company": "talabat (Delivery Hero)",
