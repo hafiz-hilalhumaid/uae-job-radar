@@ -71,6 +71,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:Redis": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "Redis",
+  "last_uae": "2026-10-01",
+  "name": "Redis",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:Rogo": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -422,6 +431,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:openart": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "openart",
+  "last_uae": "2026-10-01",
+  "name": "Openart",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "ashby:paires": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -429,6 +447,24 @@
   "last_uae": "2026-10-01",
   "name": "Paires",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:paradox": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "paradox",
+  "last_uae": "2026-10-01",
+  "name": "Paradox",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "ashby:pavebank": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "pavebank",
+  "last_uae": "2026-10-01",
+  "name": "Pavebank",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "ashby:pod-network": {
@@ -456,6 +492,15 @@
   "last_uae": "2026-10-01",
   "name": "Pragmatike",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:quantexa": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "quantexa",
+  "last_uae": "2026-10-01",
+  "name": "Quantexa",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "ashby:quartermaster": {
@@ -503,6 +548,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:skyflow": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "skyflow",
+  "last_uae": "2026-10-01",
+  "name": "Skyflow",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:snowflake": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -539,12 +593,39 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:sui foundation": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "sui foundation",
+  "last_uae": "2026-10-01",
+  "name": "Sui Foundation",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:symbiotic": {
   "ats": "ashby",
   "found": "2026-09-28",
   "id": "symbiotic",
   "last_uae": "2026-09-29",
   "name": "Symbiotic",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:taptapsend": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "taptapsend",
+  "last_uae": "2026-10-01",
+  "name": "Taptapsend",
+  "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "ashby:teamworks": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "teamworks",
+  "last_uae": "2026-10-01",
+  "name": "Teamworks",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -611,6 +692,24 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:vidrush": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "vidrush",
+  "last_uae": "2026-10-01",
+  "name": "Vidrush",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:wincent": {
+  "ats": "ashby",
+  "found": "2026-10-01",
+  "id": "wincent",
+  "last_uae": "2026-10-01",
+  "name": "Wincent",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:ziina": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -618,6 +717,15 @@
   "last_uae": "2026-10-01",
   "name": "Ziina",
   "uae_jobs": 16,
+  "via": "sweep"
+ },
+ "greenhouse:OKX": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "OKX",
+  "last_uae": "2026-10-01",
+  "name": "Okx",
+  "uae_jobs": 10,
   "via": "sweep"
  },
  "greenhouse:Tamara": {
@@ -2933,6 +3041,15 @@
   "uae_jobs": 7,
   "via": "sweep"
  },
+ "workable:getsubstance": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "getsubstance",
+  "last_uae": "2026-10-01",
+  "name": "Getsubstance",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:gigabrands": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2942,6 +3059,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:goglobal": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "goglobal",
+  "last_uae": "2026-10-01",
+  "name": "Goglobal",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
  "workable:gramian": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -2949,6 +3075,51 @@
   "last_uae": "2026-10-01",
   "name": "Gramian",
   "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "workable:gsstech-group": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "gsstech-group",
+  "last_uae": "2026-10-01",
+  "name": "Gsstech Group",
+  "uae_jobs": 17,
+  "via": "sweep"
+ },
+ "workable:gtech": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "gtech",
+  "last_uae": "2026-10-01",
+  "name": "Gtech",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:hadley-designs": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "hadley-designs",
+  "last_uae": "2026-10-01",
+  "name": "Hadley Designs",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:hextrust": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "hextrust",
+  "last_uae": "2026-10-01",
+  "name": "Hextrust",
+  "uae_jobs": 8,
+  "via": "sweep"
+ },
+ "workable:high-street-resources": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "high-street-resources",
+  "last_uae": "2026-10-01",
+  "name": "High Street Resources",
+  "uae_jobs": 26,
   "via": "sweep"
  },
  "workable:hire-resolve-the-top-recruitment-agency": {
@@ -3014,6 +3185,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:infomineo": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "infomineo",
+  "last_uae": "2026-10-01",
+  "name": "Infomineo",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "workable:infosys-consulting-europe": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -3041,6 +3221,33 @@
   "uae_jobs": 5,
   "via": "sweep"
  },
+ "workable:interocean": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "interocean",
+  "last_uae": "2026-10-01",
+  "name": "Interocean",
+  "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:interpolitan-money": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "interpolitan-money",
+  "last_uae": "2026-10-01",
+  "name": "Interpolitan Money",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:interweave": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "interweave",
+  "last_uae": "2026-10-01",
+  "name": "Interweave",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:irth": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -3048,6 +3255,24 @@
   "last_uae": "2026-10-01",
   "name": "Irth",
   "uae_jobs": 22,
+  "via": "sweep"
+ },
+ "workable:jove": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "jove",
+  "last_uae": "2026-10-01",
+  "name": "Jove",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:kaizenams": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "kaizenams",
+  "last_uae": "2026-10-01",
+  "name": "Kaizenams",
+  "uae_jobs": 9,
   "via": "sweep"
  },
  "workable:kayali": {
@@ -3065,6 +3290,33 @@
   "id": "keller-executive-search",
   "last_uae": "2026-10-01",
   "name": "Keller Executive Search",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:lmax": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "lmax",
+  "last_uae": "2026-10-01",
+  "name": "Lmax",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:luxarabia-1": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "luxarabia-1",
+  "last_uae": "2026-10-01",
+  "name": "Luxarabia 1",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:manna-1": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "manna-1",
+  "last_uae": "2026-10-01",
+  "name": "Manna 1",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -3113,6 +3365,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "workable:nawy-real-estate": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "nawy-real-estate",
+  "last_uae": "2026-10-01",
+  "name": "Nawy Real Estate",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:nobox-hr-outsourcing-solutions": {
   "ats": "workable",
   "found": "2026-09-29",
@@ -3131,6 +3392,15 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "workable:parrot-analytics-4": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "parrot-analytics-4",
+  "last_uae": "2026-10-01",
+  "name": "Parrot Analytics 4",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "workable:pavago": {
   "ats": "workable",
   "found": "2026-09-29",
@@ -3138,6 +3408,15 @@
   "last_uae": "2026-10-01",
   "name": "Pavago",
   "uae_jobs": 45,
+  "via": "sweep"
+ },
+ "workable:pfm-global-fzco": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "pfm-global-fzco",
+  "last_uae": "2026-10-01",
+  "name": "Pfm Global Fzco",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:progressoft": {
@@ -3165,6 +3444,15 @@
   "last_uae": "2026-10-01",
   "name": "Re7 Capital",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:remotepass": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "remotepass",
+  "last_uae": "2026-10-01",
+  "name": "Remotepass",
+  "uae_jobs": 4,
   "via": "sweep"
  },
  "workable:rentokil-initial": {
@@ -3203,6 +3491,24 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "workable:seezcareers": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "seezcareers",
+  "last_uae": "2026-10-01",
+  "name": "Seezcareers",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:seosherpa": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "seosherpa",
+  "last_uae": "2026-10-01",
+  "name": "Seosherpa",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
  "workable:shipa": {
   "ats": "workable",
   "found": "2026-09-29",
@@ -3221,6 +3527,15 @@
   "uae_jobs": 11,
   "via": "sweep"
  },
+ "workable:smartcrowd": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "smartcrowd",
+  "last_uae": "2026-10-01",
+  "name": "Smartcrowd",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:ssc-hr": {
   "ats": "workable",
   "found": "2026-09-29",
@@ -3228,6 +3543,15 @@
   "last_uae": "2026-10-01",
   "name": "Ssc Hr",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:stakefish": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "stakefish",
+  "last_uae": "2026-10-01",
+  "name": "Stakefish",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:sunreef-yachts-1": {
@@ -3245,6 +3569,15 @@
   "id": "tamatem",
   "last_uae": "2026-10-01",
   "name": "Tamatem",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:teltonika": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "teltonika",
+  "last_uae": "2026-10-01",
+  "name": "Teltonika",
   "uae_jobs": 2,
   "via": "sweep"
  },
@@ -3273,6 +3606,15 @@
   "last_uae": "2026-10-01",
   "name": "The Optimal Group",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:tmgm": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "tmgm",
+  "last_uae": "2026-10-01",
+  "name": "Tmgm",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "workable:toloka-ai": {
