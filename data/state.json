@@ -790,7 +790,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 174,
+   "fails": 175,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -10563,6 +10563,7 @@
   "ashby:kong:dbab32ac-1eb5-4a61-8a43-b647a746f27e": "2026-09-28T23:32:12+00:00",
   "ashby:kong:dc722822-ddf7-4932-aee1-1f4f9becae2c": "2026-09-28T23:32:12+00:00",
   "ashby:kong:e022613c-5246-40f4-9c03-38b85394e62d": "2026-09-28T23:32:12+00:00",
+  "ashby:kong:e3ee2fd1-0fa3-4791-946f-d43040d3203e": "2026-10-01T13:10:59+00:00",
   "ashby:kong:e4ca8151-011a-4a0b-9165-dec2eefd37bb": "2026-09-28T23:32:12+00:00",
   "ashby:kong:ea7b507b-b249-4cf2-88ea-09fbbaf32acb": "2026-09-28T23:32:12+00:00",
   "ashby:kong:eb2774d0-e928-44f1-9d96-96a616b48526": "2026-09-28T23:32:12+00:00",
@@ -10816,6 +10817,7 @@
   "ashby:legora:90d6e3ad-9772-4ae6-bc53-46a8cd8b3546": "2026-09-28T23:32:12+00:00",
   "ashby:legora:910b1e4f-0a00-4b27-8027-f56780aaf6f1": "2026-09-28T23:32:12+00:00",
   "ashby:legora:918ae24a-3224-492a-bd90-dda38a848615": "2026-09-28T23:32:12+00:00",
+  "ashby:legora:9236e77f-1951-4325-9400-8417e3c312e4": "2026-10-01T13:10:59+00:00",
   "ashby:legora:92db5fb3-581b-4dcd-b6c1-84c8ba39bb9e": "2026-09-28T23:32:12+00:00",
   "ashby:legora:94138be2-28cc-40bd-84df-ae24365f5dd5": "2026-09-28T23:32:12+00:00",
   "ashby:legora:94ba8580-636d-4fe7-becd-fbfe44bb367d": "2026-09-28T23:32:12+00:00",
@@ -19413,6 +19415,7 @@
   "greenhouse:careem:8620289002": "2026-09-29T08:28:51+00:00",
   "greenhouse:careem:8620292002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8620488002": "2026-09-24T20:59:40+00:00",
+  "greenhouse:careem:8620725002": "2026-10-01T13:10:59+00:00",
   "greenhouse:careem:8622174002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8640594002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8651240002": "2026-09-24T20:59:40+00:00",
@@ -28668,6 +28671,7 @@
   "greenhouse:wppmedia:5039075008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5039076008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5039367008": "2026-09-28T23:32:12+00:00",
+  "greenhouse:wppmedia:5040678008": "2026-10-01T13:10:59+00:00",
   "greenhouse:wppmedia:5042490008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5054100008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5055338008": "2026-09-28T23:32:12+00:00",
@@ -30125,6 +30129,7 @@
   "lever:Yassir:3f8932cc-4ad9-453b-9ac3-ff177510a55b": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:41cc270d-39da-4bb1-95dc-60cc77d8b996": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:42c5783c-6c65-4924-b37e-c0c2679b262b": "2026-09-24T20:59:40+00:00",
+  "lever:Yassir:46d3e849-2984-44d7-b535-85d43d2440bb": "2026-10-01T13:10:59+00:00",
   "lever:Yassir:474e4507-6bf6-4a85-a1d1-54c8f522afc2": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:482f4348-9f31-44a9-9a0c-d42322523667": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:49929f25-c49b-4dc5-9483-9ffdb2076bd3": "2026-09-24T20:59:40+00:00",
@@ -34434,6 +34439,7 @@
   "smartrecruiters:EtihadAirways5:744000152904600": "2026-10-01T11:37:40+00:00",
   "smartrecruiters:EtihadAirways5:744000152907425": "2026-10-01T11:37:40+00:00",
   "smartrecruiters:EtihadAirways5:744000152921629": "2026-10-01T12:37:38+00:00",
+  "smartrecruiters:EtihadAirways5:744000152930525": "2026-10-01T13:10:59+00:00",
   "smartrecruiters:GermanInternationalSchoolDubai:744000083602855": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:GermanInternationalSchoolDubai:744000111032355": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:GermanInternationalSchoolDubai:744000129699070": "2026-09-28T23:32:12+00:00",
