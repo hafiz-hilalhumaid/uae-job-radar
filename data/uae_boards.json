@@ -901,6 +901,15 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "greenhouse:boomilp": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "boomilp",
+  "last_uae": "2026-10-01",
+  "name": "Boomi ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:braze": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1019,6 +1028,15 @@
   "uae_jobs": 8,
   "via": "sweep"
  },
+ "greenhouse:deliveroo": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "deliveroo",
+  "last_uae": "2026-10-01",
+  "name": "Deliveroo ",
+  "uae_jobs": 12,
+  "via": "sweep"
+ },
  "greenhouse:diligentcorporation": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1035,6 +1053,15 @@
   "last_uae": "2026-10-01",
   "name": "dmg events",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:dragos": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "dragos",
+  "last_uae": "2026-10-01",
+  "name": "Dragos",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:drivewealth": {
@@ -1165,6 +1192,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:guidepoint": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "guidepoint",
+  "last_uae": "2026-10-01",
+  "name": "Guidepoint",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
  "greenhouse:harnessinc": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1192,6 +1228,15 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "greenhouse:interviewengineering": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "interviewengineering",
+  "last_uae": "2026-10-01",
+  "name": "Interview Engineering",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:jensenhughes": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1210,6 +1255,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:midpointmarkets": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "midpointmarkets",
+  "last_uae": "2026-10-01",
+  "name": "Midpoint Markets",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "greenhouse:momentumcorporateservicesllcdbamomentum": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1218,6 +1272,15 @@
   "last_uae": "2026-10-01",
   "name": "Momentumcorporateservicesllcdbamomentum",
   "uae_jobs": 14,
+  "via": "sweep"
+ },
+ "greenhouse:mongodb": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "mongodb",
+  "last_uae": "2026-10-01",
+  "name": "Mongodb",
+  "uae_jobs": 3,
   "via": "sweep"
  },
  "greenhouse:monks": {
@@ -1237,6 +1300,51 @@
   "last_uae": "2026-10-01",
   "name": "Nebius",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:novisto78": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "novisto78",
+  "last_uae": "2026-10-01",
+  "name": "Novisto",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:okx": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "okx",
+  "last_uae": "2026-10-01",
+  "name": "Okx",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "greenhouse:oliver": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "oliver",
+  "last_uae": "2026-10-01",
+  "name": "OLIVER Agency",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:openfx": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "openfx",
+  "last_uae": "2026-10-01",
+  "name": "Openfx",
+  "uae_jobs": 10,
+  "via": "sweep"
+ },
+ "greenhouse:openspace": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "openspace",
+  "last_uae": "2026-10-01",
+  "name": "Openspace",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:pallet": {
@@ -1281,6 +1389,15 @@
   "id": "prenuvo",
   "last_uae": "2026-10-01",
   "name": "Prenuvo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:prosek": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "prosek",
+  "last_uae": "2026-10-01",
+  "name": "Prosek Partners",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1338,6 +1455,15 @@
   "uae_jobs": 3,
   "via": "sweep"
  },
+ "greenhouse:rondoenergy": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "rondoenergy",
+  "last_uae": "2026-10-01",
+  "name": "Rondo Energy",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:saildroneinc": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1374,6 +1500,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:socket": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "socket",
+  "last_uae": "2026-10-01",
+  "name": "Socket",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:sonymusicentertainment": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1381,6 +1516,15 @@
   "last_uae": "2026-10-01",
   "name": "Sony Music Global Job Board",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:sothebys": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "sothebys",
+  "last_uae": "2026-10-01",
+  "name": "Sotheby's",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "greenhouse:speechify": {
@@ -1402,6 +1546,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:summittherapeutics": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "summittherapeutics",
+  "last_uae": "2026-10-01",
+  "name": "Summit Therapeutics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:telnyx54": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1409,6 +1562,15 @@
   "last_uae": "2026-10-01",
   "name": "Telnyx",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:teneolinkedin": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "teneolinkedin",
+  "last_uae": "2026-10-01",
+  "name": "Teneo external feed for LinkedIn ",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:theeconomistgroup": {
@@ -1437,6 +1599,15 @@
   "id": "thirdbridge",
   "last_uae": "2026-10-01",
   "name": "Third Bridge",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:ubiquiti": {
+  "ats": "greenhouse",
+  "found": "2026-10-01",
+  "id": "ubiquiti",
+  "last_uae": "2026-10-01",
+  "name": "Ubiquiti",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1580,6 +1751,16 @@
   "uae_jobs": 3,
   "via": "sweep"
  },
+ "lever:lionbridge": {
+  "ats": "lever",
+  "found": "2026-10-01",
+  "host": "eu",
+  "id": "lionbridge",
+  "last_uae": "2026-10-01",
+  "name": "Lionbridge",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "lever:lyrahealth": {
   "ats": "lever",
   "found": "2026-09-28",
@@ -1655,6 +1836,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "recruitee:deluxeholidayhomes": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "deluxeholidayhomes",
+  "last_uae": "2026-10-01",
+  "name": "Deluxeholidayhomes",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
  "recruitee:fundamentalhospitality": {
   "ats": "recruitee",
   "found": "2026-09-28",
@@ -1662,6 +1852,15 @@
   "last_uae": "2026-10-01",
   "name": "Fundamentalhospitality",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "recruitee:globaljetluxembourg": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "globaljetluxembourg",
+  "last_uae": "2026-10-01",
+  "name": "Globaljetluxembourg",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "recruitee:heliumdoc": {
@@ -1700,6 +1899,60 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "recruitee:mrmarinegroup": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "mrmarinegroup",
+  "last_uae": "2026-10-01",
+  "name": "Mrmarinegroup",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "recruitee:palazzoversacedubai": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "palazzoversacedubai",
+  "last_uae": "2026-10-01",
+  "name": "Palazzoversacedubai",
+  "uae_jobs": 42,
+  "via": "sweep"
+ },
+ "recruitee:tether": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "tether",
+  "last_uae": "2026-10-01",
+  "name": "Tether",
+  "uae_jobs": 13,
+  "via": "sweep"
+ },
+ "recruitee:tisgmbh": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "tisgmbh",
+  "last_uae": "2026-10-01",
+  "name": "Tisgmbh",
+  "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "recruitee:transperfect": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "transperfect",
+  "last_uae": "2026-10-01",
+  "name": "Transperfect",
+  "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "recruitee:unitedalsaqergroup": {
+  "ats": "recruitee",
+  "found": "2026-10-01",
+  "id": "unitedalsaqergroup",
+  "last_uae": "2026-10-01",
+  "name": "Unitedalsaqergroup",
+  "uae_jobs": 67,
+  "via": "sweep"
+ },
  "smartrecruiters:AECOM2": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -1734,6 +1987,15 @@
   "last_uae": "2026-10-01",
   "name": "Accorhotel",
   "uae_jobs": 365,
+  "via": "sweep"
+ },
+ "smartrecruiters:AdgecoGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-01",
+  "id": "AdgecoGroup",
+  "last_uae": "2026-10-01",
+  "name": "Adgecogroup",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:ArchirodonGroup": {
@@ -2742,6 +3004,15 @@
   "last_uae": "2026-10-01",
   "name": "Brixio",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:callsign": {
+  "ats": "workable",
+  "found": "2026-10-01",
+  "id": "callsign",
+  "last_uae": "2026-10-01",
+  "name": "Callsign",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:capitex": {
