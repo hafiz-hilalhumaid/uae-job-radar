@@ -777,6 +777,7 @@
  },
  "greenhouse:esri:5242145007": {
   "category": "software",
+  "closed_at": "2026-10-01T12:37:38+00:00",
   "company": "Esri",
   "company_key": "greenhouse:esri",
   "fingerprint": "esri|software development engineer i|sharjah",
@@ -789,7 +790,7 @@
   "salary": "",
   "score": 63,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Software Development Engineer I",
   "uid": "greenhouse:esri:5242145007",
   "url": "https://www.esri.com/careers/5242145007?gh_jid=5242145007",
