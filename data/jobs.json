@@ -651,6 +651,27 @@
   "url": "https://careers.capgemini.com/job/Abu-Dhabi-Senior-Full-Stack-Consultant/1441450633/",
   "workplace": "On-site"
  },
+ "fantastic:2389839495": {
+  "category": "frontend",
+  "company": "IFZA Dubai",
+  "company_key": "fantastic",
+  "expires": "2026-10-22T02:15:40+00:00",
+  "fingerprint": "ifzadubai|frontend developer|dubai",
+  "first_seen": "2026-10-01T02:15:40+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-09-30T00:00:00",
+  "salary": "",
+  "score": 79,
+  "source": "fantastic/zoho",
+  "status": "open",
+  "title": "Frontend Developer",
+  "uid": "fantastic:2389839495",
+  "url": "https://ifza.zohorecruit.com/jobs/Careers/657869000066174040/Frontend-Developer",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
