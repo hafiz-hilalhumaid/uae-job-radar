@@ -260,6 +260,15 @@
   "uae_jobs": 4,
   "via": "sweep"
  },
+ "ashby:ddn": {
+  "ats": "ashby",
+  "found": "2026-10-02",
+  "id": "ddn",
+  "last_uae": "2026-10-02",
+  "name": "Ddn",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:delinea": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -329,6 +338,15 @@
   "id": "iceye",
   "last_uae": "2026-10-02",
   "name": "Iceye",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:ideals": {
+  "ats": "ashby",
+  "found": "2026-10-02",
+  "id": "ideals",
+  "last_uae": "2026-10-02",
+  "name": "Ideals",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -438,6 +456,15 @@
   "last_uae": "2026-10-02",
   "name": "Openart",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:options-it": {
+  "ats": "ashby",
+  "found": "2026-10-02",
+  "id": "options-it",
+  "last_uae": "2026-10-02",
+  "name": "Options It",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "ashby:paires": {
@@ -1602,6 +1629,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:towerresearchcapital": {
+  "ats": "greenhouse",
+  "found": "2026-10-02",
+  "id": "towerresearchcapital",
+  "last_uae": "2026-10-02",
+  "name": "Tower Research Capital",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:ubiquiti": {
   "ats": "greenhouse",
   "found": "2026-10-01",
@@ -2005,6 +2041,15 @@
   "last_uae": "2026-10-02",
   "name": "Archirodongroup",
   "uae_jobs": 103,
+  "via": "sweep"
+ },
+ "smartrecruiters:AudemarsPiguet": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-02",
+  "id": "AudemarsPiguet",
+  "last_uae": "2026-10-02",
+  "name": "Audemarspiguet",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:Avaloq1": {
