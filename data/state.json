@@ -866,7 +866,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 197,
+   "fails": 198,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -32924,6 +32924,7 @@
   "greenhouse:wppmedia:5439465008": "2026-09-30T07:32:14+00:00",
   "greenhouse:wppmedia:5439483008": "2026-09-30T07:32:14+00:00",
   "greenhouse:wppmedia:5439502008": "2026-09-30T08:32:11+00:00",
+  "greenhouse:wppmedia:5439503008": "2026-10-02T08:37:37+00:00",
   "greenhouse:wppmedia:5439510008": "2026-09-30T08:32:11+00:00",
   "greenhouse:wppmedia:5439513008": "2026-09-30T09:32:15+00:00",
   "greenhouse:wppmedia:5439516008": "2026-09-30T09:32:15+00:00",
@@ -38382,6 +38383,7 @@
   "smartrecruiters:AccorHotel:744000153112044": "2026-10-02T07:37:34+00:00",
   "smartrecruiters:AccorHotel:744000153119439": "2026-10-02T08:33:33+00:00",
   "smartrecruiters:AccorHotel:744000153124339": "2026-10-02T08:33:33+00:00",
+  "smartrecruiters:AccorHotel:744000153126028": "2026-10-02T08:37:37+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:ArchirodonGroup:744000072238429": "2026-09-28T23:32:12+00:00",
@@ -39175,6 +39177,7 @@
   "smartrecruiters:TurnerTownsend:744000152475080": "2026-09-29T15:50:09+00:00",
   "smartrecruiters:TurnerTownsend:744000152590881": "2026-09-30T05:32:08+00:00",
   "smartrecruiters:TurnerTownsend:744000152596979": "2026-09-30T06:32:07+00:00",
+  "smartrecruiters:TurnerTownsend:744000153121662": "2026-10-02T08:37:37+00:00",
   "smartrecruiters:VeoliaEnvironnementSA:744000130738029": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:VeoliaEnvironnementSA:744000136136454": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:VeoliaEnvironnementSA:744000144083344": "2026-09-28T23:32:12+00:00",
@@ -39676,6 +39679,7 @@
   "smartrecruiters:turnertownsend:744000152373359": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:turnertownsend:744000152590881": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:turnertownsend:744000152596979": "2026-09-30T23:37:39+00:00",
+  "smartrecruiters:turnertownsend:744000153121662": "2026-10-02T08:37:37+00:00",
   "smartrecruiters:veoliaenvironnementsa:744000130738029": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:veoliaenvironnementsa:744000136136454": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:veoliaenvironnementsa:744000144083344": "2026-09-30T23:37:39+00:00",
@@ -49265,6 +49269,7 @@
   "workable:rentokil-initial:08DA74E384": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:090A4A8CED": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:09100431D6": "2026-09-29T03:32:08+00:00",
+  "workable:rentokil-initial:09F2D1AF42": "2026-10-02T08:37:37+00:00",
   "workable:rentokil-initial:09F77FB1C6": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:0A11812B3F": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:0AF471E0A3": "2026-09-29T03:32:08+00:00",
