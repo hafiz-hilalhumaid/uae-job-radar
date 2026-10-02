@@ -542,52 +542,6 @@
   "url": "https://jobs.ashbyhq.com/ziina/fba4d650-5f20-4792-9ae7-472ef447b768",
   "workplace": "OnSite"
  },
- "fantastic:2380177543": {
-  "category": "software",
-  "company": "Callsign",
-  "company_key": "fantastic",
-  "expires": "2026-10-16T06:23:32+00:00",
-  "fingerprint": "callsign|senior software engineer|abudhabi",
-  "first_seen": "2026-09-25T06:23:32+00:00",
-  "flags": [
-   "visa/relocation"
-  ],
-  "loc_type": "uae",
-  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-  "notified": "digest",
-  "posted_at": "2026-09-24T10:30:32.075",
-  "salary": "",
-  "score": 55,
-  "source": "fantastic/workable",
-  "status": "open",
-  "title": "Senior Software Engineer",
-  "uid": "fantastic:2380177543",
-  "url": "https://jobs.workable.com/view/kAj9AJW42i1Xcep3U4RGq2/senior-software-engineer-in-abu-dhabi-at-callsign",
-  "workplace": "On-site"
- },
- "fantastic:2380177859": {
-  "category": "software",
-  "company": "Callsign",
-  "company_key": "fantastic",
-  "expires": "2026-10-16T06:23:32+00:00",
-  "fingerprint": "callsign|software engineer|abudhabi",
-  "first_seen": "2026-09-25T06:23:32+00:00",
-  "flags": [
-   "visa/relocation"
-  ],
-  "loc_type": "uae",
-  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-  "notified": "digest",
-  "posted_at": "2026-09-24T10:22:34.831",
-  "salary": "",
-  "score": 55,
-  "source": "fantastic/workable",
-  "status": "open",
-  "title": "Software Engineer",
-  "uid": "fantastic:2380177859",
-  "url": "https://jobs.workable.com/view/5T7uF7UBvb2VwKJ2wSK3fw/software-engineer-in-abu-dhabi-at-callsign",
-  "workplace": "On-site"
- },
  "fantastic:2380428853": {
   "category": "fullstack",
   "company": "BlackStone eIT",
@@ -949,6 +903,7 @@
  },
  "greenhouse:speechify:5974350004": {
   "category": "software",
+  "closed_at": "2026-10-02T08:33:33+00:00",
   "company": "Speechify",
   "company_key": "greenhouse:speechify",
   "fingerprint": "speechify|software engineer platform dubai united arab emirates|dubai",
@@ -961,7 +916,7 @@
   "salary": "",
   "score": 49,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer, Platform - Dubai, United Arab Emirates",
   "uid": "greenhouse:speechify:5974350004",
   "url": "https://job-boards.greenhouse.io/speechify/jobs/5974350004",
@@ -1395,6 +1350,7 @@
  },
  "teamtailor:https://propertyfinder.teamtailor.com:37f2180d-6f69-43df-9474-f9f2a8d661d9": {
   "category": "fullstack",
+  "closed_at": "2026-10-02T08:33:33+00:00",
   "company": "Property Finder",
   "company_key": "teamtailor:https://propertyfinder.teamtailor.com",
   "fingerprint": "propertyfinder|software engineer full stack|dubai",
@@ -1407,7 +1363,7 @@
   "salary": "",
   "score": 90,
   "source": "teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer - Full Stack",
   "uid": "teamtailor:https://propertyfinder.teamtailor.com:37f2180d-6f69-43df-9474-f9f2a8d661d9",
   "url": "https://propertyfinder.teamtailor.com/jobs/8277351-software-engineer-full-stack",
@@ -1635,6 +1591,50 @@
   "uid": "workable:blackstone-eit-2:BE261712D0",
   "url": "https://apply.workable.com/j/BE261712D0",
   "workplace": ""
+ },
+ "workable:callsign:3447333C50": {
+  "category": "software",
+  "company": "Callsign",
+  "company_key": "workable:callsign",
+  "fingerprint": "callsign|senior software engineer|abudhabi",
+  "first_seen": "2026-09-25T06:23:32+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "digest",
+  "posted_at": "2026-09-24T10:30:32.075",
+  "salary": "",
+  "score": 55,
+  "source": "workable",
+  "status": "open",
+  "title": "Senior Software Engineer",
+  "uid": "workable:callsign:3447333C50",
+  "url": "https://apply.workable.com/j/3447333C50",
+  "workplace": "On-site"
+ },
+ "workable:callsign:BD71CEB924": {
+  "category": "software",
+  "company": "Callsign",
+  "company_key": "workable:callsign",
+  "fingerprint": "callsign|software engineer|abudhabi",
+  "first_seen": "2026-09-25T06:23:32+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "digest",
+  "posted_at": "2026-09-24T10:22:34.831",
+  "salary": "",
+  "score": 55,
+  "source": "workable",
+  "status": "open",
+  "title": "Software Engineer",
+  "uid": "workable:callsign:BD71CEB924",
+  "url": "https://apply.workable.com/j/BD71CEB924",
+  "workplace": "On-site"
  },
  "workable:fuku:23257C591B": {
   "category": "software",
