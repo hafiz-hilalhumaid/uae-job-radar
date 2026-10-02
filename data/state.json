@@ -866,7 +866,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 191,
+   "fails": 192,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -47063,6 +47063,7 @@
   "workable:intellecthq:732A6DE873": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:73610EE515": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:74458BED1C": "2026-09-28T23:32:12+00:00",
+  "workable:intellecthq:748D7C0E90": "2026-10-02T03:37:34+00:00",
   "workable:intellecthq:749F6F3DDF": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:74D0C2FEC3": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:7720AB290E": "2026-09-28T23:32:12+00:00",
@@ -47083,6 +47084,7 @@
   "workable:intellecthq:817C1588B5": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:83FB554522": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:84BBCF4F15": "2026-09-28T23:32:12+00:00",
+  "workable:intellecthq:87D18D3D16": "2026-10-02T03:37:34+00:00",
   "workable:intellecthq:8820160081": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:882DA32163": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:894FC78358": "2026-09-28T23:32:12+00:00",
@@ -47139,6 +47141,7 @@
   "workable:intellecthq:BDE3848C3D": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:BF40D64046": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:C2EBF7011B": "2026-09-30T07:32:14+00:00",
+  "workable:intellecthq:C4D5894872": "2026-10-02T03:37:34+00:00",
   "workable:intellecthq:C4EF434F73": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:C6D7DE88CF": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:C6FABF0FB5": "2026-09-28T23:32:12+00:00",
@@ -47149,6 +47152,7 @@
   "workable:intellecthq:CACCB84F54": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:CD45F91289": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:CD8E70B815": "2026-09-28T23:32:12+00:00",
+  "workable:intellecthq:CE2C38AE2B": "2026-10-02T03:37:34+00:00",
   "workable:intellecthq:CE861B6453": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:CEDA923D84": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:CF5739AFCC": "2026-09-28T23:32:12+00:00",
@@ -47205,6 +47209,7 @@
   "workable:intellecthq:FBA8BBE2CB": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:FBB0E06B69": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:FBF95A2E87": "2026-09-28T23:32:12+00:00",
+  "workable:intellecthq:FD3BEDDB26": "2026-10-02T03:37:34+00:00",
   "workable:intellecthq:FDB2985463": "2026-09-28T23:32:12+00:00",
   "workable:intellecthq:FFC36FF743": "2026-09-28T23:32:12+00:00",
   "workable:interocean:10B7B04B4B": "2026-10-01T11:37:40+00:00",
@@ -52832,6 +52837,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/Associate-Director--Channel-Strategy-Planning---Operations-Cooking-Aids---Mini-Meals-US_R-1183936": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/Associate-Director-Operations--Wild_R-1185956-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/Data-Science-Manager_R-1182609": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/NA-Foods-Customer-Analytics---Associate-Finance-Manager_R-1186224-1": "2026-10-02T03:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hoboken-US-HQ/Senior-Manager--Net-Revenue-Management---Personal-Care-US_R-1184203": "2026-09-29T17:32:12+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Independence-MO/Associate-Manager--HRBP_R-1180860-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Independence-MO/Manufacturing-Excellence-Manager_R-1183037-1": "2026-09-29T06:32:09+00:00",
@@ -52869,6 +52875,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HO/Sr-Key-Account-Executive_R-1186019-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Ecodesign-Manager_R-1187175-1": "2026-09-25T04:55:49+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Global-Fabric-Cleaning-Powders-Senior-R-D-Associate_R-1187802": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Lakme-CTI---Claims-Sr-Specialist_R-1189011": "2026-10-02T03:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/R-D-Associate-Packaging--Home-Care--India_R-1185915": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-HURC/Unilever-Post-Doctoral-Fellowship-Program_R-1181426-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Mumbai-Regional-Office/Modern-Trade-Accounts-Specialist_R-1186731-1": "2026-10-01T11:37:40+00:00",
@@ -52993,7 +53000,8 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Warsaw-Poland/Senior-Brand-Manager-Foods_R-1186746-1": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Warsaw-Poland/Senior-Marketing-Lead-Foods-Poland_R-1188288": "2026-09-29T13:32:09+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Warsaw-Poland/Shopper-Marketing---Repacking-Specialist_R-1188673": "2026-09-29T17:32:12+00:00",
-  "workday:unilever/Unilever_Experienced_Professionals:/job/Yangon-Myanmar/Mechnical-Technician_R-1188484": "2026-09-24T20:59:40+00:00"
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Yangon-Myanmar/Mechnical-Technician_R-1188484": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00"
  },
  "sweep_cursor": 21139
 }
