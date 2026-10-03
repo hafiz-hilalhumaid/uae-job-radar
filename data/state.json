@@ -882,7 +882,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 234,
+   "fails": 235,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -39267,6 +39267,7 @@
   "smartrecruiters:AccorHotel:744000153323149": "2026-10-03T05:37:35+00:00",
   "smartrecruiters:AccorHotel:744000153323209": "2026-10-03T05:37:35+00:00",
   "smartrecruiters:AccorHotel:744000153327079": "2026-10-03T10:37:34+00:00",
+  "smartrecruiters:AccorHotel:744000153333369": "2026-10-03T16:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:ArchirodonGroup:744000072238429": "2026-09-28T23:32:12+00:00",
@@ -51980,6 +51981,7 @@
   "workable:toloka-annotators:1D8B4573AC": "2026-10-03T12:32:38+00:00",
   "workable:toloka-annotators:1DE8517622": "2026-10-02T09:37:36+00:00",
   "workable:toloka-annotators:1E75769F8C": "2026-09-29T03:32:08+00:00",
+  "workable:toloka-annotators:1EEBD7FADA": "2026-10-03T16:37:35+00:00",
   "workable:toloka-annotators:1FCFF79C3E": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:1FE2943DA2": "2026-10-03T15:37:35+00:00",
   "workable:toloka-annotators:2003C04E6B": "2026-09-30T17:37:40+00:00",
@@ -52195,6 +52197,7 @@
   "workable:toloka-annotators:8968FCC056": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:89CEDCE51A": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:8A8102A44F": "2026-09-29T03:32:08+00:00",
+  "workable:toloka-annotators:8A8DA67080": "2026-10-03T16:37:35+00:00",
   "workable:toloka-annotators:8AB2E088E1": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:8ACFD4C87C": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:8AD73FC31C": "2026-09-29T03:32:08+00:00",
@@ -52209,6 +52212,7 @@
   "workable:toloka-annotators:8DBA74EE76": "2026-10-03T11:37:35+00:00",
   "workable:toloka-annotators:8DBF1771BE": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:8EA52DA26F": "2026-09-29T03:32:08+00:00",
+  "workable:toloka-annotators:8F024E080C": "2026-10-03T16:37:35+00:00",
   "workable:toloka-annotators:8F180511D3": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:8F46FE959F": "2026-10-03T07:37:36+00:00",
   "workable:toloka-annotators:906068536E": "2026-09-30T17:37:40+00:00",
@@ -52227,6 +52231,7 @@
   "workable:toloka-annotators:9474B92050": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:9495A98D7E": "2026-09-30T17:37:40+00:00",
   "workable:toloka-annotators:94E0D4B7D5": "2026-09-29T03:32:08+00:00",
+  "workable:toloka-annotators:956C6696D4": "2026-10-03T16:37:35+00:00",
   "workable:toloka-annotators:961FCDD3C5": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:96F0ED7FCA": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:971CB51070": "2026-09-29T03:32:08+00:00",
@@ -52270,6 +52275,7 @@
   "workable:toloka-annotators:AD36358154": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:AD566A1A7A": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:AD8DBCC10A": "2026-09-29T03:32:08+00:00",
+  "workable:toloka-annotators:AE938E6187": "2026-10-03T16:37:35+00:00",
   "workable:toloka-annotators:AEE2908EA1": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:AEE47C6C0D": "2026-09-29T03:32:08+00:00",
   "workable:toloka-annotators:AEE94D21C5": "2026-09-30T19:18:09+00:00",
