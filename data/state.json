@@ -882,7 +882,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 237,
+   "fails": 238,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
