@@ -882,7 +882,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 241,
+   "fails": 242,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -9111,6 +9111,7 @@
   "ashby:Snowflake:31fdda97-2347-4031-8cb3-0d78207b58b4": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:3272836f-807d-4306-af07-83a848803e01": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:33fd86f7-79e4-4180-9726-23f9ae76a804": "2026-09-28T23:32:12+00:00",
+  "ashby:Snowflake:35026637-d96b-47b3-a154-96e31765a7aa": "2026-10-03T21:37:34+00:00",
   "ashby:Snowflake:351f89c9-7502-4c5c-b600-b3a1192c45eb": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:35320566-ce01-4204-b366-80b1b914c785": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:3744bda5-c74a-4fa0-abb2-73da7fcfef09": "2026-09-28T23:32:12+00:00",
@@ -14981,6 +14982,7 @@
   "ashby:snowflake:31fdda97-2347-4031-8cb3-0d78207b58b4": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:3272836f-807d-4306-af07-83a848803e01": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:33fd86f7-79e4-4180-9726-23f9ae76a804": "2026-09-28T23:32:12+00:00",
+  "ashby:snowflake:35026637-d96b-47b3-a154-96e31765a7aa": "2026-10-03T21:37:34+00:00",
   "ashby:snowflake:351f89c9-7502-4c5c-b600-b3a1192c45eb": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:35320566-ce01-4204-b366-80b1b914c785": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:3744bda5-c74a-4fa0-abb2-73da7fcfef09": "2026-09-28T23:32:12+00:00",
