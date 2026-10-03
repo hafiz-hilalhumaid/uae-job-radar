@@ -882,7 +882,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 219,
+   "fails": 220,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -36553,6 +36553,7 @@
   "lever:shieldai:3666037e-b201-4ef4-82e1-a78802047a96": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:36691848-fa43-4c4b-9152-736f539f323c": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:36eee857-3f87-4b68-a25f-3a56d54f409b": "2026-09-28T23:32:12+00:00",
+  "lever:shieldai:374c187c-0a0e-419b-aedb-e1333c112248": "2026-10-03T03:37:40+00:00",
   "lever:shieldai:37fa20c1-57dc-4aa1-9515-ecc87f22f31b": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:3824ce13-5af0-436c-91bb-835b2740bf95": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:3834c3fd-5957-481d-b935-b21ea773944e": "2026-09-28T23:32:12+00:00",
@@ -36671,6 +36672,7 @@
   "lever:shieldai:6bccbc94-835c-46cc-94de-0eca27e532fa": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:6ca0453e-fa4b-476e-af4f-58d8ecc9b249": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:6cd7aeaa-64e1-43a8-a405-f106247bc05e": "2026-09-28T23:32:12+00:00",
+  "lever:shieldai:6ce3033e-00c2-42e4-afa5-4c1543e776d2": "2026-10-03T03:37:40+00:00",
   "lever:shieldai:6d30ed20-fdae-42ae-a4b0-93a05c60cdba": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:6d6a32da-b985-45ea-adc2-1e67d4791f5a": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:6d7fae42-8f38-40c4-af62-3086d341112d": "2026-09-28T23:32:12+00:00",
@@ -36713,6 +36715,7 @@
   "lever:shieldai:7ddea36b-a5c2-401c-9bb1-06ff262ff3ff": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:7e0dd494-765b-49f5-bdd2-bbf6f2131ca7": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:7e80ee36-5e20-4a4b-ba65-87d43db66cd6": "2026-09-28T23:32:12+00:00",
+  "lever:shieldai:7e875b0f-26f9-4660-bb21-22e415ef75ab": "2026-10-03T03:37:40+00:00",
   "lever:shieldai:7e905d32-4c1d-4c69-ad4c-d77a158e3297": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:7f7e2632-717e-4684-a7a5-058e94360d81": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:8017692b-13a7-4fd2-b0c3-e8008f2e4d29": "2026-09-28T23:32:12+00:00",
@@ -36774,6 +36777,7 @@
   "lever:shieldai:950c7cc3-bd36-4654-9c2d-786d4dee114c": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:952faf2d-4730-4d8d-9c1c-6f914ecd1eef": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:9675e116-f0a0-4b56-932d-12ea6649e941": "2026-09-30T00:25:53+00:00",
+  "lever:shieldai:96bf47dc-aa29-4558-82ff-07f301039937": "2026-10-03T03:37:40+00:00",
   "lever:shieldai:980ad3a9-2992-41f5-aab2-dc8af92e3847": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:98385148-5b91-4827-8e9a-85117335cb69": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:98741568-3f50-4868-b841-1e3736451997": "2026-09-28T23:32:12+00:00",
@@ -36878,6 +36882,7 @@
   "lever:shieldai:c6b86a5c-c646-43d2-b651-4656ea2f917e": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:c71d4278-e8af-4d66-ba49-80670cccfc3c": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:c72b803b-1396-4af7-9cd7-876136b44264": "2026-09-28T23:32:12+00:00",
+  "lever:shieldai:c7e1f8b3-75a8-4499-9559-8ab4c459f6b5": "2026-10-03T03:37:40+00:00",
   "lever:shieldai:c8a795a0-0155-4cce-8f43-c504756f34a3": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:c9321f8a-b367-4dcb-9308-bd64ae6bac1d": "2026-09-28T23:32:12+00:00",
   "lever:shieldai:c946dfe1-c619-46f1-a7d7-8faaaebe763c": "2026-09-28T23:32:12+00:00",
