@@ -882,7 +882,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 221,
+   "fails": 222,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -8476,6 +8476,7 @@
   "ashby:OpenAI:87989505-81e5-4513-bba0-5f00bb064216": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:87e5f8c3-3337-480a-9db2-e4cef5db909b": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:87ef8476-e930-47ed-abc2-a1bedcc074fb": "2026-09-30T18:37:34+00:00",
+  "ashby:OpenAI:88164d12-c8ed-4b62-ae26-dcb6f1cc8482": "2026-10-03T05:37:35+00:00",
   "ashby:OpenAI:88654e7f-4e23-4e75-8e54-18c10d09b093": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:88a57561-561b-4a14-bc43-78bc7f144164": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:894ce80d-c587-4ef0-92d2-b16deb9a06b9": "2026-09-28T23:32:12+00:00",
@@ -8646,6 +8647,7 @@
   "ashby:OpenAI:b8a1293b-bf5b-488d-8257-869584db6496": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:b8fbe6d1-6363-4366-8484-de32cf4d1410": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:b9262d61-ecf3-4d9a-8674-2e30bce09bdc": "2026-09-28T23:32:12+00:00",
+  "ashby:OpenAI:b94099f6-8418-48b0-82b5-5953a27d636f": "2026-10-03T05:37:35+00:00",
   "ashby:OpenAI:b9a4a809-a965-4dbe-aeef-6ce1593903dd": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:b9dee2a0-9bb3-447e-9bce-2b1bed784e5b": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:ba2ead69-d118-4a91-a4d7-c880d17fa7f9": "2026-09-28T23:32:12+00:00",
@@ -13973,6 +13975,7 @@
   "ashby:openai:87989505-81e5-4513-bba0-5f00bb064216": "2026-09-24T20:59:40+00:00",
   "ashby:openai:87e5f8c3-3337-480a-9db2-e4cef5db909b": "2026-09-24T20:59:40+00:00",
   "ashby:openai:87ef8476-e930-47ed-abc2-a1bedcc074fb": "2026-09-30T18:37:34+00:00",
+  "ashby:openai:88164d12-c8ed-4b62-ae26-dcb6f1cc8482": "2026-10-03T05:37:35+00:00",
   "ashby:openai:88654e7f-4e23-4e75-8e54-18c10d09b093": "2026-09-24T20:59:40+00:00",
   "ashby:openai:88a57561-561b-4a14-bc43-78bc7f144164": "2026-09-24T20:59:40+00:00",
   "ashby:openai:894ce80d-c587-4ef0-92d2-b16deb9a06b9": "2026-09-24T20:59:40+00:00",
@@ -14147,6 +14150,7 @@
   "ashby:openai:b8a1293b-bf5b-488d-8257-869584db6496": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b8fbe6d1-6363-4366-8484-de32cf4d1410": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b9262d61-ecf3-4d9a-8674-2e30bce09bdc": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:b94099f6-8418-48b0-82b5-5953a27d636f": "2026-10-03T05:37:35+00:00",
   "ashby:openai:b9a4a809-a965-4dbe-aeef-6ce1593903dd": "2026-09-24T20:59:40+00:00",
   "ashby:openai:b9dee2a0-9bb3-447e-9bce-2b1bed784e5b": "2026-09-24T20:59:40+00:00",
   "ashby:openai:ba2ead69-d118-4a91-a4d7-c880d17fa7f9": "2026-09-24T20:59:40+00:00",
@@ -39253,6 +39257,8 @@
   "smartrecruiters:AccorHotel:744000153207261": "2026-10-02T15:37:37+00:00",
   "smartrecruiters:AccorHotel:744000153227319": "2026-10-02T16:37:37+00:00",
   "smartrecruiters:AccorHotel:744000153227729": "2026-10-02T16:37:37+00:00",
+  "smartrecruiters:AccorHotel:744000153323149": "2026-10-03T05:37:35+00:00",
+  "smartrecruiters:AccorHotel:744000153323209": "2026-10-03T05:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:ArchirodonGroup:744000072238429": "2026-09-28T23:32:12+00:00",
@@ -39980,6 +39986,7 @@
   "smartrecruiters:RHG:744000153092589": "2026-10-02T05:37:35+00:00",
   "smartrecruiters:RHG:744000153095074": "2026-10-02T06:37:36+00:00",
   "smartrecruiters:RHG:744000153107551": "2026-10-02T07:37:34+00:00",
+  "smartrecruiters:RHG:744000153322849": "2026-10-03T05:37:35+00:00",
   "smartrecruiters:Ramboll3:744000148731880": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:RhaegalSandbox:744000035612532": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:RhaegalSandbox:744000107761381": "2026-09-28T23:32:12+00:00",
