@@ -857,6 +857,26 @@
   "url": "https://www.esri.com/careers/5242145007?gh_jid=5242145007",
   "workplace": ""
  },
+ "greenhouse:geotab:5107813008": {
+  "category": "software",
+  "company": "Geotab",
+  "company_key": "greenhouse:geotab",
+  "fingerprint": "geotab|software developer|dubai",
+  "first_seen": "2026-10-03T15:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai - Dubai, Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-03T10:52:04-04:00",
+  "salary": "",
+  "score": 58,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Software Developer",
+  "uid": "greenhouse:geotab:5107813008",
+  "url": "https://job-boards.greenhouse.io/geotab/jobs/5107813008",
+  "workplace": ""
+ },
  "greenhouse:intersystems:7593532003": {
   "category": "ai",
   "company": "InterSystems",
