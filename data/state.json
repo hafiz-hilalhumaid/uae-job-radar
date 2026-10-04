@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 265,
+   "fails": 266,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -21761,6 +21761,7 @@
   "greenhouse:bybit:4988003101": "2026-09-27T11:32:09+00:00",
   "greenhouse:bybit:4988006101": "2026-09-27T11:32:09+00:00",
   "greenhouse:bybit:4989299101": "2026-09-29T08:28:51+00:00",
+  "greenhouse:bybit:4990077101": "2026-10-04T18:37:34+00:00",
   "greenhouse:bybit:4990732101": "2026-09-30T11:32:48+00:00",
   "greenhouse:bybit:4992474101": "2026-09-30T13:37:39+00:00",
   "greenhouse:bybit:4994956101": "2026-10-01T08:37:35+00:00",
@@ -24411,6 +24412,7 @@
   "greenhouse:elastic:8227140": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:8227142": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:8227630": "2026-09-28T23:32:12+00:00",
+  "greenhouse:elastic:8229992": "2026-10-04T18:37:34+00:00",
   "greenhouse:elastic:8232032": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:8232033": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:8232037": "2026-09-28T23:32:12+00:00",
@@ -24442,6 +24444,9 @@
   "greenhouse:elastic:8245817": "2026-10-02T05:37:35+00:00",
   "greenhouse:elastic:8248494": "2026-10-02T01:37:34+00:00",
   "greenhouse:elastic:8249192": "2026-10-02T14:37:36+00:00",
+  "greenhouse:elastic:8255435": "2026-10-04T18:37:34+00:00",
+  "greenhouse:elastic:8255436": "2026-10-04T18:37:34+00:00",
+  "greenhouse:elastic:8255438": "2026-10-04T18:37:34+00:00",
   "greenhouse:envoyglobalinc:5662843004": "2026-09-28T23:32:12+00:00",
   "greenhouse:envoyglobalinc:5836055004": "2026-09-28T23:32:12+00:00",
   "greenhouse:envoyglobalinc:5841741004": "2026-09-28T23:32:12+00:00",
