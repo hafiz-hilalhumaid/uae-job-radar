@@ -20,7 +20,7 @@
 - {name: OpenAI, ats: ashby, id: openai}
 - {name: Mistral AI, ats: ashby, id: mistral.ai}
 - {name: Cohere, ats: ashby, id: cohere}
-- {name: Ziina, ats: greenhouse, id: ziina, host: eu}
+- {name: Ziina, ats: ashby, id: ziina}                     # moved from Greenhouse EU to Ashby (Sep 2026)
 - {name: Careem, ats: greenhouse, id: careem}
 - {name: Bayut / dubizzle, ats: workable, id: bayutdubizzle}
 - {name: Orbit, ats: workable, id: weorbit}

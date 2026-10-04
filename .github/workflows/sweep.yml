@@ -1,10 +1,8 @@
 name: sweep
 
 on:
-  schedule:
-    # Daily at 04:17 IST (22:47 UTC). Minute 47 keeps clear of the hourly poll at :17.
-    # PRIVATE repo? Use "47 22 * * 2,6" (twice a week) to stay inside the free Actions minutes.
-    - cron: "47 22 * * *"
+  # Started daily ~04:00 IST by apps_script/Scheduler.gs. No GitHub cron here: GitHub fires it hours
+  # late, and a 40-minute sweep running at 8am made the Mon/Wed/Fri digest wait and get cancelled.
   workflow_dispatch:
 
 permissions:
@@ -20,6 +18,8 @@ jobs:
     timeout-minutes: 55
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main          # latest state, even if this run waited behind another one
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"

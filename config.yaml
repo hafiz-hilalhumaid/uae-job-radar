@@ -45,7 +45,7 @@ titles:
      firmware, network, security, data engineer, data analyst, analyst, data scientist, scientist,
      researcher, salesforce, sap, servicenow, dynamics, oracle, support, sales, business developer,
      business development, account, recruiter, marketing, designer, manager, director, head of, vp,
-     vice president, chief, emirati, uae national, nationals only]
+     vice president, chief, emirati, uae national, nationals only, product owner, policy]
 
 keywords:                # found in the job description -> added to the score (total capped)
   cap: 25

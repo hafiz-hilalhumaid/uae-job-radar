@@ -19,6 +19,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main          # latest state, even if this run waited behind another one
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"

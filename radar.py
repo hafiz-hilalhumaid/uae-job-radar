@@ -471,6 +471,7 @@ def cmd_poll(args) -> int:
     stale = iso(now_dt - timedelta(days=int(settings.get("drop_boards_after_days", 60))))[:10]
     for ck in [k for k, c in auto.items() if c.get("last_uae", today) < stale]:
         auto.pop(ck)                                               # no UAE jobs for 60 days
+    state["health"] = {k: v for k, v in state["health"].items() if k in active_keys}
     reject_cutoff = iso(now_dt - timedelta(days=45))
     state["rejected"] = {u: t for u, t in state["rejected"].items() if t >= reject_cutoff}
     closed_cutoff = iso(now_dt - timedelta(days=60))
@@ -588,8 +589,12 @@ def cmd_sweep(args) -> int:
     settings = load_yaml("config.yaml")
     tokens = load_json(TOKENS_FILE, {}).get("boards", [])
     if not tokens:
-        # Normal before the first harvest has finished: nothing to sweep yet, so don't fail the run.
+        # Normal before the first harvest has finished: nothing to sweep yet, so don't fail the run,
+        # but record it so the digest can say so.
         print("No harvested boards yet. Run the 'harvest' workflow once; sweeps start working after it.")
+        state = load_state()
+        state["last_sweep"] = {"date": now_utc().date().isoformat(), "note": "no harvest yet"}
+        save_json(STATE_FILE, state)
         return 0
     boards, auto = load_boards()
     known = {company_key(c) for c in boards}
@@ -635,6 +640,7 @@ def cmd_sweep(args) -> int:
                         auto[key] = dict(entry, found=today, via="sweep")
                     auto[key].update(last_uae=today, uae_jobs=uae)
     state["sweep_cursor"] = (cursor + checked) % len(tokens)
+    state["last_sweep"] = {"date": today, "checked": checked, "added": added, "total": len(tokens)}
     save_json(BOARDS_FILE, auto)
     save_json(STATE_FILE, state)
     print(f"checked {checked}/{len(tokens)} boards, {added} new UAE boards, {len(auto)} auto-watched in total; "
@@ -683,6 +689,22 @@ def cmd_digest(args) -> int:
 
     if not queued and not ramping and not broken:
         lines.append("Nothing new since the last digest.")
+
+    harvested = load_json(TOKENS_FILE, {})
+    auto = load_json(BOARDS_FILE, {})
+    own = [c for c in (load_yaml("companies.yaml") or []) if c and c.get("enabled", True)]
+    sweep = state.get("last_sweep") or {}
+    harvest_txt = (f"{len(harvested['boards']):,} job boards harvested ({str(harvested.get('harvested', ''))[:10]})"
+                   if harvested.get("boards") else "⚠️ no harvest yet: run the harvest workflow")
+    if not sweep:
+        sweep_txt = "⚠️ no sweep has run yet"
+    elif sweep.get("note"):
+        sweep_txt = f"last sweep {sweep['date']}: {sweep['note']}"
+    else:
+        sweep_txt = (f"last sweep {sweep['date']}: {sweep.get('checked', 0):,} of {sweep.get('total', 0):,} "
+                     f"checked, {sweep.get('added', 0)} new UAE boards")
+    lines.append(f"🛰 <b>Coverage</b>: watching {len(own) + len(auto)} boards ({len(auto)} found automatically)\n"
+                 f"• {harvest_txt}\n• {sweep_txt}")
     Telegram(enabled=not args.no_notify).send("\n\n".join(lines))
 
     state["queue"] = []
