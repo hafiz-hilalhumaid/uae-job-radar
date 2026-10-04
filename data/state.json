@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 253,
+   "fails": 254,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -42448,6 +42448,7 @@
   "workable:bbgc:2614B2BBAC": "2026-09-30T23:37:39+00:00",
   "workable:bbgc:379896BA2A": "2026-09-30T23:37:39+00:00",
   "workable:bbgc:39EA1E6FFE": "2026-09-30T23:37:39+00:00",
+  "workable:bbgc:5598FE17A1": "2026-10-04T08:37:39+00:00",
   "workable:bbgc:60F58695EF": "2026-09-30T23:37:39+00:00",
   "workable:bbgc:691182D2D5": "2026-09-30T23:37:39+00:00",
   "workable:bbgc:730D327892": "2026-09-30T23:37:39+00:00",
@@ -42747,6 +42748,7 @@
   "workable:chain-reaction-1:3124B53870": "2026-09-30T23:37:39+00:00",
   "workable:chain-reaction-1:48963B5693": "2026-10-02T11:37:37+00:00",
   "workable:chain-reaction-1:50DB7FF15C": "2026-09-30T23:37:39+00:00",
+  "workable:chain-reaction-1:51652C42A0": "2026-10-04T08:37:39+00:00",
   "workable:chain-reaction-1:53C4A554C0": "2026-09-30T23:37:39+00:00",
   "workable:chain-reaction-1:5405311676": "2026-09-30T23:37:39+00:00",
   "workable:chain-reaction-1:544A279CB0": "2026-09-30T23:37:39+00:00",
@@ -44931,6 +44933,7 @@
   "workable:eramtalent-1:43980B734A": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:45356A5A58": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:457BB6C3DD": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:45BCF3CC2F": "2026-10-04T08:37:39+00:00",
   "workable:eramtalent-1:461492FDCF": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:4672A8133B": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:467AFE214D": "2026-09-28T23:32:12+00:00",
