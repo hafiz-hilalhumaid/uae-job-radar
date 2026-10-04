@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 260,
+   "fails": 261,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -19521,6 +19521,7 @@
   "greenhouse:andurilindustries:5256304007": "2026-10-03T02:09:23+00:00",
   "greenhouse:andurilindustries:5256305007": "2026-10-03T02:09:23+00:00",
   "greenhouse:andurilindustries:5256306007": "2026-10-03T02:09:23+00:00",
+  "greenhouse:andurilindustries:5256456007": "2026-10-04T14:37:33+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -41084,6 +41085,7 @@
   "teamtailor:https://altavia.teamtailor.com:d319bb8f-3d7f-4dc7-a248-c7c3efb030df": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:d4bcef50-54ca-45d8-9a14-a5ca1a479850": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:e14f3cba-7c2e-4ef5-8cc1-47a6d47b529f": "2026-09-30T23:37:39+00:00",
+  "teamtailor:https://altavia.teamtailor.com:ee7e574a-9a3b-4b75-a41c-aec235c350db": "2026-10-04T14:37:33+00:00",
   "teamtailor:https://altavia.teamtailor.com:f6762532-4c57-49d5-9215-cc824517ca34": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://bsm.teamtailor.com:02720948-0a44-45dc-b0a5-8c508202de0a": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://bsm.teamtailor.com:037ad5b3-81a8-41f1-a403-b4f3161225ef": "2026-09-28T23:32:12+00:00",
@@ -42531,6 +42533,7 @@
   "workable:blackstone-eit-2:90DDF1094D": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:911AD079FB": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:93432B619B": "2026-09-30T23:37:39+00:00",
+  "workable:blackstone-eit-2:99CC3AC5A8": "2026-10-04T14:37:33+00:00",
   "workable:blackstone-eit-2:9AC65298E1": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:9BEF0E8EC2": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:9FE68B7B46": "2026-09-30T23:37:39+00:00",
@@ -51685,6 +51688,7 @@
   "workable:ssc-hr:C2449EC6DC": "2026-10-04T12:37:41+00:00",
   "workable:ssc-hr:C3C2DE3F1E": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C4C93FE284": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:C668556235": "2026-10-04T14:37:33+00:00",
   "workable:ssc-hr:C7091ADCF0": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C90C1C3EE9": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:CE4D2B5AEE": "2026-09-29T03:32:08+00:00",
