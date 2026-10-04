@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 259,
+   "fails": 260,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -34540,6 +34540,7 @@
   "lever:Yassir:3ac148b1-6b81-4020-9914-68ff5ebd6c2e": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:3e4f2f5a-401b-45ce-9de8-5f512a77cafd": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:3f8932cc-4ad9-453b-9ac3-ff177510a55b": "2026-09-24T20:59:40+00:00",
+  "lever:Yassir:405ec6ed-f3af-4358-840c-9f7ac4f4f3ab": "2026-10-04T13:37:33+00:00",
   "lever:Yassir:41cc270d-39da-4bb1-95dc-60cc77d8b996": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:42c5783c-6c65-4924-b37e-c0c2679b262b": "2026-09-24T20:59:40+00:00",
   "lever:Yassir:46d3e849-2984-44d7-b535-85d43d2440bb": "2026-10-01T13:10:59+00:00",
@@ -39579,6 +39580,7 @@
   "smartrecruiters:AccorHotel:744000153323209": "2026-10-03T05:37:35+00:00",
   "smartrecruiters:AccorHotel:744000153327079": "2026-10-03T10:37:34+00:00",
   "smartrecruiters:AccorHotel:744000153333369": "2026-10-03T16:37:35+00:00",
+  "smartrecruiters:AccorHotel:744000153372789": "2026-10-04T13:37:33+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:ArchirodonGroup:744000072238429": "2026-09-28T23:32:12+00:00",
