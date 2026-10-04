@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 261,
+   "fails": 262,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -19442,6 +19442,7 @@
   "greenhouse:andurilindustries:5253168007": "2026-09-30T17:37:40+00:00",
   "greenhouse:andurilindustries:5253204007": "2026-09-30T18:37:34+00:00",
   "greenhouse:andurilindustries:5253211007": "2026-09-30T18:37:34+00:00",
+  "greenhouse:andurilindustries:5253234007": "2026-10-04T15:21:20+00:00",
   "greenhouse:andurilindustries:5253238007": "2026-09-30T21:37:33+00:00",
   "greenhouse:andurilindustries:5253281007": "2026-09-30T18:37:34+00:00",
   "greenhouse:andurilindustries:5253314007": "2026-09-30T18:37:34+00:00",
@@ -34752,6 +34753,7 @@
   "lever:binance:1b5aa83d-8899-4f65-ba93-eaa32dc0ea7b": "2026-09-24T20:59:40+00:00",
   "lever:binance:1c2867e4-ed8c-4017-94c6-2ffacce00538": "2026-09-24T20:59:40+00:00",
   "lever:binance:1c3e9e01-82b8-4840-85b1-82cabd86bcfd": "2026-09-24T20:59:40+00:00",
+  "lever:binance:1fc32f93-a16e-4e8a-9e08-d246f469ccaa": "2026-10-04T15:21:20+00:00",
   "lever:binance:20860120-81de-487f-9c64-d14cfc6b54d7": "2026-09-24T20:59:40+00:00",
   "lever:binance:210ba69f-d315-41dc-9b18-886305180abb": "2026-09-24T20:59:40+00:00",
   "lever:binance:212847ec-7c07-4b30-a253-43e9224de882": "2026-09-24T20:59:40+00:00",
