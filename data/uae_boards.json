@@ -17,6 +17,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:Cambly": {
+  "ats": "ashby",
+  "found": "2026-10-04",
+  "id": "Cambly",
+  "last_uae": "2026-10-04",
+  "name": "Cambly",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:Cohere": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -194,6 +203,15 @@
   "id": "binance.us",
   "last_uae": "2026-10-01",
   "name": "Binance.Us",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:cambly": {
+  "ats": "ashby",
+  "found": "2026-10-04",
+  "id": "cambly",
+  "last_uae": "2026-10-04",
+  "name": "Cambly",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -707,6 +725,15 @@
   "id": "trm-labs",
   "last_uae": "2026-10-04",
   "name": "Trm Labs",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:universalagi": {
+  "ats": "ashby",
+  "found": "2026-10-04",
+  "id": "universalagi",
+  "last_uae": "2026-10-04",
+  "name": "Universalagi",
   "uae_jobs": 1,
   "via": "sweep"
  },

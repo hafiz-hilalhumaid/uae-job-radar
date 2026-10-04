@@ -7058,6 +7058,12 @@
   "lever:zippi": "global"
  },
  "last_digest": "2026-10-02",
+ "last_sweep": {
+  "added": 3,
+  "checked": 16800,
+  "date": "2026-10-04",
+  "total": 22644
+ },
  "queue": [
   "fantastic:2394281674",
   "greenhouse:geotab:5107813008"
@@ -54723,5 +54729,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Yangon-Myanmar/Mechnical-Technician_R-1188484": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00"
  },
- "sweep_cursor": 21357
+ "sweep_cursor": 15513
 }
