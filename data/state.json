@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 257,
+   "fails": 258,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -51584,6 +51584,7 @@
   "workable:sideinc:FB02F8DA68": "2026-09-29T03:32:08+00:00",
   "workable:sideinc:FD91FD7E60": "2026-09-29T03:32:08+00:00",
   "workable:smartcrowd:64769C8840": "2026-10-01T02:37:38+00:00",
+  "workable:ssc-hr:0262CA0CE9": "2026-10-04T11:37:34+00:00",
   "workable:ssc-hr:0ABA6D51E6": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:0ABE7D170D": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:0B4729F374": "2026-09-29T03:32:08+00:00",
