@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 256,
+   "fails": 257,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -45154,6 +45154,7 @@
   "workable:eramtalent-1:B47A3DB224": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:B4E9F2038C": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:B51473397F": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:B5F8381662": "2026-10-04T10:37:33+00:00",
   "workable:eramtalent-1:B7DA477289": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:B95439723F": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:B964504FC9": "2026-09-28T23:32:12+00:00",
@@ -51598,6 +51599,7 @@
   "workable:ssc-hr:1B03406389": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:1E100812B5": "2026-09-29T09:32:09+00:00",
   "workable:ssc-hr:1E46879ECC": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:201BDAF355": "2026-10-04T10:37:33+00:00",
   "workable:ssc-hr:20EAEE28A0": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:22CE0E328C": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:26566B8032": "2026-09-29T03:32:08+00:00",
@@ -51621,6 +51623,7 @@
   "workable:ssc-hr:44FEA5A36A": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:4580C60974": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:473A9DF8E2": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:4BC92F72F2": "2026-10-04T10:37:33+00:00",
   "workable:ssc-hr:4CBD01AD46": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:4E4F0DCC3C": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:4E7FA60781": "2026-09-29T03:32:08+00:00",
@@ -51638,6 +51641,7 @@
   "workable:ssc-hr:66DCFB8778": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:67E653B5CD": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:6C62CFF97E": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:6C884501CE": "2026-10-04T10:37:33+00:00",
   "workable:ssc-hr:7422EF0E02": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:7435704616": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:77E1AE94C3": "2026-09-29T03:32:08+00:00",
@@ -51683,6 +51687,7 @@
   "workable:ssc-hr:DBB168FED0": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:DC252CF211": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:DD64913759": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:E5149D3067": "2026-10-04T10:37:33+00:00",
   "workable:ssc-hr:E68B61182F": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:E70E344834": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:EAF04E0865": "2026-09-29T03:32:08+00:00",
