@@ -793,10 +793,6 @@
    "fails": 0,
    "seeded": true
   },
-  "greenhouse:tarabutgateway": {
-   "fails": 4,
-   "last_error": "NotFound: eu: https://boards-api.eu.greenhouse.io/v1/boards/tarabutgateway/jobs: ConnectionError; us: https://boards-api.greenhouse.io/v1/boards/tarabutgateway/jobs"
-  },
   "greenhouse:telnyx54": {
    "fails": 0,
    "seeded": true
@@ -885,10 +881,6 @@
    "fails": 0,
    "seeded": true
   },
-  "greenhouse:ziina": {
-   "fails": 267,
-   "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
-  },
   "greenhouse:zscaler": {
    "fails": 0,
    "seeded": true
@@ -933,10 +925,6 @@
    "fails": 0,
    "seeded": true
   },
-  "lever:kitopi": {
-   "fails": 4,
-   "last_error": "NotFound: global: https://api.lever.co/v0/postings/kitopi; eu: https://api.eu.lever.co/v0/postings/kitopi"
-  },
   "lever:lionbridge": {
    "fails": 0,
    "seeded": true
@@ -956,10 +944,6 @@
   "lever:quadcode": {
    "fails": 0,
    "seeded": true
-  },
-  "lever:sarwa": {
-   "fails": 4,
-   "last_error": "NotFound: global: https://api.lever.co/v0/postings/sarwa; eu: https://api.eu.lever.co/v0/postings/sarwa"
   },
   "lever:shieldai": {
    "fails": 0,
@@ -19463,6 +19447,7 @@
   "greenhouse:andurilindustries:5253168007": "2026-09-30T17:37:40+00:00",
   "greenhouse:andurilindustries:5253204007": "2026-09-30T18:37:34+00:00",
   "greenhouse:andurilindustries:5253211007": "2026-09-30T18:37:34+00:00",
+  "greenhouse:andurilindustries:5253218007": "2026-10-04T20:37:33+00:00",
   "greenhouse:andurilindustries:5253234007": "2026-10-04T15:21:20+00:00",
   "greenhouse:andurilindustries:5253238007": "2026-09-30T21:37:33+00:00",
   "greenhouse:andurilindustries:5253281007": "2026-09-30T18:37:34+00:00",
@@ -19544,6 +19529,8 @@
   "greenhouse:andurilindustries:5256305007": "2026-10-03T02:09:23+00:00",
   "greenhouse:andurilindustries:5256306007": "2026-10-03T02:09:23+00:00",
   "greenhouse:andurilindustries:5256456007": "2026-10-04T14:37:33+00:00",
+  "greenhouse:andurilindustries:5256475007": "2026-10-04T20:37:33+00:00",
+  "greenhouse:andurilindustries:5256476007": "2026-10-04T20:37:33+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -21043,6 +21030,7 @@
   "greenhouse:boomilp:6194403004": "2026-10-01T23:37:38+00:00",
   "greenhouse:boomilp:6210780004": "2026-10-01T23:37:38+00:00",
   "greenhouse:boomilp:6211213004": "2026-10-01T23:37:38+00:00",
+  "greenhouse:boomilp:6214966004": "2026-10-04T20:37:33+00:00",
   "greenhouse:braze:7668561": "2026-09-28T23:32:12+00:00",
   "greenhouse:braze:7788980": "2026-09-28T23:32:12+00:00",
   "greenhouse:braze:7818850": "2026-09-28T23:32:12+00:00",
