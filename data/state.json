@@ -886,7 +886,7 @@
    "seeded": true
   },
   "greenhouse:ziina": {
-   "fails": 258,
+   "fails": 259,
    "last_error": "NotFound: eu_page: https://job-boards.eu.greenhouse.io/ziina; us: https://boards-api.greenhouse.io/v1/boards/ziina/jobs"
   },
   "greenhouse:zscaler": {
@@ -44956,6 +44956,7 @@
   "workable:eramtalent-1:4D20430163": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:4D73F9916D": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:5030B7BF2D": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:51D36C6C0E": "2026-10-04T12:37:41+00:00",
   "workable:eramtalent-1:523AD472C9": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:5265D39529": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:52E406AE14": "2026-09-28T23:32:12+00:00",
@@ -49521,6 +49522,7 @@
   "workable:nawy-real-estate:2100E8A4BF": "2026-10-01T02:37:38+00:00",
   "workable:nawy-real-estate:2BBCF6BDCB": "2026-10-01T02:37:38+00:00",
   "workable:nawy-real-estate:2E1C673EEE": "2026-10-01T02:37:38+00:00",
+  "workable:nawy-real-estate:340C26040C": "2026-10-04T12:37:41+00:00",
   "workable:nawy-real-estate:3F0DC4439F": "2026-10-01T02:37:38+00:00",
   "workable:nawy-real-estate:499FD0879E": "2026-10-01T02:37:38+00:00",
   "workable:nawy-real-estate:523FD2E209": "2026-10-01T02:37:38+00:00",
@@ -51678,6 +51680,7 @@
   "workable:ssc-hr:BD0F655C42": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C18E31EC9A": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C1E7CF8B73": "2026-09-29T03:32:08+00:00",
+  "workable:ssc-hr:C2449EC6DC": "2026-10-04T12:37:41+00:00",
   "workable:ssc-hr:C3C2DE3F1E": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C4C93FE284": "2026-09-29T03:32:08+00:00",
   "workable:ssc-hr:C7091ADCF0": "2026-09-29T03:32:08+00:00",
