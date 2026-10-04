@@ -77,13 +77,13 @@ workday_keywords: [software, frontend, front end, react, full stack, developer, 
 aggregators:
   fantastic:             # secret APIFY_TOKEN. Career-site jobs from 54 job systems, incl. Workday,
     enabled: true        # SuccessFactors, Oracle, Taleo, iCIMS. Billed per job returned (see README).
-    mode: daily          # daily  = one run a day for the last 24h; each job billed once (cheapest)
+    mode: hourly          # daily  = one run a day for the last 24h; each job billed once (cheapest)
                          # hourly = every poll asks for the last hour, plus the daily 24h catch-up
                          #          (faster, but jobs from the catch-up are billed twice)
     daily_hour: 7        # local hour (config timezone) at/after which the daily run happens
     limit: 12            # max jobs per run. On Apify's free plan a test cost $0.25 for 20 jobs, so
                          # 12 a day keeps a month inside the free $5 (31 x 12 x $0.0125 = ~$4.65)
-    ats_exclude: [greenhouse, lever.co, ashby, workable, smartrecruiters, recruitee, teamtailor]
+    ats_exclude: []
                          # job systems the radar already reads itself for free, so the paid daily jobs
                          # only come from Workday, Oracle, SuccessFactors, Taleo, iCIMS... Names as used by
                          # the Apify job feed (greenhouse, lever.co, ashby confirmed on its page; the rest
