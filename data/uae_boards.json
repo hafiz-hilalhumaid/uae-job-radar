@@ -1823,6 +1823,14 @@
   "uae_jobs": 3,
   "via": "sweep"
  },
+ "lever:jobgether": {
+  "ats": "lever",
+  "found": "2026-10-05",
+  "id": "jobgether",
+  "last_uae": "2026-10-05",
+  "name": "Jobgether",
+  "via": "fantastic"
+ },
  "lever:lionbridge": {
   "ats": "lever",
   "found": "2026-10-01",

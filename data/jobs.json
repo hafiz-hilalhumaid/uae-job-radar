@@ -754,6 +754,27 @@
   "url": "https://aqaryinvestment.zohorecruit.com/jobs/Careers/838151000002941001/Front-End-Engineer-React-js-Next-js",
   "workplace": "On-site"
  },
+ "fantastic:2397713515": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T09:01:43+00:00",
+  "fingerprint": "jobgether|software engineer|uae",
+  "first_seen": "2026-10-05T09:01:43+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-05T00:00:00",
+  "salary": "",
+  "score": 55,
+  "source": "fantastic/lever.co",
+  "status": "open",
+  "title": "Software Engineer (Front and Back end)",
+  "uid": "fantastic:2397713515",
+  "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
+  "workplace": "Remote OK"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
