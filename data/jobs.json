@@ -822,6 +822,27 @@
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Forward-Deployed-Engineer_JR348987",
   "workplace": "Hybrid"
  },
+ "fantastic:2397995616": {
+  "category": "software",
+  "company": "Wynn Al Marjan Island",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T15:37:39+00:00",
+  "fingerprint": "wynnalmarjanisland|software engineer applications digital products|uae",
+  "first_seen": "2026-10-05T15:37:39+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-05T13:09:08",
+  "salary": "",
+  "score": 62,
+  "source": "fantastic/oraclecloud",
+  "status": "open",
+  "title": "Software Engineer - Applications & Digital Products",
+  "uid": "fantastic:2397995616",
+  "url": "https://wam-iabkey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2214",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
