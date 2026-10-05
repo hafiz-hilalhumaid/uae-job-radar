@@ -843,6 +843,27 @@
   "url": "https://wam-iabkey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2214",
   "workplace": "On-site"
  },
+ "fantastic:2398019440": {
+  "category": "fullstack",
+  "company": "MATRIXJV Co. Ltd.",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T16:37:37+00:00",
+  "fingerprint": "matrixjvco|senior developer full stack|abudhabi",
+  "first_seen": "2026-10-05T16:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-08-06T07:11:27",
+  "salary": "",
+  "score": 89,
+  "source": "fantastic/phenompeople",
+  "status": "open",
+  "title": "Senior Developer - Full Stack",
+  "uid": "fantastic:2398019440",
+  "url": "https://careers.g42.ai/global/en/job/OGWOGJGLOBAL3283EXTERNALENGLOBAL/Senior-Developer-Full-Stack",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
