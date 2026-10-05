@@ -775,6 +775,30 @@
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "workplace": "Remote OK"
  },
+ "fantastic:2397786167": {
+  "category": "ai",
+  "company": "EDGE Group PJSC",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T11:37:35+00:00",
+  "fingerprint": "edgepjsc|senior ai engineer|abudhabi",
+  "first_seen": "2026-10-05T11:37:35+00:00",
+  "flags": [
+   "8+ yrs asked",
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-05T00:00:00",
+  "salary": "",
+  "score": 49,
+  "source": "fantastic/successfactors",
+  "status": "open",
+  "title": "Senior AI Engineer",
+  "uid": "fantastic:2397786167",
+  "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-AI-Engineer/733521822/",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
