@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-04",
+ "fantastic_daily": "2026-10-05",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -19589,6 +19589,11 @@
   "greenhouse:andurilindustries:5256509007": "2026-10-05T00:37:34+00:00",
   "greenhouse:andurilindustries:5256510007": "2026-10-05T00:37:34+00:00",
   "greenhouse:andurilindustries:5256511007": "2026-10-05T00:37:34+00:00",
+  "greenhouse:andurilindustries:5256520007": "2026-10-05T01:37:34+00:00",
+  "greenhouse:andurilindustries:5256522007": "2026-10-05T01:37:34+00:00",
+  "greenhouse:andurilindustries:5256523007": "2026-10-05T01:37:34+00:00",
+  "greenhouse:andurilindustries:5256524007": "2026-10-05T01:37:34+00:00",
+  "greenhouse:andurilindustries:5256525007": "2026-10-05T01:37:34+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -35270,6 +35275,7 @@
   "lever:crypto:a3ac2fc1-37c6-45d3-834e-25e9f94aaf5c": "2026-09-24T20:59:40+00:00",
   "lever:crypto:a82e3953-2f34-43bb-b0da-16f8bb06da93": "2026-09-28T14:32:11+00:00",
   "lever:crypto:a898683e-d211-4e8c-8576-21f676993d90": "2026-09-24T23:52:56+00:00",
+  "lever:crypto:aa2dbb2a-1d58-4b46-9556-423500c0672f": "2026-10-05T01:37:34+00:00",
   "lever:crypto:ac03000c-445b-42a3-8da3-4a872116bd91": "2026-09-24T20:59:40+00:00",
   "lever:crypto:ad15d681-71b3-4e60-8eb3-79de77c11aeb": "2026-09-24T20:59:40+00:00",
   "lever:crypto:b17ac35d-1b67-40de-bd45-4de7dfda2cd8": "2026-09-24T20:59:40+00:00",
@@ -35279,6 +35285,7 @@
   "lever:crypto:b8182b66-c109-4a81-a091-ca00ccd7201c": "2026-09-24T20:59:40+00:00",
   "lever:crypto:baab9357-a4da-4a78-a3f4-bec92219dd0f": "2026-09-24T20:59:40+00:00",
   "lever:crypto:bd4c7626-c095-452a-a865-7cfe5214485b": "2026-09-24T20:59:40+00:00",
+  "lever:crypto:be6c09e2-5f24-4a9f-a05f-125301db5097": "2026-10-05T01:37:34+00:00",
   "lever:crypto:bf231bb5-1c89-481a-b856-29771cdf5656": "2026-09-24T20:59:40+00:00",
   "lever:crypto:c2f9f330-96f3-4261-bdec-03def9db0d11": "2026-09-24T20:59:40+00:00",
   "lever:crypto:d0b3e43e-92e6-42b3-8b6b-19c4902c611d": "2026-09-30T10:32:10+00:00",
@@ -51299,6 +51306,7 @@
   "workable:rentokil-initial:F63BC9789A": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:F6551E50E8": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:F677A81D8C": "2026-09-29T03:32:08+00:00",
+  "workable:rentokil-initial:F6A6A6CB5C": "2026-10-05T01:37:34+00:00",
   "workable:rentokil-initial:F708350EA9": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:F72A98F5DC": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:F7665DCE81": "2026-09-29T03:32:08+00:00",

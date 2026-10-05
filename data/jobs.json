@@ -733,6 +733,27 @@
   "url": "https://nwmea.zohorecruit.com/jobs/Careers/648182000034396368/Web-Developer-Real-Estate",
   "workplace": "On-site"
  },
+ "fantastic:2397086794": {
+  "category": "frontend",
+  "company": "aqary investement and development",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T01:37:34+00:00",
+  "fingerprint": "aqaryinvestementanddevelopment|front end engineer react js next js|abudhabi",
+  "first_seen": "2026-10-05T01:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-04T00:00:00",
+  "salary": "",
+  "score": 77,
+  "source": "fantastic/zoho",
+  "status": "open",
+  "title": "Front-End Engineer - React.js & Next.js",
+  "uid": "fantastic:2397086794",
+  "url": "https://aqaryinvestment.zohorecruit.com/jobs/Careers/838151000002941001/Front-End-Engineer-React-js-Next-js",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
