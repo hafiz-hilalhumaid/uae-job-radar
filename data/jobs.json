@@ -799,6 +799,29 @@
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-AI-Engineer/733521822/",
   "workplace": "On-site"
  },
+ "fantastic:2397932369": {
+  "category": "ai",
+  "company": "Salesforce",
+  "company_key": "fantastic",
+  "expires": "2026-10-26T14:37:37+00:00",
+  "fingerprint": "salesforce|lead principal forward deployed engineer arabic speaking|dubai",
+  "first_seen": "2026-10-05T14:37:37+00:00",
+  "flags": [
+   "Arabic required"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-05T00:00:00",
+  "salary": "",
+  "score": 51,
+  "source": "fantastic/workday",
+  "status": "open",
+  "title": "Lead/ Principal Forward Deployed Engineer, Arabic Speaking",
+  "uid": "fantastic:2397932369",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Forward-Deployed-Engineer_JR348987",
+  "workplace": "Hybrid"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
