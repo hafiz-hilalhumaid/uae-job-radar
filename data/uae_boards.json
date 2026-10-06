@@ -2798,6 +2798,14 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "teamtailor:https://bbi.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-06",
+  "id": "https://bbi.teamtailor.com",
+  "last_uae": "2026-10-06",
+  "name": "BBI",
+  "via": "fantastic"
+ },
  "teamtailor:https://bsm.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-28",
