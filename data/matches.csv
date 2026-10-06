@@ -33,8 +33,8 @@ score,title,company,location,first_seen,flags,salary,source,url
 74,Full Stack Engineer,NorthBay Solutions,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",2026-10-03T02:09:23+00:00,,AED 13000 month,fantastic/jazzhr,https://northbay.applytojob.com/apply/7z2pGZ22Mz/Full-Stack-Engineer
 73,Front-End Engineer / Full Stack,BBI,"Dubai, Dubai Emirate, United Arab Emirates",2026-10-06T16:37:36+00:00,,,teamtailor,https://bbi.teamtailor.com/jobs/8506265-front-end-engineer-full-stack
 72,Mid-Level Full Stack Developer,Bbgc,"Dubai, Dubai, United Arab Emirates",2026-09-30T23:37:39+00:00,,,workable,https://apply.workable.com/j/202D26D02B
-72,AI Process Forward Deployed Engineer,Jobgether,United Arab Emirates,2026-10-05T09:37:33+00:00,,,lever,https://jobs.lever.co/jobgether/88c3d718-84dd-43fe-98ee-5dee80ce1c69
 70,Forward Deployed Software Engineer,Palantir,"Dubai, United Arab Emirates",2026-09-24T20:59:40+00:00,,,lever,https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb
+70,"Senior Software Engineer, Quality",Jobgether,United Arab Emirates,2026-10-05T21:37:36+00:00,,,lever,https://jobs.lever.co/jobgether/cf1475e4-4805-4542-8d79-413f458f59b2
 69,Binance Accelerator Program - LLM Model Training & Data Processing,Binance,"Asia, Australia, Sydney, Australia, Melbourne, UAE, Dubai, Hong Kong, Taiwan, Taipei",2026-09-24T20:59:40+00:00,,,lever,https://jobs.lever.co/binance/cf2742fc-27f2-410c-a2be-afa32c771c01
 69,Full Stack Engineer (Lead),Blackstone Eit 2,"Dubai, Dubai, United Arab Emirates",2026-09-30T23:37:39+00:00,,,workable,https://apply.workable.com/j/00D8EE106A
 69,Senior Software Engineer - GenAI & Node.js,Gsstech Group,"Dubai, Dubai, United Arab Emirates",2026-10-01T02:37:38+00:00,,,workable,https://apply.workable.com/j/6FD8EF5C86
@@ -71,6 +71,7 @@ score,title,company,location,first_seen,flags,salary,source,url
 55,Software Engineer,Callsign,"Abu Dhabi, Abu Dhabi, United Arab Emirates",2026-09-25T06:23:32+00:00,visa/relocation,,workable,https://apply.workable.com/j/BD71CEB924
 55,Software Engineer,Infinitefield,Dubai,2026-09-28T23:32:12+00:00,visa/relocation,,ashby,https://jobs.ashbyhq.com/infinitefield/ca26ce18-d781-41ed-af28-59261a87430d
 55,Senior Principal Software Engineer,Momentumcorporateservicesllcdbamomentum,Abu Dhabi,2026-09-28T23:32:12+00:00,visa/relocation,,greenhouse,https://job-boards.eu.greenhouse.io/momentumcorporateservicesllcdbamomentum/jobs/4978912101
+55,Software Engineer (Front and Back end),Jobgether,United Arab Emirates,2026-10-05T09:01:43+00:00,,,lever,https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee
 54,Senior Software Engineer – Agent Systems,Kraken.Com,"United Kingdom, Brazil, United Arab Emirates, Ireland, Peru, Sweden, Colombia, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, South Africa, Czech Republic, Canada, Hungary, Mexico, Chile, Poland, Spain, Bulgaria",2026-09-28T23:32:12+00:00,,,ashby,https://jobs.ashbyhq.com/kraken.com/4753ccbf-68dc-4668-904f-a3156041fdc8
 53,Principal AI Engineer - AI Tutor,DataCamp,"Belgium; Dubai; Portugal; United Kingdom; United States, Remote",2026-09-28T23:32:12+00:00,,,greenhouse,https://job-boards.greenhouse.io/datacamp/jobs/7619318
 53,Principal AI Engineer - AI Creator,DataCamp,"Belgium; Dubai; Portugal; United Kingdom; United States, Remote",2026-09-28T23:32:12+00:00,,,greenhouse,https://job-boards.greenhouse.io/datacamp/jobs/7754782
@@ -87,7 +88,6 @@ score,title,company,location,first_seen,flags,salary,source,url
 49,Senior AI Engineer,EDGE Group PJSC,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",2026-10-05T11:37:35+00:00,8+ yrs asked; visa/relocation,,fantastic/successfactors,https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-AI-Engineer/733521822/
 47,Senior Software Engineer (Backend),Bayut / dubizzle,"Dubai, Dubai, United Arab Emirates",2026-09-24T20:59:40+00:00,,,workable,https://apply.workable.com/j/302CCD0C3F
 47,software engineer,Fuku,"Dubai, Dubai, United Arab Emirates",2026-09-28T23:32:12+00:00,,,workable,https://apply.workable.com/j/23257C591B
-45,Experienced Software Engineer,Jobgether,United Arab Emirates,2026-10-05T09:37:33+00:00,,,lever,https://jobs.lever.co/jobgether/2a329053-4f84-4f8e-bc18-5a8aca1194f1
 45,"Expert Team Lead, SWE",Jobgether,United Arab Emirates,2026-10-06T06:37:36+00:00,,,lever,https://jobs.lever.co/jobgether/74e0b8ea-9174-4f4a-a314-9df871eda7bb
 27,Senior Desktop Software Engineer,EDGE Group PJSC,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",2026-10-02T01:37:34+00:00,10+ yrs asked,,fantastic/successfactors,https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Desktop-Software-Engineer/733058022/
 22,Senior Product Engineer - FinIQ Wealth Management Suite,Gsstech Group,"Dubai, Dubai, United Arab Emirates",2026-10-01T02:37:38+00:00,7+ yrs asked; immediate joiner,,workable,https://apply.workable.com/j/445826625E
