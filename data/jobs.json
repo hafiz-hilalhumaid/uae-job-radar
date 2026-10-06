@@ -1257,6 +1257,26 @@
   "url": "https://jobs.lever.co/jobgether/4a6e3608-7239-4a75-bec2-a37e5eba01a8",
   "workplace": "remote"
  },
+ "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|expert team lead swe|uae",
+  "first_seen": "2026-10-06T06:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-06T06:38:31.313000+00:00",
+  "salary": "",
+  "score": 45,
+  "source": "lever",
+  "status": "open",
+  "title": "Expert Team Lead, SWE",
+  "uid": "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb",
+  "url": "https://jobs.lever.co/jobgether/74e0b8ea-9174-4f4a-a314-9df871eda7bb",
+  "workplace": "remote"
+ },
  "lever:jobgether:78afbcf9-4a38-4f44-97d5-f6b216fd3515": {
   "category": "fullstack",
   "closed_at": "2026-10-05T21:37:36+00:00",
@@ -1321,6 +1341,7 @@
  },
  "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2": {
   "category": "software",
+  "closed_at": "2026-10-06T06:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior software engineer quality|uae",
@@ -1333,7 +1354,7 @@
   "salary": "",
   "score": 70,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer, Quality",
   "uid": "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2",
   "url": "https://jobs.lever.co/jobgether/cf1475e4-4805-4542-8d79-413f458f59b2",
