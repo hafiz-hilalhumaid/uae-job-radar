@@ -864,6 +864,27 @@
   "url": "https://jobs.lever.co/jobgether/03667dee-5715-4649-b7dd-817a7de62198",
   "workplace": "Remote Solely"
  },
+ "fantastic:2399523829": {
+  "category": "software",
+  "company": "SellAnyCar.com",
+  "company_key": "fantastic",
+  "expires": "2026-10-27T12:38:11+00:00",
+  "fingerprint": "sellanycarcom|software engineer backend|dubai",
+  "first_seen": "2026-10-06T12:38:11+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-06T10:54:28.859",
+  "salary": "",
+  "score": 52,
+  "source": "fantastic/smartrecruiters",
+  "status": "open",
+  "title": "Software Engineer - Backend (PHP)",
+  "uid": "fantastic:2399523829",
+  "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000153727459-software-engineer-backend-php-",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
