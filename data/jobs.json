@@ -1546,6 +1546,7 @@
  },
  "smartrecruiters:SellAnyCarcom:744000141192639": {
   "category": "software",
+  "closed_at": "2026-10-06T11:37:38+00:00",
   "company": "SellAnyCar",
   "company_key": "smartrecruiters:SellAnyCarcom",
   "fingerprint": "sellanycar|software engineer backend|dubai",
@@ -1558,7 +1559,7 @@
   "salary": "",
   "score": 52,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer - Backend (PHP)",
   "uid": "smartrecruiters:SellAnyCarcom:744000141192639",
   "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000141192639-software-engineer-backend-php-",
