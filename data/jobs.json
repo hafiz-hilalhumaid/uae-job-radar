@@ -843,6 +843,27 @@
   "url": "https://careers.g42.ai/global/en/job/OGWOGJGLOBAL3283EXTERNALENGLOBAL/Senior-Developer-Full-Stack",
   "workplace": "On-site"
  },
+ "fantastic:2399190288": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "fantastic",
+  "expires": "2026-10-27T07:33:12+00:00",
+  "fingerprint": "jobgether|trenches web3 frontend developer|uae",
+  "first_seen": "2026-10-06T07:33:12+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-06T00:00:00",
+  "salary": "",
+  "score": 65,
+  "source": "fantastic/lever.co",
+  "status": "open",
+  "title": "Trenches / Web3 Frontend Developer",
+  "uid": "fantastic:2399190288",
+  "url": "https://jobs.lever.co/jobgether/03667dee-5715-4649-b7dd-817a7de62198",
+  "workplace": "Remote Solely"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
