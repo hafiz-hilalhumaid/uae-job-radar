@@ -2013,6 +2013,7 @@
   "greenhouse:2kearlycareers": "us",
   "greenhouse:2kmadrid": "us",
   "greenhouse:2u": "us",
+  "greenhouse:2uinlinepromotions": "us",
   "greenhouse:30thstreetanimalhospital": "us",
   "greenhouse:31stunion": "us",
   "greenhouse:3cloud": "us",
@@ -2691,6 +2692,7 @@
   "greenhouse:bonfirestudiosinc": "us",
   "greenhouse:boomilp": "us",
   "greenhouse:boostedai": "us",
+  "greenhouse:boostlingo": "us",
   "greenhouse:bosapropertiesinc": "us",
   "greenhouse:botauto": "us",
   "greenhouse:bottomlinetechnologies": "us",
@@ -2754,6 +2756,7 @@
   "greenhouse:bubbleskincare": "us",
   "greenhouse:buckcreekvet": "us",
   "greenhouse:bugcrowd": "us",
+  "greenhouse:buildingdecarbonizationcoalition": "us",
   "greenhouse:buildkite": "us",
   "greenhouse:buildops": "us",
   "greenhouse:bullischarterschool": "us",
@@ -2811,6 +2814,7 @@
   "greenhouse:canopyconnect": "us",
   "greenhouse:canopytax": "us",
   "greenhouse:canopyworks": "us",
+  "greenhouse:canto": "us",
   "greenhouse:capco": "us",
   "greenhouse:capfigroupe": "eu_page",
   "greenhouse:capgeminideutschlandgmbh": "eu_page",
@@ -2827,6 +2831,7 @@
   "greenhouse:carbon": "us",
   "greenhouse:carbonchain": "us",
   "greenhouse:carbondirect": "us",
+  "greenhouse:carbonfuture": "eu_page",
   "greenhouse:carbonrobotics": "us",
   "greenhouse:cardata": "us",
   "greenhouse:careaccess": "us",
@@ -3863,6 +3868,7 @@
   "greenhouse:glide": "us",
   "greenhouse:globalaccelerator": "us",
   "greenhouse:globalenergyallianceforpeopleandplanetgeappllc": "us",
+  "greenhouse:globalfishingwatch": "us",
   "greenhouse:globalhealthcareexchangeinc": "us",
   "greenhouse:globalityinc": "us",
   "greenhouse:globalizationpartners": "us",
@@ -4098,6 +4104,7 @@
   "greenhouse:homesweethomehealth": "us",
   "greenhouse:hometap": "us",
   "greenhouse:homeward": "us",
+  "greenhouse:hondasantamonica": "us",
   "greenhouse:honehealth": "us",
   "greenhouse:honestnetworks": "us",
   "greenhouse:honeycomb": "us",
@@ -4632,6 +4639,7 @@
   "greenhouse:loyal36": "us",
   "greenhouse:lpc": "us",
   "greenhouse:ltconsulting": "us",
+  "greenhouse:ltkau": "us",
   "greenhouse:lts": "us",
   "greenhouse:ltse": "us",
   "greenhouse:ltstalentcommunity": "us",
@@ -6395,6 +6403,7 @@
   "greenhouse:thatch": "us",
   "greenhouse:thatsnomoonentertainment": "us",
   "greenhouse:the858emily123program": "us",
+  "greenhouse:theacademy": "eu_page",
   "greenhouse:theagencyre": "us",
   "greenhouse:thealleninstitute": "us",
   "greenhouse:thebaltimorebanner": "us",
@@ -7080,9 +7089,9 @@
  },
  "last_digest": "2026-10-05",
  "last_sweep": {
-  "added": 0,
-  "checked": 4800,
-  "date": "2026-10-05",
+  "added": 3,
+  "checked": 12400,
+  "date": "2026-10-06",
   "total": 22644
  },
  "queue": [
@@ -61686,5 +61695,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Yangon-Myanmar/Mechnical-Technician_R-1188484": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00"
  },
- "sweep_cursor": 20313
+ "sweep_cursor": 10069
 }

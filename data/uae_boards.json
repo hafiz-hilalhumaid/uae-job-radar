@@ -964,6 +964,15 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "greenhouse:bloomreach": {
+  "ats": "greenhouse",
+  "found": "2026-10-06",
+  "id": "bloomreach",
+  "last_uae": "2026-10-06",
+  "name": "Bloomreach",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:boomilp": {
   "ats": "greenhouse",
   "found": "2026-10-01",
@@ -1080,6 +1089,15 @@
   "last_uae": "2026-10-06",
   "name": "ATOMS Careers page",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "greenhouse:databricks": {
+  "ats": "greenhouse",
+  "found": "2026-10-06",
+  "id": "databricks",
+  "last_uae": "2026-10-06",
+  "name": "Databricks",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:datacamp": {
@@ -3920,6 +3938,15 @@
   "last_uae": "2026-10-06",
   "name": "Stakefish",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:stranger-soccer-1": {
+  "ats": "workable",
+  "found": "2026-10-06",
+  "id": "stranger-soccer-1",
+  "last_uae": "2026-10-06",
+  "name": "Stranger Soccer 1",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "workable:sunreef-yachts-1": {
