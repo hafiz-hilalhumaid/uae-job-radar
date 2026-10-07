@@ -2564,6 +2564,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:StandardBankGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-07",
+  "id": "StandardBankGroup",
+  "last_uae": "2026-10-07",
+  "name": "Standardbankgroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:Sutherland": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2598,6 +2607,15 @@
   "last_uae": "2026-10-07",
   "name": "Turnertownsend",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:UmdaschGroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-07",
+  "id": "UmdaschGroup",
+  "last_uae": "2026-10-07",
+  "name": "Umdaschgroup",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:VeoliaEnvironnementSA": {
@@ -2762,6 +2780,15 @@
   "uae_jobs": 24,
   "via": "sweep"
  },
+ "smartrecruiters:somfygroup": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-07",
+  "id": "somfygroup",
+  "last_uae": "2026-10-07",
+  "name": "Somfygroup",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:sutherland": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2851,6 +2878,15 @@
   "uae_jobs": 10,
   "via": "sweep"
  },
+ "teamtailor:https://emperor.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-07",
+  "id": "https://emperor.teamtailor.com",
+  "last_uae": "2026-10-07",
+  "name": "Emperor",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "teamtailor:https://equiomgroup.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-28",
@@ -2866,6 +2902,15 @@
   "id": "https://fourprinciples.teamtailor.com",
   "last_uae": "2026-10-05",
   "name": "Fourprinciples",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://grandmillenniumbusinessbaydubai-demo.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-07",
+  "id": "https://grandmillenniumbusinessbaydubai-demo.teamtailor.com",
+  "last_uae": "2026-10-07",
+  "name": "Grandmillenniumbusinessbaydubai Demo",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -3181,6 +3226,15 @@
   "id": "chaingpt",
   "last_uae": "2026-10-07",
   "name": "Chaingpt",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:charlotte-tilbury": {
+  "ats": "workable",
+  "found": "2026-10-07",
+  "id": "charlotte-tilbury",
+  "last_uae": "2026-10-07",
+  "name": "Charlotte Tilbury",
   "uae_jobs": 1,
   "via": "sweep"
  },
