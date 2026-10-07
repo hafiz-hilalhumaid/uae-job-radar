@@ -1365,6 +1365,7 @@
  },
  "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee": {
   "category": "software",
+  "closed_at": "2026-10-07T02:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer|uae",
@@ -1377,7 +1378,7 @@
   "salary": "",
   "score": 55,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer (Front and Back end)",
   "uid": "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
