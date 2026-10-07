@@ -1386,6 +1386,7 @@
  },
  "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2": {
   "category": "software",
+  "closed_at": "2026-10-07T07:37:34+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior software engineer quality|uae",
@@ -1398,7 +1399,7 @@
   "salary": "",
   "score": 70,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer, Quality",
   "uid": "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2",
   "url": "https://jobs.lever.co/jobgether/cf1475e4-4805-4542-8d79-413f458f59b2",
