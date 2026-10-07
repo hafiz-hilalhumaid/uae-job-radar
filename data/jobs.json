@@ -1384,6 +1384,26 @@
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "workplace": "Remote OK"
  },
+ "lever:jobgether:a092a92e-db49-47eb-8542-66c2a30f08b6": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|product engineer|uae",
+  "first_seen": "2026-10-07T09:37:38+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-07T09:05:24.728000+00:00",
+  "salary": "",
+  "score": 66,
+  "source": "lever",
+  "status": "open",
+  "title": "Product Engineer (AI-Native)",
+  "uid": "lever:jobgether:a092a92e-db49-47eb-8542-66c2a30f08b6",
+  "url": "https://jobs.lever.co/jobgether/a092a92e-db49-47eb-8542-66c2a30f08b6",
+  "workplace": "remote"
+ },
  "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2": {
   "category": "software",
   "closed_at": "2026-10-07T07:37:34+00:00",
