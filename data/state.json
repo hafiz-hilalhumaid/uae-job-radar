@@ -7099,22 +7099,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-10-05",
+ "last_digest": "2026-10-07",
  "last_sweep": {
   "added": 3,
   "checked": 12400,
   "date": "2026-10-06",
   "total": 22644
  },
- "queue": [
-  "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
-  "fantastic:2397786167",
-  "fantastic:2397932369",
-  "fantastic:2397995616",
-  "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb",
-  "fantastic:2399190288",
-  "fantastic:2399523829"
- ],
+ "queue": [],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
   "ashby:Airwallex:0041178d-9b99-4c6e-9ad0-d8399d77559f": "2026-09-28T23:32:12+00:00",
