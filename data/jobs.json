@@ -1366,7 +1366,6 @@
  },
  "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee": {
   "category": "software",
-  "closed_at": "2026-10-07T02:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer|uae",
@@ -1379,7 +1378,7 @@
   "salary": "",
   "score": 55,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Software Engineer (Front and Back end)",
   "uid": "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
@@ -1424,6 +1423,28 @@
   "title": "Senior Software Engineer, Quality",
   "uid": "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2",
   "url": "https://jobs.lever.co/jobgether/cf1475e4-4805-4542-8d79-413f458f59b2",
+  "workplace": "remote"
+ },
+ "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|software craftsperson typescript ii|uae",
+  "first_seen": "2026-10-07T20:36:06+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-07T08:14:52.296000+00:00",
+  "salary": "",
+  "score": 100,
+  "source": "lever",
+  "status": "open",
+  "title": "Software Craftsperson/Typescript- II",
+  "uid": "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0",
+  "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "workplace": "remote"
  },
  "lever:palantir:8148182c-6127-4689-b615-7815a94173bb": {
