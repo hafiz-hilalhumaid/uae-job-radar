@@ -1336,15 +1336,6 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
- "greenhouse:midpointmarkets": {
-  "ats": "greenhouse",
-  "found": "2026-10-01",
-  "id": "midpointmarkets",
-  "last_uae": "2026-10-08",
-  "name": "Midpoint Markets",
-  "uae_jobs": 2,
-  "via": "sweep"
- },
  "greenhouse:momentumcorporateservicesllcdbamomentum": {
   "ats": "greenhouse",
   "found": "2026-09-28",
