@@ -907,6 +907,29 @@
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Engineer-Software-Engineer-GCS-Abu/733207522/",
   "workplace": "On-site"
  },
+ "fantastic:2403723579": {
+  "category": "software",
+  "company": "EDGE Group PJSC",
+  "company_key": "fantastic",
+  "expires": "2026-10-29T10:37:38+00:00",
+  "fingerprint": "edgepjsc|desktop software engineer ii|abudhabi",
+  "first_seen": "2026-10-08T10:37:38+00:00",
+  "flags": [
+   "10+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-10-02T02:00:00",
+  "salary": "",
+  "score": 27,
+  "source": "fantastic/successfactors",
+  "status": "open",
+  "title": "Desktop Software Engineer II",
+  "uid": "fantastic:2403723579",
+  "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Desktop-Software-Engineer-II-Abu/733058022/",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
