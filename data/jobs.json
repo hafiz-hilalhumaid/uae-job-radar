@@ -970,6 +970,28 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007",
   "workplace": ""
  },
+ "greenhouse:audiomob:4988498101": {
+  "category": "software",
+  "company": "Audiomob",
+  "company_key": "greenhouse:audiomob",
+  "fingerprint": "audiomob|software engineer|abudhabi",
+  "first_seen": "2026-10-08T05:37:34+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "New, Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "",
+  "salary": "",
+  "score": 65,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Software Engineer (SDK, Unity)",
+  "uid": "greenhouse:audiomob:4988498101",
+  "url": "https://job-boards.eu.greenhouse.io/audiomob/jobs/4988498101",
+  "workplace": ""
+ },
  "greenhouse:datacamp:7619318": {
   "category": "ai",
   "company": "DataCamp",
