@@ -886,6 +886,27 @@
   "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000153727459-software-engineer-backend-php-",
   "workplace": "On-site"
  },
+ "fantastic:2403162221": {
+  "category": "software",
+  "company": "EDGE Group PJSC",
+  "company_key": "fantastic",
+  "expires": "2026-10-29T04:37:34+00:00",
+  "fingerprint": "edgepjsc|principal engineer software engineer gcs|abudhabi",
+  "first_seen": "2026-10-08T04:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-09-22T02:00:00",
+  "salary": "",
+  "score": 30,
+  "source": "fantastic/successfactors",
+  "status": "open",
+  "title": "Principal Engineer -Software Engineer GCS",
+  "uid": "fantastic:2403162221",
+  "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Engineer-Software-Engineer-GCS-Abu/733207522/",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
