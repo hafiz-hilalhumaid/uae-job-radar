@@ -413,6 +413,7 @@
  },
  "ashby:northslope-technologies:4bc4c6db-dd4c-489a-a569-a65ccfaca9f4": {
   "category": "ai",
+  "closed_at": "2026-10-09T15:37:37+00:00",
   "company": "Northslope Technologies",
   "company_key": "ashby:northslope-technologies",
   "fingerprint": "northslope|forward deployed software engineer|dubai",
@@ -425,7 +426,7 @@
   "salary": "",
   "score": 75,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Software Engineer",
   "uid": "ashby:northslope-technologies:4bc4c6db-dd4c-489a-a569-a65ccfaca9f4",
   "url": "https://jobs.ashbyhq.com/northslope-technologies/4bc4c6db-dd4c-489a-a569-a65ccfaca9f4",
