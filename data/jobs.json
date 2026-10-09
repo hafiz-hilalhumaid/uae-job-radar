@@ -1497,6 +1497,7 @@
  },
  "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee": {
   "category": "software",
+  "closed_at": "2026-10-09T00:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer|uae",
@@ -1509,7 +1510,7 @@
   "salary": "",
   "score": 55,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer (Front and Back end)",
   "uid": "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
@@ -1558,6 +1559,7 @@
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
   "category": "frontend",
+  "closed_at": "2026-10-09T00:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software craftsperson typescript ii|uae",
@@ -1572,7 +1574,7 @@
   "salary": "",
   "score": 100,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Craftsperson/Typescript- II",
   "uid": "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
