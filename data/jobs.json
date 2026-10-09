@@ -1141,6 +1141,7 @@
  },
  "greenhouse:geotab:5107813008": {
   "category": "software",
+  "closed_at": "2026-10-09T01:37:34+00:00",
   "company": "Geotab",
   "company_key": "greenhouse:geotab",
   "fingerprint": "geotab|software developer|dubai",
@@ -1153,7 +1154,7 @@
   "salary": "",
   "score": 58,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Software Developer",
   "uid": "greenhouse:geotab:5107813008",
   "url": "https://job-boards.greenhouse.io/geotab/jobs/5107813008",
