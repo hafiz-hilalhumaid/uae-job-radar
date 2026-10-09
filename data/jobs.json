@@ -268,6 +268,26 @@
   "url": "https://jobs.ashbyhq.com/kraken.com/4753ccbf-68dc-4668-904f-a3156041fdc8",
   "workplace": "Remote"
  },
+ "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8": {
+  "category": "frontend",
+  "company": "Kraken.Com",
+  "company_key": "ashby:kraken.com",
+  "fingerprint": "krakencom|senior software engineer react native consumer|uae",
+  "first_seen": "2026-10-09T14:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Kingdom, Brazil, United Arab Emirates, Ireland, Peru, Sweden, Colombia, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, South Africa, Czech Republic, Canada, Hungary, Chile, Poland, Spain, Bulgaria",
+  "notified": "queued",
+  "posted_at": "2026-10-09T14:28:04.840+00:00",
+  "salary": "",
+  "score": 66,
+  "source": "ashby",
+  "status": "open",
+  "title": "Senior Software Engineer - React Native - Consumer",
+  "uid": "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8",
+  "url": "https://jobs.ashbyhq.com/kraken.com/482dd459-50ae-4d16-aa69-18bc4f93fed8",
+  "workplace": "Remote"
+ },
  "ashby:kraken.com:7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e": {
   "category": "ai",
   "company": "Kraken.Com",
