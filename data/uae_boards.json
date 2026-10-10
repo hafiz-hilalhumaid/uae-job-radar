@@ -1000,6 +1000,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:capco": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "id": "capco",
+  "last_uae": "2026-10-10",
+  "name": "Capco",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:celonis": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1079,6 +1088,15 @@
   "id": "couchbaseinc",
   "last_uae": "2026-10-10",
   "name": "Couchbase, Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:crunchyroll": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "id": "crunchyroll",
+  "last_uae": "2026-10-10",
+  "name": "Crunchyroll, LLC",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1291,6 +1309,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:icapitalnetwork": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "id": "icapitalnetwork",
+  "last_uae": "2026-10-10",
+  "name": "iCapital",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:inmobi": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1325,6 +1352,15 @@
   "last_uae": "2026-10-10",
   "name": "Jensen Hughes",
   "uae_jobs": 5,
+  "via": "sweep"
+ },
+ "greenhouse:landor": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "id": "landor",
+  "last_uae": "2026-10-10",
+  "name": "Landor",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:marinomanagementllc": {
@@ -1372,6 +1408,15 @@
   "last_uae": "2026-10-10",
   "name": "Nebius",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "greenhouse:netskope": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "id": "netskope",
+  "last_uae": "2026-10-10",
+  "name": "Netskope",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:novisto78": {
@@ -1624,6 +1669,16 @@
   "id": "summittherapeutics",
   "last_uae": "2026-10-10",
   "name": "Summit Therapeutics",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:teads1": {
+  "ats": "greenhouse",
+  "found": "2026-10-10",
+  "host": "eu",
+  "id": "teads1",
+  "last_uae": "2026-10-10",
+  "name": "Teads1",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -3382,6 +3437,15 @@
   "uae_jobs": 50,
   "via": "sweep"
  },
+ "workable:esr-group": {
+  "ats": "workable",
+  "found": "2026-10-10",
+  "id": "esr-group",
+  "last_uae": "2026-10-10",
+  "name": "Esr Group",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:eva-pharma": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -3470,6 +3534,15 @@
   "last_uae": "2026-10-10",
   "name": "Fuseenergy",
   "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "workable:genplusgroup": {
+  "ats": "workable",
+  "found": "2026-10-10",
+  "id": "genplusgroup",
+  "last_uae": "2026-10-10",
+  "name": "Genplusgroup",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:getsubstance": {
@@ -3841,6 +3914,15 @@
   "uae_jobs": 45,
   "via": "sweep"
  },
+ "workable:petlab-co": {
+  "ats": "workable",
+  "found": "2026-10-10",
+  "id": "petlab-co",
+  "last_uae": "2026-10-10",
+  "name": "Petlab Co",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:pfm-global-fzco": {
   "ats": "workable",
   "found": "2026-10-01",
@@ -4028,6 +4110,15 @@
   "last_uae": "2026-10-10",
   "name": "Ten Group",
   "uae_jobs": 3,
+  "via": "sweep"
+ },
+ "workable:terrapay": {
+  "ats": "workable",
+  "found": "2026-10-10",
+  "id": "terrapay",
+  "last_uae": "2026-10-10",
+  "name": "Terrapay",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:the-collecting-group": {
