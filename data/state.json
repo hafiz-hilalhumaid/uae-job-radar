@@ -1058,7 +1058,8 @@
    "seeded": true
   },
   "recruitee:unitedalsaqergroup": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "RuntimeError: HTTP 500 from https://unitedalsaqergroup.recruitee.com/api/offers/",
    "seeded": true
   },
   "smartrecruiters:AECOM2": {
@@ -8530,6 +8531,7 @@
   "ashby:Legora:f701ea2d-8e8c-413d-a8bc-da1602454fb0": "2026-10-03T23:37:38+00:00",
   "ashby:Legora:f7493093-1ae8-4f56-a332-44fccdbb90cd": "2026-10-03T23:37:38+00:00",
   "ashby:Legora:f76a3939-895d-4203-9322-927bae45f533": "2026-10-03T23:37:38+00:00",
+  "ashby:Legora:f7dc200d-b2bf-4da6-a475-4606b7bb26f8": "2026-10-11T19:37:33+00:00",
   "ashby:Legora:f80f50f8-df35-472b-b67d-7290f97d4faa": "2026-10-03T23:37:38+00:00",
   "ashby:Legora:f81a4b5e-7ef3-4946-a147-f6c0645e98ca": "2026-10-03T23:37:38+00:00",
   "ashby:Legora:f835b884-d93b-473c-bf12-e754166f854d": "2026-10-03T23:37:38+00:00",
@@ -13653,6 +13655,7 @@
   "ashby:legora:f701ea2d-8e8c-413d-a8bc-da1602454fb0": "2026-09-28T23:32:12+00:00",
   "ashby:legora:f7493093-1ae8-4f56-a332-44fccdbb90cd": "2026-09-28T23:32:12+00:00",
   "ashby:legora:f76a3939-895d-4203-9322-927bae45f533": "2026-09-28T23:32:12+00:00",
+  "ashby:legora:f7dc200d-b2bf-4da6-a475-4606b7bb26f8": "2026-10-11T19:37:33+00:00",
   "ashby:legora:f80f50f8-df35-472b-b67d-7290f97d4faa": "2026-09-28T23:32:12+00:00",
   "ashby:legora:f81a4b5e-7ef3-4946-a147-f6c0645e98ca": "2026-09-28T23:32:12+00:00",
   "ashby:legora:f835b884-d93b-473c-bf12-e754166f854d": "2026-09-28T23:32:12+00:00",
