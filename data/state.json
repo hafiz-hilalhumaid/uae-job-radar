@@ -1065,6 +1065,10 @@
    "fails": 0,
    "seeded": true
   },
+  "smartrecruiters:AFRY": {
+   "fails": 0,
+   "seeded": true
+  },
   "smartrecruiters:AbbVie": {
    "fails": 0,
    "seeded": true
@@ -1186,6 +1190,10 @@
    "seeded": true
   },
   "smartrecruiters:IOTAGROUP": {
+   "fails": 0,
+   "seeded": true
+  },
+  "smartrecruiters:IQEQ": {
    "fails": 0,
    "seeded": true
   },
@@ -1317,6 +1325,10 @@
    "fails": 0,
    "seeded": true
   },
+  "smartrecruiters:Swissquote": {
+   "fails": 0,
+   "seeded": true
+  },
   "smartrecruiters:TALENT2AFRICA": {
    "fails": 0,
    "seeded": true
@@ -1350,6 +1362,10 @@
    "seeded": true
   },
   "smartrecruiters:aecom2": {
+   "fails": 0,
+   "seeded": true
+  },
+  "smartrecruiters:afry": {
    "fails": 0,
    "seeded": true
   },
@@ -1582,6 +1598,10 @@
    "seeded": true
   },
   "workable:beond": {
+   "fails": 0,
+   "seeded": true
+  },
+  "workable:blacklinesafety": {
    "fails": 0,
    "seeded": true
   },
@@ -51718,6 +51738,7 @@
   "smartrecruiters:AECOM2:744000154876059": "2026-10-11T09:37:35+00:00",
   "smartrecruiters:AECOM2:744000154884789": "2026-10-11T16:37:35+00:00",
   "smartrecruiters:AECOM2:744000154885349": "2026-10-11T16:37:35+00:00",
+  "smartrecruiters:AFRY:744000154417664": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:AbbVie:3743990015165036": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:AbbVie:3743990015226066": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:AbbVie:3743990015226106": "2026-09-28T23:32:12+00:00",
@@ -53079,6 +53100,8 @@
   "smartrecruiters:IOTAGROUP:744000148950640": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:IOTAGROUP:744000150396430": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:IOTAGROUP:744000152838214": "2026-10-01T06:37:39+00:00",
+  "smartrecruiters:IQEQ:744000154615004": "2026-10-11T23:37:33+00:00",
+  "smartrecruiters:IQEQ:744000154669519": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:InfiniteQuant:744000146665160": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:InfiniteQuant:744000146666599": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:InformaGroupPlc:744000148662599": "2026-09-28T23:32:12+00:00",
@@ -53314,6 +53337,7 @@
   "smartrecruiters:Socotec:744000146484129": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:StandardBankGroup:744000154105500": "2026-10-07T23:37:42+00:00",
   "smartrecruiters:Sutherland:744000150200749": "2026-09-28T23:32:12+00:00",
+  "smartrecruiters:Swissquote:744000154364649": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:TALENT2AFRICA:744000079775385": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:Talan:744000141266890": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:TurnerTownsend:744000148806569": "2026-09-28T23:32:12+00:00",
@@ -53695,6 +53719,7 @@
   "smartrecruiters:aecom2:744000154876059": "2026-10-11T09:37:35+00:00",
   "smartrecruiters:aecom2:744000154884789": "2026-10-11T16:37:35+00:00",
   "smartrecruiters:aecom2:744000154885349": "2026-10-11T16:37:35+00:00",
+  "smartrecruiters:afry:744000154417664": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:avaloq1:744000147404889": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:averydennison:744000145467939": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:beckersgroup:744000105130980": "2026-09-28T23:32:12+00:00",
@@ -55758,6 +55783,25 @@
   "workable:beond:DE27AC7FD4": "2026-09-30T23:37:39+00:00",
   "workable:beond:F8427D908D": "2026-09-30T23:37:39+00:00",
   "workable:beond:F87AC699D0": "2026-09-30T23:37:39+00:00",
+  "workable:blacklinesafety:25819913D4": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:27E532C607": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:35F8692D47": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:5977F2F294": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:5D65DB098E": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:6BAB79B1A3": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:71D7A136E3": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:8A3A7C74FD": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:95804DA304": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:9FCB6BF4DC": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:AE068FF716": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:B90AD0B01E": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:B9B85BE411": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:C6BF6DA45E": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:CEEA893072": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:E16C7BDA9E": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:F74B0ACD18": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:F751938051": "2026-10-11T23:37:33+00:00",
+  "workable:blacklinesafety:FE717ED28F": "2026-10-11T23:37:33+00:00",
   "workable:blackstone-eit-2:002409F98B": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:047E82F7A5": "2026-09-30T23:37:39+00:00",
   "workable:blackstone-eit-2:06227E690F": "2026-09-30T23:37:39+00:00",
