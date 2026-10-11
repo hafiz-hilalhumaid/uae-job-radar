@@ -1079,6 +1079,27 @@
   "url": "https://atribsmetscon.zohorecruit.com/jobs/Careers/613878000055086118/Conversation-AI-Engineer",
   "workplace": "On-site"
  },
+ "fantastic:2409095326": {
+  "category": "software",
+  "company": "EY",
+  "company_key": "fantastic",
+  "expires": "2026-11-01T15:37:35+00:00",
+  "fingerprint": "ey|ai software engineer financial advisory dubai|dubai",
+  "first_seen": "2026-10-11T15:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-11T00:00:00",
+  "salary": "",
+  "score": 59,
+  "source": "fantastic/successfactors",
+  "status": "open",
+  "title": "AI Software Engineer - Financial Advisory - Dubai",
+  "uid": "fantastic:2409095326",
+  "url": "https://careers.ey.com/ey/job/Dubai-AI-Software-Engineer-Financial-Advisory-Dubai-9267/1446314533/",
+  "workplace": "Hybrid"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",

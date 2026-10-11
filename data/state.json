@@ -7192,7 +7192,8 @@
  "queue": [
   "fantastic:2405751425",
   "fantastic:2405853029",
-  "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8"
+  "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8",
+  "fantastic:2409095326"
  ],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
@@ -26966,6 +26967,7 @@
   "greenhouse:deliveroo:8264899": "2026-10-09T15:37:37+00:00",
   "greenhouse:deliveroo:8265192": "2026-10-08T20:37:47+00:00",
   "greenhouse:deliveroo:8267495": "2026-10-09T16:37:37+00:00",
+  "greenhouse:deliveroo:8267585": "2026-10-11T15:37:35+00:00",
   "greenhouse:deliveroo:8267999": "2026-10-09T18:37:34+00:00",
   "greenhouse:deliveroo:8272708": "2026-10-11T11:37:37+00:00",
   "greenhouse:diligentcorporation:5594975004": "2026-09-28T23:32:12+00:00",
