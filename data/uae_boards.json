@@ -2106,6 +2106,15 @@
   "uae_jobs": 194,
   "via": "sweep"
  },
+ "smartrecruiters:AFRY": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-11",
+  "id": "AFRY",
+  "last_uae": "2026-10-11",
+  "name": "Afry",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:AbbVie": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2356,6 +2365,15 @@
   "last_uae": "2026-10-11",
   "name": "Iotagroup",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "smartrecruiters:IQEQ": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-11",
+  "id": "IQEQ",
+  "last_uae": "2026-10-11",
+  "name": "Iqeq",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "smartrecruiters:InfiniteQuant": {
@@ -2628,6 +2646,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:Swissquote": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-11",
+  "id": "Swissquote",
+  "last_uae": "2026-10-11",
+  "name": "Swissquote",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:TALENT2AFRICA": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2698,6 +2725,15 @@
   "last_uae": "2026-10-11",
   "name": "Aecom2",
   "uae_jobs": 194,
+  "via": "sweep"
+ },
+ "smartrecruiters:afry": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-11",
+  "id": "afry",
+  "last_uae": "2026-10-11",
+  "name": "Afry",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:avaloq1": {
@@ -3182,6 +3218,15 @@
   "id": "beond",
   "last_uae": "2026-10-11",
   "name": "Beond",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:blacklinesafety": {
+  "ats": "workable",
+  "found": "2026-10-11",
+  "id": "blacklinesafety",
+  "last_uae": "2026-10-11",
+  "name": "Blacklinesafety",
   "uae_jobs": 1,
   "via": "sweep"
  },
