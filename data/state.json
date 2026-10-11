@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-10",
+ "fantastic_daily": "2026-10-11",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -10017,6 +10017,7 @@
   "ashby:Snowflake:f083c922-9d5d-4e26-9c43-0b5362809604": "2026-10-02T15:37:37+00:00",
   "ashby:Snowflake:f284851d-7899-4079-a323-369f9f0a8a9b": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:f3102d91-89b5-4c7c-8d77-d915751c039a": "2026-09-28T23:32:12+00:00",
+  "ashby:Snowflake:f38ad1b0-00a6-490d-afcf-80a78c8b8aed": "2026-10-11T01:37:35+00:00",
   "ashby:Snowflake:f3dee605-c1a1-4712-b6ee-7c085a502032": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:f3e0f713-c16e-421e-8773-f703739ec0ad": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:f458b4f8-d57b-4fb7-bc7d-1933b2881679": "2026-09-28T23:32:12+00:00",
@@ -16381,6 +16382,7 @@
   "ashby:snowflake:f083c922-9d5d-4e26-9c43-0b5362809604": "2026-10-02T15:37:37+00:00",
   "ashby:snowflake:f284851d-7899-4079-a323-369f9f0a8a9b": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:f3102d91-89b5-4c7c-8d77-d915751c039a": "2026-09-28T23:32:12+00:00",
+  "ashby:snowflake:f38ad1b0-00a6-490d-afcf-80a78c8b8aed": "2026-10-11T01:37:35+00:00",
   "ashby:snowflake:f3dee605-c1a1-4712-b6ee-7c085a502032": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:f3e0f713-c16e-421e-8773-f703739ec0ad": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:f458b4f8-d57b-4fb7-bc7d-1933b2881679": "2026-09-28T23:32:12+00:00",
@@ -20713,6 +20715,7 @@
   "greenhouse:andurilindustries:5262870007": "2026-10-10T00:37:33+00:00",
   "greenhouse:andurilindustries:5262876007": "2026-10-10T00:37:33+00:00",
   "greenhouse:andurilindustries:5262877007": "2026-10-10T00:37:33+00:00",
+  "greenhouse:andurilindustries:5262987007": "2026-10-11T01:37:35+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
