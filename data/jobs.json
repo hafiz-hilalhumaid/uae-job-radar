@@ -1582,6 +1582,28 @@
   "url": "https://jobs.lever.co/jobgether/78afbcf9-4a38-4f44-97d5-f6b216fd3515",
   "workplace": "remote"
  },
+ "lever:jobgether:79fa1390-665b-4522-8d26-b88948fdd54d": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|java tech lead solution architect|uae",
+  "first_seen": "2026-10-12T07:37:36+00:00",
+  "flags": [
+   "8+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-10-12T07:39:06.100000+00:00",
+  "salary": "",
+  "score": 37,
+  "source": "lever",
+  "status": "open",
+  "title": "Java Tech Lead / Solution Architect (React , Telecom)",
+  "uid": "lever:jobgether:79fa1390-665b-4522-8d26-b88948fdd54d",
+  "url": "https://jobs.lever.co/jobgether/79fa1390-665b-4522-8d26-b88948fdd54d",
+  "workplace": "remote"
+ },
  "lever:jobgether:88c3d718-84dd-43fe-98ee-5dee80ce1c69": {
   "category": "ai",
   "closed_at": "2026-10-06T20:18:27+00:00",
@@ -1663,6 +1685,28 @@
   "title": "Senior Software Engineer, Quality",
   "uid": "lever:jobgether:cf1475e4-4805-4542-8d79-413f458f59b2",
   "url": "https://jobs.lever.co/jobgether/cf1475e4-4805-4542-8d79-413f458f59b2",
+  "workplace": "remote"
+ },
+ "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior full stack developer|uae",
+  "first_seen": "2026-10-12T07:37:36+00:00",
+  "flags": [
+   "7+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-12T07:45:18.227000+00:00",
+  "salary": "",
+  "score": 66,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Full Stack Developer (React + Node.js)",
+  "uid": "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722",
+  "url": "https://jobs.lever.co/jobgether/d1fdc68c-7296-4ade-a52d-122a933b4722",
   "workplace": "remote"
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
@@ -1833,6 +1877,7 @@
  },
  "smartrecruiters:GhobashGroup:744000105793435": {
   "category": "software",
+  "closed_at": "2026-10-12T07:37:36+00:00",
   "company": "Ghobash Group",
   "company_key": "smartrecruiters:GhobashGroup",
   "fingerprint": "ghobash|software developer|dubai",
@@ -1845,7 +1890,7 @@
   "salary": "",
   "score": 50,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Software Developer",
   "uid": "smartrecruiters:GhobashGroup:744000105793435",
   "url": "https://jobs.smartrecruiters.com/GhobashGroup/744000105793435-software-developer",
