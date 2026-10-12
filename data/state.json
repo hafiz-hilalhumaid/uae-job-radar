@@ -7204,19 +7204,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-10-09",
+ "last_digest": "2026-10-12",
  "last_sweep": {
   "added": 5,
   "checked": 8800,
   "date": "2026-10-11",
   "total": 22644
  },
- "queue": [
-  "fantastic:2405751425",
-  "fantastic:2405853029",
-  "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8",
-  "fantastic:2409095326"
- ],
+ "queue": [],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
   "ashby:Airwallex:0041178d-9b99-4c6e-9ad0-d8399d77559f": "2026-09-28T23:32:12+00:00",
