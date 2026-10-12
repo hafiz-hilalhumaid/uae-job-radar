@@ -1667,6 +1667,7 @@
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
   "category": "frontend",
+  "closed_at": "2026-10-12T04:37:33+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software craftsperson typescript ii|uae",
@@ -1681,7 +1682,7 @@
   "salary": "",
   "score": 100,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Craftsperson/Typescript- II",
   "uid": "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
