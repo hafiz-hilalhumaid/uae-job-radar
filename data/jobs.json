@@ -1100,6 +1100,27 @@
   "url": "https://careers.ey.com/ey/job/Dubai-AI-Software-Engineer-Financial-Advisory-Dubai-9267/1446314533/",
   "workplace": "Hybrid"
  },
+ "fantastic:2409784535": {
+  "category": "software",
+  "company": "Loft Orbital Solutions",
+  "company_key": "fantastic",
+  "expires": "2026-11-02T13:37:33+00:00",
+  "fingerprint": "loftorbitalsolutions|satellite operations software engineer|abudhabi",
+  "first_seen": "2026-10-12T13:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-12T00:00:00",
+  "salary": "",
+  "score": 47,
+  "source": "fantastic/lever.co",
+  "status": "open",
+  "title": "Satellite Operations Software Engineer",
+  "uid": "fantastic:2409784535",
+  "url": "https://jobs.lever.co/loftorbital/bc16e2e5-65a3-412d-a186-1b9ea2a4e61c",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",

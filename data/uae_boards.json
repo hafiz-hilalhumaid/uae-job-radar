@@ -1905,6 +1905,14 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "lever:loftorbital": {
+  "ats": "lever",
+  "found": "2026-10-12",
+  "id": "loftorbital",
+  "last_uae": "2026-10-12",
+  "name": "Loft Orbital Solutions",
+  "via": "fantastic"
+ },
  "lever:lyrahealth": {
   "ats": "lever",
   "found": "2026-09-28",
