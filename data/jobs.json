@@ -1100,6 +1100,29 @@
   "url": "https://careers.ey.com/ey/job/Dubai-AI-Software-Engineer-Financial-Advisory-Dubai-9267/1446314533/",
   "workplace": "Hybrid"
  },
+ "fantastic:2410079301": {
+  "category": "ai",
+  "company": "Salesforce",
+  "company_key": "fantastic",
+  "expires": "2026-11-02T20:37:37+00:00",
+  "fingerprint": "salesforce|data 360 lead principal forward deployed engineer|dubai",
+  "first_seen": "2026-10-12T20:37:37+00:00",
+  "flags": [
+   "8+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-12T00:00:00",
+  "salary": "",
+  "score": 43,
+  "source": "fantastic/workday",
+  "status": "open",
+  "title": "Data 360 - Lead/ Principal Forward Deployed Engineer",
+  "uid": "fantastic:2410079301",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Data-360---Lead--Principal-Forward-Deployed-Engineer_JR362852",
+  "workplace": "Hybrid"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
@@ -1711,7 +1734,6 @@
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
   "category": "frontend",
-  "closed_at": "2026-10-12T04:37:33+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software craftsperson typescript ii|uae",
@@ -1726,7 +1748,7 @@
   "salary": "",
   "score": 100,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Software Craftsperson/Typescript- II",
   "uid": "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
