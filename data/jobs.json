@@ -1166,6 +1166,27 @@
   "url": "https://jobs.workable.com/view/36c8kFqgEPcidQVJPzdb2v/senior-software-engineer---full-stack-development-in-dubai-at-blackstone-eit",
   "workplace": "On-site"
  },
+ "fantastic:2412044454": {
+  "category": "ai",
+  "company": "Salesforce",
+  "company_key": "fantastic",
+  "expires": "2026-11-03T21:37:40+00:00",
+  "fingerprint": "salesforce|lead forward deployed engineer|dubai",
+  "first_seen": "2026-10-13T21:37:40+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-13T00:00:00",
+  "salary": "",
+  "score": 76,
+  "source": "fantastic/workday",
+  "status": "open",
+  "title": "Lead Forward Deployed Engineer",
+  "uid": "fantastic:2412044454",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Lead-Forward-Deployed-Engineer_JR348990",
+  "workplace": "Hybrid"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
