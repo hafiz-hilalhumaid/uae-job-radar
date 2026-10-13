@@ -1123,6 +1123,27 @@
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Data-360---Lead--Principal-Forward-Deployed-Engineer_JR362852",
   "workplace": "Hybrid"
  },
+ "fantastic:2410501324": {
+  "category": "ai",
+  "company": "Mondia Group",
+  "company_key": "fantastic",
+  "expires": "2026-11-03T09:37:35+00:00",
+  "fingerprint": "mondia|agentic ai agent|dubai",
+  "first_seen": "2026-10-13T09:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-13T06:03:39.908",
+  "salary": "",
+  "score": 87,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Agentic AI Agent",
+  "uid": "fantastic:2410501324",
+  "url": "https://jobs.workable.com/view/mFMVEjArNr6JDLVvQbd84H/agentic-ai-agent-in-dubai-at-mondia-group",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
