@@ -494,15 +494,6 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
- "ashby:paires": {
-  "ats": "ashby",
-  "found": "2026-09-28",
-  "id": "paires",
-  "last_uae": "2026-10-13",
-  "name": "Paires",
-  "uae_jobs": 3,
-  "via": "sweep"
- },
  "ashby:paradox": {
   "ats": "ashby",
   "found": "2026-10-01",
