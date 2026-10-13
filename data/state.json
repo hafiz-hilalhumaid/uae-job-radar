@@ -2563,6 +2563,7 @@
   "greenhouse:audaxprivateequity": "us",
   "greenhouse:audibenehearcom": "us",
   "greenhouse:audibeverlyhills": "us",
+  "greenhouse:audioeye": "us",
   "greenhouse:audiomob": "eu_page",
   "greenhouse:augury": "us",
   "greenhouse:auldwhiteconstructors": "us",
@@ -5105,6 +5106,7 @@
   "greenhouse:newarkacademy": "us",
   "greenhouse:newengeninc": "us",
   "greenhouse:neweratech": "us",
+  "greenhouse:neweratechnology": "us",
   "greenhouse:neweratechph": "us",
   "greenhouse:newglobesandbox": "us",
   "greenhouse:newhonorsociety": "us",
@@ -5875,6 +5877,7 @@
   "greenhouse:rheoengineering": "us",
   "greenhouse:rhombuspower": "us",
   "greenhouse:rhymetec": "us",
+  "greenhouse:rhythmagency": "us",
   "greenhouse:rhythmx-ai": "us",
   "greenhouse:rialtic": "us",
   "greenhouse:ribolifamilywines": "us",
@@ -5913,6 +5916,7 @@
   "greenhouse:roboforce": "us",
   "greenhouse:robotsandpencils": "us",
   "greenhouse:roboyo": "eu_page",
+  "greenhouse:rochesterknighthawks": "us",
   "greenhouse:rockbot": "us",
   "greenhouse:rocketfactoryaugsburgag": "eu_page",
   "greenhouse:rocketfactoryaugsburgag_de": "eu_page",
@@ -6165,6 +6169,7 @@
   "greenhouse:sixfold": "us",
   "greenhouse:sixgeninc": "us",
   "greenhouse:sixspeed": "us",
+  "greenhouse:skedda": "us",
   "greenhouse:skhynixamerica": "us",
   "greenhouse:skhynixmemorysolutionsamericainc": "us",
   "greenhouse:skildai-careers": "us",
@@ -6362,6 +6367,7 @@
   "greenhouse:studsinc": "us",
   "greenhouse:studycareers": "us",
   "greenhouse:studycontractors": "us",
+  "greenhouse:stylusmedicine": "us",
   "greenhouse:submer": "eu_page",
   "greenhouse:submittable": "us",
   "greenhouse:subsplash": "us",
@@ -6844,6 +6850,7 @@
   "greenhouse:veterinarypracticepartners": "us",
   "greenhouse:vetevolve": "us",
   "greenhouse:vettoai": "us",
+  "greenhouse:vgw": "us",
   "greenhouse:vgw-canada": "us",
   "greenhouse:vgw-eu": "us",
   "greenhouse:via": "us",
@@ -7209,8 +7216,8 @@
  "last_digest": "2026-10-12",
  "last_sweep": {
   "added": 0,
-  "checked": 8600,
-  "date": "2026-10-12",
+  "checked": 13000,
+  "date": "2026-10-13",
   "total": 22644
  },
  "queue": [
@@ -72926,5 +72933,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 5581
+ "sweep_cursor": 18581
 }
