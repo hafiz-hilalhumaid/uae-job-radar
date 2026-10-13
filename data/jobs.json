@@ -1609,6 +1609,7 @@
  },
  "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb": {
   "category": "software",
+  "closed_at": "2026-10-13T20:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|expert team lead swe|uae",
@@ -1621,7 +1622,7 @@
   "salary": "",
   "score": 45,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Expert Team Lead, SWE",
   "uid": "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb",
   "url": "https://jobs.lever.co/jobgether/74e0b8ea-9174-4f4a-a314-9df871eda7bb",
@@ -1797,7 +1798,6 @@
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
   "category": "frontend",
-  "closed_at": "2026-10-13T02:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software craftsperson typescript ii|uae",
@@ -1812,7 +1812,7 @@
   "salary": "",
   "score": 100,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Software Craftsperson/Typescript- II",
   "uid": "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
