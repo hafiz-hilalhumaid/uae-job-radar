@@ -962,7 +962,7 @@
    "seeded": true
   },
   "lever:fresha": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "NotFound: global: https://api.lever.co/v0/postings/fresha; eu: https://api.eu.lever.co/v0/postings/fresha",
    "seeded": true
   },
@@ -46517,6 +46517,7 @@
   "lever:jobgether:a86b213b-bc15-483b-961d-929eff3e6c11": "2026-10-07T09:37:38+00:00",
   "lever:jobgether:a86c9e05-c23f-4c80-be67-f09d59402ce8": "2026-10-12T20:37:37+00:00",
   "lever:jobgether:a86e310e-c2fd-4e72-945f-26a1da386209": "2026-10-07T09:37:38+00:00",
+  "lever:jobgether:a86f5dfc-cf54-46bb-904d-e51f38e08ac4": "2026-10-13T03:37:59+00:00",
   "lever:jobgether:a87168c0-cd50-47fd-a0bc-b17469fcec38": "2026-10-09T06:37:41+00:00",
   "lever:jobgether:a879395e-441e-40ff-a7b7-57d850af3e51": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:a87d8d5d-ba84-47f2-afc2-1b5771e177fa": "2026-10-05T09:37:33+00:00",
@@ -46962,6 +46963,7 @@
   "lever:jobgether:b7004cb4-4c06-4f4b-9b1e-8db6ca652b9e": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:b721881d-faa7-4e5b-95c9-222da7550132": "2026-10-08T14:37:43+00:00",
   "lever:jobgether:b72e7595-1d7a-4001-b993-575a27cccd59": "2026-10-05T09:37:33+00:00",
+  "lever:jobgether:b7311d98-3d31-475e-845d-da98c1d4be9f": "2026-10-13T03:37:59+00:00",
   "lever:jobgether:b73400bb-104b-4e47-bc17-d7bd113cb33a": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:b7392489-7c9c-4720-bbb5-ce4859f304e4": "2026-10-06T08:37:38+00:00",
   "lever:jobgether:b739ef6f-23b4-4c8f-b247-2d0b7542d458": "2026-10-05T21:37:36+00:00",
@@ -48001,6 +48003,7 @@
   "lever:jobgether:d93b4cfa-1552-4b61-b589-4455b17c813f": "2026-10-06T20:18:27+00:00",
   "lever:jobgether:d94c257c-27a4-4299-a779-8e422dfe3576": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:d9514519-dfff-466e-9511-5718ae09894c": "2026-10-11T20:14:59+00:00",
+  "lever:jobgether:d95d84f6-25cf-4a0f-a21e-2911b344b184": "2026-10-13T03:37:59+00:00",
   "lever:jobgether:d982168a-da1a-4f38-a6e0-842fd6bd4f19": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:d98437f0-268d-4922-b388-e436902125bb": "2026-10-07T08:37:37+00:00",
   "lever:jobgether:d9ac4b82-c0ab-4ce7-8162-fba69475ff1b": "2026-10-05T09:37:33+00:00",
@@ -51977,6 +51980,7 @@
   "recruitee:tether:2780468": "2026-10-12T15:20:38+00:00",
   "recruitee:tether:2780491": "2026-10-12T15:20:38+00:00",
   "recruitee:tether:2780494": "2026-10-12T15:20:38+00:00",
+  "recruitee:tether:2780786": "2026-10-13T03:37:59+00:00",
   "recruitee:tisgmbh:2283282": "2026-10-01T23:37:38+00:00",
   "recruitee:tisgmbh:2440798": "2026-10-01T23:37:38+00:00",
   "recruitee:tisgmbh:2662802": "2026-10-01T23:37:38+00:00",
