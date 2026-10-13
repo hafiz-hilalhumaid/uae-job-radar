@@ -310,6 +310,7 @@
  },
  "ashby:kraken.com:f9f63509-ac06-449b-a534-397f74f1180e": {
   "category": "ai",
+  "closed_at": "2026-10-13T10:37:32+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|senior ai engineer growth|uae",
@@ -322,7 +323,7 @@
   "salary": "",
   "score": 66,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Senior AI Engineer - Growth",
   "uid": "ashby:kraken.com:f9f63509-ac06-449b-a534-397f74f1180e",
   "url": "https://jobs.ashbyhq.com/kraken.com/f9f63509-ac06-449b-a534-397f74f1180e",
@@ -1689,6 +1690,26 @@
   "uid": "lever:jobgether:8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "url": "https://jobs.lever.co/jobgether/8d718cf3-b4d6-4a2b-a469-f7bf7f622dee",
   "workplace": "Remote OK"
+ },
+ "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75": {
+  "category": "fullstack",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior full stack product engineer node js ai native|uae",
+  "first_seen": "2026-10-13T10:37:32+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-13T10:02:47.660000+00:00",
+  "salary": "",
+  "score": 90,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Full-Stack Product Engineer | Node.js, AI-Native (Boosters R&D)",
+  "uid": "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75",
+  "url": "https://jobs.lever.co/jobgether/93ab577a-a120-41cd-9eae-ba611b75bf75",
+  "workplace": "remote"
  },
  "lever:jobgether:a092a92e-db49-47eb-8542-66c2a30f08b6": {
   "category": "ai",
