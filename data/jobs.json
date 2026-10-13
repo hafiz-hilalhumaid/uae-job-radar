@@ -1145,6 +1145,27 @@
   "url": "https://jobs.workable.com/view/mFMVEjArNr6JDLVvQbd84H/agentic-ai-agent-in-dubai-at-mondia-group",
   "workplace": "On-site"
  },
+ "fantastic:2410613363": {
+  "category": "fullstack",
+  "company": "BlackStone eIT",
+  "company_key": "fantastic",
+  "expires": "2026-11-03T11:37:36+00:00",
+  "fingerprint": "blackstoneeit|senior software engineer full stack development|dubai",
+  "first_seen": "2026-10-13T11:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-13T07:38:48.137",
+  "salary": "",
+  "score": 76,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Senior Software Engineer - Full Stack Development",
+  "uid": "fantastic:2410613363",
+  "url": "https://jobs.workable.com/view/36c8kFqgEPcidQVJPzdb2v/senior-software-engineer---full-stack-development-in-dubai-at-blackstone-eit",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
