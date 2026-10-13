@@ -2328,6 +2328,26 @@
   "url": "https://apply.workable.com/j/6E123034ED",
   "workplace": ""
  },
+ "workable:blackstone-eit-2:73C1D9955C": {
+  "category": "fullstack",
+  "company": "Blackstone Eit 2",
+  "company_key": "workable:blackstone-eit-2",
+  "fingerprint": "blackstoneeit2|senior software engineer full stack development|dubai",
+  "first_seen": "2026-10-13T07:37:38+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-13",
+  "salary": "",
+  "score": 76,
+  "source": "workable",
+  "status": "open",
+  "title": "Senior Software Engineer - Full Stack Development",
+  "uid": "workable:blackstone-eit-2:73C1D9955C",
+  "url": "https://apply.workable.com/j/73C1D9955C",
+  "workplace": ""
+ },
  "workable:blackstone-eit-2:7B95A87FD8": {
   "category": "fullstack",
   "company": "Blackstone Eit 2",
