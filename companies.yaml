@@ -43,7 +43,7 @@
 - {name: Tarabut, ats: greenhouse, id: tarabutgateway, host: eu, enabled: false}   # old board gone; careers.tarabut.com
 - {name: Sarwa, ats: lever, id: sarwa, enabled: false}                 # Lever board gone (404, 25 Sep 2026); careers.sarwa.co
 - {name: Washmen, ats: lever, id: Washmen}
-- {name: Fresha, ats: lever, id: fresha}                              # likely
+- {name: Fresha, ats: lever, id: fresha, enabled: false}
 - {name: Yassir, ats: lever, id: Yassir}
 - {name: 1inch, ats: lever, id: 1inch}
 - {name: Keyrock, ats: ashby, id: keyrock}
