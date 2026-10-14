@@ -1737,6 +1737,7 @@
  },
  "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75": {
   "category": "fullstack",
+  "closed_at": "2026-10-14T11:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior full stack product engineer node js ai native|uae",
@@ -1749,7 +1750,7 @@
   "salary": "",
   "score": 90,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full-Stack Product Engineer | Node.js, AI-Native (Boosters R&D)",
   "uid": "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75",
   "url": "https://jobs.lever.co/jobgether/93ab577a-a120-41cd-9eae-ba611b75bf75",
@@ -1798,6 +1799,7 @@
  },
  "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722": {
   "category": "frontend",
+  "closed_at": "2026-10-14T11:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior full stack developer|uae",
@@ -1812,7 +1814,7 @@
   "salary": "",
   "score": 66,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full Stack Developer (React + Node.js)",
   "uid": "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722",
   "url": "https://jobs.lever.co/jobgether/d1fdc68c-7296-4ade-a52d-122a933b4722",
