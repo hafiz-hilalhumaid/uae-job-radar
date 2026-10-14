@@ -459,6 +459,7 @@
  },
  "ashby:openai:2226c39d-371b-4dec-bf60-2d76dbe4c445": {
   "category": "ai",
+  "closed_at": "2026-10-14T09:37:35+00:00",
   "company": "OpenAI",
   "company_key": "ashby:openai",
   "fingerprint": "openai|applied ai engineer|abudhabi",
@@ -473,7 +474,7 @@
   "salary": "",
   "score": 75,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Applied AI Engineer",
   "uid": "ashby:openai:2226c39d-371b-4dec-bf60-2d76dbe4c445",
   "url": "https://jobs.ashbyhq.com/openai/2226c39d-371b-4dec-bf60-2d76dbe4c445",
