@@ -3472,6 +3472,15 @@
   "uae_jobs": 14,
   "via": "sweep"
  },
+ "workable:envisiones": {
+  "ats": "workable",
+  "found": "2026-10-15",
+  "id": "envisiones",
+  "last_uae": "2026-10-15",
+  "name": "Envisiones",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:eramtalent-1": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -3973,6 +3982,15 @@
   "id": "pfm-global-fzco",
   "last_uae": "2026-10-15",
   "name": "Pfm Global Fzco",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:platinum-list": {
+  "ats": "workable",
+  "found": "2026-10-15",
+  "id": "platinum-list",
+  "last_uae": "2026-10-15",
+  "name": "Platinum List",
   "uae_jobs": 1,
   "via": "sweep"
  },
