@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-14",
+ "fantastic_daily": "2026-10-15",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -21274,6 +21274,7 @@
   "greenhouse:andurilindustries:5266146007": "2026-10-14T22:37:33+00:00",
   "greenhouse:andurilindustries:5266201007": "2026-10-14T23:37:24+00:00",
   "greenhouse:andurilindustries:5266209007": "2026-10-15T00:37:34+00:00",
+  "greenhouse:andurilindustries:5266256007": "2026-10-15T01:37:33+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -43101,6 +43102,7 @@
   "lever:jobgether:0b62503c-1fdd-483e-8257-16ffb7a034e7": "2026-10-07T15:37:40+00:00",
   "lever:jobgether:0b699471-1e4d-446a-b8f2-4634b922327f": "2026-10-12T11:37:35+00:00",
   "lever:jobgether:0b70196a-b3bd-4522-8f74-17acd49ad00a": "2026-10-05T21:37:36+00:00",
+  "lever:jobgether:0b788cd9-8998-435a-8387-9d5cf7906403": "2026-10-15T01:37:33+00:00",
   "lever:jobgether:0b7965c7-265e-478d-8575-7891cb86a1b3": "2026-10-13T01:37:34+00:00",
   "lever:jobgether:0b7cddc8-03f2-4c5b-9732-fa9bf7e75858": "2026-10-12T09:37:34+00:00",
   "lever:jobgether:0b7f8795-85f3-400f-8ec0-3554207d1431": "2026-10-05T09:37:33+00:00",
@@ -44259,6 +44261,7 @@
   "lever:jobgether:2d65991a-6ded-4c00-9bb6-bd5d97133054": "2026-10-08T03:37:35+00:00",
   "lever:jobgether:2d6a4bfc-11d3-4f9e-834d-43f33e8e1a5d": "2026-10-06T01:37:35+00:00",
   "lever:jobgether:2d6f0e1d-556a-4515-a796-fcbc6f372977": "2026-10-08T23:37:33+00:00",
+  "lever:jobgether:2d792556-9ac4-4e19-8103-4ab74387c214": "2026-10-15T01:37:33+00:00",
   "lever:jobgether:2d7931e0-f307-4218-a629-b24f2a3ee41c": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:2d79efe8-6daa-4453-b8ed-343e7c47152f": "2026-10-12T01:37:32+00:00",
   "lever:jobgether:2d8c6e6c-bf54-4ce1-b87f-c6ddb42ab8a5": "2026-10-12T20:37:37+00:00",
@@ -46872,6 +46875,7 @@
   "lever:jobgether:78ba55a3-4c7b-4037-9ee9-5ab7837d1dfb": "2026-10-05T21:37:36+00:00",
   "lever:jobgether:78bf76a2-d067-4931-bbaf-8c933ad07a27": "2026-10-06T08:37:38+00:00",
   "lever:jobgether:78cda1ac-01dc-4988-b40b-45dbcdda905c": "2026-10-05T09:37:33+00:00",
+  "lever:jobgether:78ceb785-bc52-4c9f-a2e2-fa95567a2b3b": "2026-10-15T01:37:33+00:00",
   "lever:jobgether:78cf300e-655a-492e-876a-0d685dafac38": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:78d6c462-212b-439f-9f1c-355a0d481b9f": "2026-10-08T08:37:35+00:00",
   "lever:jobgether:78d9d559-1b30-447c-8e3e-290ab6e9608c": "2026-10-14T10:37:37+00:00",
@@ -48375,6 +48379,7 @@
   "lever:jobgether:a49312ee-783b-42af-b643-0eb41750fe15": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:a498ae77-2a12-46bd-bd30-31773bded9eb": "2026-10-05T21:37:36+00:00",
   "lever:jobgether:a49a638e-e8ba-45b3-99f2-6ec0862eb733": "2026-10-07T20:36:06+00:00",
+  "lever:jobgether:a49cf462-465e-44ab-9727-27467195322f": "2026-10-15T01:37:33+00:00",
   "lever:jobgether:a4a7bf1e-fcaa-403c-b60b-0f603849c7d0": "2026-10-07T00:37:38+00:00",
   "lever:jobgether:a4a9ce75-dc14-4479-a632-6f95276740e7": "2026-10-07T20:36:06+00:00",
   "lever:jobgether:a4aa510d-1277-496e-9a80-23e212f095a9": "2026-10-07T04:37:35+00:00",
