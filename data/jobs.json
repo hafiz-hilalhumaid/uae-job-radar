@@ -1187,6 +1187,29 @@
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Lead-Forward-Deployed-Engineer_JR348990",
   "workplace": "Hybrid"
  },
+ "fantastic:2415415533": {
+  "category": "ai",
+  "company": "Murphy AI",
+  "company_key": "fantastic",
+  "expires": "2026-11-05T10:37:34+00:00",
+  "fingerprint": "murphyai|forward deployed engineer dubai|dubai",
+  "first_seen": "2026-10-15T10:37:34+00:00",
+  "flags": [
+   "Arabic required"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-11T20:36:11",
+  "salary": "",
+  "score": 46,
+  "source": "fantastic/teamtailor",
+  "status": "open",
+  "title": "Forward Deployed Engineer - Dubai",
+  "uid": "fantastic:2415415533",
+  "url": "https://careers.getmurphy.ai/jobs/8528498-forward-deployed-engineer-dubai",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
@@ -1648,6 +1671,26 @@
   "url": "https://jobs.lever.co/jobgether/4a6e3608-7239-4a75-bec2-a37e5eba01a8",
   "workplace": "remote"
  },
+ "lever:jobgether:522a7a47-3175-4f94-8c6a-92fab4aa405b": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|frontend developer|uae",
+  "first_seen": "2026-10-15T10:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-15T09:56:38.534000+00:00",
+  "salary": "",
+  "score": 76,
+  "source": "lever",
+  "status": "open",
+  "title": "Frontend Developer (React)",
+  "uid": "lever:jobgether:522a7a47-3175-4f94-8c6a-92fab4aa405b",
+  "url": "https://jobs.lever.co/jobgether/522a7a47-3175-4f94-8c6a-92fab4aa405b",
+  "workplace": "remote"
+ },
  "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb": {
   "category": "software",
   "closed_at": "2026-10-13T20:37:36+00:00",
@@ -1756,6 +1799,7 @@
  },
  "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75": {
   "category": "fullstack",
+  "closed_at": "2026-10-15T10:37:34+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior full stack product engineer node js ai native|uae",
@@ -1768,7 +1812,7 @@
   "salary": "",
   "score": 90,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full-Stack Product Engineer | Node.js, AI-Native (Boosters R&D)",
   "uid": "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75",
   "url": "https://jobs.lever.co/jobgether/93ab577a-a120-41cd-9eae-ba611b75bf75",
