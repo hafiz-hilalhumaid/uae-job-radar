@@ -1528,6 +1528,7 @@
  },
  "lever:1inch:827649c3-2dab-4911-bb2f-97b84dc93126": {
   "category": "frontend",
+  "closed_at": "2026-10-15T15:37:36+00:00",
   "company": "1inch",
   "company_key": "lever:1inch",
   "fingerprint": "1inch|talent pool software engineer backend|uae",
@@ -1540,7 +1541,7 @@
   "salary": "",
   "score": 66,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Talent Pool - Software Engineer, Backend (Typescript / Golang)",
   "uid": "lever:1inch:827649c3-2dab-4911-bb2f-97b84dc93126",
   "url": "https://jobs.lever.co/1inch/827649c3-2dab-4911-bb2f-97b84dc93126",
