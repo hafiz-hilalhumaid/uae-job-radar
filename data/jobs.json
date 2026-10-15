@@ -1587,6 +1587,26 @@
   "url": "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5",
   "workplace": "remote"
  },
+ "lever:jobgether:0cf38dd0-e32e-45d7-af81-af18d14c49f6": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|forward deployed agile software engineer|uae",
+  "first_seen": "2026-10-15T07:24:27+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-15T07:37:02.745000+00:00",
+  "salary": "",
+  "score": 76,
+  "source": "lever",
+  "status": "open",
+  "title": "Forward Deployed Agile Software Engineer",
+  "uid": "lever:jobgether:0cf38dd0-e32e-45d7-af81-af18d14c49f6",
+  "url": "https://jobs.lever.co/jobgether/0cf38dd0-e32e-45d7-af81-af18d14c49f6",
+  "workplace": "remote"
+ },
  "lever:jobgether:2a329053-4f84-4f8e-bc18-5a8aca1194f1": {
   "category": "software",
   "closed_at": "2026-10-06T20:18:27+00:00",
@@ -1817,6 +1837,26 @@
   "title": "Senior Full Stack Developer (React + Node.js)",
   "uid": "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722",
   "url": "https://jobs.lever.co/jobgether/d1fdc68c-7296-4ade-a52d-122a933b4722",
+  "workplace": "remote"
+ },
+ "lever:jobgether:e04a1da1-47af-4daa-90aa-9896e7bdcf88": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|mobile engineer react native|uae",
+  "first_seen": "2026-10-15T07:24:27+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-15T07:20:36.595000+00:00",
+  "salary": "",
+  "score": 68,
+  "source": "lever",
+  "status": "open",
+  "title": "Mobile Engineer - React Native",
+  "uid": "lever:jobgether:e04a1da1-47af-4daa-90aa-9896e7bdcf88",
+  "url": "https://jobs.lever.co/jobgether/e04a1da1-47af-4daa-90aa-9896e7bdcf88",
   "workplace": "remote"
  },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
