@@ -1862,6 +1862,7 @@
  },
  "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722": {
   "category": "frontend",
+  "closed_at": "2026-10-15T12:37:39+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior full stack developer|uae",
@@ -1876,7 +1877,7 @@
   "salary": "",
   "score": 66,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full Stack Developer (React + Node.js)",
   "uid": "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722",
   "url": "https://jobs.lever.co/jobgether/d1fdc68c-7296-4ade-a52d-122a933b4722",
