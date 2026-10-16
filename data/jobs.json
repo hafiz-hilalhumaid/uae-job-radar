@@ -1212,6 +1212,27 @@
   "url": "https://careers.getmurphy.ai/jobs/8528498-forward-deployed-engineer-dubai",
   "workplace": "On-site"
  },
+ "fantastic:2417589314": {
+  "category": "ai",
+  "company": "techcarrot FZ LLC",
+  "company_key": "fantastic",
+  "expires": "2026-11-06T10:37:34+00:00",
+  "fingerprint": "techcarrot|ai engineer|dubai",
+  "first_seen": "2026-10-16T10:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-16T00:00:00",
+  "salary": "",
+  "score": 82,
+  "source": "fantastic/zoho",
+  "status": "open",
+  "title": "AI Engineer",
+  "uid": "fantastic:2417589314",
+  "url": "https://techcarrot.zohorecruit.com/jobs/Careers/448395000037084266/AI-Engineer",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
