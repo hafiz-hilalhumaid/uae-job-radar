@@ -206,6 +206,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:bratte": {
+  "ats": "ashby",
+  "found": "2026-10-16",
+  "id": "bratte",
+  "last_uae": "2026-10-16",
+  "name": "Bratte",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:cambly": {
   "ats": "ashby",
   "found": "2026-10-04",
@@ -393,6 +402,15 @@
   "last_uae": "2026-10-16",
   "name": "Imagineart",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:immersivelabs": {
+  "ats": "ashby",
+  "found": "2026-10-16",
+  "id": "immersivelabs",
+  "last_uae": "2026-10-16",
+  "name": "Immersivelabs",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "ashby:infinitefield": {
@@ -927,6 +945,15 @@
   "uae_jobs": 5,
   "via": "sweep"
  },
+ "greenhouse:behavox": {
+  "ats": "greenhouse",
+  "found": "2026-10-16",
+  "id": "behavox",
+  "last_uae": "2026-10-16",
+  "name": "Behavox",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:beyondtrust": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1163,6 +1190,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:dunnhumby": {
+  "ats": "greenhouse",
+  "found": "2026-10-16",
+  "id": "dunnhumby",
+  "last_uae": "2026-10-16",
+  "name": "Dunnhumby",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:dvtrading": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1297,6 +1333,15 @@
   "id": "harnessinc",
   "last_uae": "2026-10-16",
   "name": "Harness ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:hourglasscosmetics": {
+  "ats": "greenhouse",
+  "found": "2026-10-16",
+  "id": "hourglasscosmetics",
+  "last_uae": "2026-10-16",
+  "name": "Hourglass Cosmetics",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1578,6 +1623,15 @@
   "id": "saildroneinc",
   "last_uae": "2026-10-16",
   "name": "Saildrone",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:sayari": {
+  "ats": "greenhouse",
+  "found": "2026-10-16",
+  "id": "sayari",
+  "last_uae": "2026-10-16",
+  "name": "Sayari",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -2051,6 +2105,15 @@
   "uae_jobs": 42,
   "via": "sweep"
  },
+ "recruitee:syrve": {
+  "ats": "recruitee",
+  "found": "2026-10-16",
+  "id": "syrve",
+  "last_uae": "2026-10-16",
+  "name": "Syrve",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "recruitee:tether": {
   "ats": "recruitee",
   "found": "2026-10-01",
@@ -2246,6 +2309,15 @@
   "id": "Canva",
   "last_uae": "2026-10-16",
   "name": "Canva",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:Cielo2": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-16",
+  "id": "Cielo2",
+  "last_uae": "2026-10-16",
+  "name": "Cielo2",
   "uae_jobs": 1,
   "via": "sweep"
  },
