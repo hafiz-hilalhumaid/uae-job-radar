@@ -567,6 +567,7 @@
  },
  "fantastic:2380428853": {
   "category": "fullstack",
+  "closed_at": "2026-10-16T06:37:41+00:00",
   "company": "BlackStone eIT",
   "company_key": "fantastic",
   "expires": "2026-10-16T06:23:32+00:00",
@@ -580,7 +581,7 @@
   "salary": "",
   "score": 65,
   "source": "fantastic/workable",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full Stack Developer - TAMM",
   "uid": "fantastic:2380428853",
   "url": "https://jobs.workable.com/view/cryx9speR2wBCFnSwdrSv2/senior-full-stack-developer---tamm-in-abu-dhabi-at-blackstone-eit",
@@ -588,6 +589,7 @@
  },
  "fantastic:2380518012": {
   "category": "ai",
+  "closed_at": "2026-10-16T06:37:41+00:00",
   "company": "Capgemini",
   "company_key": "fantastic",
   "expires": "2026-10-16T06:23:32+00:00",
@@ -601,7 +603,7 @@
   "salary": "",
   "score": 76,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Product Owner, Agentic AI",
   "uid": "fantastic:2380518012",
   "url": "https://careers.capgemini.com/job/Dubai-Senior-Product-Owner%2C-Agentic-AI/1440947033/",
