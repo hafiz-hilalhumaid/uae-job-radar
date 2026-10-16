@@ -1701,15 +1701,6 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
- "greenhouse:thinkmarkets": {
-  "ats": "greenhouse",
-  "found": "2026-09-28",
-  "id": "thinkmarkets",
-  "last_uae": "2026-10-09",
-  "name": "Thinkmarkets",
-  "uae_jobs": 1,
-  "via": "sweep"
- },
  "greenhouse:thirdbridge": {
   "ats": "greenhouse",
   "found": "2026-09-28",
