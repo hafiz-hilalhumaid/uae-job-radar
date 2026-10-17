@@ -611,6 +611,7 @@
  },
  "fantastic:2382652744": {
   "category": "fullstack",
+  "closed_at": "2026-10-17T01:37:34+00:00",
   "company": "Capgemini",
   "company_key": "fantastic",
   "expires": "2026-10-17T01:32:06+00:00",
@@ -624,7 +625,7 @@
   "salary": "",
   "score": 84,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full Stack Consultant",
   "uid": "fantastic:2382652744",
   "url": "https://careers.capgemini.com/job/Abu-Dhabi-Senior-Full-Stack-Consultant/1441450633/",
