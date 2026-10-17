@@ -2843,6 +2843,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:cielo2": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-17",
+  "id": "cielo2",
+  "last_uae": "2026-10-17",
+  "name": "Cielo2",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:coface": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -3173,6 +3182,15 @@
   "last_uae": "2026-10-17",
   "name": "Adia",
   "uae_jobs": 9,
+  "via": "sweep"
+ },
+ "workable:advansys-esc-1": {
+  "ats": "workable",
+  "found": "2026-10-17",
+  "id": "advansys-esc-1",
+  "last_uae": "2026-10-17",
+  "name": "Advansys Esc 1",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:agility": {
