@@ -1403,6 +1403,7 @@
  },
  "greenhouse:intersystems:7593532003": {
   "category": "ai",
+  "closed_at": "2026-10-17T06:37:35+00:00",
   "company": "InterSystems",
   "company_key": "greenhouse:intersystems",
   "fingerprint": "intersystems|ai engineer entry level|dubai",
@@ -1415,7 +1416,7 @@
   "salary": "",
   "score": 66,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "AI Engineer- Entry Level",
   "uid": "greenhouse:intersystems:7593532003",
   "url": "https://job-boards.greenhouse.io/intersystems/jobs/7593532003",
