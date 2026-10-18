@@ -1953,6 +1953,10 @@
    "fails": 0,
    "seeded": true
   },
+  "workable:obrela-security-industries-sa": {
+   "fails": 0,
+   "seeded": true
+  },
   "workable:optasia": {
    "fails": 0,
    "seeded": true
@@ -71279,6 +71283,19 @@
   "workable:nobox-hr-outsourcing-solutions:79B55A6827": "2026-09-29T03:32:08+00:00",
   "workable:nobox-hr-outsourcing-solutions:E0A3154732": "2026-09-29T03:32:08+00:00",
   "workable:nobox-hr-outsourcing-solutions:E9AE1957D8": "2026-09-29T03:32:08+00:00",
+  "workable:obrela-security-industries-sa:05D3B504E2": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:282CC255C4": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:4C6655D270": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:4F2EDBB4B1": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:6263350722": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:6A1DDF88AA": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:79103040E4": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:BC6710B4EB": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:C3AD943049": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:D0AEA53D61": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:D5ACEC1F3A": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:ECE771B776": "2026-10-18T23:22:11+00:00",
+  "workable:obrela-security-industries-sa:F5F4132019": "2026-10-18T23:22:11+00:00",
   "workable:optasia:192608ED12": "2026-10-12T11:37:35+00:00",
   "workable:optasia:2DC8B883DF": "2026-09-29T03:32:08+00:00",
   "workable:optasia:358569934A": "2026-09-29T03:32:08+00:00",
@@ -72788,6 +72805,7 @@
   "workable:rentokil-initial:63561F7F83": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:635A22F420": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:639759BB0C": "2026-10-08T23:37:33+00:00",
+  "workable:rentokil-initial:63AB9255DA": "2026-10-18T23:22:11+00:00",
   "workable:rentokil-initial:641309E30A": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:64DC4A6F12": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:64FFA6123D": "2026-09-29T03:32:08+00:00",
@@ -74708,6 +74726,7 @@
   "workable:tmgm:5BE346FB56": "2026-10-01T02:37:38+00:00",
   "workable:tmgm:5E62D31A0A": "2026-10-07T02:37:35+00:00",
   "workable:tmgm:5F7780628C": "2026-10-12T03:37:35+00:00",
+  "workable:tmgm:6E80069950": "2026-10-18T23:22:11+00:00",
   "workable:tmgm:785CB2BCEA": "2026-10-01T02:37:38+00:00",
   "workable:tmgm:7B0581CB58": "2026-10-01T02:37:38+00:00",
   "workable:tmgm:7DA0A738A0": "2026-10-01T02:37:38+00:00",
