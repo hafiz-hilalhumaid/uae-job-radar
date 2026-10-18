@@ -1234,6 +1234,27 @@
   "url": "https://techcarrot.zohorecruit.com/jobs/Careers/448395000037084266/AI-Engineer",
   "workplace": "On-site"
  },
+ "fantastic:2420780626": {
+  "category": "fullstack",
+  "company": "NorthBay Solutions",
+  "company_key": "fantastic",
+  "expires": "2026-11-08T11:37:33+00:00",
+  "fingerprint": "northbaysolutions|senior full stack engineer|abudhabi",
+  "first_seen": "2026-10-18T11:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-18T00:00:00",
+  "salary": "",
+  "score": 70,
+  "source": "fantastic/jazzhr",
+  "status": "open",
+  "title": "Senior Full Stack Engineer",
+  "uid": "fantastic:2420780626",
+  "url": "https://northbay.applytojob.com/apply/2JxODYybhm/Senior-Full-Stack-Engineer",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
