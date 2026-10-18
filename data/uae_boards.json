@@ -4021,6 +4021,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:obrela-security-industries-sa": {
+  "ats": "workable",
+  "found": "2026-10-18",
+  "id": "obrela-security-industries-sa",
+  "last_uae": "2026-10-18",
+  "name": "Obrela Security Industries Sa",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:optasia": {
   "ats": "workable",
   "found": "2026-09-29",
