@@ -3129,6 +3129,14 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "teamtailor:https://sullyai.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-19",
+  "id": "https://sullyai.teamtailor.com",
+  "last_uae": "2026-10-19",
+  "name": "Sully.ai",
+  "via": "fantastic"
+ },
  "teamtailor:https://swissas.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-30",

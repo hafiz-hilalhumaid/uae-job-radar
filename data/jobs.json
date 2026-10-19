@@ -1449,6 +1449,27 @@
   "url": "https://digifloat.zohorecruit.com/jobs/Careers/834131000000997041/AI-Engineer",
   "workplace": "On-site"
  },
+ "fantastic:2421752558": {
+  "category": "ai",
+  "company": "Sully.ai",
+  "company_key": "fantastic",
+  "expires": "2026-11-09T17:37:41+00:00",
+  "fingerprint": "sullyai|forward deployed engineer|dubai",
+  "first_seen": "2026-10-19T17:37:41+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai Emirate, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-06T19:02:04",
+  "salary": "",
+  "score": 78,
+  "source": "fantastic/teamtailor",
+  "status": "open",
+  "title": "Forward Deployed Engineer (FDE)",
+  "uid": "fantastic:2421752558",
+  "url": "https://sullyai.teamtailor.com/jobs/8508045-forward-deployed-engineer-fde",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
