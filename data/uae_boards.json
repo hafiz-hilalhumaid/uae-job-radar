@@ -990,6 +990,15 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "greenhouse:binance": {
+  "ats": "greenhouse",
+  "found": "2026-10-19",
+  "host": "eu",
+  "id": "binance",
+  "last_uae": "2026-10-19",
+  "name": "Binance",
+  "via": "fantastic"
+ },
  "greenhouse:bloomreach": {
   "ats": "greenhouse",
   "found": "2026-10-06",
