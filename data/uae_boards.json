@@ -170,6 +170,14 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "ashby:analog": {
+  "ats": "ashby",
+  "found": "2026-10-19",
+  "id": "analog",
+  "last_uae": "2026-10-19",
+  "name": "Analog",
+  "via": "fantastic"
+ },
  "ashby:aspora": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -1670,6 +1678,15 @@
   "name": "Socket",
   "uae_jobs": 1,
   "via": "sweep"
+ },
+ "greenhouse:softana": {
+  "ats": "greenhouse",
+  "found": "2026-10-19",
+  "host": "eu",
+  "id": "softana",
+  "last_uae": "2026-10-19",
+  "name": "Softana",
+  "via": "fantastic"
  },
  "greenhouse:sonymusicentertainment": {
   "ats": "greenhouse",
