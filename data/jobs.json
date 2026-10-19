@@ -1319,6 +1319,29 @@
   "url": "https://jobs.deel.com/4a9f4504-6058-403a-9cb7-5dc27b7fe85b-1789634936748/job-details/594091c0-c524-43e3-96aa-3c7d585a2a3b/overview",
   "workplace": "On-site"
  },
+ "fantastic:2421415203": {
+  "category": "ai",
+  "company": "Deeplight",
+  "company_key": "fantastic",
+  "expires": "2026-11-09T10:37:35+00:00",
+  "fingerprint": "deeplight|applied ai engineer agentic systems|dubai",
+  "first_seen": "2026-10-19T10:37:35+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-19T08:04:04.318",
+  "salary": "",
+  "score": 92,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Applied AI Engineer - Agentic Systems",
+  "uid": "fantastic:2421415203",
+  "url": "https://jobs.workable.com/view/nbTTqHDgVckWpNxv2RYfZq/applied-ai-engineer---agentic-systems-in-dubai-at-deeplight",
+  "workplace": "On-site"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
@@ -1932,6 +1955,7 @@
  },
  "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75": {
   "category": "fullstack",
+  "closed_at": "2026-10-19T10:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior full stack product engineer node js ai native|uae",
@@ -1944,7 +1968,7 @@
   "salary": "",
   "score": 90,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full-Stack Product Engineer | Node.js, AI-Native (Boosters R&D)",
   "uid": "lever:jobgether:93ab577a-a120-41cd-9eae-ba611b75bf75",
   "url": "https://jobs.lever.co/jobgether/93ab577a-a120-41cd-9eae-ba611b75bf75",
