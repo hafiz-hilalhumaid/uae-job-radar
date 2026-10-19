@@ -2448,7 +2448,6 @@
  },
  "teamtailor:https://propertyfinder.teamtailor.com:06590bea-7987-4fe0-a6f2-7584b2253f22": {
   "category": "software",
-  "closed_at": "2026-10-15T09:37:36+00:00",
   "company": "Property Finder",
   "company_key": "teamtailor:https://propertyfinder.teamtailor.com",
   "fingerprint": "propertyfinder|senior software engineer|dubai",
@@ -2461,7 +2460,7 @@
   "salary": "",
   "score": 57,
   "source": "teamtailor",
-  "status": "closed",
+  "status": "open",
   "title": "Senior Software Engineer",
   "uid": "teamtailor:https://propertyfinder.teamtailor.com:06590bea-7987-4fe0-a6f2-7584b2253f22",
   "url": "https://propertyfinder.teamtailor.com/jobs/8002401-senior-software-engineer",
