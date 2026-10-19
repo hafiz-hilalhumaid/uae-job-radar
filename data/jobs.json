@@ -1,4 +1,24 @@
 {
+ "ashby:analog:14ed4069-4577-45bd-be8f-a95bde3dc03d": {
+  "category": "frontend",
+  "company": "Analog",
+  "company_key": "ashby:analog",
+  "fingerprint": "analog|senior frontend engineer|abudhabi",
+  "first_seen": "2026-10-19T02:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-09-24T00:00:00",
+  "salary": "",
+  "score": 72,
+  "source": "ashby",
+  "status": "open",
+  "title": "Senior Frontend Engineer",
+  "uid": "ashby:analog:14ed4069-4577-45bd-be8f-a95bde3dc03d",
+  "url": "https://jobs.ashbyhq.com/analog/14ed4069-4577-45bd-be8f-a95bde3dc03d",
+  "workplace": "On-site"
+ },
  "ashby:asula:c3b43b8f-fd0f-44cc-b0ea-40b80e8e4a55": {
   "category": "software",
   "company": "Asula",
@@ -1255,50 +1275,6 @@
   "url": "https://northbay.applytojob.com/apply/2JxODYybhm/Senior-Full-Stack-Engineer",
   "workplace": "On-site"
  },
- "fantastic:2421159890": {
-  "category": "frontend",
-  "company": "Analog",
-  "company_key": "fantastic",
-  "expires": "2026-11-09T02:37:34+00:00",
-  "fingerprint": "analog|senior frontend engineer|abudhabi",
-  "first_seen": "2026-10-19T02:37:34+00:00",
-  "flags": [],
-  "loc_type": "uae",
-  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-  "notified": "instant",
-  "posted_at": "2026-09-24T00:00:00",
-  "salary": "",
-  "score": 72,
-  "source": "fantastic/ashby",
-  "status": "open",
-  "title": "Senior Frontend Engineer",
-  "uid": "fantastic:2421159890",
-  "url": "https://jobs.ashbyhq.com/analog/14ed4069-4577-45bd-be8f-a95bde3dc03d",
-  "workplace": "On-site"
- },
- "fantastic:2421161704": {
-  "category": "frontend",
-  "company": "Softana",
-  "company_key": "fantastic",
-  "expires": "2026-11-09T02:37:34+00:00",
-  "fingerprint": "softana|senior front end engineer|rasalkhaimah",
-  "first_seen": "2026-10-19T02:37:34+00:00",
-  "flags": [
-   "visa/relocation"
-  ],
-  "loc_type": "uae",
-  "location": "Ras Al Khaimah, Ras al-Khaimah, United Arab Emirates",
-  "notified": "instant",
-  "posted_at": "2026-10-16T14:56:54",
-  "salary": "",
-  "score": 83,
-  "source": "fantastic/greenhouse",
-  "status": "open",
-  "title": "Senior Front-End Engineer (Angular 18)",
-  "uid": "fantastic:2421161704",
-  "url": "https://job-boards.eu.greenhouse.io/softana/jobs/4989276101",
-  "workplace": "On-site"
- },
  "fantastic:2421175054": {
   "category": "software",
   "company": "Accelera Digital Group",
@@ -1596,6 +1572,28 @@
   "uid": "greenhouse:ruyaai:4944274101",
   "url": "https://job-boards.eu.greenhouse.io/ruyaai/jobs/4944274101",
   "workplace": ""
+ },
+ "greenhouse:softana:4989276101": {
+  "category": "frontend",
+  "company": "Softana",
+  "company_key": "greenhouse:softana",
+  "fingerprint": "softana|senior front end engineer|rasalkhaimah",
+  "first_seen": "2026-10-19T02:37:34+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Ras Al Khaimah, Ras al-Khaimah, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-16T14:56:54",
+  "salary": "",
+  "score": 83,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Senior Front-End Engineer (Angular 18)",
+  "uid": "greenhouse:softana:4989276101",
+  "url": "https://job-boards.eu.greenhouse.io/softana/jobs/4989276101",
+  "workplace": "On-site"
  },
  "greenhouse:speechify:5974350004": {
   "category": "software",
