@@ -35,7 +35,8 @@
    "seeded": true
   },
   "ashby:OpenAI": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://api.ashbyhq.com/posting-api/job-board/OpenAI: ConnectionError",
    "seeded": true
   },
   "ashby:PaveBank": {
@@ -1098,7 +1099,8 @@
    "seeded": true
   },
   "smartrecruiters:AFRY": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://api.smartrecruiters.com/v1/companies/AFRY/postings: ConnectionError",
    "seeded": true
   },
   "smartrecruiters:AbbVie": {
@@ -1106,7 +1108,8 @@
    "seeded": true
   },
   "smartrecruiters:AccorCorpo": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://api.smartrecruiters.com/v1/companies/AccorCorpo/postings: ConnectionError",
    "seeded": true
   },
   "smartrecruiters:AccorHotel": {
@@ -1206,7 +1209,8 @@
    "seeded": true
   },
   "smartrecruiters:GermanInternationalSchoolDubai": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://api.smartrecruiters.com/v1/companies/GermanInternationalSchoolDubai/postings: ConnectionError",
    "seeded": true
   },
   "smartrecruiters:GhobashGroup": {
@@ -1666,7 +1670,8 @@
    "seeded": true
   },
   "workable:callsign": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://apply.workable.com/api/v1/widget/accounts/callsign: ConnectionError",
    "seeded": true
   },
   "workable:capitex": {
@@ -1674,7 +1679,8 @@
    "seeded": true
   },
   "workable:careers-imdad": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: https://apply.workable.com/api/v1/widget/accounts/careers-imdad: ConnectionError",
    "seeded": true
   },
   "workable:caxton": {
@@ -8181,6 +8187,7 @@
   "ashby:ElevenLabs:191bba6f-c66d-4ac0-8ddd-300b272046e0": "2026-10-05T14:37:37+00:00",
   "ashby:ElevenLabs:1941b5f6-a89f-4f35-bc07-a123e17d011f": "2026-09-28T23:32:12+00:00",
   "ashby:ElevenLabs:19b21930-d142-4dae-be23-751f5425b0af": "2026-10-08T14:37:43+00:00",
+  "ashby:ElevenLabs:1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028": "2026-10-20T15:37:35+00:00",
   "ashby:ElevenLabs:1b90a2b2-1352-458d-b2b7-3900f6e02df5": "2026-10-13T12:37:40+00:00",
   "ashby:ElevenLabs:1bd5957c-6799-4b0d-b33d-1d8f7fc56c09": "2026-09-28T23:32:12+00:00",
   "ashby:ElevenLabs:1c1f4cc9-08f7-4fbb-867f-7e87e7fa19d9": "2026-09-28T23:32:12+00:00",
@@ -12687,6 +12694,7 @@
   "ashby:elevenlabs:191bba6f-c66d-4ac0-8ddd-300b272046e0": "2026-10-05T14:37:37+00:00",
   "ashby:elevenlabs:1941b5f6-a89f-4f35-bc07-a123e17d011f": "2026-09-28T23:32:12+00:00",
   "ashby:elevenlabs:19b21930-d142-4dae-be23-751f5425b0af": "2026-10-08T14:37:43+00:00",
+  "ashby:elevenlabs:1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028": "2026-10-20T15:37:35+00:00",
   "ashby:elevenlabs:1b90a2b2-1352-458d-b2b7-3900f6e02df5": "2026-10-13T12:37:40+00:00",
   "ashby:elevenlabs:1bd5957c-6799-4b0d-b33d-1d8f7fc56c09": "2026-09-28T23:32:12+00:00",
   "ashby:elevenlabs:1c1f4cc9-08f7-4fbb-867f-7e87e7fa19d9": "2026-09-28T23:32:12+00:00",
@@ -18732,6 +18740,7 @@
   "greenhouse:alphafmcroles:6992678002": "2026-09-28T23:32:12+00:00",
   "greenhouse:alphafmcroles:6992704002": "2026-09-28T23:32:12+00:00",
   "greenhouse:alphafmcroles:7025057002": "2026-09-28T23:32:12+00:00",
+  "greenhouse:alphafmcroles:7514062002": "2026-10-20T15:37:35+00:00",
   "greenhouse:alphafmcroles:7534026002": "2026-09-28T23:32:12+00:00",
   "greenhouse:alphafmcroles:7565834002": "2026-09-28T23:32:12+00:00",
   "greenhouse:alphafmcroles:7625468002": "2026-09-28T23:32:12+00:00",
@@ -21551,6 +21560,7 @@
   "greenhouse:andurilindustries:5249125007": "2026-09-29T23:32:07+00:00",
   "greenhouse:andurilindustries:5249183007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5249190007": "2026-10-05T17:37:37+00:00",
+  "greenhouse:andurilindustries:5249196007": "2026-10-20T15:37:35+00:00",
   "greenhouse:andurilindustries:5249200007": "2026-10-15T22:37:36+00:00",
   "greenhouse:andurilindustries:5249211007": "2026-10-16T18:37:35+00:00",
   "greenhouse:andurilindustries:5249223007": "2026-09-28T23:32:12+00:00",
@@ -22104,8 +22114,12 @@
   "greenhouse:andurilindustries:5267904007": "2026-10-19T14:37:37+00:00",
   "greenhouse:andurilindustries:5267906007": "2026-10-19T14:37:37+00:00",
   "greenhouse:andurilindustries:5267908007": "2026-10-19T14:37:37+00:00",
+  "greenhouse:andurilindustries:5267911007": "2026-10-20T15:37:35+00:00",
   "greenhouse:andurilindustries:5267915007": "2026-10-20T15:03:56+00:00",
+  "greenhouse:andurilindustries:5267917007": "2026-10-20T15:37:35+00:00",
+  "greenhouse:andurilindustries:5267919007": "2026-10-20T15:37:35+00:00",
   "greenhouse:andurilindustries:5267921007": "2026-10-20T15:03:56+00:00",
+  "greenhouse:andurilindustries:5267923007": "2026-10-20T15:37:35+00:00",
   "greenhouse:andurilindustries:5267927007": "2026-10-20T15:03:56+00:00",
   "greenhouse:andurilindustries:5267986007": "2026-10-16T23:22:34+00:00",
   "greenhouse:andurilindustries:5268013007": "2026-10-19T19:37:36+00:00",
@@ -22341,6 +22355,7 @@
   "greenhouse:appian:8284745": "2026-10-15T10:37:34+00:00",
   "greenhouse:appian:8285176": "2026-10-15T15:37:36+00:00",
   "greenhouse:appian:8289707": "2026-10-16T18:37:35+00:00",
+  "greenhouse:appian:8302095": "2026-10-20T15:37:35+00:00",
   "greenhouse:appian:8302435": "2026-10-20T01:37:35+00:00",
   "greenhouse:appian:8303032": "2026-10-20T13:37:38+00:00",
   "greenhouse:appspace:5708533004": "2026-09-28T23:32:12+00:00",
@@ -23092,6 +23107,7 @@
   "greenhouse:avepoint:8263532": "2026-10-08T05:37:34+00:00",
   "greenhouse:avepoint:8263675": "2026-10-08T05:37:34+00:00",
   "greenhouse:avepoint:8263761": "2026-10-08T06:37:36+00:00",
+  "greenhouse:avepoint:8265434": "2026-10-20T15:37:35+00:00",
   "greenhouse:avepoint:8268180": "2026-10-14T16:37:37+00:00",
   "greenhouse:avepoint:8273320": "2026-10-13T03:32:45+00:00",
   "greenhouse:avepoint:8273539": "2026-10-12T15:20:38+00:00",
@@ -23108,6 +23124,8 @@
   "greenhouse:avepoint:8275882": "2026-10-13T06:37:33+00:00",
   "greenhouse:avepoint:8280333": "2026-10-16T09:37:35+00:00",
   "greenhouse:avepoint:8288484": "2026-10-20T08:37:35+00:00",
+  "greenhouse:avepoint:8303519": "2026-10-20T15:37:35+00:00",
+  "greenhouse:avepoint:8303526": "2026-10-20T15:37:35+00:00",
   "greenhouse:axon:5082685003": "2026-10-07T23:37:42+00:00",
   "greenhouse:axon:5495705003": "2026-09-28T23:32:12+00:00",
   "greenhouse:axon:5753033003": "2026-09-28T23:32:12+00:00",
@@ -25883,8 +25901,13 @@
   "greenhouse:capco:8302777": "2026-10-20T07:37:36+00:00",
   "greenhouse:capco:8302890": "2026-10-20T12:37:37+00:00",
   "greenhouse:capco:8302963": "2026-10-20T11:37:36+00:00",
+  "greenhouse:capco:8302982": "2026-10-20T15:37:35+00:00",
+  "greenhouse:capco:8302992": "2026-10-20T15:37:35+00:00",
+  "greenhouse:capco:8302994": "2026-10-20T15:37:35+00:00",
   "greenhouse:capco:8303213": "2026-10-20T14:37:40+00:00",
   "greenhouse:capco:8303400": "2026-10-20T15:03:56+00:00",
+  "greenhouse:capco:8303475": "2026-10-20T15:37:35+00:00",
+  "greenhouse:capco:8303510": "2026-10-20T15:37:35+00:00",
   "greenhouse:careem:7004825002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:7107610002": "2026-09-24T20:59:40+00:00",
   "greenhouse:careem:8320185002": "2026-09-24T20:59:40+00:00",
@@ -29924,6 +29947,8 @@
   "greenhouse:ebury:5009879101": "2026-10-20T09:37:36+00:00",
   "greenhouse:ebury:5010685101": "2026-10-20T07:37:36+00:00",
   "greenhouse:ebury:5010893101": "2026-10-20T10:02:28+00:00",
+  "greenhouse:ebury:5011559101": "2026-10-20T15:37:35+00:00",
+  "greenhouse:ebury:5011562101": "2026-10-20T15:37:35+00:00",
   "greenhouse:elastic:7348426": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:7349982": "2026-09-28T23:32:12+00:00",
   "greenhouse:elastic:7447236": "2026-09-28T23:32:12+00:00",
@@ -31045,6 +31070,7 @@
   "greenhouse:esri:5266068007": "2026-10-14T21:37:38+00:00",
   "greenhouse:esri:5266073007": "2026-10-14T21:37:38+00:00",
   "greenhouse:esri:5267369007": "2026-10-16T14:37:34+00:00",
+  "greenhouse:esri:5267626007": "2026-10-20T15:37:35+00:00",
   "greenhouse:feverup:4090037101": "2026-09-28T23:32:12+00:00",
   "greenhouse:feverup:4090921101": "2026-09-28T23:32:12+00:00",
   "greenhouse:feverup:4090971101": "2026-09-28T23:32:12+00:00",
@@ -31689,6 +31715,10 @@
   "greenhouse:feverup:5010708101": "2026-10-20T08:37:35+00:00",
   "greenhouse:feverup:5010712101": "2026-10-20T08:37:35+00:00",
   "greenhouse:feverup:5010829101": "2026-10-20T09:37:36+00:00",
+  "greenhouse:feverup:5011468101": "2026-10-20T15:37:35+00:00",
+  "greenhouse:feverup:5011482101": "2026-10-20T15:37:35+00:00",
+  "greenhouse:feverup:5011539101": "2026-10-20T15:37:35+00:00",
+  "greenhouse:feverup:5011547101": "2026-10-20T15:37:35+00:00",
   "greenhouse:figureai:4006355006": "2026-10-06T21:38:13+00:00",
   "greenhouse:figureai:4007375006": "2026-09-28T23:32:12+00:00",
   "greenhouse:figureai:4303098006": "2026-10-06T22:37:33+00:00",
@@ -40373,6 +40403,7 @@
   "greenhouse:theeconomistgroup:4812300101": "2026-09-28T23:32:12+00:00",
   "greenhouse:theeconomistgroup:4858998101": "2026-09-28T23:32:12+00:00",
   "greenhouse:theeconomistgroup:4863360101": "2026-10-12T08:37:42+00:00",
+  "greenhouse:theeconomistgroup:4896747101": "2026-10-20T15:37:35+00:00",
   "greenhouse:theeconomistgroup:4906970101": "2026-09-28T23:32:12+00:00",
   "greenhouse:theeconomistgroup:4912991101": "2026-09-28T23:32:12+00:00",
   "greenhouse:theeconomistgroup:4934004101": "2026-09-28T23:32:12+00:00",
@@ -41900,6 +41931,7 @@
   "greenhouse:verkada:5265168007": "2026-10-14T22:37:33+00:00",
   "greenhouse:verkada:5265322007": "2026-10-20T10:37:35+00:00",
   "greenhouse:verkada:5265619007": "2026-10-14T16:37:37+00:00",
+  "greenhouse:verkada:5266076007": "2026-10-20T15:37:35+00:00",
   "greenhouse:verkada:5266264007": "2026-10-16T00:37:34+00:00",
   "greenhouse:verkada:5267002007": "2026-10-19T17:37:41+00:00",
   "greenhouse:verkada:5267005007": "2026-10-16T19:56:43+00:00",
@@ -42816,6 +42848,7 @@
   "greenhouse:wppmedia:5387151008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5387168008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5387174008": "2026-09-28T23:32:12+00:00",
+  "greenhouse:wppmedia:5387187008": "2026-10-20T15:37:35+00:00",
   "greenhouse:wppmedia:5387209008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5387229008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5387673008": "2026-10-14T18:37:34+00:00",
@@ -43431,6 +43464,7 @@
   "greenhouse:wppmedia:5454545008": "2026-10-19T18:37:36+00:00",
   "greenhouse:wppmedia:5454587008": "2026-10-16T14:37:34+00:00",
   "greenhouse:wppmedia:5454911008": "2026-10-16T14:37:34+00:00",
+  "greenhouse:wppmedia:5454915008": "2026-10-20T15:37:35+00:00",
   "greenhouse:wppmedia:5454964008": "2026-10-16T13:37:42+00:00",
   "greenhouse:wppmedia:5454967008": "2026-10-16T13:37:42+00:00",
   "greenhouse:wppmedia:5455044008": "2026-10-16T14:37:34+00:00",
@@ -43444,6 +43478,8 @@
   "greenhouse:wppmedia:5456551008": "2026-10-19T12:37:33+00:00",
   "greenhouse:wppmedia:5456604008": "2026-10-19T13:17:17+00:00",
   "greenhouse:wppmedia:5456742008": "2026-10-19T15:37:44+00:00",
+  "greenhouse:wppmedia:5458066008": "2026-10-20T15:37:35+00:00",
+  "greenhouse:wppmedia:5458069008": "2026-10-20T15:37:35+00:00",
   "greenhouse:xantium:4178187009": "2026-09-28T23:32:12+00:00",
   "greenhouse:xantium:4178738009": "2026-09-28T23:32:12+00:00",
   "greenhouse:xantium:4179559009": "2026-09-28T23:32:12+00:00",
@@ -57291,6 +57327,7 @@
   "lever:lyrahealth:8071c65e-3a7a-4efa-8378-7849c26c60a4": "2026-09-28T23:32:12+00:00",
   "lever:lyrahealth:807ffb4d-c7a5-4ad2-8955-d8f6a3923877": "2026-09-28T23:32:12+00:00",
   "lever:lyrahealth:80ecc4a6-1ded-4aeb-b1bc-d66e44549668": "2026-09-28T23:32:12+00:00",
+  "lever:lyrahealth:81033fe4-f43b-44dd-944b-599fc59f344e": "2026-10-20T15:37:35+00:00",
   "lever:lyrahealth:820a596c-e46a-421f-b7ef-c76f56e93778": "2026-09-28T23:32:12+00:00",
   "lever:lyrahealth:82374b77-dcad-49ab-9caf-1693c8915da9": "2026-09-28T23:32:12+00:00",
   "lever:lyrahealth:8252fcc0-8b8c-4f7b-9821-e6f1b0634fc6": "2026-09-28T23:32:12+00:00",
@@ -61222,6 +61259,7 @@
   "smartrecruiters:AECOM2:744000156303655": "2026-10-19T12:37:33+00:00",
   "smartrecruiters:AECOM2:744000156305913": "2026-10-19T12:37:33+00:00",
   "smartrecruiters:AECOM2:744000156521409": "2026-10-20T14:37:40+00:00",
+  "smartrecruiters:AECOM2:744000156549439": "2026-10-20T15:37:35+00:00",
   "smartrecruiters:AFRY:744000154417664": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:AbbVie:3743990015165036": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:AbbVie:3743990015226066": "2026-09-28T23:32:12+00:00",
@@ -62121,6 +62159,7 @@
   "smartrecruiters:AccorHotel:744000156396439": "2026-10-20T11:37:36+00:00",
   "smartrecruiters:AccorHotel:744000156482639": "2026-10-20T11:37:36+00:00",
   "smartrecruiters:AccorHotel:744000156518263": "2026-10-20T11:37:36+00:00",
+  "smartrecruiters:AccorHotel:744000156584110": "2026-10-20T15:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:ArchirodonGroup:744000072238429": "2026-09-28T23:32:12+00:00",
@@ -63636,6 +63675,7 @@
   "smartrecruiters:aecom2:744000156303655": "2026-10-19T12:37:33+00:00",
   "smartrecruiters:aecom2:744000156305913": "2026-10-19T12:37:33+00:00",
   "smartrecruiters:aecom2:744000156521409": "2026-10-20T14:37:40+00:00",
+  "smartrecruiters:aecom2:744000156549439": "2026-10-20T15:37:35+00:00",
   "smartrecruiters:afry:744000154417664": "2026-10-11T23:37:33+00:00",
   "smartrecruiters:avaloq1:744000147404889": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:averydennison:744000145467939": "2026-09-28T23:32:12+00:00",
@@ -64189,6 +64229,7 @@
   "teamtailor:https://altavia.teamtailor.com:4b47137d-80ee-451d-975f-f719c5ab1fbe": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:4bd90415-ec65-462b-8d42-d26de0540bb6": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:4e750773-1a9c-4c27-be4c-e967e212990c": "2026-10-07T07:12:58+00:00",
+  "teamtailor:https://altavia.teamtailor.com:519bfe2b-17c8-42f6-9ffc-c93c2777e886": "2026-10-20T15:37:35+00:00",
   "teamtailor:https://altavia.teamtailor.com:5371392b-120a-42f9-b0a9-7d50e3897bb3": "2026-10-01T14:37:37+00:00",
   "teamtailor:https://altavia.teamtailor.com:570d52a8-b068-4cfa-bc4b-7414283d55b1": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:593f315f-dfe6-424a-b26d-53b9e4426aaa": "2026-09-30T23:37:39+00:00",
@@ -64207,6 +64248,7 @@
   "teamtailor:https://altavia.teamtailor.com:94e05674-8eb0-4b78-ab5f-ea1982b415f2": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:a14d3d08-789c-4998-84f7-e14c2f2a8d79": "2026-10-06T17:37:35+00:00",
   "teamtailor:https://altavia.teamtailor.com:a277b9ba-871f-47eb-a577-c6e73c0c0283": "2026-10-05T09:01:43+00:00",
+  "teamtailor:https://altavia.teamtailor.com:a4637314-41ac-45bf-86c2-f790ad21b387": "2026-10-20T15:37:35+00:00",
   "teamtailor:https://altavia.teamtailor.com:af25e901-6773-4083-aa92-fa91a046e367": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:b7fa11f4-dc4c-4cab-a4c4-02401d90384e": "2026-09-30T23:37:39+00:00",
   "teamtailor:https://altavia.teamtailor.com:bc1b868b-baea-4205-8fff-72822bcd7452": "2026-09-30T23:37:39+00:00",
