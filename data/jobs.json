@@ -1872,6 +1872,26 @@
   "url": "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5",
   "workplace": "remote"
  },
+ "lever:jobgether:04a21f76-c418-4c54-ac1b-f9a781252620": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|ai ml engineer|uae",
+  "first_seen": "2026-10-20T06:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-20T06:10:32.365000+00:00",
+  "salary": "",
+  "score": 77,
+  "source": "lever",
+  "status": "open",
+  "title": "AI/ML Engineer",
+  "uid": "lever:jobgether:04a21f76-c418-4c54-ac1b-f9a781252620",
+  "url": "https://jobs.lever.co/jobgether/04a21f76-c418-4c54-ac1b-f9a781252620",
+  "workplace": "remote"
+ },
  "lever:jobgether:0cf38dd0-e32e-45d7-af81-af18d14c49f6": {
   "category": "ai",
   "company": "Jobgether",
