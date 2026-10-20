@@ -502,6 +502,14 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:openai-deployment-company": {
+  "ats": "ashby",
+  "found": "2026-10-20",
+  "id": "openai-deployment-company",
+  "last_uae": "2026-10-20",
+  "name": "OpenAI Deployment Company",
+  "via": "fantastic"
+ },
  "ashby:openart": {
   "ats": "ashby",
   "found": "2026-10-01",
