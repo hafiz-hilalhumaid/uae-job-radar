@@ -2480,6 +2480,7 @@
  },
  "smartrecruiters:SanaCommerce:744000156534270": {
   "category": "ai",
+  "closed_at": "2026-10-21T11:37:37+00:00",
   "company": "Sanacommerce",
   "company_key": "smartrecruiters:SanaCommerce",
   "fingerprint": "sanacommerce|teamlead research and design|dubai",
@@ -2492,7 +2493,7 @@
   "salary": "",
   "score": 62,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Teamlead Research and Design (Agentic AI)",
   "uid": "smartrecruiters:SanaCommerce:744000156534270",
   "url": "https://jobs.smartrecruiters.com/SanaCommerce/744000156534270-teamlead-research-and-design-agentic-ai-",
