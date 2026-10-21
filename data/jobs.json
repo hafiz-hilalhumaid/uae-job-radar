@@ -2316,6 +2316,7 @@
  },
  "lever:palantir:90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2": {
   "category": "ai",
+  "closed_at": "2026-10-21T20:37:35+00:00",
   "company": "Palantir",
   "company_key": "lever:palantir",
   "fingerprint": "palantir|forward deployed software engineer|abudhabi",
@@ -2328,7 +2329,7 @@
   "salary": "",
   "score": 65,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Software Engineer",
   "uid": "lever:palantir:90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2",
   "url": "https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2",
