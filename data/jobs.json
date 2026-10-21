@@ -1,4 +1,24 @@
 {
+ "ashby:algodriven:80b12dcc-83ac-4983-9964-f0948b662d41": {
+  "category": "fullstack",
+  "company": "AlgoDriven",
+  "company_key": "ashby:algodriven",
+  "fingerprint": "algodriven|full stack engineer|dubai",
+  "first_seen": "2026-10-21T02:38:23+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-10-20T00:00:00",
+  "salary": "",
+  "score": 78,
+  "source": "ashby",
+  "status": "open",
+  "title": "Full Stack Engineer",
+  "uid": "ashby:algodriven:80b12dcc-83ac-4983-9964-f0948b662d41",
+  "url": "https://jobs.ashbyhq.com/algodriven/80b12dcc-83ac-4983-9964-f0948b662d41",
+  "workplace": "On-site"
+ },
  "ashby:analog:14ed4069-4577-45bd-be8f-a95bde3dc03d": {
   "category": "frontend",
   "company": "Analog",
@@ -1468,27 +1488,6 @@
   "title": "AI Engineer",
   "uid": "fantastic:2421724400",
   "url": "https://digifloat.zohorecruit.com/jobs/Careers/834131000000997041/AI-Engineer",
-  "workplace": "On-site"
- },
- "fantastic:2424482106": {
-  "category": "fullstack",
-  "company": "AlgoDriven",
-  "company_key": "fantastic",
-  "expires": "2026-11-11T02:38:23+00:00",
-  "fingerprint": "algodriven|full stack engineer|dubai",
-  "first_seen": "2026-10-21T02:38:23+00:00",
-  "flags": [],
-  "loc_type": "uae",
-  "location": "Dubai, Dubai, United Arab Emirates",
-  "notified": "instant",
-  "posted_at": "2026-10-20T00:00:00",
-  "salary": "",
-  "score": 78,
-  "source": "fantastic/ashby",
-  "status": "open",
-  "title": "Full Stack Engineer",
-  "uid": "fantastic:2424482106",
-  "url": "https://jobs.ashbyhq.com/algodriven/80b12dcc-83ac-4983-9964-f0948b662d41",
   "workplace": "On-site"
  },
  "greenhouse:aift:5820463004": {
