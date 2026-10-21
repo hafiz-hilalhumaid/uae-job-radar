@@ -170,6 +170,14 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "ashby:algodriven": {
+  "ats": "ashby",
+  "found": "2026-10-21",
+  "id": "algodriven",
+  "last_uae": "2026-10-21",
+  "name": "AlgoDriven",
+  "via": "fantastic"
+ },
  "ashby:analog": {
   "ats": "ashby",
   "found": "2026-10-19",
@@ -2674,7 +2682,7 @@
   "ats": "smartrecruiters",
   "found": "2026-09-28",
   "id": "SanaCommerce",
-  "last_uae": "2026-10-16",
+  "last_uae": "2026-10-21",
   "name": "Sanacommerce",
   "uae_jobs": 1,
   "via": "sweep"
