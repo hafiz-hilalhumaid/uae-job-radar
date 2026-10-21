@@ -438,6 +438,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:instructure": {
+  "ats": "ashby",
+  "found": "2026-10-21",
+  "id": "instructure",
+  "last_uae": "2026-10-21",
+  "name": "Instructure",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "ashby:kong": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -758,6 +767,15 @@
   "id": "trm-labs",
   "last_uae": "2026-10-21",
   "name": "Trm Labs",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:uipath": {
+  "ats": "ashby",
+  "found": "2026-10-21",
+  "id": "uipath",
+  "last_uae": "2026-10-21",
+  "name": "Uipath",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1178,6 +1196,15 @@
   "uae_jobs": 8,
   "via": "sweep"
  },
+ "greenhouse:decimainternational": {
+  "ats": "greenhouse",
+  "found": "2026-10-21",
+  "id": "decimainternational",
+  "last_uae": "2026-10-21",
+  "name": "Decima International",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:deliveroo": {
   "ats": "greenhouse",
   "found": "2026-10-01",
@@ -1533,6 +1560,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:opswat": {
+  "ats": "greenhouse",
+  "found": "2026-10-21",
+  "id": "opswat",
+  "last_uae": "2026-10-21",
+  "name": "Opswat",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:pallet": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1686,6 +1722,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:secretariatadvisorsllc": {
+  "ats": "greenhouse",
+  "found": "2026-10-21",
+  "id": "secretariatadvisorsllc",
+  "last_uae": "2026-10-21",
+  "name": "Secretariat ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:sentinellabs": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1729,6 +1774,15 @@
   "last_uae": "2026-10-21",
   "name": "Sotheby's",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:sparkland": {
+  "ats": "greenhouse",
+  "found": "2026-10-21",
+  "id": "sparkland",
+  "last_uae": "2026-10-21",
+  "name": "Sparkland",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:speechify": {
@@ -3160,6 +3214,15 @@
   "last_uae": "2026-10-21",
   "name": "Swissas",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "teamtailor:https://teamlewis.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-21",
+  "id": "https://teamlewis.teamtailor.com",
+  "last_uae": "2026-10-21",
+  "name": "Teamlewis",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "teamtailor:https://toppansecurity.teamtailor.com": {
