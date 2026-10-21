@@ -1766,6 +1766,28 @@
   "url": "https://job-boards.eu.greenhouse.io/softana/jobs/4989276101",
   "workplace": "On-site"
  },
+ "greenhouse:sparkland:5435666004": {
+  "category": "software",
+  "company": "Sparkland",
+  "company_key": "greenhouse:sparkland",
+  "fingerprint": "sparkland|c senior software engineer|dubai",
+  "first_seen": "2026-10-21T23:37:35+00:00",
+  "flags": [
+   "10+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "Remote, Dubai, Remote",
+  "notified": "seed",
+  "posted_at": "2025-02-03T11:19:09-05:00",
+  "salary": "",
+  "score": 25,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "C++ Senior Software Engineer (High Load)",
+  "uid": "greenhouse:sparkland:5435666004",
+  "url": "https://job-boards.greenhouse.io/sparkland/jobs/5435666004",
+  "workplace": ""
+ },
  "greenhouse:speechify:5974350004": {
   "category": "software",
   "closed_at": "2026-10-02T08:33:33+00:00",
