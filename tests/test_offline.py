@@ -242,6 +242,20 @@ def main():
     assert location_type(sources.Job("x", "a", "1", "t", "Remote - MENA", "u"), settings) == "regional"
     assert location_type(sources.Job("x", "a", "1", "t", "Karachi", "u"), settings) is None
 
+    # JSearch /search-v2: results nested under data.jobs, English asked for
+    calls = []
+
+    class JSearchHttp:
+        def get_json(self, url, params=None, headers=None):
+            calls.append((url, params))
+            return {"status": "OK", "data": {"jobs": [
+                {"job_id": "g1", "job_publisher": "LinkedIn", "employer_name": "TII", "job_title": "Full-stack Engineer ",
+                 "job_city": None, "job_state": "Abu Dhabi", "job_country": "AE",
+                 "job_apply_link": "https://ae.linkedin.com/jobs/view/1", "job_is_remote": False}]}}
+    [g] = sources.jsearch_jobs(argparse.Namespace(http=JSearchHttp()), "k", ["react jobs in UAE"])
+    assert calls[0][0].endswith("/search-v2") and calls[0][1]["language"] == "en"
+    assert (g.source, g.title, g.location, g.country_code) == ("google/LinkedIn", "Full-stack Engineer", "Abu Dhabi, AE", "ae")
+
     # --- first run: bootstrap, no instant alerts
     print("\n=== RUN 1 (bootstrap) ===")
     run("poll")

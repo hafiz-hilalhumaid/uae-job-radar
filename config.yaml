@@ -77,7 +77,7 @@ workday_keywords: [software, frontend, front end, react, full stack, developer, 
 aggregators:
   fantastic:             # secret APIFY_TOKEN. Career-site jobs from 54 job systems, incl. Workday,
     enabled: true        # SuccessFactors, Oracle, Taleo, iCIMS. Billed per job returned (see README).
-    mode: hourly          # daily  = one run a day for the last 24h; each job billed once (cheapest)
+    mode: daily           # daily  = one run a day for the last 24h; each job billed once (cheapest)
                          # hourly = every poll asks for the last hour, plus the daily 24h catch-up
                          #          (faster, but jobs from the catch-up are billed twice)
     daily_hour: 7        # local hour (config timezone) at/after which the daily run happens

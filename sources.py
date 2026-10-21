@@ -630,12 +630,18 @@ def fantastic_jobs(ctx: Context, api_token: str, time_range: str) -> list[Job]:
 def jsearch_jobs(ctx: Context, api_key: str, queries: list[str]) -> list[Job]:
     jobs = []
     for q in queries:
+        # /search was retired (404); /search-v2 nests results as {"data": {"jobs": [...]}} and answers in
+        # Arabic for country=ae unless English is asked for.
         data = ctx.http.get_json(
-            "https://jsearch.p.rapidapi.com/search",
-            params={"query": q, "country": "ae", "date_posted": "today", "page": 1, "num_pages": 1},
+            "https://jsearch.p.rapidapi.com/search-v2",
+            params={"query": q, "country": "ae", "language": "en", "date_posted": "today", "page": 1,
+                    "num_pages": 1},
             headers={"X-RapidAPI-Key": api_key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"},
         )
-        for j in data.get("data") or []:
+        results = data.get("data") or []
+        if isinstance(results, dict):
+            results = results.get("jobs") or []
+        for j in results:
             jobs.append(Job(
                 source=f"google/{j.get('job_publisher') or 'web'}", company=j.get("employer_name") or "",
                 native_id=str(j.get("job_id")), title=(j.get("job_title") or "").strip(),
