@@ -2991,6 +2991,26 @@
   "url": "https://apply.workable.com/j/7B95A87FD8",
   "workplace": ""
  },
+ "workable:blackstone-eit-2:93E7C777D9": {
+  "category": "software",
+  "company": "Blackstone Eit 2",
+  "company_key": "workable:blackstone-eit-2",
+  "fingerprint": "blackstoneeit2|software developer uae pass integration|abudhabi",
+  "first_seen": "2026-10-22T15:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-22",
+  "salary": "",
+  "score": 45,
+  "source": "workable",
+  "status": "open",
+  "title": "Software Developer - UAE PASS Integration",
+  "uid": "workable:blackstone-eit-2:93E7C777D9",
+  "url": "https://apply.workable.com/j/93E7C777D9",
+  "workplace": ""
+ },
  "workable:blackstone-eit-2:A5905624B6": {
   "category": "fullstack",
   "company": "Blackstone Eit 2",
