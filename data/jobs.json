@@ -694,6 +694,7 @@
  },
  "fantastic:2389839495": {
   "category": "frontend",
+  "closed_at": "2026-10-22T02:37:33+00:00",
   "company": "IFZA Dubai",
   "company_key": "fantastic",
   "expires": "2026-10-22T02:15:40+00:00",
@@ -707,7 +708,7 @@
   "salary": "",
   "score": 79,
   "source": "fantastic/zoho",
-  "status": "open",
+  "status": "closed",
   "title": "Frontend Developer",
   "uid": "fantastic:2389839495",
   "url": "https://ifza.zohorecruit.com/jobs/Careers/657869000066174040/Frontend-Developer",
