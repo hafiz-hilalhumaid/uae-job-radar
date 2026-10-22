@@ -411,6 +411,7 @@
  },
  "ashby:mistral.ai:0d281150-b40e-4a6b-a533-a424b04d44e3": {
   "category": "ai",
+  "closed_at": "2026-10-22T10:37:39+00:00",
   "company": "Mistral AI",
   "company_key": "ashby:mistral.ai",
   "fingerprint": "mistralai|applied ai technical lead forward deployed ai engineer|abudhabi",
@@ -426,7 +427,7 @@
   "salary": "",
   "score": 62,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
   "uid": "ashby:mistral.ai:0d281150-b40e-4a6b-a533-a424b04d44e3",
   "url": "https://jobs.ashbyhq.com/mistral.ai/0d281150-b40e-4a6b-a533-a424b04d44e3",
