@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-22",
+ "fantastic_daily": "2026-10-23",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -7347,7 +7347,8 @@
   "smartrecruiters:SanaCommerce:744000156534270",
   "workable:gsstech-group:D37473533E",
   "smartrecruiters:SanaCommerce:744000157141905",
-  "workable:blackstone-eit-2:93E7C777D9"
+  "workable:blackstone-eit-2:93E7C777D9",
+  "fantastic:2427853794"
  ],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
@@ -9133,6 +9134,7 @@
   "ashby:OpenAI:3c67f712-697d-48d8-b05c-01be896e61da": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:3ca637f8-c0d6-4253-8568-1f31b02adf76": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:3d064454-c0c3-4225-bc2c-6d8c0f8735b2": "2026-09-28T23:32:12+00:00",
+  "ashby:OpenAI:3d71df2d-7d19-4ca9-97c4-b361c8a362f9": "2026-10-23T01:37:35+00:00",
   "ashby:OpenAI:3dcfbfbf-9ac2-46fe-8cce-4e2660d98be4": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:3ed37e51-40dc-4d17-8219-d3500af8892c": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:3f99bfef-5b1a-48ea-aed0-2dbd57b12722": "2026-09-28T23:32:12+00:00",
@@ -15968,6 +15970,7 @@
   "ashby:openai:3c67f712-697d-48d8-b05c-01be896e61da": "2026-09-24T20:59:40+00:00",
   "ashby:openai:3ca637f8-c0d6-4253-8568-1f31b02adf76": "2026-09-24T20:59:40+00:00",
   "ashby:openai:3d064454-c0c3-4225-bc2c-6d8c0f8735b2": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:3d71df2d-7d19-4ca9-97c4-b361c8a362f9": "2026-10-23T01:37:35+00:00",
   "ashby:openai:3dcfbfbf-9ac2-46fe-8cce-4e2660d98be4": "2026-09-24T20:59:40+00:00",
   "ashby:openai:3ed37e51-40dc-4d17-8219-d3500af8892c": "2026-09-24T20:59:40+00:00",
   "ashby:openai:3f99bfef-5b1a-48ea-aed0-2dbd57b12722": "2026-09-24T20:59:40+00:00",
@@ -18585,6 +18588,8 @@
   "fantastic:2423479876": "2026-10-21T01:34:00+00:00",
   "fantastic:2424482106": "2026-10-22T01:37:34+00:00",
   "fantastic:2424745304": "2026-10-21T05:37:41+00:00",
+  "fantastic:2427354179": "2026-10-23T01:37:35+00:00",
+  "fantastic:2427718164": "2026-10-23T01:37:35+00:00",
   "greenhouse:OKX:5452539003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5831629003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5949501003": "2026-10-01T02:37:38+00:00",
@@ -55420,6 +55425,7 @@
   "lever:jobgether:a6d58820-d0a3-485d-a1e7-74078e34a34c": "2026-10-16T09:37:35+00:00",
   "lever:jobgether:a6d72efa-3322-44b3-b0cb-abb4d5bfa84a": "2026-10-20T00:37:36+00:00",
   "lever:jobgether:a6d91f01-10b5-40b4-a10a-7c9038564b61": "2026-10-05T09:37:33+00:00",
+  "lever:jobgether:a6e9cd84-d3b7-4f40-8582-3e8d0b0865f8": "2026-10-23T01:37:35+00:00",
   "lever:jobgether:a6ea4ce3-1a68-4fd3-9e92-35908f2a6031": "2026-10-14T11:37:35+00:00",
   "lever:jobgether:a6f52f62-3917-4f8a-ae3c-7860222c43fc": "2026-10-07T20:36:06+00:00",
   "lever:jobgether:a6f6065d-0dcb-457b-9811-9e7fce05021e": "2026-10-14T02:37:33+00:00",
@@ -59415,6 +59421,7 @@
   "lever:jobgether:f3ab26ea-7952-49a0-9965-806c1eee2050": "2026-10-14T08:37:36+00:00",
   "lever:jobgether:f3b58aba-164f-485a-9b09-b85c26f2e5d5": "2026-10-08T09:37:41+00:00",
   "lever:jobgether:f3bdcfc9-0fcb-403c-b3f2-61de7fcae004": "2026-10-20T06:37:37+00:00",
+  "lever:jobgether:f3c0a2e8-e063-48f0-8019-644d77402cc4": "2026-10-23T01:37:35+00:00",
   "lever:jobgether:f3c4450f-110e-46da-84fa-85dee470af59": "2026-10-06T20:18:27+00:00",
   "lever:jobgether:f3c55710-b0d1-42ea-9e66-7a29026d0722": "2026-10-20T04:37:34+00:00",
   "lever:jobgether:f3c90013-dfd6-40aa-8454-1fd40098f852": "2026-10-13T00:39:21+00:00",
@@ -59445,6 +59452,7 @@
   "lever:jobgether:f45af60f-b7b8-47cb-8528-72facd693aa7": "2026-10-19T09:37:35+00:00",
   "lever:jobgether:f45e6d24-7896-47e2-b0d0-ec59565c8ee8": "2026-10-05T21:37:36+00:00",
   "lever:jobgether:f4642b58-16a8-4880-8b56-9de6621643a4": "2026-10-05T09:37:33+00:00",
+  "lever:jobgether:f46c47e9-eb53-46b9-9f50-dab476621939": "2026-10-23T01:37:35+00:00",
   "lever:jobgether:f4755bcf-ef99-43e7-9d5c-438f855f9b36": "2026-10-22T05:37:35+00:00",
   "lever:jobgether:f478e5d3-39e6-4540-9b05-a536d7609f19": "2026-10-14T01:37:34+00:00",
   "lever:jobgether:f47b7f2d-178e-474c-8075-8ba5b071ecfd": "2026-10-05T09:37:33+00:00",
@@ -59795,6 +59803,7 @@
   "lever:jobgether:faf50dd7-6d87-46ca-9e6d-cf04124a5c1b": "2026-10-07T20:36:06+00:00",
   "lever:jobgether:fb00d2f4-c7b6-4be3-9267-c0b9d4a52960": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:fb0641c0-177a-4b18-8815-5cbb3e2236c7": "2026-10-19T08:37:35+00:00",
+  "lever:jobgether:fb0e0f1e-4ddf-41c8-8f61-7c32bf40537c": "2026-10-23T01:37:35+00:00",
   "lever:jobgether:fb18c256-a103-41b6-87a7-925d83876820": "2026-10-13T02:37:35+00:00",
   "lever:jobgether:fb19aaf8-7330-4e15-acbd-3f12fa97eeb0": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:fb23053d-ff36-4c8d-86c1-24bb41a8d827": "2026-10-21T09:37:35+00:00",
