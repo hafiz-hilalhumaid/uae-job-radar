@@ -3186,6 +3186,7 @@
  },
  "workable:gsstech-group:445826625E": {
   "category": "software",
+  "closed_at": "2026-10-23T07:29:52+00:00",
   "company": "Gsstech Group",
   "company_key": "workable:gsstech-group",
   "fingerprint": "gsstech|senior product engineer finiq wealth management suite|dubai",
@@ -3201,7 +3202,7 @@
   "salary": "",
   "score": 22,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Product Engineer - FinIQ Wealth Management Suite",
   "uid": "workable:gsstech-group:445826625E",
   "url": "https://apply.workable.com/j/445826625E",
@@ -3209,6 +3210,7 @@
  },
  "workable:gsstech-group:6FD8EF5C86": {
   "category": "ai",
+  "closed_at": "2026-10-23T07:29:52+00:00",
   "company": "Gsstech Group",
   "company_key": "workable:gsstech-group",
   "fingerprint": "gsstech|senior software engineer genai node js|dubai",
@@ -3221,7 +3223,7 @@
   "salary": "",
   "score": 69,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer - GenAI & Node.js",
   "uid": "workable:gsstech-group:6FD8EF5C86",
   "url": "https://apply.workable.com/j/6FD8EF5C86",
