@@ -3693,6 +3693,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:euromonitor": {
+  "ats": "workable",
+  "found": "2026-10-23",
+  "id": "euromonitor",
+  "last_uae": "2026-10-23",
+  "name": "Euromonitor",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:eva-pharma": {
   "ats": "workable",
   "found": "2026-09-28",
