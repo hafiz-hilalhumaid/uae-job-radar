@@ -785,6 +785,7 @@
  },
  "fantastic:2394122251": {
   "category": "fullstack",
+  "closed_at": "2026-10-24T02:37:37+00:00",
   "company": "NorthBay Solutions",
   "company_key": "fantastic",
   "expires": "2026-10-24T02:09:23+00:00",
@@ -798,7 +799,7 @@
   "salary": "AED 13000 month",
   "score": 74,
   "source": "fantastic/jazzhr",
-  "status": "open",
+  "status": "closed",
   "title": "Full Stack Engineer",
   "uid": "fantastic:2394122251",
   "url": "https://northbay.applytojob.com/apply/7z2pGZ22Mz/Full-Stack-Engineer",
@@ -806,6 +807,7 @@
  },
  "fantastic:2394281674": {
   "category": "frontend",
+  "closed_at": "2026-10-24T02:37:37+00:00",
   "company": "Nationwide Middle East Properties LLC",
   "company_key": "fantastic",
   "expires": "2026-10-24T02:09:23+00:00",
@@ -819,7 +821,7 @@
   "salary": "",
   "score": 60,
   "source": "fantastic/zoho",
-  "status": "open",
+  "status": "closed",
   "title": "Web Developer – Real Estate",
   "uid": "fantastic:2394281674",
   "url": "https://nwmea.zohorecruit.com/jobs/Careers/648182000034396368/Web-Developer-Real-Estate",
