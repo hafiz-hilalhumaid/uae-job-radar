@@ -978,6 +978,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:axicorpfinancialservicesptyltd": {
+  "ats": "greenhouse",
+  "found": "2026-10-24",
+  "id": "axicorpfinancialservicesptyltd",
+  "last_uae": "2026-10-24",
+  "name": "Axi",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:axon": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1157,6 +1166,15 @@
   "id": "couchbaseinc",
   "last_uae": "2026-10-24",
   "name": "Couchbase, Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:coursera": {
+  "ats": "greenhouse",
+  "found": "2026-10-24",
+  "id": "coursera",
+  "last_uae": "2026-10-24",
+  "name": "Coursera",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1962,6 +1980,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:xai": {
+  "ats": "greenhouse",
+  "found": "2026-10-24",
+  "id": "xai",
+  "last_uae": "2026-10-24",
+  "name": "SpaceXSI",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:xantium": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -2300,6 +2327,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:AnalysysMason1": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-24",
+  "id": "AnalysysMason1",
+  "last_uae": "2026-10-24",
+  "name": "Analysysmason1",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:ArchirodonGroup": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -2361,6 +2397,15 @@
   "last_uae": "2026-10-24",
   "name": "Beumergroup1",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "smartrecruiters:BSInternational": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-24",
+  "id": "BSInternational",
+  "last_uae": "2026-10-24",
+  "name": "Bsinternational",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:BeckersGroup": {
@@ -4519,6 +4564,15 @@
   "last_uae": "2026-10-24",
   "name": "Zealgroup",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "workable:zodia-custody": {
+  "ats": "workable",
+  "found": "2026-10-24",
+  "id": "zodia-custody",
+  "last_uae": "2026-10-24",
+  "name": "Zodia Custody",
+  "uae_jobs": 1,
   "via": "sweep"
  }
 }
