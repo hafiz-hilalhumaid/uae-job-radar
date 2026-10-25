@@ -7375,9 +7375,9 @@
  },
  "last_digest": "2026-10-23",
  "last_sweep": {
-  "added": 6,
-  "checked": 16000,
-  "date": "2026-10-24",
+  "added": 0,
+  "checked": 5400,
+  "date": "2026-10-25",
   "total": 22644
  },
  "queue": [],
@@ -89187,5 +89187,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 14805
+ "sweep_cursor": 20205
 }
