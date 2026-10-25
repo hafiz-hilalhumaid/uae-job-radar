@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-24",
+ "fantastic_daily": "2026-10-25",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -18747,6 +18747,8 @@
   "fantastic:2424745304": "2026-10-21T05:37:41+00:00",
   "fantastic:2427354179": "2026-10-23T01:37:35+00:00",
   "fantastic:2427718164": "2026-10-23T01:37:35+00:00",
+  "fantastic:2431496819": "2026-10-25T01:37:35+00:00",
+  "fantastic:2431594019": "2026-10-25T01:37:35+00:00",
   "greenhouse:OKX:5452539003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5831629003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5949501003": "2026-10-01T02:37:38+00:00",
@@ -23095,6 +23097,8 @@
   "greenhouse:andurilindustries:5274646007": "2026-10-24T23:37:34+00:00",
   "greenhouse:andurilindustries:5274647007": "2026-10-24T23:37:34+00:00",
   "greenhouse:andurilindustries:5274648007": "2026-10-24T23:37:34+00:00",
+  "greenhouse:andurilindustries:5274650007": "2026-10-25T01:37:35+00:00",
+  "greenhouse:andurilindustries:5274651007": "2026-10-25T01:37:35+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
