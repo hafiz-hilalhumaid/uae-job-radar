@@ -565,6 +565,7 @@
  },
  "ashby:tenex:2d7af4e6-8cba-464f-af02-dcf6d2451f1a": {
   "category": "ai",
+  "closed_at": "2026-10-26T17:37:34+00:00",
   "company": "Tenex",
   "company_key": "ashby:tenex",
   "fingerprint": "tenex|forward deployed implementation engineer|uae",
@@ -577,7 +578,7 @@
   "salary": "",
   "score": 64,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Implementation Engineer (EMEA)",
   "uid": "ashby:tenex:2d7af4e6-8cba-464f-af02-dcf6d2451f1a",
   "url": "https://jobs.ashbyhq.com/tenex/2d7af4e6-8cba-464f-af02-dcf6d2451f1a",
@@ -922,6 +923,7 @@
  },
  "fantastic:2398019440": {
   "category": "fullstack",
+  "closed_at": "2026-10-26T17:37:34+00:00",
   "company": "MATRIXJV Co. Ltd.",
   "company_key": "fantastic",
   "expires": "2026-10-26T16:37:37+00:00",
@@ -935,7 +937,7 @@
   "salary": "",
   "score": 89,
   "source": "fantastic/phenompeople",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Developer - Full Stack",
   "uid": "fantastic:2398019440",
   "url": "https://careers.g42.ai/global/en/job/OGWOGJGLOBAL3283EXTERNALENGLOBAL/Senior-Developer-Full-Stack",
