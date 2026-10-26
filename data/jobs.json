@@ -851,6 +851,7 @@
  },
  "fantastic:2397786167": {
   "category": "ai",
+  "closed_at": "2026-10-26T12:42:20+00:00",
   "company": "EDGE Group PJSC",
   "company_key": "fantastic",
   "expires": "2026-10-26T11:37:35+00:00",
@@ -867,7 +868,7 @@
   "salary": "",
   "score": 49,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Senior AI Engineer",
   "uid": "fantastic:2397786167",
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-AI-Engineer/733521822/",
