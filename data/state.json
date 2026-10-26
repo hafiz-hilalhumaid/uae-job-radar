@@ -1034,7 +1034,8 @@
    "seeded": true
   },
   "lever:jobgether": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: global: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=25); eu: https://api.eu.lever.co/v0/postings/jobgether",
    "seeded": true
   },
   "lever:lionbridge": {
@@ -12301,6 +12302,7 @@
   "ashby:clickhouse:f718426d-bfe4-4efa-8692-ea220677476d": "2026-09-28T23:32:12+00:00",
   "ashby:clickhouse:f8d77096-72a6-41bd-bea5-af2932e394fd": "2026-10-13T15:37:36+00:00",
   "ashby:clickhouse:f912de49-2c9b-4e5d-ae29-3a488d122dc5": "2026-09-28T23:32:12+00:00",
+  "ashby:clickhouse:fb87aa3c-3a7e-4413-a22e-31aa0d46ea94": "2026-10-26T12:58:34+00:00",
   "ashby:clickhouse:fd1e8b68-744d-480b-b38c-42ee999ecc6e": "2026-09-28T23:32:12+00:00",
   "ashby:clickhouse:fd8daa96-8c56-4f15-9817-ce55e97a8964": "2026-09-28T23:32:12+00:00",
   "ashby:clickhouse:fe8430ad-2150-4838-ae36-535aa659b389": "2026-10-07T14:29:45+00:00",
@@ -42743,6 +42745,7 @@
   "greenhouse:think-cell:4981976101": "2026-09-24T20:59:40+00:00",
   "greenhouse:think-cell:4990907101": "2026-09-30T10:32:10+00:00",
   "greenhouse:think-cell:4997801101": "2026-10-08T10:37:38+00:00",
+  "greenhouse:think-cell:4997814101": "2026-10-26T12:58:34+00:00",
   "greenhouse:think-cell:5008513101": "2026-10-16T11:21:02+00:00",
   "greenhouse:think-cell:5008812101": "2026-10-25T08:37:36+00:00",
   "greenhouse:thinkmarkets:7820188003": "2026-09-28T23:32:12+00:00",
@@ -70676,6 +70679,7 @@
   "teamtailor:https://itpmediagroup.teamtailor.com:d20976aa-38fc-4984-a625-13959d53feaf": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:d2bf0dc8-a4a5-474d-87f0-e3b6e5d59214": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:d4256b2f-d035-49fd-a117-e04636132335": "2026-09-28T23:32:12+00:00",
+  "teamtailor:https://itpmediagroup.teamtailor.com:d9dd7e4f-a505-4b83-8e7a-f3573f702849": "2026-10-26T12:58:34+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:da33167d-87c6-475d-96a8-097361f3c760": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:daee0929-0962-42ac-912a-361a3225865b": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:e341b5d2-6c71-4510-b624-8ff88f9add79": "2026-10-07T08:37:37+00:00",
@@ -70686,6 +70690,7 @@
   "teamtailor:https://itpmediagroup.teamtailor.com:f5a5e249-819b-4095-83e8-b8f15236cfe2": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:f5b49639-70f2-46f2-9479-13d0b11de15a": "2026-10-13T05:37:35+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:fca0a446-9353-4b64-83d7-a3819c820781": "2026-10-01T13:37:37+00:00",
+  "teamtailor:https://itpmediagroup.teamtailor.com:fe03b22c-433c-4e21-ba99-c34867078471": "2026-10-26T12:58:34+00:00",
   "teamtailor:https://naffco.teamtailor.com:003420b3-ee3a-43e0-8c0a-07def3509688": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://naffco.teamtailor.com:02243bbc-cf24-42d9-a1f1-d434173abc28": "2026-10-21T07:37:10+00:00",
   "teamtailor:https://naffco.teamtailor.com:023b29c1-9391-4b00-9d76-dfa5b92f2db8": "2026-10-20T07:37:36+00:00",
@@ -72437,6 +72442,7 @@
   "workable:charlotte-tilbury:31199F78F3": "2026-10-07T23:37:42+00:00",
   "workable:charlotte-tilbury:318332EB43": "2026-10-07T23:37:42+00:00",
   "workable:charlotte-tilbury:31D55AE3A6": "2026-10-07T23:37:42+00:00",
+  "workable:charlotte-tilbury:34187759FB": "2026-10-26T12:58:34+00:00",
   "workable:charlotte-tilbury:357D710EBE": "2026-10-07T23:37:42+00:00",
   "workable:charlotte-tilbury:35AEE1A703": "2026-10-07T23:37:42+00:00",
   "workable:charlotte-tilbury:35FDD798DF": "2026-10-07T23:37:42+00:00",
