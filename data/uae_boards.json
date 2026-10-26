@@ -806,6 +806,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:verto": {
+  "ats": "ashby",
+  "found": "2026-10-26",
+  "id": "verto",
+  "last_uae": "2026-10-26",
+  "name": "Verto",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:vidrush": {
   "ats": "ashby",
   "found": "2026-10-01",

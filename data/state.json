@@ -2480,6 +2480,7 @@
   "greenhouse:alphasense": "us",
   "greenhouse:alphasenseindia": "us",
   "greenhouse:alphasightsresumedrop": "us",
+  "greenhouse:alphataraxia": "us",
   "greenhouse:alpineeagle": "eu_page",
   "greenhouse:altamirafreelance": "eu_page",
   "greenhouse:altamiratechnologies": "eu_page",
@@ -3439,6 +3440,7 @@
   "greenhouse:currentglobal": "us",
   "greenhouse:customcomputerspecialists": "us",
   "greenhouse:customerio": "us",
+  "greenhouse:cuyana": "us",
   "greenhouse:cvx": "us",
   "greenhouse:cybermediatechnologies": "us",
   "greenhouse:cybersheath": "us",
@@ -3761,6 +3763,7 @@
   "greenhouse:epirus": "us",
   "greenhouse:episodesix": "us",
   "greenhouse:episodesixlinkedin": "us",
+  "greenhouse:episteme": "us",
   "greenhouse:eplusinc": "us",
   "greenhouse:eqfund": "us",
   "greenhouse:eqtcorporation": "us",
@@ -6051,7 +6054,7 @@
   "greenhouse:rivainternationalinc": "us",
   "greenhouse:rivaltechnologies": "us",
   "greenhouse:riverai": "us",
-  "greenhouse:riverlane": "eu_page",
+  "greenhouse:riverlane": "us",
   "greenhouse:riversidenaturalfoodsltd": "us",
   "greenhouse:riviamind": "us",
   "greenhouse:riviamind1": "us",
@@ -6299,6 +6302,7 @@
   "greenhouse:silvus": "us",
   "greenhouse:similarweb": "us",
   "greenhouse:simplesense": "us",
+  "greenhouse:simpletechnologysolutions": "us",
   "greenhouse:simplextrading": "us",
   "greenhouse:simplifed": "us",
   "greenhouse:simplisafe": "us",
@@ -6797,6 +6801,7 @@
   "greenhouse:traderepublic": "us",
   "greenhouse:traderepublicbank": "us",
   "greenhouse:traegergrills": "us",
+  "greenhouse:transactlyconnect": "us",
   "greenhouse:transactlycoordinators": "us",
   "greenhouse:transcendinc": "us",
   "greenhouse:transfergo": "us",
@@ -7375,9 +7380,9 @@
  },
  "last_digest": "2026-10-26",
  "last_sweep": {
-  "added": 0,
-  "checked": 5400,
-  "date": "2026-10-25",
+  "added": 1,
+  "checked": 14200,
+  "date": "2026-10-26",
   "total": 22644
  },
  "queue": [
@@ -90703,5 +90708,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 20205
+ "sweep_cursor": 11761
 }
