@@ -829,6 +829,7 @@
  },
  "fantastic:2397086794": {
   "category": "frontend",
+  "closed_at": "2026-10-26T01:37:36+00:00",
   "company": "aqary investement and development",
   "company_key": "fantastic",
   "expires": "2026-10-26T01:37:34+00:00",
@@ -842,7 +843,7 @@
   "salary": "",
   "score": 77,
   "source": "fantastic/zoho",
-  "status": "open",
+  "status": "closed",
   "title": "Front-End Engineer - React.js & Next.js",
   "uid": "fantastic:2397086794",
   "url": "https://aqaryinvestment.zohorecruit.com/jobs/Careers/838151000002941001/Front-End-Engineer-React-js-Next-js",
