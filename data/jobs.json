@@ -1735,6 +1735,7 @@
  },
  "greenhouse:momentumcorporateservicesllcdbamomentum:4978912101": {
   "category": "software",
+  "closed_at": "2026-10-26T19:17:29+00:00",
   "company": "Momentumcorporateservicesllcdbamomentum",
   "company_key": "greenhouse:momentumcorporateservicesllcdbamomentum",
   "fingerprint": "momentumcorporateservicesllcdbamomentum|senior principal software engineer|abudhabi",
@@ -1749,7 +1750,7 @@
   "salary": "",
   "score": 55,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Principal Software Engineer",
   "uid": "greenhouse:momentumcorporateservicesllcdbamomentum:4978912101",
   "url": "https://job-boards.eu.greenhouse.io/momentumcorporateservicesllcdbamomentum/jobs/4978912101",
