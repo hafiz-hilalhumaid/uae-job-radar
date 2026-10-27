@@ -946,6 +946,7 @@
  },
  "fantastic:2399190288": {
   "category": "frontend",
+  "closed_at": "2026-10-27T07:37:40+00:00",
   "company": "Jobgether",
   "company_key": "fantastic",
   "expires": "2026-10-27T07:33:12+00:00",
@@ -959,7 +960,7 @@
   "salary": "",
   "score": 65,
   "source": "fantastic/lever.co",
-  "status": "open",
+  "status": "closed",
   "title": "Trenches / Web3 Frontend Developer",
   "uid": "fantastic:2399190288",
   "url": "https://jobs.lever.co/jobgether/03667dee-5715-4649-b7dd-817a7de62198",
