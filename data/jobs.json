@@ -968,6 +968,7 @@
  },
  "fantastic:2399523829": {
   "category": "software",
+  "closed_at": "2026-10-27T13:37:40+00:00",
   "company": "SellAnyCar.com",
   "company_key": "fantastic",
   "expires": "2026-10-27T12:38:11+00:00",
@@ -981,7 +982,7 @@
   "salary": "",
   "score": 52,
   "source": "fantastic/smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer - Backend (PHP)",
   "uid": "fantastic:2399523829",
   "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000153727459-software-engineer-backend-php-",
