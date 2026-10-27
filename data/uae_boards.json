@@ -2017,6 +2017,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:yubico": {
+  "ats": "greenhouse",
+  "found": "2026-10-27",
+  "id": "yubico",
+  "last_uae": "2026-10-27",
+  "name": "Yubico Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:zenput": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -2116,6 +2125,16 @@
   "last_uae": "2026-10-27",
   "name": "Shieldai",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "lever:westernacher": {
+  "ats": "lever",
+  "found": "2026-10-27",
+  "host": "eu",
+  "id": "westernacher",
+  "last_uae": "2026-10-27",
+  "name": "Westernacher",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "lever:xm": {
@@ -3146,6 +3165,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "teamtailor:https://ateme.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-27",
+  "id": "https://ateme.teamtailor.com",
+  "last_uae": "2026-10-27",
+  "name": "Ateme",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "teamtailor:https://bbi.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-10-06",
@@ -4068,6 +4096,15 @@
   "id": "interweave",
   "last_uae": "2026-10-27",
   "name": "Interweave",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:invygo": {
+  "ats": "workable",
+  "found": "2026-10-27",
+  "id": "invygo",
+  "last_uae": "2026-10-27",
+  "name": "Invygo",
   "uae_jobs": 1,
   "via": "sweep"
  },
