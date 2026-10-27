@@ -2017,6 +2017,7 @@
  },
  "lever:jobgether:04a21f76-c418-4c54-ac1b-f9a781252620": {
   "category": "ai",
+  "closed_at": "2026-10-27T20:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|ai ml engineer|uae",
@@ -2029,7 +2030,7 @@
   "salary": "",
   "score": 77,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "AI/ML Engineer",
   "uid": "lever:jobgether:04a21f76-c418-4c54-ac1b-f9a781252620",
   "url": "https://jobs.lever.co/jobgether/04a21f76-c418-4c54-ac1b-f9a781252620",
@@ -2099,7 +2100,6 @@
  },
  "lever:jobgether:317003c6-aca6-4ef5-81e6-ec57e4115b3c": {
   "category": "ai",
-  "closed_at": "2026-10-27T06:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior ml engineer malware detection|uae",
@@ -2112,7 +2112,7 @@
   "salary": "",
   "score": 63,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Senior ML Engineer - Malware Detection",
   "uid": "lever:jobgether:317003c6-aca6-4ef5-81e6-ec57e4115b3c",
   "url": "https://jobs.lever.co/jobgether/317003c6-aca6-4ef5-81e6-ec57e4115b3c",
