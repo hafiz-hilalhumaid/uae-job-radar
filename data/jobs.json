@@ -1545,6 +1545,27 @@
   "url": "https://bamboocard.careers.hibob.com/jobs/a6106900-f5dd-4603-ae68-fee8427671fa",
   "workplace": "Remote Solely"
  },
+ "fantastic:2433598891": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "fantastic",
+  "expires": "2026-11-17T01:37:36+00:00",
+  "fingerprint": "jobgether|software engineer storage|uae",
+  "first_seen": "2026-10-27T01:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-26T00:00:00",
+  "salary": "",
+  "score": 61,
+  "source": "fantastic/lever.co",
+  "status": "open",
+  "title": "Software Engineer - Storage",
+  "uid": "fantastic:2433598891",
+  "url": "https://jobs.lever.co/jobgether/b1676b9f-c7e3-411e-b8a2-8941660195a4",
+  "workplace": "Remote Solely"
+ },
  "greenhouse:aift:5820463004": {
   "category": "ai",
   "company": "AIFT",
