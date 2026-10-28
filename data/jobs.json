@@ -2186,6 +2186,28 @@
   "url": "https://jobs.lever.co/jobgether/2d07ed06-49f7-4d94-921f-3b5b86f27575",
   "workplace": "remote"
  },
+ "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb": {
+  "category": "fullstack",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior fullstack developer|uae",
+  "first_seen": "2026-10-28T11:37:37+00:00",
+  "flags": [
+   "10+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-28T11:15:01.852000+00:00",
+  "salary": "",
+  "score": 54,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior FullStack Developer",
+  "uid": "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb",
+  "url": "https://jobs.lever.co/jobgether/2eb0c13e-df66-4b71-9d65-733c156b74fb",
+  "workplace": "remote"
+ },
  "lever:jobgether:317003c6-aca6-4ef5-81e6-ec57e4115b3c": {
   "category": "ai",
   "closed_at": "2026-10-28T10:37:37+00:00",
