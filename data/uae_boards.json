@@ -483,6 +483,15 @@
   "uae_jobs": 11,
   "via": "sweep"
  },
+ "ashby:nebuly": {
+  "ats": "ashby",
+  "found": "2026-10-28",
+  "id": "nebuly",
+  "last_uae": "2026-10-28",
+  "name": "Nebuly",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:netgear": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -1051,6 +1060,15 @@
   "name": "Binance",
   "via": "fantastic"
  },
+ "greenhouse:blackduck": {
+  "ats": "greenhouse",
+  "found": "2026-10-28",
+  "id": "blackduck",
+  "last_uae": "2026-10-28",
+  "name": "Black Duck Software, Inc.",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:bloomreach": {
   "ats": "greenhouse",
   "found": "2026-10-06",
@@ -1184,6 +1202,15 @@
   "id": "coursera",
   "last_uae": "2026-10-26",
   "name": "Coursera",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:cribl": {
+  "ats": "greenhouse",
+  "found": "2026-10-28",
+  "id": "cribl",
+  "last_uae": "2026-10-28",
+  "name": "Cribl",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -4213,6 +4240,15 @@
   "id": "mm-coaching-limited",
   "last_uae": "2026-10-28",
   "name": "Mm Coaching Limited",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:mozn-ai": {
+  "ats": "workable",
+  "found": "2026-10-28",
+  "id": "mozn-ai",
+  "last_uae": "2026-10-28",
+  "name": "Mozn Ai",
   "uae_jobs": 1,
   "via": "sweep"
  },
