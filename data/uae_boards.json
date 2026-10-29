@@ -2976,6 +2976,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:WildBrain": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-29",
+  "id": "WildBrain",
+  "last_uae": "2026-10-29",
+  "name": "Wildbrain",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:abbvie": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -3180,6 +3189,15 @@
   "id": "whitecollars",
   "last_uae": "2026-10-12",
   "name": "Whitecollars",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:wildbrain": {
+  "ats": "smartrecruiters",
+  "found": "2026-10-29",
+  "id": "wildbrain",
+  "last_uae": "2026-10-29",
+  "name": "Wildbrain",
   "uae_jobs": 1,
   "via": "sweep"
  },
