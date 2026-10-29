@@ -1014,6 +1014,7 @@
  },
  "fantastic:2403723579": {
   "category": "software",
+  "closed_at": "2026-10-29T11:37:35+00:00",
   "company": "EDGE Group PJSC",
   "company_key": "fantastic",
   "expires": "2026-10-29T10:37:38+00:00",
@@ -1029,7 +1030,7 @@
   "salary": "",
   "score": 27,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Desktop Software Engineer II",
   "uid": "fantastic:2403723579",
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Desktop-Software-Engineer-II-Abu/733058022/",
@@ -2191,6 +2192,7 @@
  },
  "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb": {
   "category": "fullstack",
+  "closed_at": "2026-10-29T11:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior fullstack developer|uae",
@@ -2205,7 +2207,7 @@
   "salary": "",
   "score": 54,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior FullStack Developer",
   "uid": "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb",
   "url": "https://jobs.lever.co/jobgether/2eb0c13e-df66-4b71-9d65-733c156b74fb",
