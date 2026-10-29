@@ -2128,6 +2128,26 @@
   "url": "https://jobs.lever.co/jobgether/0cf38dd0-e32e-45d7-af81-af18d14c49f6",
   "workplace": "remote"
  },
+ "lever:jobgether:145b7815-3f73-4cd5-b529-47f3022e80e3": {
+  "category": "fullstack",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|freelance full stack developer django ai products python llm integration|uae",
+  "first_seen": "2026-10-29T07:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-29T07:06:54.190000+00:00",
+  "salary": "",
+  "score": 65,
+  "source": "lever",
+  "status": "open",
+  "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+  "uid": "lever:jobgether:145b7815-3f73-4cd5-b529-47f3022e80e3",
+  "url": "https://jobs.lever.co/jobgether/145b7815-3f73-4cd5-b529-47f3022e80e3",
+  "workplace": "remote"
+ },
  "lever:jobgether:2a329053-4f84-4f8e-bc18-5a8aca1194f1": {
   "category": "software",
   "closed_at": "2026-10-06T20:18:27+00:00",
@@ -2193,6 +2213,7 @@
  },
  "lever:jobgether:317003c6-aca6-4ef5-81e6-ec57e4115b3c": {
   "category": "ai",
+  "closed_at": "2026-10-29T07:37:33+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior ml engineer malware detection|uae",
@@ -2205,7 +2226,7 @@
   "salary": "",
   "score": 63,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior ML Engineer - Malware Detection",
   "uid": "lever:jobgether:317003c6-aca6-4ef5-81e6-ec57e4115b3c",
   "url": "https://jobs.lever.co/jobgether/317003c6-aca6-4ef5-81e6-ec57e4115b3c",
