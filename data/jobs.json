@@ -2534,6 +2534,7 @@
  },
  "lever:loftorbital:55ebf1de-e31f-4ac3-b168-741e08ea774c": {
   "category": "frontend",
+  "closed_at": "2026-10-29T09:37:34+00:00",
   "company": "Loft Orbital Solutions",
   "company_key": "lever:loftorbital",
   "fingerprint": "loftorbitalsolutions|senior full stack web developer|abudhabi",
@@ -2548,7 +2549,7 @@
   "salary": "",
   "score": 59,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full-Stack Web Developer",
   "uid": "lever:loftorbital:55ebf1de-e31f-4ac3-b168-741e08ea774c",
   "url": "https://jobs.lever.co/loftorbital/55ebf1de-e31f-4ac3-b168-741e08ea774c",
