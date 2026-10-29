@@ -2403,6 +2403,7 @@
  },
  "lever:jobgether:b1676b9f-c7e3-411e-b8a2-8941660195a4": {
   "category": "software",
+  "closed_at": "2026-10-29T00:37:34+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer storage|uae",
@@ -2415,7 +2416,7 @@
   "salary": "",
   "score": 61,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer - Storage",
   "uid": "lever:jobgether:b1676b9f-c7e3-411e-b8a2-8941660195a4",
   "url": "https://jobs.lever.co/jobgether/b1676b9f-c7e3-411e-b8a2-8941660195a4",
