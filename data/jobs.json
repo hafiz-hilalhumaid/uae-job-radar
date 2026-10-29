@@ -2850,6 +2850,7 @@
  },
  "smartrecruiters:Sia:744000157081509": {
   "category": "ai",
+  "closed_at": "2026-10-29T17:37:33+00:00",
   "company": "Sia",
   "company_key": "smartrecruiters:Sia",
   "fingerprint": "sia|forward deployed engineer|abudhabi",
@@ -2862,7 +2863,7 @@
   "salary": "",
   "score": 87,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "[UAE] Forward Deployed Engineer",
   "uid": "smartrecruiters:Sia:744000157081509",
   "url": "https://jobs.smartrecruiters.com/Sia/744000157081509--uae-forward-deployed-engineer",
