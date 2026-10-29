@@ -1058,7 +1058,8 @@
    "seeded": true
   },
   "lever:jobgether": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "NotFound: global: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=25); eu: https://api.eu.lever.co/v0/postings/jobgether",
    "seeded": true
   },
   "lever:lionbridge": {
@@ -18731,6 +18732,7 @@
   "ashby:the-exploration-company:2ff5cf8a-7107-47e2-9da2-d025238de663": "2026-09-28T23:32:12+00:00",
   "ashby:the-exploration-company:311b901b-dfd3-4871-a65b-419dc7ee9979": "2026-09-28T23:32:12+00:00",
   "ashby:the-exploration-company:323160c5-050b-4b60-9f54-1d80b112df69": "2026-09-28T23:32:12+00:00",
+  "ashby:the-exploration-company:3345366b-a39f-4522-bc43-afc06e76ae0a": "2026-10-29T19:41:55+00:00",
   "ashby:the-exploration-company:336afa24-2535-496a-b7ed-632dc8157705": "2026-10-13T08:37:39+00:00",
   "ashby:the-exploration-company:39c4615c-8d06-4b22-ae30-a7062e7e23d2": "2026-10-21T19:37:34+00:00",
   "ashby:the-exploration-company:3c87ef04-f1ba-4755-b84d-d9612984de8a": "2026-09-28T23:32:12+00:00",
@@ -29942,6 +29944,7 @@
   "greenhouse:coursera:6231935004": "2026-10-24T23:22:19+00:00",
   "greenhouse:coursera:6232063004": "2026-10-24T23:22:19+00:00",
   "greenhouse:coursera:6233789004": "2026-10-24T23:22:19+00:00",
+  "greenhouse:coursera:6238594004": "2026-10-29T19:41:55+00:00",
   "greenhouse:cribl:5740501004": "2026-10-28T23:37:34+00:00",
   "greenhouse:cribl:5745375004": "2026-10-28T23:37:34+00:00",
   "greenhouse:cribl:5746407004": "2026-10-28T23:37:34+00:00",
