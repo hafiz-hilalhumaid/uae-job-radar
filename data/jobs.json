@@ -992,6 +992,7 @@
  },
  "fantastic:2403162221": {
   "category": "software",
+  "closed_at": "2026-10-29T05:37:34+00:00",
   "company": "EDGE Group PJSC",
   "company_key": "fantastic",
   "expires": "2026-10-29T04:37:34+00:00",
@@ -1005,7 +1006,7 @@
   "salary": "",
   "score": 30,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Principal Engineer -Software Engineer GCS",
   "uid": "fantastic:2403162221",
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Engineer-Software-Engineer-GCS-Abu/733207522/",
