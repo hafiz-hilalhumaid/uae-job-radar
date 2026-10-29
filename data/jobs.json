@@ -2931,6 +2931,7 @@
  },
  "teamtailor:https://careers.qashio.com:1cfc27d9-1e4c-4a6a-a9e2-d351266fd2e6": {
   "category": "ai",
+  "closed_at": "2026-10-29T14:15:41+00:00",
   "company": "Qashio",
   "company_key": "teamtailor:https://careers.qashio.com",
   "fingerprint": "qashio|ai engineer|dubai",
@@ -2943,7 +2944,7 @@
   "salary": "",
   "score": 82,
   "source": "teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "AI Engineer",
   "uid": "teamtailor:https://careers.qashio.com:1cfc27d9-1e4c-4a6a-a9e2-d351266fd2e6",
   "url": "https://careers.qashio.com/jobs/8136820-ai-engineer",
