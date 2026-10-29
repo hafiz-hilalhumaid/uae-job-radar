@@ -2951,6 +2951,7 @@
  },
  "teamtailor:https://careers.qashio.com:9cd25290-149a-4777-8d69-843856e6585c": {
   "category": "fullstack",
+  "closed_at": "2026-10-29T13:37:36+00:00",
   "company": "Qashio",
   "company_key": "teamtailor:https://careers.qashio.com",
   "fingerprint": "qashio|full stack engineer|dubai",
@@ -2963,7 +2964,7 @@
   "salary": "",
   "score": 85,
   "source": "teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "Full-stack Engineer (AI-native)",
   "uid": "teamtailor:https://careers.qashio.com:9cd25290-149a-4777-8d69-843856e6585c",
   "url": "https://careers.qashio.com/jobs/8357928-full-stack-engineer-ai-native",
