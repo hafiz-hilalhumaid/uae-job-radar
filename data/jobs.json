@@ -1104,6 +1104,7 @@
  },
  "fantastic:2405751425": {
   "category": "software",
+  "closed_at": "2026-10-30T09:37:35+00:00",
   "company": "EDGE Group PJSC",
   "company_key": "fantastic",
   "expires": "2026-10-30T08:37:36+00:00",
@@ -1119,7 +1120,7 @@
   "salary": "",
   "score": 55,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer",
   "uid": "fantastic:2405751425",
   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Software-Engineer/733535822/",
@@ -1127,6 +1128,7 @@
  },
  "fantastic:2405759905": {
   "category": "ai",
+  "closed_at": "2026-10-30T09:37:35+00:00",
   "company": "Network International",
   "company_key": "fantastic",
   "expires": "2026-10-30T08:37:36+00:00",
@@ -1140,7 +1142,7 @@
   "salary": "",
   "score": 70,
   "source": "fantastic/oraclecloud",
-  "status": "open",
+  "status": "closed",
   "title": "AI Forward Deployed Engineer",
   "uid": "fantastic:2405759905",
   "url": "https://fa-euqk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260000761",
