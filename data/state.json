@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 4,
+   "fails": 5,
    "last_error": "RuntimeError: HTTP 500 from https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -29182,6 +29182,8 @@
   "greenhouse:classpass:4725927006": "2026-10-29T23:37:34+00:00",
   "greenhouse:classpass:4725931006": "2026-10-29T23:37:34+00:00",
   "greenhouse:classpass:4725983006": "2026-10-30T09:37:35+00:00",
+  "greenhouse:classpass:4726086006": "2026-10-30T18:42:18+00:00",
+  "greenhouse:classpass:4726091006": "2026-10-30T18:42:18+00:00",
   "greenhouse:cloudflare:5390243": "2026-09-28T23:32:12+00:00",
   "greenhouse:cloudflare:6540163": "2026-09-28T23:32:12+00:00",
   "greenhouse:cloudflare:6557318": "2026-09-28T23:32:12+00:00",
@@ -46075,6 +46077,7 @@
   "greenhouse:veeamsoftware:5002121101": "2026-10-15T07:24:27+00:00",
   "greenhouse:veeamsoftware:5004342101": "2026-10-13T15:37:36+00:00",
   "greenhouse:veeamsoftware:5005406101": "2026-10-21T21:37:35+00:00",
+  "greenhouse:veeamsoftware:5005555101": "2026-10-30T18:42:18+00:00",
   "greenhouse:veeamsoftware:5006251101": "2026-10-15T22:37:36+00:00",
   "greenhouse:veeamsoftware:5006429101": "2026-10-14T19:37:36+00:00",
   "greenhouse:veeamsoftware:5006510101": "2026-10-22T21:37:36+00:00",
