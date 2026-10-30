@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 9,
+   "fails": 10,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -2038,6 +2038,10 @@
    "fails": 0,
    "seeded": true
   },
+  "workable:libertexgroup": {
+   "fails": 0,
+   "seeded": true
+  },
   "workable:lmax": {
    "fails": 0,
    "seeded": true
@@ -2239,6 +2243,10 @@
    "seeded": true
   },
   "workable:whiteshield": {
+   "fails": 0,
+   "seeded": true
+  },
+  "workable:winnow": {
    "fails": 0,
    "seeded": true
   },
@@ -9314,6 +9322,7 @@
   "ashby:OpenAI:35f81bda-a500-4d0c-96ff-1ba3fa24714f": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:35f99494-1700-4b81-9363-aaead13ea477": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:362a91cc-8e64-4922-a650-68161de60daa": "2026-09-28T23:32:12+00:00",
+  "ashby:OpenAI:36a746ab-66a6-4f3e-b164-3ca8fa9e0658": "2026-10-30T23:22:13+00:00",
   "ashby:OpenAI:36c8356d-b7eb-4aef-b0f5-3a3f3f8dfc5a": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:36e30720-0a32-4b7b-8172-e31ad0a20cdc": "2026-09-28T23:32:12+00:00",
   "ashby:OpenAI:371afd71-386b-40a0-be0a-e90f010b7bd0": "2026-09-28T23:32:12+00:00",
@@ -16651,6 +16660,7 @@
   "ashby:openai:35f81bda-a500-4d0c-96ff-1ba3fa24714f": "2026-09-24T20:59:40+00:00",
   "ashby:openai:35f99494-1700-4b81-9363-aaead13ea477": "2026-09-24T20:59:40+00:00",
   "ashby:openai:362a91cc-8e64-4922-a650-68161de60daa": "2026-09-24T20:59:40+00:00",
+  "ashby:openai:36a746ab-66a6-4f3e-b164-3ca8fa9e0658": "2026-10-30T23:22:13+00:00",
   "ashby:openai:36c8356d-b7eb-4aef-b0f5-3a3f3f8dfc5a": "2026-09-24T20:59:40+00:00",
   "ashby:openai:36e30720-0a32-4b7b-8172-e31ad0a20cdc": "2026-09-24T20:59:40+00:00",
   "ashby:openai:371afd71-386b-40a0-be0a-e90f010b7bd0": "2026-09-24T20:59:40+00:00",
@@ -24155,6 +24165,7 @@
   "greenhouse:andurilindustries:5280611007": "2026-10-30T20:37:35+00:00",
   "greenhouse:andurilindustries:5280628007": "2026-10-30T20:37:35+00:00",
   "greenhouse:andurilindustries:5280849007": "2026-10-30T22:37:34+00:00",
+  "greenhouse:andurilindustries:5280937007": "2026-10-30T23:22:13+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -86556,6 +86567,18 @@
   "workable:keller-executive-search:FD7DC1E58E": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:FE04B23C99": "2026-09-28T23:32:12+00:00",
   "workable:keller-executive-search:FF889BA3FF": "2026-09-28T23:32:12+00:00",
+  "workable:libertexgroup:159E22E178": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:52FE81FEDF": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:531415487D": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:6F23199E02": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:7CC5E91F21": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:99B4062986": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:AC8AD775D7": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:B5A98F5EF5": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:C3EC4B39A0": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:D44F8129EF": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:D54516FC48": "2026-10-30T23:22:13+00:00",
+  "workable:libertexgroup:FEEF6808F5": "2026-10-30T23:22:13+00:00",
   "workable:lmax:266F653A92": "2026-10-01T02:37:38+00:00",
   "workable:lmax:3AE4F8CF78": "2026-10-01T02:37:38+00:00",
   "workable:lmax:4AAF1F69AC": "2026-10-15T13:24:26+00:00",
@@ -96514,6 +96537,12 @@
   "workable:whiteshield:A90C320885": "2026-09-29T03:32:08+00:00",
   "workable:whiteshield:B10DE3ADC4": "2026-09-29T03:32:08+00:00",
   "workable:whiteshield:D2C8E9A589": "2026-09-29T03:32:08+00:00",
+  "workable:winnow:15EAC0AA1A": "2026-10-30T23:22:13+00:00",
+  "workable:winnow:6EABB161B2": "2026-10-30T23:22:13+00:00",
+  "workable:winnow:82AABF6689": "2026-10-30T23:22:13+00:00",
+  "workable:winnow:C32ACADD09": "2026-10-30T23:22:13+00:00",
+  "workable:winnow:E04A0575DD": "2026-10-30T23:22:13+00:00",
+  "workable:winnow:E84FBE9DEE": "2026-10-30T23:22:13+00:00",
   "workable:zaintech:00F9438754": "2026-09-30T10:32:10+00:00",
   "workable:zaintech:0163856D62": "2026-09-29T03:32:08+00:00",
   "workable:zaintech:0A23FCB735": "2026-09-29T03:32:08+00:00",
