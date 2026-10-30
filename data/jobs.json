@@ -2327,7 +2327,6 @@
  },
  "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb": {
   "category": "fullstack",
-  "closed_at": "2026-10-30T07:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior fullstack developer|uae",
@@ -2342,7 +2341,7 @@
   "salary": "",
   "score": 54,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Senior FullStack Developer",
   "uid": "lever:jobgether:2eb0c13e-df66-4b71-9d65-733c156b74fb",
   "url": "https://jobs.lever.co/jobgether/2eb0c13e-df66-4b71-9d65-733c156b74fb",
