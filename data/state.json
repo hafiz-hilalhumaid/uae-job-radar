@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 10,
+   "fails": 11,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -12157,6 +12157,7 @@
   "ashby:checkout.com:3724529e-1324-40bf-8fb0-f116e3eae12f": "2026-09-28T23:32:12+00:00",
   "ashby:checkout.com:395d8b61-3232-47b1-b930-e0f292b80ea7": "2026-09-28T23:32:12+00:00",
   "ashby:checkout.com:3a153d7d-fe2a-4e78-9fe9-5747f52f9387": "2026-10-26T11:37:33+00:00",
+  "ashby:checkout.com:3ac4e2ae-eb24-4da2-961e-42e3fd1b2b3c": "2026-10-30T23:37:35+00:00",
   "ashby:checkout.com:3b221ecf-3764-4b85-82d0-09bb4792179a": "2026-09-28T23:32:12+00:00",
   "ashby:checkout.com:3bf972cc-259d-4ac2-a2b7-8972b3c9b59e": "2026-09-28T23:32:12+00:00",
   "ashby:checkout.com:3c434660-bd24-45b4-9d2d-3fdcb3663c47": "2026-09-28T23:32:12+00:00",
