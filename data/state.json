@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 22,
+   "fails": 23,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -74049,6 +74049,7 @@
   "smartrecruiters:AccorHotel:744000158738810": "2026-10-30T13:37:36+00:00",
   "smartrecruiters:AccorHotel:744000158745444": "2026-10-30T13:37:36+00:00",
   "smartrecruiters:AccorHotel:744000158749014": "2026-10-30T14:37:35+00:00",
+  "smartrecruiters:AccorHotel:744000158886319": "2026-10-31T09:39:03+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:AnalysysMason1:744000157507184": "2026-10-24T23:22:19+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
