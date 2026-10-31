@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 33,
+   "fails": 34,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -17869,6 +17869,7 @@
   "ashby:pragmatike:f30e8f4c-96bb-46f1-9ee0-53bad61f0e4b": "2026-09-28T23:32:12+00:00",
   "ashby:pragmatike:f35e69f7-e3f8-4a9a-a455-11b52d8395ad": "2026-09-28T23:32:12+00:00",
   "ashby:pragmatike:f41ad4e6-4cf3-4d9d-a532-f57d87bd4649": "2026-09-28T23:32:12+00:00",
+  "ashby:pragmatike:f520eed3-2ec4-4bab-aa88-3a3b00df0bda": "2026-10-31T19:37:35+00:00",
   "ashby:pragmatike:f9ab1adf-a667-4df9-9ade-937549329276": "2026-10-05T21:37:36+00:00",
   "ashby:quantexa:00070f66-6421-4d61-96f5-fe12252a70a1": "2026-10-01T02:37:38+00:00",
   "ashby:quantexa:01918ccf-789f-442b-9963-d635166f6ef7": "2026-10-01T02:37:38+00:00",
@@ -68929,6 +68930,7 @@
   "lever:palantir:4bf39879-251f-43bd-be2a-c33a2663622d": "2026-10-22T21:37:36+00:00",
   "lever:palantir:4bfef5e0-6689-4db8-9ffe-ab6df6836845": "2026-09-24T20:59:40+00:00",
   "lever:palantir:4c0fb3a1-8256-4d14-9a27-23727235752e": "2026-09-24T20:59:40+00:00",
+  "lever:palantir:4c13fdb2-308e-4185-bb6b-105d7bf38d92": "2026-10-31T19:37:35+00:00",
   "lever:palantir:4c956604-f861-4140-a7d2-3e39fc834c1c": "2026-10-05T17:37:37+00:00",
   "lever:palantir:4cb2bf51-da98-4874-82eb-07d8ae834e0b": "2026-09-24T20:59:40+00:00",
   "lever:palantir:4cba9c95-d16f-440d-83e7-2352480f689f": "2026-09-24T20:59:40+00:00",
@@ -69085,6 +69087,7 @@
   "lever:palantir:bd16f7ad-3bee-48fd-9902-b3ee9698b608": "2026-09-24T20:59:40+00:00",
   "lever:palantir:bd34525c-6e4e-44ea-88c8-d8dac9747feb": "2026-09-24T20:59:40+00:00",
   "lever:palantir:bd500579-5e1c-441f-b42f-66822d07dbba": "2026-09-24T20:59:40+00:00",
+  "lever:palantir:bd7766c4-6aea-4b37-8d47-a8864bb9bd69": "2026-10-31T19:37:35+00:00",
   "lever:palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0": "2026-09-24T20:59:40+00:00",
   "lever:palantir:be4ab5cb-9caa-4c2a-97b9-c73805fca4fc": "2026-09-24T20:59:40+00:00",
   "lever:palantir:bf3792b7-f485-47a3-ad8c-97c2d793207b": "2026-09-25T18:50:51+00:00",
