@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 23,
+   "fails": 24,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -41824,6 +41824,7 @@
   "greenhouse:quberesearchandtechnologies:8894736002": "2026-10-16T16:37:08+00:00",
   "greenhouse:quberesearchandtechnologies:8895028002": "2026-10-16T17:37:33+00:00",
   "greenhouse:quberesearchandtechnologies:8899594002": "2026-10-19T10:37:35+00:00",
+  "greenhouse:quberesearchandtechnologies:8908075002": "2026-10-31T10:37:33+00:00",
   "greenhouse:quberesearchandtechnologies:8909049002": "2026-10-22T16:37:36+00:00",
   "greenhouse:quberesearchandtechnologies:8910950002": "2026-10-23T09:37:42+00:00",
   "greenhouse:quberesearchandtechnologies:8919361002": "2026-10-27T15:37:35+00:00",
@@ -74050,6 +74051,7 @@
   "smartrecruiters:AccorHotel:744000158745444": "2026-10-30T13:37:36+00:00",
   "smartrecruiters:AccorHotel:744000158749014": "2026-10-30T14:37:35+00:00",
   "smartrecruiters:AccorHotel:744000158886319": "2026-10-31T09:39:03+00:00",
+  "smartrecruiters:AccorHotel:744000158886419": "2026-10-31T10:37:33+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:AnalysysMason1:744000157507184": "2026-10-24T23:22:19+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
@@ -84183,6 +84185,7 @@
   "workable:gramian:F4879A6234": "2026-10-29T23:56:05+00:00",
   "workable:gramian:F4DF0D35DA": "2026-09-28T23:32:12+00:00",
   "workable:gramian:F5D608A964": "2026-10-30T22:37:34+00:00",
+  "workable:gramian:F679C62154": "2026-10-31T10:37:33+00:00",
   "workable:gramian:F7B774EAB0": "2026-10-30T01:37:34+00:00",
   "workable:gramian:F92B4AB5E2": "2026-09-28T23:32:12+00:00",
   "workable:gramian:FA8739DC27": "2026-09-28T23:32:12+00:00",
@@ -97588,6 +97591,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Processing-Lead_R-1189062": "2026-10-02T13:37:38+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Production-Maintenance-Technician---2nd-shift_R-1186857": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Jonesboro-AR/Production-Maintenance-Technician---2nd-shift_R-1189630": "2026-10-13T21:37:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Karachi-Pakistan/ABM---Surf-Excel_R-1185338": "2026-10-31T10:37:33+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Karachi-Pakistan/Assistant-Key-Account-Manager-Digital-Commerce_R-1190115-1": "2026-10-23T11:37:33+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Karachi-Pakistan/Instore-Manager_R-1189466": "2026-10-23T11:37:33+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Karachi-Pakistan/JM-Operations-HC_R-1189581": "2026-10-15T11:37:43+00:00",
