@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 36,
+   "fails": 37,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -14706,6 +14706,7 @@
   "ashby:imagineart:eddb9020-722e-45a3-a727-9f4977e3c76c": "2026-10-19T07:37:35+00:00",
   "ashby:imagineart:f4238c89-e481-41b0-9e41-a212e1303050": "2026-09-28T23:32:12+00:00",
   "ashby:imagineart:f47a3ad8-39ef-44a9-a21a-1c4d4ebc794c": "2026-09-28T23:32:12+00:00",
+  "ashby:imagineart:f8dbc3a9-657d-4865-8c46-4d68742e8371": "2026-10-31T21:37:34+00:00",
   "ashby:immersivelabs:00fbf3b4-f831-489d-a964-b0a1f311d4d8": "2026-10-16T23:22:34+00:00",
   "ashby:immersivelabs:0da172cd-9436-4511-ba00-02b7d8956d68": "2026-10-16T23:22:34+00:00",
   "ashby:immersivelabs:0f0748dc-78b0-4499-9797-3676570d9d5a": "2026-10-16T23:22:34+00:00",
