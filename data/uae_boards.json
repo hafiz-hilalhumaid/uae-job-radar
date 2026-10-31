@@ -3335,6 +3335,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "teamtailor:https://securitas.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-10-31",
+  "id": "https://securitas.teamtailor.com",
+  "last_uae": "2026-10-31",
+  "name": "Securitas",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "teamtailor:https://sullyai.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-10-19",
