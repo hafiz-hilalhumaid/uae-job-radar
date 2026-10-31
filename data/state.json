@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 30,
+   "fails": 31,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -2263,7 +2263,8 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
@@ -95351,6 +95352,7 @@
   "workable:weekday-1:0F070015E8": "2026-10-27T15:37:35+00:00",
   "workable:weekday-1:0F4C497FAF": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:0F73FB1C90": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:0F92DB1EF7": "2026-10-31T16:37:33+00:00",
   "workable:weekday-1:1032CB1637": "2026-10-15T15:37:36+00:00",
   "workable:weekday-1:105D0950EF": "2026-10-19T08:37:35+00:00",
   "workable:weekday-1:10991AC431": "2026-10-08T06:37:36+00:00",
@@ -96162,6 +96164,7 @@
   "workable:weekday-1:A3A719D9D0": "2026-10-22T06:37:33+00:00",
   "workable:weekday-1:A3BCE85234": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:A3DAD06231": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:A4448F8461": "2026-10-31T16:37:33+00:00",
   "workable:weekday-1:A4814715ED": "2026-10-19T15:37:44+00:00",
   "workable:weekday-1:A4C52BB9CA": "2026-10-15T15:37:36+00:00",
   "workable:weekday-1:A4FF3148F9": "2026-10-01T14:37:37+00:00",
@@ -96486,6 +96489,7 @@
   "workable:weekday-1:DA50D96DB0": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:DA7196C28C": "2026-10-05T09:37:33+00:00",
   "workable:weekday-1:DA72772993": "2026-10-12T05:54:37+00:00",
+  "workable:weekday-1:DAF8D4E744": "2026-10-31T16:37:33+00:00",
   "workable:weekday-1:DB090F83AB": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:DB558E85C4": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:DB778371B2": "2026-09-29T03:32:08+00:00",
