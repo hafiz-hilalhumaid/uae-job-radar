@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 24,
+   "fails": 25,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -81772,6 +81772,7 @@
   "workable:eramtalent-1:3661493381": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:37DA249A43": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:38A24343B4": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:39385FB726": "2026-10-31T11:37:34+00:00",
   "workable:eramtalent-1:3A7DCDBBB5": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:3B2548CD16": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:3B3B97D849": "2026-09-28T23:32:12+00:00",
@@ -81785,6 +81786,7 @@
   "workable:eramtalent-1:4088E9927F": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:40973334CE": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:40CCF0DB57": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:40D6672DF3": "2026-10-31T11:37:34+00:00",
   "workable:eramtalent-1:40EEB0E1D4": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:40FDEE4E16": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:411E1F7FC2": "2026-09-28T23:32:12+00:00",
@@ -83988,6 +83990,7 @@
   "workable:gramian:296E8F8989": "2026-09-28T23:32:12+00:00",
   "workable:gramian:29C434E9C6": "2026-09-28T23:32:12+00:00",
   "workable:gramian:2A0794D5EC": "2026-10-27T00:37:34+00:00",
+  "workable:gramian:2A804B58F7": "2026-10-31T11:37:34+00:00",
   "workable:gramian:2B3901F4F8": "2026-09-28T23:32:12+00:00",
   "workable:gramian:2C3BF7A8F3": "2026-10-30T01:37:34+00:00",
   "workable:gramian:2F33AD9EC8": "2026-10-27T00:37:34+00:00",
@@ -84023,6 +84026,7 @@
   "workable:gramian:4C525A9FA2": "2026-09-28T23:32:12+00:00",
   "workable:gramian:4D6E7C2F29": "2026-10-21T14:37:36+00:00",
   "workable:gramian:4DECA0FEC8": "2026-10-13T21:37:40+00:00",
+  "workable:gramian:4DEE643E60": "2026-10-31T11:37:34+00:00",
   "workable:gramian:4E22461C97": "2026-10-21T14:37:36+00:00",
   "workable:gramian:4ED55CD785": "2026-09-28T23:32:12+00:00",
   "workable:gramian:4FE62EE3E0": "2026-09-28T23:32:12+00:00",
@@ -86820,6 +86824,7 @@
   "workable:max-accelerate:6269968522": "2026-09-28T23:32:12+00:00",
   "workable:max-accelerate:6605B99902": "2026-09-28T23:32:12+00:00",
   "workable:max-accelerate:6A5970BE88": "2026-09-28T23:32:12+00:00",
+  "workable:max-accelerate:6ABD5CC85B": "2026-10-31T11:37:34+00:00",
   "workable:max-accelerate:6D1572C1ED": "2026-09-28T23:32:12+00:00",
   "workable:max-accelerate:72F404644D": "2026-09-28T23:32:12+00:00",
   "workable:max-accelerate:7AEC38D091": "2026-09-28T23:32:12+00:00",
