@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 38,
+   "fails": 39,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -1643,6 +1643,10 @@
    "seeded": true
   },
   "teamtailor:https://reloadlogistics.teamtailor.com": {
+   "fails": 0,
+   "seeded": true
+  },
+  "teamtailor:https://securitas.teamtailor.com": {
    "fails": 0,
    "seeded": true
   },
@@ -77484,6 +77488,33 @@
   "teamtailor:https://reloadlogistics.teamtailor.com:9321cc1b-0f66-426c-af12-497c063c6a4a": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://reloadlogistics.teamtailor.com:dee67a30-2086-41f3-bbf3-6f1fcf57d563": "2026-09-28T23:32:12+00:00",
   "teamtailor:https://reloadlogistics.teamtailor.com:df78350d-c23f-4e81-aa71-be55d19adde1": "2026-10-21T11:37:37+00:00",
+  "teamtailor:https://securitas.teamtailor.com:016ed0fa-52bb-4105-9e61-5ada4ba479ba": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:03a41cb9-08d8-4265-bc8e-2b7fc33c46c5": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:1dada2f5-4624-4cb9-a641-40f3ad46eac7": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:2713ffca-faeb-4d5e-a893-a7b2e421e728": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:4b2e5f00-898b-4008-86fc-ec3d06077045": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:54f40055-8295-47f5-b3e8-6d89739c80ba": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:5981bb93-8b7c-4fb7-b5fe-a99594137a0b": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:7ce04fbe-2874-4c20-93e2-69f1da434f45": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:849ba0d5-f4b1-4bed-93d4-c8bc730b67da": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:88dc6a5b-b673-4671-91dc-6f3b71a7ec2e": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:89193e7d-bb5c-4807-904b-96bc324aab58": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:907c092e-c9d2-44f7-a145-c3c354e90c06": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:97e671ec-bca7-41a1-afa3-6697a44ff1bb": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:9881da67-c5b6-48b8-8593-176d42ecd47a": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:9ea58832-4ce8-4c03-92a7-18f708622a06": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:ab059b9a-7a75-4b38-824a-fa56799981f6": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:acc921f6-ecfb-4ff2-853a-1321765ea272": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:b389dc0c-ea40-4ef0-9b1b-a789feb18c25": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:b5df09ff-7b79-491d-b0df-60422293075c": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:b7a84b31-f917-4875-8129-81d63ee66817": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:b97c8844-a9d2-43fb-a5a8-7f82064b1024": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:c2cecbb7-cb78-4373-8eb5-8b4ee18f04d5": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:c3ee9e6d-4fa0-41a2-a0ef-9d45ab6eb550": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:d31342c1-0e7c-46ef-a282-86e0867f0a1c": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:e39e93ed-8317-4f7d-8a1d-6eb6a7b04bba": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:f3f486d7-9901-4bbc-86cc-0dc10facf20d": "2026-10-31T23:24:05+00:00",
+  "teamtailor:https://securitas.teamtailor.com:f8e5a3d3-0e12-49f6-92ca-42f1e5aa9826": "2026-10-31T23:24:05+00:00",
   "teamtailor:https://sullyai.teamtailor.com:8e72836b-fa64-40cb-90b8-626347cf8b60": "2026-10-19T18:37:36+00:00",
   "teamtailor:https://sullyai.teamtailor.com:a3322fb4-d846-49c8-8278-5b4667078709": "2026-10-19T18:37:36+00:00",
   "teamtailor:https://sullyai.teamtailor.com:cbc5b38f-8ba8-4623-8b49-9217cb75f420": "2026-10-19T18:37:36+00:00",
