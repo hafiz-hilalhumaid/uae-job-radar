@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 31,
+   "fails": 32,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -2263,8 +2263,7 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 1,
-   "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
+   "fails": 0,
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
@@ -24189,6 +24188,13 @@
   "greenhouse:andurilindustries:5280937007": "2026-10-30T23:22:13+00:00",
   "greenhouse:andurilindustries:5280959007": "2026-10-31T00:37:36+00:00",
   "greenhouse:andurilindustries:5280973007": "2026-10-31T00:37:36+00:00",
+  "greenhouse:andurilindustries:5281150007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281151007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281152007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281153007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281154007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281155007": "2026-10-31T17:37:36+00:00",
+  "greenhouse:andurilindustries:5281156007": "2026-10-31T17:37:36+00:00",
   "greenhouse:appian:6777979": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7013265": "2026-09-28T23:32:12+00:00",
   "greenhouse:appian:7698400": "2026-09-28T23:32:12+00:00",
@@ -84195,6 +84201,7 @@
   "workable:gramian:F116605404": "2026-09-28T23:32:12+00:00",
   "workable:gramian:F22BA7B1F8": "2026-10-07T22:37:37+00:00",
   "workable:gramian:F45A4DB77C": "2026-10-12T10:37:39+00:00",
+  "workable:gramian:F47DCD27AE": "2026-10-31T17:37:36+00:00",
   "workable:gramian:F4879A6234": "2026-10-29T23:56:05+00:00",
   "workable:gramian:F4DF0D35DA": "2026-09-28T23:32:12+00:00",
   "workable:gramian:F5D608A964": "2026-10-30T22:37:34+00:00",
@@ -95406,6 +95413,7 @@
   "workable:weekday-1:18B4125DDD": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:18B603FE1C": "2026-10-23T06:37:33+00:00",
   "workable:weekday-1:18CE9C4496": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:18E90995CA": "2026-10-31T17:37:36+00:00",
   "workable:weekday-1:192971E596": "2026-10-01T13:37:37+00:00",
   "workable:weekday-1:194F7250B8": "2026-10-24T16:37:39+00:00",
   "workable:weekday-1:1982419318": "2026-09-29T03:32:08+00:00",
@@ -96044,6 +96052,7 @@
   "workable:weekday-1:90443B47B4": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:90B9E254FE": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:90BC3A9D31": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:90CCA07CDB": "2026-10-31T17:37:36+00:00",
   "workable:weekday-1:90E5AA3D61": "2026-10-29T05:37:34+00:00",
   "workable:weekday-1:90F8B3686D": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:911E447FA2": "2026-09-29T03:32:08+00:00",
@@ -96289,6 +96298,7 @@
   "workable:weekday-1:B78F6807B6": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:B79AE642AF": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:B7C150F1A5": "2026-10-27T07:37:40+00:00",
+  "workable:weekday-1:B7D607DB4F": "2026-10-31T17:37:36+00:00",
   "workable:weekday-1:B8040383BE": "2026-10-27T14:37:36+00:00",
   "workable:weekday-1:B823002A9A": "2026-10-15T14:37:37+00:00",
   "workable:weekday-1:B86B4BDA3F": "2026-10-05T13:37:38+00:00",
@@ -96466,6 +96476,7 @@
   "workable:weekday-1:D638FAE74E": "2026-10-30T05:37:35+00:00",
   "workable:weekday-1:D63B0FB221": "2026-10-31T14:37:34+00:00",
   "workable:weekday-1:D666A898D2": "2026-09-29T03:32:08+00:00",
+  "workable:weekday-1:D699F56653": "2026-10-31T17:37:36+00:00",
   "workable:weekday-1:D69E201DDE": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:D6F18792C8": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:D710E85A32": "2026-09-29T03:32:08+00:00",
@@ -96477,6 +96488,7 @@
   "workable:weekday-1:D86DD0EE09": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:D8769F930A": "2026-10-23T13:24:38+00:00",
   "workable:weekday-1:D8D678C137": "2026-10-01T05:37:35+00:00",
+  "workable:weekday-1:D8DFE8FE14": "2026-10-31T17:37:36+00:00",
   "workable:weekday-1:D928E4658D": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:D92D88751E": "2026-09-29T03:32:08+00:00",
   "workable:weekday-1:D93119D4AF": "2026-10-15T14:37:37+00:00",
@@ -97064,6 +97076,7 @@
   "workday:parsons/Search:/job/US---CO-Schriever-Space-Force-Base/Senior-Systems-Engineer_R186757": "2026-09-30T15:37:47+00:00",
   "workday:parsons/Search:/job/US---CO-Westminster/Applied-AI-Engineer_R187096": "2026-10-12T17:37:34+00:00",
   "workday:parsons/Search:/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402": "2026-10-21T14:37:36+00:00",
+  "workday:parsons/Search:/job/US---DC-Washington/DC-Office-Operations-Manager-Senior-Program-Director--Transportation-Engineering_R188081": "2026-10-31T17:37:36+00:00",
   "workday:parsons/Search:/job/US---DC-Washington/Data-Scientist-II_R186425": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---DC-Washington/Data-Scientist-I_R186422": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/US---DC-Washington/Mission-Support-Specialist_R185577": "2026-10-27T19:37:36+00:00",
