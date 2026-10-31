@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 35,
+   "fails": 36,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -60876,6 +60876,7 @@
   "lever:jobgether:97d42519-ea44-4008-8a0c-d15b46a9f92e": "2026-10-26T14:37:36+00:00",
   "lever:jobgether:97d5cb40-4af5-4100-9eef-c011c335dfe0": "2026-10-20T08:37:35+00:00",
   "lever:jobgether:97d64744-421a-472d-8b20-dfb7b825bbc5": "2026-10-30T09:37:35+00:00",
+  "lever:jobgether:97dbf270-e68f-450d-8ac2-a7cbdfeaf4d6": "2026-10-31T20:37:34+00:00",
   "lever:jobgether:97de74ac-9226-4ed5-9fe1-9322b16392da": "2026-10-20T06:37:37+00:00",
   "lever:jobgether:97e59460-7928-45c1-ad82-250fd6d53c48": "2026-10-05T09:37:33+00:00",
   "lever:jobgether:97eee67e-7692-4342-bdf9-fd713b11c1f7": "2026-10-05T09:37:33+00:00",
@@ -62781,6 +62782,7 @@
   "lever:jobgether:b3574fcb-08f9-47df-a873-b366a60de19d": "2026-10-05T21:37:36+00:00",
   "lever:jobgether:b35b042f-ae3b-47e0-bcc1-c8a1e4210e14": "2026-10-19T12:37:33+00:00",
   "lever:jobgether:b35f9df3-0f66-41f9-a6a9-45dd1d9bf307": "2026-10-16T06:37:41+00:00",
+  "lever:jobgether:b3608eb0-1482-407a-844d-f5ab174ce985": "2026-10-31T20:37:34+00:00",
   "lever:jobgether:b36155cc-c03f-4168-97c3-4a062c50bc43": "2026-10-07T20:36:06+00:00",
   "lever:jobgether:b3619025-7d56-4044-a09c-cc6d607b05d8": "2026-10-21T01:34:00+00:00",
   "lever:jobgether:b368171d-3ea8-4869-b346-b324f5bfbf15": "2026-10-20T10:37:35+00:00",
