@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 19,
+   "fails": 20,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -2263,13 +2263,11 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 1,
-   "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "fails": 0,
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 1,
-   "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "fails": 0,
    "seeded": true
   }
  },
@@ -38946,6 +38944,7 @@
   "greenhouse:monks:6237982004": "2026-10-28T20:37:34+00:00",
   "greenhouse:monks:6238132004": "2026-10-29T00:37:34+00:00",
   "greenhouse:monks:6238167004": "2026-10-29T01:37:36+00:00",
+  "greenhouse:monks:6240187004": "2026-10-31T07:37:35+00:00",
   "greenhouse:nebius:4376374101": "2026-09-28T23:32:12+00:00",
   "greenhouse:nebius:4376580101": "2026-09-28T23:32:12+00:00",
   "greenhouse:nebius:4377696101": "2026-09-28T23:32:12+00:00",
