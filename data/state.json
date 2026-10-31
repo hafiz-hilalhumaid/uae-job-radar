@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-30",
+ "fantastic_daily": "2026-10-31",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 12,
+   "fails": 13,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -7464,7 +7464,9 @@
   "date": "2026-10-30",
   "total": 22644
  },
- "queue": [],
+ "queue": [
+  "fantastic:2442099397"
+ ],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
   "ashby:Airwallex:0041178d-9b99-4c6e-9ad0-d8399d77559f": "2026-09-28T23:32:12+00:00",
@@ -19530,6 +19532,8 @@
   "fantastic:2437376796": "2026-10-29T01:37:36+00:00",
   "fantastic:2439087063": "2026-10-30T01:37:34+00:00",
   "fantastic:2439130582": "2026-10-30T01:37:34+00:00",
+  "fantastic:2441847585": "2026-10-31T01:37:36+00:00",
+  "fantastic:2441847590": "2026-10-31T01:37:36+00:00",
   "greenhouse:OKX:5452539003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5831629003": "2026-10-01T02:37:38+00:00",
   "greenhouse:OKX:5949501003": "2026-10-01T02:37:38+00:00",
@@ -23273,6 +23277,7 @@
   "greenhouse:andurilindustries:5248872007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5249022007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5249024007": "2026-09-28T23:32:12+00:00",
+  "greenhouse:andurilindustries:5249040007": "2026-10-31T01:37:36+00:00",
   "greenhouse:andurilindustries:5249094007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5249096007": "2026-09-28T23:32:12+00:00",
   "greenhouse:andurilindustries:5249097007": "2026-09-28T23:32:12+00:00",
@@ -23894,6 +23899,7 @@
   "greenhouse:andurilindustries:5268736007": "2026-10-19T19:37:36+00:00",
   "greenhouse:andurilindustries:5268752007": "2026-10-19T19:54:36+00:00",
   "greenhouse:andurilindustries:5268864007": "2026-10-19T21:37:36+00:00",
+  "greenhouse:andurilindustries:5268869007": "2026-10-31T01:37:36+00:00",
   "greenhouse:andurilindustries:5268882007": "2026-10-23T20:37:36+00:00",
   "greenhouse:andurilindustries:5268883007": "2026-10-19T21:37:36+00:00",
   "greenhouse:andurilindustries:5268886007": "2026-10-19T21:37:36+00:00",
@@ -24868,6 +24874,8 @@
   "greenhouse:aspenviewtech:4461141009": "2026-10-21T02:38:23+00:00",
   "greenhouse:aspenviewtech:4461142009": "2026-10-21T02:38:23+00:00",
   "greenhouse:aspenviewtech:4471081009": "2026-10-28T19:37:34+00:00",
+  "greenhouse:aspenviewtech:4475179009": "2026-10-31T01:37:36+00:00",
+  "greenhouse:aspenviewtech:4475180009": "2026-10-31T01:37:36+00:00",
   "greenhouse:audiomob:4794492101": "2026-09-28T23:32:12+00:00",
   "greenhouse:audiomob:4854141101": "2026-09-28T23:32:12+00:00",
   "greenhouse:audiomob:4858302101": "2026-09-28T23:32:12+00:00",
@@ -29262,6 +29270,7 @@
   "greenhouse:classpass:4725000006": "2026-10-30T16:37:38+00:00",
   "greenhouse:classpass:4725141006": "2026-10-30T14:37:35+00:00",
   "greenhouse:classpass:4725519006": "2026-10-29T19:37:34+00:00",
+  "greenhouse:classpass:4725849006": "2026-10-31T01:37:36+00:00",
   "greenhouse:classpass:4725927006": "2026-10-29T23:37:34+00:00",
   "greenhouse:classpass:4725931006": "2026-10-29T23:37:34+00:00",
   "greenhouse:classpass:4725983006": "2026-10-30T09:37:35+00:00",
