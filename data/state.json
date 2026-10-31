@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 20,
+   "fails": 21,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -17589,6 +17589,7 @@
   "ashby:openart:94da224a-3f8b-4967-86e5-4ddee078ecc9": "2026-10-13T20:37:36+00:00",
   "ashby:openart:94ec0c86-8fd2-435f-9203-42e39921cd95": "2026-10-01T02:37:38+00:00",
   "ashby:openart:95104109-ebb3-4d32-9b6d-ba9fc324338b": "2026-10-01T02:37:38+00:00",
+  "ashby:openart:9dd382e0-0941-45eb-913e-1a6f44fd5daa": "2026-10-31T08:37:35+00:00",
   "ashby:openart:a7ad8ed1-eca4-434b-bfc2-00246e852519": "2026-10-01T02:37:38+00:00",
   "ashby:openart:b2f90ae1-8f27-4ef5-b0de-7174f559711f": "2026-10-01T02:37:38+00:00",
   "ashby:openart:b5e04802-f810-4da8-867d-37edfdef0001": "2026-10-01T02:37:38+00:00",
@@ -40260,6 +40261,7 @@
   "greenhouse:openfx:5451702008": "2026-10-13T21:37:40+00:00",
   "greenhouse:openfx:5455767008": "2026-10-16T20:37:35+00:00",
   "greenhouse:openfx:5466785008": "2026-10-29T12:37:36+00:00",
+  "greenhouse:openfx:5469263008": "2026-10-31T08:37:35+00:00",
   "greenhouse:openspace:7789371003": "2026-10-01T23:37:38+00:00",
   "greenhouse:openspace:7815750003": "2026-10-01T23:37:38+00:00",
   "greenhouse:openspace:7930340003": "2026-10-01T23:37:38+00:00",
