@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 32,
+   "fails": 33,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -30277,6 +30277,10 @@
   "greenhouse:coinbase:8334234": "2026-10-29T18:37:33+00:00",
   "greenhouse:coinbase:8334281": "2026-10-30T11:37:34+00:00",
   "greenhouse:coinbase:8334290": "2026-10-30T11:37:34+00:00",
+  "greenhouse:coinbase:8334752": "2026-10-31T18:37:34+00:00",
+  "greenhouse:coinbase:8334761": "2026-10-31T18:37:34+00:00",
+  "greenhouse:coinbase:8334764": "2026-10-31T18:37:34+00:00",
+  "greenhouse:coinbase:8334767": "2026-10-31T18:37:34+00:00",
   "greenhouse:coinbase:8335547": "2026-10-29T23:37:34+00:00",
   "greenhouse:coinbase:8335575": "2026-10-30T20:37:35+00:00",
   "greenhouse:coinbase:8335796": "2026-10-30T01:37:34+00:00",
