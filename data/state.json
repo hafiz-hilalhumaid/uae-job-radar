@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 25,
+   "fails": 26,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -82131,6 +82131,7 @@
   "workable:eramtalent-1:ECEAC8623B": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:ED8006BCA1": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:EDC49C9815": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:EDC890EFCD": "2026-10-31T12:37:33+00:00",
   "workable:eramtalent-1:EE3A6E120D": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:EFEB407980": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:F111EFEFCE": "2026-09-28T23:32:12+00:00",
@@ -84052,6 +84053,7 @@
   "workable:gramian:6A7DA44A65": "2026-10-30T00:37:39+00:00",
   "workable:gramian:6C47B371CD": "2026-09-28T23:32:12+00:00",
   "workable:gramian:6F59DFA038": "2026-10-21T12:37:35+00:00",
+  "workable:gramian:7228962EDB": "2026-10-31T12:37:33+00:00",
   "workable:gramian:724FB9A8E9": "2026-09-28T23:32:12+00:00",
   "workable:gramian:731A5B0A8F": "2026-10-30T22:37:34+00:00",
   "workable:gramian:735066B2CA": "2026-09-28T23:32:12+00:00",
@@ -84190,6 +84192,7 @@
   "workable:gramian:F4DF0D35DA": "2026-09-28T23:32:12+00:00",
   "workable:gramian:F5D608A964": "2026-10-30T22:37:34+00:00",
   "workable:gramian:F679C62154": "2026-10-31T10:37:33+00:00",
+  "workable:gramian:F7157B0902": "2026-10-31T12:37:33+00:00",
   "workable:gramian:F7B774EAB0": "2026-10-30T01:37:34+00:00",
   "workable:gramian:F92B4AB5E2": "2026-09-28T23:32:12+00:00",
   "workable:gramian:FA8739DC27": "2026-09-28T23:32:12+00:00",
