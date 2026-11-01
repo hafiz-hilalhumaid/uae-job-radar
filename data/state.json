@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 65,
+   "fails": 66,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -74129,6 +74129,7 @@
   "smartrecruiters:AccorHotel:744000158955686": "2026-11-01T07:37:35+00:00",
   "smartrecruiters:AccorHotel:744000158968839": "2026-11-01T11:37:35+00:00",
   "smartrecruiters:AccorHotel:744000158981759": "2026-11-01T20:37:34+00:00",
+  "smartrecruiters:AccorHotel:744000158983689": "2026-11-01T22:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:AnalysysMason1:744000157507184": "2026-10-24T23:22:19+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
@@ -97074,6 +97075,7 @@
   "workday:parsons/Search:/job/QA---Doha/Principal-Drainage-Engineer_R177059-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/QA---Doha/Resident-Engineer--Roads---Bridges_R183905": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/QA---Doha/Senior-Drainage-Engineer_R177060": "2026-09-24T20:59:40+00:00",
+  "workday:parsons/Search:/job/QA---Doha/Senior-Resident-Engineer_R187828": "2026-11-01T22:37:35+00:00",
   "workday:parsons/Search:/job/QA---Doha/Senior-Traffic-Engineer_R186132": "2026-09-25T06:23:32+00:00",
   "workday:parsons/Search:/job/SA---Al-Kharj/Airborne-Radar-Specialist--This-position-is-located-in-Kingdom-of-Saudi-Arabia--International-Assignment----NO-REMOTE-WORK--_R182334-1": "2026-09-24T20:59:40+00:00",
   "workday:parsons/Search:/job/SA---Jeddah/Construction-Manager---Commercial-Zone_R183070": "2026-10-07T07:12:58+00:00",
@@ -97707,6 +97709,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Factory---Costa-Rica/Supervisor-Bodega-de-Repuestos_R-1188240": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hammond-IN/Forklift---Logistics-Operator_R-1190729": "2026-10-29T21:37:36+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Hammond-IN/Instrumentation---Electrical-Technician_R-1187540": "2026-09-24T20:59:40+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/Hammond-IN/Instrumentation---Electrical-Technician_R-1190827": "2026-11-01T22:37:35+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Helsinki-Finland/Key-Account-Manager_R-1186886": "2026-10-02T09:37:36+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Helsinki-Finland/Key-Account-Manager_R-1189281-1": "2026-10-30T17:37:34+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Heredia-Costa-Rica/Local-Marketing-Analyst_R-1186789": "2026-09-24T20:59:40+00:00",
