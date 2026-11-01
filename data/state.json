@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 52,
+   "fails": 53,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -74087,6 +74087,7 @@
   "smartrecruiters:AccorHotel:744000158886419": "2026-10-31T10:37:33+00:00",
   "smartrecruiters:AccorHotel:744000158953529": "2026-11-01T06:37:34+00:00",
   "smartrecruiters:AccorHotel:744000158955686": "2026-11-01T07:37:35+00:00",
+  "smartrecruiters:AccorHotel:744000158968839": "2026-11-01T11:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:AnalysysMason1:744000157507184": "2026-10-24T23:22:19+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
@@ -89968,6 +89969,7 @@
   "workable:robusta:22AA31CAFE": "2026-10-14T09:37:35+00:00",
   "workable:robusta:3051B83B41": "2026-09-29T03:32:08+00:00",
   "workable:robusta:33C942B1DE": "2026-09-29T03:32:08+00:00",
+  "workable:robusta:3550C6E305": "2026-11-01T11:37:35+00:00",
   "workable:robusta:3CC9BB16FF": "2026-10-27T07:37:40+00:00",
   "workable:robusta:45A5C4CEE6": "2026-09-29T03:32:08+00:00",
   "workable:robusta:4B46C3650A": "2026-09-29T03:32:08+00:00",
@@ -89987,6 +89989,7 @@
   "workable:robusta:72BC551F9F": "2026-09-29T03:32:08+00:00",
   "workable:robusta:72C393A7F3": "2026-09-29T03:32:08+00:00",
   "workable:robusta:73FC4EC136": "2026-09-29T03:32:08+00:00",
+  "workable:robusta:753529A358": "2026-11-01T11:37:35+00:00",
   "workable:robusta:7C34557A62": "2026-09-29T03:32:08+00:00",
   "workable:robusta:7E79797C69": "2026-09-29T03:32:08+00:00",
   "workable:robusta:808FC3CE60": "2026-10-19T14:37:37+00:00",
