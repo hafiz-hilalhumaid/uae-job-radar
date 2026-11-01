@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 49,
+   "fails": 50,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -50305,6 +50305,7 @@
   "lever:efficioconsulting:89919634-f0a2-41bd-8f6c-ec669ff7f684": "2026-10-01T14:37:37+00:00",
   "lever:efficioconsulting:8ca2fda4-438c-491a-af37-57a4ec770683": "2026-10-14T08:37:36+00:00",
   "lever:efficioconsulting:95222efb-0af1-4a2e-9ec1-3356e99621c4": "2026-10-04T09:37:38+00:00",
+  "lever:efficioconsulting:95f6a4a3-8b74-47d9-be45-85afea32f40a": "2026-11-01T08:37:34+00:00",
   "lever:efficioconsulting:98dddc30-3175-4c9a-8894-5e2ebf2e74da": "2026-09-28T23:32:12+00:00",
   "lever:efficioconsulting:9cd1150d-1ec6-427d-a002-a6f58fd32fd0": "2026-09-28T23:32:12+00:00",
   "lever:efficioconsulting:b42b1578-ecda-42c7-aaf2-91f33f7a8096": "2026-09-28T23:32:12+00:00",
