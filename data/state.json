@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 62,
+   "fails": 63,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -78557,6 +78557,7 @@
   "workable:bask-health-1:88E8AC387F": "2026-09-28T23:32:12+00:00",
   "workable:bask-health-1:88FDB531EB": "2026-09-28T23:32:12+00:00",
   "workable:bask-health-1:A8034370E1": "2026-09-28T23:32:12+00:00",
+  "workable:bask-health-1:BCA0295DF2": "2026-11-01T19:37:35+00:00",
   "workable:bask-health-1:C11450B6AA": "2026-09-28T23:32:12+00:00",
   "workable:bask-health-1:C5C02C9314": "2026-09-28T23:32:12+00:00",
   "workable:bask-health-1:D334A59E3E": "2026-10-27T21:37:37+00:00",
@@ -87057,6 +87058,7 @@
   "workable:mira-construction-l-dot-l-c-1:B72AE5D9F3": "2026-09-28T23:32:12+00:00",
   "workable:mira-construction-l-dot-l-c-1:B7CEBA624D": "2026-09-28T23:32:12+00:00",
   "workable:mira-construction-l-dot-l-c-1:B8405818D7": "2026-10-01T12:37:38+00:00",
+  "workable:mira-construction-l-dot-l-c-1:B97F8C3A3B": "2026-11-01T19:37:35+00:00",
   "workable:mira-construction-l-dot-l-c-1:B9C48C2D1F": "2026-10-16T16:37:08+00:00",
   "workable:mira-construction-l-dot-l-c-1:BBA622E899": "2026-09-28T23:32:12+00:00",
   "workable:mira-construction-l-dot-l-c-1:BF2322813A": "2026-09-28T23:32:12+00:00",
@@ -87103,6 +87105,7 @@
   "workable:mira-construction-l-dot-l-c-1:F604F98780": "2026-09-28T23:32:12+00:00",
   "workable:mira-construction-l-dot-l-c-1:F774CF57C3": "2026-09-28T23:32:12+00:00",
   "workable:mira-construction-l-dot-l-c-1:FAF481B2FB": "2026-09-28T23:32:12+00:00",
+  "workable:mira-construction-l-dot-l-c-1:FDB7ED1C54": "2026-11-01T19:37:35+00:00",
   "workable:mira-construction-l-dot-l-c-1:FEEE39E159": "2026-11-01T17:37:37+00:00",
   "workable:mm-coaching-limited:11EFC57845": "2026-09-28T23:32:12+00:00",
   "workable:mm-coaching-limited:3EADDFB590": "2026-09-28T23:32:12+00:00",
