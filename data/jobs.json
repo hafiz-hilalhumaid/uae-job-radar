@@ -1172,6 +1172,7 @@
  },
  "fantastic:2409095326": {
   "category": "software",
+  "closed_at": "2026-11-01T16:37:36+00:00",
   "company": "EY",
   "company_key": "fantastic",
   "expires": "2026-11-01T15:37:35+00:00",
@@ -1185,7 +1186,7 @@
   "salary": "",
   "score": 59,
   "source": "fantastic/successfactors",
-  "status": "open",
+  "status": "closed",
   "title": "AI Software Engineer - Financial Advisory - Dubai",
   "uid": "fantastic:2409095326",
   "url": "https://careers.ey.com/ey/job/Dubai-AI-Software-Engineer-Financial-Advisory-Dubai-9267/1446314533/",

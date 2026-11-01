@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 58,
+   "fails": 59,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -36964,6 +36964,8 @@
   "greenhouse:hourglasscosmetics:8895433002": "2026-10-16T23:22:34+00:00",
   "greenhouse:hourglasscosmetics:8917303002": "2026-10-26T17:37:34+00:00",
   "greenhouse:hourglasscosmetics:8919716002": "2026-10-27T17:37:36+00:00",
+  "greenhouse:hourglasscosmetics:8925954002": "2026-11-01T16:37:36+00:00",
+  "greenhouse:hourglasscosmetics:8925964002": "2026-11-01T16:37:36+00:00",
   "greenhouse:icapitalnetwork:4362736002": "2026-10-10T23:37:33+00:00",
   "greenhouse:icapitalnetwork:7117424002": "2026-10-10T23:37:33+00:00",
   "greenhouse:icapitalnetwork:8012960002": "2026-10-10T23:37:33+00:00",
@@ -81836,6 +81838,7 @@
   "workable:eramtalent-1:2F1C799BAD": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:308BCC86A6": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:309701098A": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:30E1A9069E": "2026-11-01T16:37:36+00:00",
   "workable:eramtalent-1:3127F2B979": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:318E3A8012": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:31E4A39DD0": "2026-09-28T23:32:12+00:00",
