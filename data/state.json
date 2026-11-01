@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 44,
+   "fails": 45,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -32093,6 +32093,7 @@
   "greenhouse:databricks:8910860002": "2026-10-27T20:37:36+00:00",
   "greenhouse:databricks:8910988002": "2026-10-23T18:19:22+00:00",
   "greenhouse:databricks:8912711002": "2026-10-28T21:01:44+00:00",
+  "greenhouse:databricks:8916466002": "2026-11-01T04:37:34+00:00",
   "greenhouse:databricks:8916552002": "2026-10-26T18:37:41+00:00",
   "greenhouse:databricks:8917482002": "2026-10-30T08:37:35+00:00",
   "greenhouse:databricks:8917711002": "2026-10-29T17:37:33+00:00",
@@ -75250,6 +75251,7 @@
   "smartrecruiters:SGS:744000156772249": "2026-10-21T11:37:37+00:00",
   "smartrecruiters:SGS:744000158286239": "2026-10-28T13:37:35+00:00",
   "smartrecruiters:SGS:744000158293159": "2026-10-28T13:37:35+00:00",
+  "smartrecruiters:SGS:744000158940810": "2026-11-01T04:37:34+00:00",
   "smartrecruiters:SQUIRCLEITCONSULTINGSERVICESPVTLTD:100365605": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:SQUIRCLEITCONSULTINGSERVICESPVTLTD:100435181": "2026-09-30T23:37:39+00:00",
   "smartrecruiters:SamsungEnA:744000119324058": "2026-09-30T23:37:39+00:00",
@@ -76270,6 +76272,7 @@
   "smartrecruiters:sgs:744000156772249": "2026-10-21T11:37:37+00:00",
   "smartrecruiters:sgs:744000158286239": "2026-10-28T13:37:35+00:00",
   "smartrecruiters:sgs:744000158293159": "2026-10-28T13:37:35+00:00",
+  "smartrecruiters:sgs:744000158940810": "2026-11-01T04:37:34+00:00",
   "smartrecruiters:somfygroup:744000153769409": "2026-10-07T23:37:42+00:00",
   "smartrecruiters:sutherland:744000150200749": "2026-09-28T23:32:12+00:00",
   "smartrecruiters:turnertownsend:744000148806569": "2026-09-30T23:37:39+00:00",
