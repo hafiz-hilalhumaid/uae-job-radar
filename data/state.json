@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 54,
+   "fails": 55,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -78250,6 +78250,7 @@
   "workable:avomind:0069578F1C": "2026-09-28T23:32:12+00:00",
   "workable:avomind:007E97A19F": "2026-09-28T23:32:12+00:00",
   "workable:avomind:00AC5DBEC5": "2026-09-28T23:32:12+00:00",
+  "workable:avomind:019B43B672": "2026-11-01T13:19:35+00:00",
   "workable:avomind:03420A6BBD": "2026-10-12T14:37:35+00:00",
   "workable:avomind:072F20EBAC": "2026-09-28T23:32:12+00:00",
   "workable:avomind:084CB1EB35": "2026-09-28T23:32:12+00:00",
@@ -78424,6 +78425,7 @@
   "workable:avomind:A2669B75A2": "2026-10-19T10:37:35+00:00",
   "workable:avomind:A39B126118": "2026-09-28T23:32:12+00:00",
   "workable:avomind:A3D7C92E24": "2026-09-28T23:32:12+00:00",
+  "workable:avomind:A3DF31CCFF": "2026-11-01T13:19:35+00:00",
   "workable:avomind:A445926A36": "2026-09-28T23:32:12+00:00",
   "workable:avomind:A74D8ADF49": "2026-09-28T23:32:12+00:00",
   "workable:avomind:A7BC8F1D80": "2026-09-28T23:32:12+00:00",
