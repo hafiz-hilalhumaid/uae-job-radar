@@ -1,6 +1,6 @@
 {
  "bootstrapped": true,
- "fantastic_daily": "2026-10-31",
+ "fantastic_daily": "2026-11-01",
  "health": {
   "ashby:Airwallex": {
    "fails": 0,
@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 41,
+   "fails": 42,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -7469,7 +7469,9 @@
   "total": 22644
  },
  "queue": [
-  "fantastic:2442099397"
+  "fantastic:2442099397",
+  "fantastic:2444234161",
+  "fantastic:2444212720"
  ],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
@@ -14681,6 +14683,7 @@
   "ashby:imagineart:0020a890-429b-4672-9270-9eacc0d9519b": "2026-10-14T15:07:18+00:00",
   "ashby:imagineart:13020c32-6ed5-4818-818f-d074fe3042a2": "2026-09-28T23:32:12+00:00",
   "ashby:imagineart:17028e2c-bc91-495b-a24c-a1b2b3c7216f": "2026-09-28T23:32:12+00:00",
+  "ashby:imagineart:17c2f931-8706-45e7-b86f-1f2b1abfb310": "2026-11-01T01:37:35+00:00",
   "ashby:imagineart:1aa6eae6-9811-4078-adf4-17b0ec61e88e": "2026-09-28T23:32:12+00:00",
   "ashby:imagineart:1cca951c-cb61-458f-b8cc-7ef490132c9d": "2026-09-28T23:32:12+00:00",
   "ashby:imagineart:1e359ff5-2c70-4fc4-9016-24d7c6d8c4bb": "2026-09-28T23:32:12+00:00",
