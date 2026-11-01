@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 66,
+   "fails": 67,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -10479,6 +10479,7 @@
   "ashby:Snowflake:2d5b86ac-0566-405b-b97d-b9cd3242ad8b": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:2d66e411-c782-43d5-9ad5-389c4407f9c6": "2026-10-10T23:37:33+00:00",
   "ashby:Snowflake:2deca431-fecf-45b6-be07-0d1b5c859393": "2026-09-28T23:32:12+00:00",
+  "ashby:Snowflake:2ebec9d1-055f-4e47-93ae-29ad19e23967": "2026-11-01T23:37:19+00:00",
   "ashby:Snowflake:2ecf1bd5-93aa-4021-8876-df6454d59e94": "2026-09-28T23:32:12+00:00",
   "ashby:Snowflake:2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97": "2026-10-22T03:37:34+00:00",
   "ashby:Snowflake:30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7": "2026-09-28T23:32:12+00:00",
@@ -18306,6 +18307,7 @@
   "ashby:snowflake:2d5b86ac-0566-405b-b97d-b9cd3242ad8b": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:2d66e411-c782-43d5-9ad5-389c4407f9c6": "2026-10-10T23:37:33+00:00",
   "ashby:snowflake:2deca431-fecf-45b6-be07-0d1b5c859393": "2026-09-28T23:32:12+00:00",
+  "ashby:snowflake:2ebec9d1-055f-4e47-93ae-29ad19e23967": "2026-11-01T23:37:19+00:00",
   "ashby:snowflake:2ecf1bd5-93aa-4021-8876-df6454d59e94": "2026-09-28T23:32:12+00:00",
   "ashby:snowflake:2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97": "2026-10-22T03:37:34+00:00",
   "ashby:snowflake:30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7": "2026-09-28T23:32:12+00:00",
@@ -20330,6 +20332,7 @@
   "greenhouse:alpaca:6238284004": "2026-10-29T19:37:34+00:00",
   "greenhouse:alpaca:6238590004": "2026-10-29T18:37:33+00:00",
   "greenhouse:alpaca:6238868004": "2026-10-29T20:37:34+00:00",
+  "greenhouse:alpaca:6239835004": "2026-11-01T23:37:19+00:00",
   "greenhouse:alphafmcroles:4026976002": "2026-10-19T12:37:33+00:00",
   "greenhouse:alphafmcroles:5836981002": "2026-10-20T16:37:36+00:00",
   "greenhouse:alphafmcroles:5839205002": "2026-09-28T23:32:12+00:00",
@@ -28490,6 +28493,7 @@
   "greenhouse:capco:8312431": "2026-10-22T13:37:36+00:00",
   "greenhouse:capco:8312457": "2026-10-22T14:37:35+00:00",
   "greenhouse:capco:8313390": "2026-10-22T16:37:36+00:00",
+  "greenhouse:capco:8316853": "2026-11-01T23:37:19+00:00",
   "greenhouse:capco:8317397": "2026-10-25T12:37:37+00:00",
   "greenhouse:capco:8317525": "2026-10-23T08:37:36+00:00",
   "greenhouse:capco:8317536": "2026-10-23T08:37:36+00:00",
@@ -29308,6 +29312,7 @@
   "greenhouse:classpass:4725849006": "2026-10-31T01:37:36+00:00",
   "greenhouse:classpass:4725927006": "2026-10-29T23:37:34+00:00",
   "greenhouse:classpass:4725931006": "2026-10-29T23:37:34+00:00",
+  "greenhouse:classpass:4725936006": "2026-11-01T23:37:19+00:00",
   "greenhouse:classpass:4725983006": "2026-10-30T09:37:35+00:00",
   "greenhouse:classpass:4726086006": "2026-10-30T18:42:18+00:00",
   "greenhouse:classpass:4726091006": "2026-10-30T18:42:18+00:00",
@@ -89251,6 +89256,7 @@
   "workable:rentokil-initial:1D1041A5E1": "2026-10-21T04:37:33+00:00",
   "workable:rentokil-initial:1D1B4E4690": "2026-10-01T07:37:38+00:00",
   "workable:rentokil-initial:1DEDACCFC9": "2026-09-29T03:32:08+00:00",
+  "workable:rentokil-initial:1DF3E54A9E": "2026-11-01T23:37:19+00:00",
   "workable:rentokil-initial:1E0BD1827D": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:1E7E5E432E": "2026-09-29T03:32:08+00:00",
   "workable:rentokil-initial:1E838A4955": "2026-09-29T03:32:08+00:00",
@@ -98147,6 +98153,7 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Yangon-Myanmar/Mechnical-Technician_R-1188484": "2026-09-24T20:59:40+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Yogyakarta-Indonesia/Horeca-Consultant-Yogyakarta_R-1188133": "2026-10-13T13:37:35+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/Zamboanga-City-Philippines/Major-Accounts-Executive---Zamboanga_R-1188777-1": "2026-10-02T03:37:34+00:00",
+  "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
  "sweep_cursor": 18873
