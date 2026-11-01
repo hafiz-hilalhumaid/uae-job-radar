@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 55,
+   "fails": 56,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -48087,6 +48087,7 @@
   "greenhouse:wppmedia:5432010008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5432497008": "2026-10-07T17:37:36+00:00",
   "greenhouse:wppmedia:5432572008": "2026-09-28T23:32:12+00:00",
+  "greenhouse:wppmedia:5432582008": "2026-11-01T13:37:33+00:00",
   "greenhouse:wppmedia:5432593008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5432595008": "2026-09-28T23:32:12+00:00",
   "greenhouse:wppmedia:5432608008": "2026-09-28T23:32:12+00:00",
