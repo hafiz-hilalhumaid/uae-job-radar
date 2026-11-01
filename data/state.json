@@ -962,7 +962,7 @@
    "seeded": true
   },
   "greenhouse:valtech": {
-   "fails": 48,
+   "fails": 49,
    "last_error": "NotFound: us: https://boards-api.greenhouse.io/v1/boards/valtech/jobs; eu_page: https://job-boards.eu.greenhouse.io/valtech",
    "seeded": true
   },
@@ -19972,6 +19972,8 @@
   "greenhouse:OKX:8107996003": "2026-10-30T18:35:46+00:00",
   "greenhouse:OKX:8108181003": "2026-10-30T18:35:46+00:00",
   "greenhouse:OKX:8112753003": "2026-10-31T00:37:36+00:00",
+  "greenhouse:OKX:8139839003": "2026-11-01T07:37:35+00:00",
+  "greenhouse:OKX:8139942003": "2026-11-01T07:37:35+00:00",
   "greenhouse:Tamara:4604220101": "2026-09-28T23:32:12+00:00",
   "greenhouse:Tamara:4630959101": "2026-09-28T23:32:12+00:00",
   "greenhouse:Tamara:4680072101": "2026-09-28T23:32:12+00:00",
@@ -40128,6 +40130,8 @@
   "greenhouse:okx:8107996003": "2026-10-30T18:35:46+00:00",
   "greenhouse:okx:8108181003": "2026-10-30T18:35:46+00:00",
   "greenhouse:okx:8112753003": "2026-10-31T00:37:36+00:00",
+  "greenhouse:okx:8139839003": "2026-11-01T07:37:35+00:00",
+  "greenhouse:okx:8139942003": "2026-11-01T07:37:35+00:00",
   "greenhouse:oliver:7589000": "2026-10-01T23:37:38+00:00",
   "greenhouse:oliver:7606425": "2026-10-01T23:37:38+00:00",
   "greenhouse:oliver:7699912": "2026-10-01T23:37:38+00:00",
@@ -74081,6 +74085,7 @@
   "smartrecruiters:AccorHotel:744000158886319": "2026-10-31T09:39:03+00:00",
   "smartrecruiters:AccorHotel:744000158886419": "2026-10-31T10:37:33+00:00",
   "smartrecruiters:AccorHotel:744000158953529": "2026-11-01T06:37:34+00:00",
+  "smartrecruiters:AccorHotel:744000158955686": "2026-11-01T07:37:35+00:00",
   "smartrecruiters:AdgecoGroup:743999767149042": "2026-10-01T23:37:38+00:00",
   "smartrecruiters:AnalysysMason1:744000157507184": "2026-10-24T23:22:19+00:00",
   "smartrecruiters:ArchirodonGroup:744000070432365": "2026-09-28T23:32:12+00:00",
@@ -82192,6 +82197,7 @@
   "workable:eramtalent-1:EDC49C9815": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:EDC890EFCD": "2026-10-31T12:37:33+00:00",
   "workable:eramtalent-1:EE3A6E120D": "2026-09-28T23:32:12+00:00",
+  "workable:eramtalent-1:EE902D7DD0": "2026-11-01T07:37:35+00:00",
   "workable:eramtalent-1:EFEB407980": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:F111EFEFCE": "2026-09-28T23:32:12+00:00",
   "workable:eramtalent-1:F334AE9893": "2026-09-28T23:32:12+00:00",
