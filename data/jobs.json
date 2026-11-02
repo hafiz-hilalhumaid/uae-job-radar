@@ -1214,6 +1214,7 @@
  },
  "fantastic:2410079301": {
   "category": "ai",
+  "closed_at": "2026-11-02T20:45:06+00:00",
   "company": "Salesforce",
   "company_key": "fantastic",
   "expires": "2026-11-02T20:37:37+00:00",
@@ -1229,7 +1230,7 @@
   "salary": "",
   "score": 43,
   "source": "fantastic/workday",
-  "status": "open",
+  "status": "closed",
   "title": "Data 360 - Lead/ Principal Forward Deployed Engineer",
   "uid": "fantastic:2410079301",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Data-360---Lead--Principal-Forward-Deployed-Engineer_JR362852",
