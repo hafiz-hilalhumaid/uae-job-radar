@@ -372,6 +372,26 @@
   "url": "https://jobs.ashbyhq.com/kraken.com/f9f63509-ac06-449b-a534-397f74f1180e",
   "workplace": "Remote"
  },
+ "ashby:leantech:3e9d10c4-fd9c-4cc3-9fee-bfe6c15c76f0": {
+  "category": "software",
+  "company": "Lean Technologies",
+  "company_key": "ashby:leantech",
+  "fingerprint": "lean|senior software engineer|dubai",
+  "first_seen": "2026-11-02T09:37:55+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, United Arab Emirates, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-02T09:27:19.212+00:00",
+  "salary": "",
+  "score": 45,
+  "source": "ashby",
+  "status": "open",
+  "title": "Senior Software Engineer",
+  "uid": "ashby:leantech:3e9d10c4-fd9c-4cc3-9fee-bfe6c15c76f0",
+  "url": "https://jobs.ashbyhq.com/leantech/3e9d10c4-fd9c-4cc3-9fee-bfe6c15c76f0",
+  "workplace": ""
+ },
  "ashby:mexdigital:4c1abf17-cb71-470b-ae71-3a934c4e0cc7": {
   "category": "ai",
   "company": "MultiBank Group",
