@@ -7461,18 +7461,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-10-30",
+ "last_digest": "2026-11-02",
  "last_sweep": {
   "added": 1,
   "checked": 6800,
   "date": "2026-10-31",
   "total": 22644
  },
- "queue": [
-  "fantastic:2442099397",
-  "fantastic:2444234161",
-  "fantastic:2444212720"
- ],
+ "queue": [],
  "rejected": {
   "ashby:Airwallex:0014706e-279e-4a19-8d55-7dd5cdacc51b": "2026-09-28T23:32:12+00:00",
   "ashby:Airwallex:0041178d-9b99-4c6e-9ad0-d8399d77559f": "2026-09-28T23:32:12+00:00",
