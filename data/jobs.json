@@ -3334,6 +3334,26 @@
   "url": "https://propertyfinder.teamtailor.com/jobs/8277351-software-engineer-full-stack",
   "workplace": ""
  },
+ "teamtailor:https://propertyfinder.teamtailor.com:7415e0f5-3d87-4165-a957-d7e529bfb15c": {
+  "category": "ai",
+  "company": "Property Finder",
+  "company_key": "teamtailor:https://propertyfinder.teamtailor.com",
+  "fingerprint": "propertyfinder|senior forward deployed ai engineer|dubai",
+  "first_seen": "2026-11-02T07:37:38+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Property Finder UAE, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "Fri, 09 Oct 2026 11:11:50 +0400",
+  "salary": "",
+  "score": 78,
+  "source": "teamtailor",
+  "status": "open",
+  "title": "Senior Forward Deployed AI Engineer",
+  "uid": "teamtailor:https://propertyfinder.teamtailor.com:7415e0f5-3d87-4165-a957-d7e529bfb15c",
+  "url": "https://propertyfinder.teamtailor.com/jobs/8521303-senior-forward-deployed-ai-engineer",
+  "workplace": ""
+ },
  "teamtailor:https://propertyfinder.teamtailor.com:a64b5c19-d8ba-4e7f-9f31-191c6ec2356f": {
   "category": "software",
   "closed_at": "2026-10-16T08:37:38+00:00",
