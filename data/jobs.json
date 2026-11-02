@@ -3835,6 +3835,26 @@
   "url": "https://apply.workable.com/j/D37473533E",
   "workplace": ""
  },
+ "workable:joinbeam:3386B8F27B": {
+  "category": "ai",
+  "company": "Joinbeam",
+  "company_key": "workable:joinbeam",
+  "fingerprint": "joinbeam|forward deployed engineer|dubai",
+  "first_seen": "2026-11-02T23:37:47+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "seed",
+  "posted_at": "2026-10-30",
+  "salary": "",
+  "score": 71,
+  "source": "workable",
+  "status": "open",
+  "title": "Forward Deployed Engineer",
+  "uid": "workable:joinbeam:3386B8F27B",
+  "url": "https://apply.workable.com/j/3386B8F27B",
+  "workplace": ""
+ },
  "workable:mullers-solutions-1:0A7BFF44B9": {
   "category": "ai",
   "company": "Mullers Solutions 1",
