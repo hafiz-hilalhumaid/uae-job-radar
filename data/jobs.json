@@ -1238,6 +1238,7 @@
  },
  "fantastic:2410501324": {
   "category": "ai",
+  "closed_at": "2026-11-03T09:37:40+00:00",
   "company": "Mondia Group",
   "company_key": "fantastic",
   "expires": "2026-11-03T09:37:35+00:00",
@@ -1251,7 +1252,7 @@
   "salary": "",
   "score": 87,
   "source": "fantastic/workable",
-  "status": "open",
+  "status": "closed",
   "title": "Agentic AI Agent",
   "uid": "fantastic:2410501324",
   "url": "https://jobs.workable.com/view/mFMVEjArNr6JDLVvQbd84H/agentic-ai-agent-in-dubai-at-mondia-group",
