@@ -3118,6 +3118,7 @@
  },
  "recruitee:tether:2797893": {
   "category": "software",
+  "closed_at": "2026-11-03T18:25:34+00:00",
   "company": "Tether",
   "company_key": "recruitee:tether",
   "fingerprint": "tether|senior node js software engineer holepunch|uae",
@@ -3130,7 +3131,7 @@
   "salary": "",
   "score": 47,
   "source": "recruitee",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
   "uid": "recruitee:tether:2797893",
   "url": "https://careers.tether.io/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-15",
