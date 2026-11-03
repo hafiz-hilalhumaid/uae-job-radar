@@ -586,6 +586,26 @@
   "url": "https://jobs.ashbyhq.com/openai/e9d435e1-1b9e-4715-84ce-75f372e5559c",
   "workplace": "Hybrid"
  },
+ "ashby:qlub:975d7158-906a-4c7c-b74d-8ff2dbd55252": {
+  "category": "software",
+  "company": "Qlub",
+  "company_key": "ashby:qlub",
+  "fingerprint": "qlub|senior software engineer new verticals|dubai",
+  "first_seen": "2026-11-03T23:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Berlin, Germany, Bucharest, Romania, Amsterdam, Netherlands, Warsaw, Poland, Dubai, UAE, Abu Dhabi, UAE, Colombo, Sri Lanka, Germany",
+  "notified": "seed",
+  "posted_at": "2026-10-07T11:09:50.864+00:00",
+  "salary": "",
+  "score": 58,
+  "source": "ashby",
+  "status": "open",
+  "title": "Senior Software Engineer, New Verticals",
+  "uid": "ashby:qlub:975d7158-906a-4c7c-b74d-8ff2dbd55252",
+  "url": "https://jobs.ashbyhq.com/qlub/975d7158-906a-4c7c-b74d-8ff2dbd55252",
+  "workplace": "Remote"
+ },
  "ashby:tenex:2d7af4e6-8cba-464f-af02-dcf6d2451f1a": {
   "category": "ai",
   "closed_at": "2026-10-26T17:37:34+00:00",
