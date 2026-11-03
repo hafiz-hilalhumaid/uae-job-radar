@@ -1,4 +1,13 @@
 {
+ "ashby:115ventures": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "115ventures",
+  "last_uae": "2026-11-03",
+  "name": "115Ventures",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "ashby:Airwallex": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -152,6 +161,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:Wonderful": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "Wonderful",
+  "last_uae": "2026-11-03",
+  "name": "Wonderful",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "ashby:airwallex": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -303,6 +321,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:curri": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "curri",
+  "last_uae": "2026-11-03",
+  "name": "Curri",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:cygnify": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -382,6 +409,15 @@
   "last_uae": "2026-11-03",
   "name": "Horizon3Ai",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "ashby:hyde": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "hyde",
+  "last_uae": "2026-11-03",
+  "name": "Hyde",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "ashby:iceye": {
@@ -572,6 +608,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:plotlineso": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "plotlineso",
+  "last_uae": "2026-11-03",
+  "name": "Plotlineso",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:pod-network": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -597,6 +642,15 @@
   "last_uae": "2026-11-03",
   "name": "Pragmatike",
   "uae_jobs": 4,
+  "via": "sweep"
+ },
+ "ashby:qlub": {
+  "ats": "ashby",
+  "found": "2026-11-03",
+  "id": "qlub",
+  "last_uae": "2026-11-03",
+  "name": "Qlub",
+  "uae_jobs": 12,
   "via": "sweep"
  },
  "ashby:quantexa": {
@@ -1248,6 +1302,15 @@
   "last_uae": "2026-11-03",
   "name": "Datacamp",
   "uae_jobs": 8,
+  "via": "sweep"
+ },
+ "greenhouse:datadog": {
+  "ats": "greenhouse",
+  "found": "2026-11-03",
+  "id": "datadog",
+  "last_uae": "2026-11-03",
+  "name": "Datadog",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:decimainternational": {
@@ -1914,6 +1977,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "greenhouse:thevitacococompany": {
+  "ats": "greenhouse",
+  "found": "2026-11-03",
+  "id": "thevitacococompany",
+  "last_uae": "2026-11-03",
+  "name": "The Vita Coco Company",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:thirdbridge": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -2200,6 +2272,15 @@
   "last_uae": "2026-11-03",
   "name": "Aikidosecurity",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "recruitee:cmcom": {
+  "ats": "recruitee",
+  "found": "2026-11-03",
+  "id": "cmcom",
+  "last_uae": "2026-11-03",
+  "name": "Cmcom",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "recruitee:confirmo": {
@@ -4648,6 +4729,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:utopia-life-worth-living": {
+  "ats": "workable",
+  "found": "2026-11-03",
+  "id": "utopia-life-worth-living",
+  "last_uae": "2026-11-03",
+  "name": "Utopia Life Worth Living",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "workable:visit": {
   "ats": "workable",
   "found": "2026-09-29",
@@ -4664,6 +4754,15 @@
   "last_uae": "2026-09-30",
   "name": "We Are Social 1",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:webook": {
+  "ats": "workable",
+  "found": "2026-11-03",
+  "id": "webook",
+  "last_uae": "2026-11-03",
+  "name": "Webook",
+  "uae_jobs": 6,
   "via": "sweep"
  },
  "workable:weekday-1": {
