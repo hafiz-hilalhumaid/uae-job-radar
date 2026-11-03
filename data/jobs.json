@@ -1282,6 +1282,7 @@
  },
  "fantastic:2412044454": {
   "category": "ai",
+  "closed_at": "2026-11-03T21:37:45+00:00",
   "company": "Salesforce",
   "company_key": "fantastic",
   "expires": "2026-11-03T21:37:40+00:00",
@@ -1295,7 +1296,7 @@
   "salary": "",
   "score": 76,
   "source": "fantastic/workday",
-  "status": "open",
+  "status": "closed",
   "title": "Lead Forward Deployed Engineer",
   "uid": "fantastic:2412044454",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Lead-Forward-Deployed-Engineer_JR348990",
