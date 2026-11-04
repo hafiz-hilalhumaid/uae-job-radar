@@ -4034,6 +4034,26 @@
   "url": "https://apply.workable.com/j/23257C591B",
   "workplace": ""
  },
+ "workable:fuseenergy:905963A1DE": {
+  "category": "ai",
+  "company": "Fuseenergy",
+  "company_key": "workable:fuseenergy",
+  "fingerprint": "fuseenergy|applied ai engineer|dubai",
+  "first_seen": "2026-11-04T17:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "London, England, United Kingdom; San Francisco, California, United States; Zürich, Zurich, Switzerland; Dubai, Dubai, United Arab Emirates; New York, New York, United States; Germany",
+  "notified": "instant",
+  "posted_at": "2026-11-04",
+  "salary": "",
+  "score": 72,
+  "source": "workable",
+  "status": "open",
+  "title": "Applied AI Engineer",
+  "uid": "workable:fuseenergy:905963A1DE",
+  "url": "https://apply.workable.com/j/905963A1DE",
+  "workplace": "Remote"
+ },
  "workable:gsstech-group:39A9A3B170": {
   "category": "software",
   "company": "Gsstech Group",
