@@ -2634,6 +2634,26 @@
   "url": "https://jobs.lever.co/jobgether/04a21f76-c418-4c54-ac1b-f9a781252620",
   "workplace": "remote"
  },
+ "lever:jobgether:08bae3b7-0717-45ce-87e3-f47d66833b5f": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|ai research engineer|uae",
+  "first_seen": "2026-11-04T07:37:34+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-04T06:39:32.890000+00:00",
+  "salary": "",
+  "score": 61,
+  "source": "lever",
+  "status": "open",
+  "title": "AI Research Engineer (Agentic Reinforcement Learning)",
+  "uid": "lever:jobgether:08bae3b7-0717-45ce-87e3-f47d66833b5f",
+  "url": "https://jobs.lever.co/jobgether/08bae3b7-0717-45ce-87e3-f47d66833b5f",
+  "workplace": "remote"
+ },
  "lever:jobgether:0cf38dd0-e32e-45d7-af81-af18d14c49f6": {
   "category": "ai",
   "closed_at": "2026-10-22T20:37:40+00:00",
