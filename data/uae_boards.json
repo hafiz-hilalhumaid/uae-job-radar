@@ -3407,6 +3407,15 @@
   "uae_jobs": 97,
   "via": "sweep"
  },
+ "teamtailor:https://rejlersabudhabi.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-11-04",
+  "id": "https://rejlersabudhabi.teamtailor.com",
+  "last_uae": "2026-11-04",
+  "name": "Rejlersabudhabi",
+  "uae_jobs": 9,
+  "via": "sweep"
+ },
  "teamtailor:https://reloadlogistics.teamtailor.com": {
   "ats": "teamtailor",
   "found": "2026-09-28",
@@ -3422,6 +3431,15 @@
   "id": "https://securitas.teamtailor.com",
   "last_uae": "2026-11-03",
   "name": "Securitas",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://statsperform.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-11-04",
+  "id": "https://statsperform.teamtailor.com",
+  "last_uae": "2026-11-04",
+  "name": "Statsperform",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -3448,6 +3466,15 @@
   "id": "https://teamlewis.teamtailor.com",
   "last_uae": "2026-11-04",
   "name": "Teamlewis",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "teamtailor:https://teamviewer.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-11-04",
+  "id": "https://teamviewer.teamtailor.com",
+  "last_uae": "2026-11-04",
+  "name": "Teamviewer",
   "uae_jobs": 1,
   "via": "sweep"
  },
