@@ -7662,24 +7662,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-11-02",
+ "last_digest": "2026-11-04",
  "last_sweep": {
   "added": 11,
   "checked": 18000,
   "date": "2026-11-03",
   "total": 23518
  },
- "queue": [
-  "ashby:leantech:3e9d10c4-fd9c-4cc3-9fee-bfe6c15c76f0",
-  "fantastic:2445243200",
-  "fantastic:2445420814",
-  "fantastic:2445363000",
-  "fantastic:2445107850",
-  "smartrecruiters:DeliveryHero:744000159382315",
-  "smartrecruiters:DeliveryHero:744000159376699",
-  "fantastic:2447181784",
-  "fantastic:2447141069"
- ],
+ "queue": [],
  "rejected": {
   "ashby:115ventures:c72f8983-033a-4a23-b41e-5b524621d29c": "2026-11-03T23:37:37+00:00",
   "ashby:115ventures:ffcaf72b-bd58-4b49-aa9f-6b6905879825": "2026-11-03T23:37:37+00:00",
