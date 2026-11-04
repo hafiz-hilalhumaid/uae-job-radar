@@ -3058,6 +3058,28 @@
   "url": "https://jobs.lever.co/jobgether/e04a1da1-47af-4daa-90aa-9896e7bdcf88",
   "workplace": "remote"
  },
+ "lever:jobgether:e44916ec-eb19-4972-9c64-f345cddf46ab": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior architect enterprise agentic automation|uae",
+  "first_seen": "2026-11-04T11:37:34+00:00",
+  "flags": [
+   "7+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-04T11:02:00.713000+00:00",
+  "salary": "",
+  "score": 43,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Architect, Enterprise Agentic Automation",
+  "uid": "lever:jobgether:e44916ec-eb19-4972-9c64-f345cddf46ab",
+  "url": "https://jobs.lever.co/jobgether/e44916ec-eb19-4972-9c64-f345cddf46ab",
+  "workplace": "remote"
+ },
  "lever:jobgether:fb081998-9253-4f99-a005-f0c71f7b4ab0": {
   "category": "frontend",
   "closed_at": "2026-10-14T04:37:32+00:00",
