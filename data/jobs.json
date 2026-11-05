@@ -2721,6 +2721,7 @@
  },
  "lever:jobgether:145b7815-3f73-4cd5-b529-47f3022e80e3": {
   "category": "fullstack",
+  "closed_at": "2026-11-05T20:37:33+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|freelance full stack developer django ai products python llm integration|uae",
@@ -2733,7 +2734,7 @@
   "salary": "",
   "score": 65,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
   "uid": "lever:jobgether:145b7815-3f73-4cd5-b529-47f3022e80e3",
   "url": "https://jobs.lever.co/jobgether/145b7815-3f73-4cd5-b529-47f3022e80e3",
@@ -3104,7 +3105,6 @@
  },
  "lever:jobgether:e44916ec-eb19-4972-9c64-f345cddf46ab": {
   "category": "ai",
-  "closed_at": "2026-11-05T14:37:39+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior architect enterprise agentic automation|uae",
@@ -3119,7 +3119,7 @@
   "salary": "",
   "score": 43,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Senior Architect, Enterprise Agentic Automation",
   "uid": "lever:jobgether:e44916ec-eb19-4972-9c64-f345cddf46ab",
   "url": "https://jobs.lever.co/jobgether/e44916ec-eb19-4972-9c64-f345cddf46ab",
