@@ -1325,6 +1325,7 @@
  },
  "fantastic:2415415533": {
   "category": "ai",
+  "closed_at": "2026-11-05T10:37:35+00:00",
   "company": "Murphy AI",
   "company_key": "fantastic",
   "expires": "2026-11-05T10:37:34+00:00",
@@ -1340,7 +1341,7 @@
   "salary": "",
   "score": 46,
   "source": "fantastic/teamtailor",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Engineer - Dubai",
   "uid": "fantastic:2415415533",
   "url": "https://careers.getmurphy.ai/jobs/8528498-forward-deployed-engineer-dubai",
