@@ -170,6 +170,15 @@
   "uae_jobs": 2,
   "via": "sweep"
  },
+ "ashby:advanced-systems-group": {
+  "ats": "ashby",
+  "found": "2026-11-06",
+  "id": "advanced-systems-group",
+  "last_uae": "2026-11-06",
+  "name": "Advanced Systems Group",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:airwallex": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -587,6 +596,15 @@
   "id": "options-it",
   "last_uae": "2026-11-06",
   "name": "Options It",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:optro": {
+  "ats": "ashby",
+  "found": "2026-11-06",
+  "id": "optro",
+  "last_uae": "2026-11-06",
+  "name": "Optro",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1122,6 +1140,15 @@
   "last_uae": "2026-11-06",
   "name": "Binance",
   "via": "fantastic"
+ },
+ "greenhouse:bitgo": {
+  "ats": "greenhouse",
+  "found": "2026-11-06",
+  "id": "bitgo",
+  "last_uae": "2026-11-06",
+  "name": "Bitgo",
+  "uae_jobs": 1,
+  "via": "sweep"
  },
  "greenhouse:blackduck": {
   "ats": "greenhouse",
@@ -4772,6 +4799,15 @@
   "last_uae": "2026-11-06",
   "name": "Utopia Life Worth Living",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:vinmar-international": {
+  "ats": "workable",
+  "found": "2026-11-06",
+  "id": "vinmar-international",
+  "last_uae": "2026-11-06",
+  "name": "Vinmar International",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:visit": {
