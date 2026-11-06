@@ -923,6 +923,15 @@
   "uae_jobs": 12,
   "via": "sweep"
  },
+ "greenhouse:ai71ai": {
+  "ats": "greenhouse",
+  "found": "2026-11-06",
+  "host": "eu",
+  "id": "ai71ai",
+  "last_uae": "2026-11-06",
+  "name": "ai71 _",
+  "via": "fantastic"
+ },
  "greenhouse:aift": {
   "ats": "greenhouse",
   "found": "2026-09-28",
