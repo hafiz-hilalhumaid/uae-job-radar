@@ -2262,6 +2262,16 @@
   "uae_jobs": 4,
   "via": "sweep"
  },
+ "lever:quantinuum": {
+  "ats": "lever",
+  "found": "2026-11-07",
+  "host": "eu",
+  "id": "quantinuum",
+  "last_uae": "2026-11-07",
+  "name": "Quantinuum",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "lever:shieldai": {
   "ats": "lever",
   "found": "2026-09-28",
@@ -3818,6 +3828,15 @@
   "last_uae": "2026-11-07",
   "name": "Conares",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:control-risks-6": {
+  "ats": "workable",
+  "found": "2026-11-07",
+  "id": "control-risks-6",
+  "last_uae": "2026-11-07",
+  "name": "Control Risks 6",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:cordx": {
