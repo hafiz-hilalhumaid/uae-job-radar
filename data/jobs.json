@@ -2279,6 +2279,98 @@
   "url": "https://northbay.applytojob.com/apply/7z2pGZ22Mz/Full-Stack-Engineer",
   "workplace": "On-site"
  },
+ "fantastic:2455690660": {
+  "category": "ai",
+  "company": "The Greater Change",
+  "company_key": "fantastic",
+  "expires": "2026-11-29T01:37:33+00:00",
+  "fingerprint": "thegreaterchange|senior ai systems engineer|dubai",
+  "first_seen": "2026-11-08T01:37:33+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-07T07:03:03.686",
+  "salary": "",
+  "score": 92,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Senior AI Systems Engineer (Agentic & Smart Home)",
+  "uid": "fantastic:2455690660",
+  "url": "https://jobs.workable.com/view/aeRt2XkvU4LPthdNBkh94d/senior-ai-systems-engineer-(agentic-%26-smart-home)-in-dubai-at-the-greater-change",
+  "workplace": "On-site"
+ },
+ "fantastic:2455690670": {
+  "category": "ai",
+  "company": "The Greater Change",
+  "company_key": "fantastic",
+  "expires": "2026-11-29T01:37:33+00:00",
+  "fingerprint": "thegreaterchange|backend ai developer|dubai",
+  "first_seen": "2026-11-08T01:37:33+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-07T06:51:59.272",
+  "salary": "",
+  "score": 97,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Backend AI Developer (Smart Home & Agentic Systems)",
+  "uid": "fantastic:2455690670",
+  "url": "https://jobs.workable.com/view/5n1GK4ZGypMdtHwcvzXe9j/backend-ai-developer-(smart-home-%26-agentic-systems)-in-dubai-at-the-greater-change",
+  "workplace": "On-site"
+ },
+ "fantastic:2455690687": {
+  "category": "ai",
+  "company": "The Greater Change",
+  "company_key": "fantastic",
+  "expires": "2026-11-29T01:37:33+00:00",
+  "fingerprint": "thegreaterchange|senior ai systems local llm engineer|dubai",
+  "first_seen": "2026-11-08T01:37:33+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-07T06:42:53.193",
+  "salary": "",
+  "score": 96,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "Senior AI Systems & Local LLM Engineer (Smart Home & Agentic AI)",
+  "uid": "fantastic:2455690687",
+  "url": "https://jobs.workable.com/view/av4v9GWALn2YQ7CqTingAi/senior-ai-systems-%26-local-llm-engineer-(smart-home-%26-agentic-ai)-in-dubai-at-the-greater-change",
+  "workplace": "On-site"
+ },
+ "fantastic:2455740724": {
+  "category": "ai",
+  "company": "The Greater Change",
+  "company_key": "fantastic",
+  "expires": "2026-11-29T01:37:33+00:00",
+  "fingerprint": "thegreaterchange|iot wearables integration engineer|dubai",
+  "first_seen": "2026-11-08T01:37:33+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-07T07:56:31.954",
+  "salary": "",
+  "score": 97,
+  "source": "fantastic/workable",
+  "status": "open",
+  "title": "IoT & Wearables Integration Engineer (Smart Home & Agentic AI)",
+  "uid": "fantastic:2455740724",
+  "url": "https://jobs.workable.com/view/gxtpK456mtRZdvUCR9tpWG/iot-%26-wearables-integration-engineer-(smart-home-%26-agentic-ai)-in-dubai-at-the-greater-change",
+  "workplace": "On-site"
+ },
  "greenhouse:ai71ai:4608506101": {
   "category": "ai",
   "company": "ai71 _",
