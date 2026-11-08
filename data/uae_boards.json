@@ -4136,6 +4136,15 @@
   "uae_jobs": 4,
   "via": "sweep"
  },
+ "workable:gomining": {
+  "ats": "workable",
+  "found": "2026-11-08",
+  "id": "gomining",
+  "last_uae": "2026-11-08",
+  "name": "Gomining",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:gramian": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -4710,6 +4719,15 @@
   "last_uae": "2026-10-12",
   "name": "Stranger Soccer 1",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:sumerge-1": {
+  "ats": "workable",
+  "found": "2026-11-08",
+  "id": "sumerge-1",
+  "last_uae": "2026-11-08",
+  "name": "Sumerge 1",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:sunreef-yachts-1": {
