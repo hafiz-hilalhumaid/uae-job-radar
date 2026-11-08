@@ -1371,6 +1371,7 @@
  },
  "fantastic:2420780626": {
   "category": "fullstack",
+  "closed_at": "2026-11-08T11:37:37+00:00",
   "company": "NorthBay Solutions",
   "company_key": "fantastic",
   "expires": "2026-11-08T11:37:33+00:00",
@@ -1384,7 +1385,7 @@
   "salary": "",
   "score": 70,
   "source": "fantastic/jazzhr",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Full Stack Engineer",
   "uid": "fantastic:2420780626",
   "url": "https://northbay.applytojob.com/apply/2JxODYybhm/Senior-Full-Stack-Engineer",
