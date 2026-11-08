@@ -2460,6 +2460,28 @@
   "url": "https://job-boards.eu.greenhouse.io/audiomob/jobs/4988498101",
   "workplace": ""
  },
+ "greenhouse:bybit:4905494101": {
+  "category": "ai",
+  "company": "Bybit",
+  "company_key": "greenhouse:bybit",
+  "fingerprint": "bybit|principal ai agent development engineer architect|abudhabi",
+  "first_seen": "2026-11-08T21:37:34+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, UAE; Hong Kong SAR; Kuala Lumpur, Malaysia, Kuala Lumpur Tech Office",
+  "notified": "instant",
+  "posted_at": "2026-06-25T23:11:25-04:00",
+  "salary": "",
+  "score": 77,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Principal AI Agent Development Engineer/Architect",
+  "uid": "greenhouse:bybit:4905494101",
+  "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4905494101",
+  "workplace": ""
+ },
  "greenhouse:datacamp:7619318": {
   "category": "ai",
   "company": "DataCamp",
