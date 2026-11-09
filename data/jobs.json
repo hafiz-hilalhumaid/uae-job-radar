@@ -293,6 +293,7 @@
  },
  "ashby:kraken.com:0cffa26a-8f66-4767-8301-044548701942": {
   "category": "software",
+  "closed_at": "2026-11-09T22:37:37+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|software engineer ii ai infrastructure|uae",
@@ -307,7 +308,7 @@
   "salary": "",
   "score": 54,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer II – AI Infrastructure",
   "uid": "ashby:kraken.com:0cffa26a-8f66-4767-8301-044548701942",
   "url": "https://jobs.ashbyhq.com/kraken.com/0cffa26a-8f66-4767-8301-044548701942",
@@ -356,6 +357,7 @@
  },
  "ashby:kraken.com:50bf7f29-6178-44e4-9f0b-139d69779e63": {
   "category": "software",
+  "closed_at": "2026-11-09T22:37:37+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|staff software engineer rust backend consumer trading|uae",
@@ -370,7 +372,7 @@
   "salary": "",
   "score": 42,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Staff Software Engineer - Rust Backend - Consumer Trading",
   "uid": "ashby:kraken.com:50bf7f29-6178-44e4-9f0b-139d69779e63",
   "url": "https://jobs.ashbyhq.com/kraken.com/50bf7f29-6178-44e4-9f0b-139d69779e63",
