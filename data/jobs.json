@@ -312,6 +312,7 @@
  },
  "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8": {
   "category": "frontend",
+  "closed_at": "2026-11-09T16:37:35+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|senior software engineer react native consumer|uae",
@@ -324,7 +325,7 @@
   "salary": "",
   "score": 66,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer - React Native - Consumer",
   "uid": "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8",
   "url": "https://jobs.ashbyhq.com/kraken.com/482dd459-50ae-4d16-aa69-18bc4f93fed8",
