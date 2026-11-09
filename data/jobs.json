@@ -291,6 +291,28 @@
   "url": "https://jobs.ashbyhq.com/infinitefield/ca26ce18-d781-41ed-af28-59261a87430d",
   "workplace": ""
  },
+ "ashby:kraken.com:0cffa26a-8f66-4767-8301-044548701942": {
+  "category": "software",
+  "company": "Kraken.Com",
+  "company_key": "ashby:kraken.com",
+  "fingerprint": "krakencom|software engineer ii ai infrastructure|uae",
+  "first_seen": "2026-11-09T21:37:36+00:00",
+  "flags": [
+   "unlisted role"
+  ],
+  "loc_type": "uae",
+  "location": "United Kingdom, Brazil, United Arab Emirates, Ireland, Germany, Romania, Cyprus, Switzerland, Portugal, Lithuania, Czech Republic, Canada, Mexico, Poland, Spain",
+  "notified": "queued",
+  "posted_at": "2026-10-16T14:36:14.785+00:00",
+  "salary": "",
+  "score": 54,
+  "source": "ashby",
+  "status": "open",
+  "title": "Software Engineer II – AI Infrastructure",
+  "uid": "ashby:kraken.com:0cffa26a-8f66-4767-8301-044548701942",
+  "url": "https://jobs.ashbyhq.com/kraken.com/0cffa26a-8f66-4767-8301-044548701942",
+  "workplace": "Remote"
+ },
  "ashby:kraken.com:4753ccbf-68dc-4668-904f-a3156041fdc8": {
   "category": "software",
   "company": "Kraken.Com",
@@ -330,6 +352,28 @@
   "title": "Senior Software Engineer - React Native - Consumer",
   "uid": "ashby:kraken.com:482dd459-50ae-4d16-aa69-18bc4f93fed8",
   "url": "https://jobs.ashbyhq.com/kraken.com/482dd459-50ae-4d16-aa69-18bc4f93fed8",
+  "workplace": "Remote"
+ },
+ "ashby:kraken.com:50bf7f29-6178-44e4-9f0b-139d69779e63": {
+  "category": "software",
+  "company": "Kraken.Com",
+  "company_key": "ashby:kraken.com",
+  "fingerprint": "krakencom|staff software engineer rust backend consumer trading|uae",
+  "first_seen": "2026-11-09T21:37:36+00:00",
+  "flags": [
+   "unlisted role"
+  ],
+  "loc_type": "uae",
+  "location": "United Kingdom, Brazil, United Arab Emirates, Ireland, Peru, Sweden, Colombia, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, South Africa, Czech Republic, Canada, Hungary, Mexico, Chile, Poland, Spain, Bulgaria",
+  "notified": "queued",
+  "posted_at": "2026-09-29T13:58:54.377+00:00",
+  "salary": "",
+  "score": 42,
+  "source": "ashby",
+  "status": "open",
+  "title": "Staff Software Engineer - Rust Backend - Consumer Trading",
+  "uid": "ashby:kraken.com:50bf7f29-6178-44e4-9f0b-139d69779e63",
+  "url": "https://jobs.ashbyhq.com/kraken.com/50bf7f29-6178-44e4-9f0b-139d69779e63",
   "workplace": "Remote"
  },
  "ashby:kraken.com:7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e": {
