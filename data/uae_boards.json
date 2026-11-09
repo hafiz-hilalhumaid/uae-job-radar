@@ -1902,6 +1902,15 @@
   "name": "Softana",
   "via": "fantastic"
  },
+ "greenhouse:soldejaneiro": {
+  "ats": "greenhouse",
+  "found": "2026-11-09",
+  "id": "soldejaneiro",
+  "last_uae": "2026-11-09",
+  "name": "Sol de Janeiro",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:sonymusicentertainment": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -2011,6 +2020,15 @@
   "id": "thirdbridge",
   "last_uae": "2026-11-09",
   "name": "Third Bridge",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:torq": {
+  "ats": "greenhouse",
+  "found": "2026-11-09",
+  "id": "torq",
+  "last_uae": "2026-11-09",
+  "name": "Torq",
   "uae_jobs": 1,
   "via": "sweep"
  },

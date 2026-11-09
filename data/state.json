@@ -3385,6 +3385,7 @@
   "greenhouse:cityoffortworth": "us",
   "greenhouse:citytherapeutics": "us",
   "greenhouse:cityvetinc": "us",
+  "greenhouse:civicactions": "us",
   "greenhouse:civisanalytics": "us",
   "greenhouse:civitaslearning": "us",
   "greenhouse:clara": "us",
@@ -3473,6 +3474,7 @@
   "greenhouse:coinbase": "us",
   "greenhouse:coinme": "us",
   "greenhouse:colabsoftware": "us",
+  "greenhouse:colehourcoheninc": "us",
   "greenhouse:colemanresearch": "us",
   "greenhouse:collahealth": "us",
   "greenhouse:collective-insights": "us",
@@ -4180,6 +4182,7 @@
   "greenhouse:flow-service-partners": "us",
   "greenhouse:flowcode": "us",
   "greenhouse:flowdesk": "eu_page",
+  "greenhouse:flowfuse": "us",
   "greenhouse:flowtraders": "us",
   "greenhouse:fluency": "us",
   "greenhouse:fluxon": "us",
@@ -4534,6 +4537,7 @@
   "greenhouse:hawkeye360": "us",
   "greenhouse:hawthornemachineryco": "us",
   "greenhouse:hazel": "us",
+  "greenhouse:hbstudios": "us",
   "greenhouse:hc360": "us",
   "greenhouse:hdmcapitalllc": "us",
   "greenhouse:headlandsresearch": "us",
@@ -4858,6 +4862,7 @@
   "greenhouse:jetbrains": "eu_page",
   "greenhouse:jetsonhome": "us",
   "greenhouse:jetzero": "us",
+  "greenhouse:jjde": "eu_page",
   "greenhouse:jjdk": "eu_page",
   "greenhouse:jjirl": "eu_page",
   "greenhouse:jjnl": "eu_page",
@@ -7716,8 +7721,8 @@
  "last_digest": "2026-11-09",
  "last_sweep": {
   "added": 2,
-  "checked": 5400,
-  "date": "2026-11-08",
+  "checked": 17000,
+  "date": "2026-11-09",
   "total": 23518
  },
  "queue": [
@@ -108417,5 +108422,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 1919
+ "sweep_cursor": 18919
 }
