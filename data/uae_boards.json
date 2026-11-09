@@ -152,15 +152,6 @@
   "uae_jobs": 4,
   "via": "sweep"
  },
- "ashby:VidRush": {
-  "ats": "ashby",
-  "found": "2026-09-28",
-  "id": "VidRush",
-  "last_uae": "2026-10-04",
-  "name": "Vidrush",
-  "uae_jobs": 1,
-  "via": "sweep"
- },
  "ashby:Wonderful": {
   "ats": "ashby",
   "found": "2026-11-03",
@@ -893,15 +884,6 @@
   "id": "verto",
   "last_uae": "2026-11-09",
   "name": "Verto",
-  "uae_jobs": 1,
-  "via": "sweep"
- },
- "ashby:vidrush": {
-  "ats": "ashby",
-  "found": "2026-10-01",
-  "id": "vidrush",
-  "last_uae": "2026-10-04",
-  "name": "Vidrush",
   "uae_jobs": 1,
   "via": "sweep"
  },
