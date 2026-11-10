@@ -1,4 +1,24 @@
 {
+ "ashby:Rogo:095f7c1c-ff93-4a4a-9425-a2a628414c58": {
+  "category": "ai",
+  "company": "Rogo",
+  "company_key": "ashby:Rogo",
+  "fingerprint": "rogo|forward deployed banker middle east|dubai",
+  "first_seen": "2026-11-10T22:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai / Abu Dhabi",
+  "notified": "queued",
+  "posted_at": "2026-11-10T22:24:48.202+00:00",
+  "salary": "",
+  "score": 62,
+  "source": "ashby",
+  "status": "open",
+  "title": "Forward Deployed Banker, Middle East",
+  "uid": "ashby:Rogo:095f7c1c-ff93-4a4a-9425-a2a628414c58",
+  "url": "https://jobs.ashbyhq.com/Rogo/095f7c1c-ff93-4a4a-9425-a2a628414c58",
+  "workplace": "OnSite"
+ },
  "ashby:algodriven:80b12dcc-83ac-4983-9964-f0948b662d41": {
   "category": "fullstack",
   "closed_at": "2026-10-27T04:37:33+00:00",
