@@ -399,6 +399,26 @@
   "url": "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
   "workplace": "Remote"
  },
+ "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07": {
+  "category": "software",
+  "company": "Kraken.Com",
+  "company_key": "ashby:kraken.com",
+  "fingerprint": "krakencom|software engineer database bitnomial|uae",
+  "first_seen": "2026-11-10T20:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United States, Brazil, United Arab Emirates, Ireland, Peru, Sweden, Colombia, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, South Africa, Czech Republic, Canada, Hungary, Mexico, Chile, Poland, Spain, Bulgaria",
+  "notified": "queued",
+  "posted_at": "2026-11-10T20:32:25.025+00:00",
+  "salary": "$96K - $192K",
+  "score": 50,
+  "source": "ashby",
+  "status": "open",
+  "title": "Software Engineer - Database - Bitnomial",
+  "uid": "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07",
+  "url": "https://jobs.ashbyhq.com/kraken.com/decc0dbd-51f7-4fee-9635-130211623f07",
+  "workplace": "Remote"
+ },
  "ashby:kraken.com:f9f63509-ac06-449b-a534-397f74f1180e": {
   "category": "ai",
   "closed_at": "2026-10-13T10:37:32+00:00",
