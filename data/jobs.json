@@ -3518,6 +3518,26 @@
   "url": "https://jobs.lever.co/jobgether/fb081998-9253-4f99-a005-f0c71f7b4ab0",
   "workplace": "remote"
  },
+ "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94": {
+  "category": "fullstack",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|java fullstack software engineer|uae",
+  "first_seen": "2026-11-10T13:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-10T12:41:28.642000+00:00",
+  "salary": "",
+  "score": 65,
+  "source": "lever",
+  "status": "open",
+  "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
+  "uid": "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94",
+  "url": "https://jobs.lever.co/jobgether/fedab1a4-cd4d-4490-b075-ce881c196f94",
+  "workplace": "remote"
+ },
  "lever:loftorbital:55ebf1de-e31f-4ac3-b168-741e08ea774c": {
   "category": "frontend",
   "closed_at": "2026-10-29T09:37:34+00:00",
