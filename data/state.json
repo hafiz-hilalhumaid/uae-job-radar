@@ -7726,26 +7726,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-11-09",
+ "last_digest": "2026-11-11",
  "last_sweep": {
   "added": 2,
   "checked": 17000,
   "date": "2026-11-09",
   "total": 23518
  },
- "queue": [
-  "smartrecruiters:SanaCommerce:744000160598710",
-  "greenhouse:esri:5273965007",
-  "ashby:kraken.com:0cffa26a-8f66-4767-8301-044548701942",
-  "ashby:kraken.com:50bf7f29-6178-44e4-9f0b-139d69779e63",
-  "fantastic:2457295188",
-  "fantastic:2457294768",
-  "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94",
-  "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07",
-  "ashby:Rogo:095f7c1c-ff93-4a4a-9425-a2a628414c58",
-  "fantastic:2459213576",
-  "fantastic:2459108072"
- ],
+ "queue": [],
  "rejected": {
   "ashby:115ventures:c72f8983-033a-4a23-b41e-5b524621d29c": "2026-11-03T23:37:37+00:00",
   "ashby:115ventures:ffcaf72b-bd58-4b49-aa9f-6b6905879825": "2026-11-03T23:37:37+00:00",
