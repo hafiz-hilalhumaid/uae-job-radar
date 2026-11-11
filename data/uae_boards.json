@@ -3094,6 +3094,14 @@
   "uae_jobs": 7,
   "via": "sweep"
  },
+ "smartrecruiters:VirtuaAdvancedSolution": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-11",
+  "id": "VirtuaAdvancedSolution",
+  "last_uae": "2026-11-11",
+  "name": "Virtua Advanced Solution",
+  "via": "fantastic"
+ },
  "smartrecruiters:Whitecollars": {
   "ats": "smartrecruiters",
   "found": "2026-09-30",
