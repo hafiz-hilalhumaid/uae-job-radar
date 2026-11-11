@@ -3452,6 +3452,7 @@
  },
  "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb": {
   "category": "frontend",
+  "closed_at": "2026-11-11T11:37:38+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior frontend developer|uae",
@@ -3464,7 +3465,7 @@
   "salary": "",
   "score": 72,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Frontend Developer",
   "uid": "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb",
   "url": "https://jobs.lever.co/jobgether/857be3a9-978b-4d12-a736-cdcb820b55cb",
