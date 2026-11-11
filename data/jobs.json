@@ -3450,6 +3450,26 @@
   "url": "https://jobs.lever.co/jobgether/79fa1390-665b-4522-8d26-b88948fdd54d",
   "workplace": "remote"
  },
+ "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb": {
+  "category": "frontend",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior frontend developer|uae",
+  "first_seen": "2026-11-11T07:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-11T07:40:28.192000+00:00",
+  "salary": "",
+  "score": 72,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Frontend Developer",
+  "uid": "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb",
+  "url": "https://jobs.lever.co/jobgether/857be3a9-978b-4d12-a736-cdcb820b55cb",
+  "workplace": "remote"
+ },
  "lever:jobgether:88c3d718-84dd-43fe-98ee-5dee80ce1c69": {
   "category": "ai",
   "closed_at": "2026-10-06T20:18:27+00:00",
