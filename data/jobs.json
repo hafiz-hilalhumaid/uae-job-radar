@@ -4368,7 +4368,6 @@
  },
  "teamtailor:https://sullyai.teamtailor.com:c7fffba8-06fd-47b2-9be5-596a803b9f4a": {
   "category": "ai",
-  "closed_at": "2026-11-11T13:37:33+00:00",
   "company": "Sully.ai",
   "company_key": "teamtailor:https://sullyai.teamtailor.com",
   "fingerprint": "sullyai|forward deployed engineer|dubai",
@@ -4381,7 +4380,7 @@
   "salary": "",
   "score": 78,
   "source": "teamtailor",
-  "status": "closed",
+  "status": "open",
   "title": "Forward Deployed Engineer (FDE)",
   "uid": "teamtailor:https://sullyai.teamtailor.com:c7fffba8-06fd-47b2-9be5-596a803b9f4a",
   "url": "https://sullyai.teamtailor.com/jobs/8508045-forward-deployed-engineer-fde",
