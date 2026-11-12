@@ -3413,6 +3413,7 @@
  },
  "lever:jobgether:164d7026-388a-4bce-b1e6-9291fe7ef69a": {
   "category": "software",
+  "closed_at": "2026-11-12T03:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer ai integrations|uae",
@@ -3425,7 +3426,7 @@
   "salary": "",
   "score": 60,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer, AI Integrations",
   "uid": "lever:jobgether:164d7026-388a-4bce-b1e6-9291fe7ef69a",
   "url": "https://jobs.lever.co/jobgether/164d7026-388a-4bce-b1e6-9291fe7ef69a",
