@@ -7732,9 +7732,9 @@
  },
  "last_digest": "2026-11-11",
  "last_sweep": {
-  "added": 2,
-  "checked": 17000,
-  "date": "2026-11-09",
+  "added": 0,
+  "checked": 3200,
+  "date": "2026-11-12",
   "total": 23518
  },
  "queue": [
@@ -113794,5 +113794,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 18919
+ "sweep_cursor": 22119
 }
