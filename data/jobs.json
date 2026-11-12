@@ -3750,6 +3750,26 @@
   "url": "https://jobs.lever.co/jobgether/a092a92e-db49-47eb-8542-66c2a30f08b6",
   "workplace": "remote"
  },
+ "lever:jobgether:a7ed8c1e-ea18-4a62-824a-37c58f241339": {
+  "category": "fullstack",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|full stack software engineer ai first|uae",
+  "first_seen": "2026-11-12T08:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-12T08:42:10.740000+00:00",
+  "salary": "",
+  "score": 71,
+  "source": "lever",
+  "status": "open",
+  "title": "Full Stack Software Engineer - AI-First",
+  "uid": "lever:jobgether:a7ed8c1e-ea18-4a62-824a-37c58f241339",
+  "url": "https://jobs.lever.co/jobgether/a7ed8c1e-ea18-4a62-824a-37c58f241339",
+  "workplace": "remote"
+ },
  "lever:jobgether:b1676b9f-c7e3-411e-b8a2-8941660195a4": {
   "category": "software",
   "closed_at": "2026-10-29T00:37:34+00:00",
