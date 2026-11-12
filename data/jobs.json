@@ -419,6 +419,26 @@
   "url": "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
   "workplace": "Remote"
  },
+ "ashby:kraken.com:932fa767-7a6d-45bb-807b-48f881b53aeb": {
+  "category": "frontend",
+  "company": "Kraken.Com",
+  "company_key": "ashby:kraken.com",
+  "fingerprint": "krakencom|software engineer ii frontend developer platform|uae",
+  "first_seen": "2026-11-12T18:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Kingdom, Brazil, United Arab Emirates, Ireland, Peru, Sweden, Colombia, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, South Africa, Czech Republic, Canada, Hungary, Mexico, Chile, Poland, Spain, Bulgaria",
+  "notified": "instant",
+  "posted_at": "2026-11-12T18:05:54.487+00:00",
+  "salary": "",
+  "score": 74,
+  "source": "ashby",
+  "status": "open",
+  "title": "Software Engineer II - Frontend - Developer Platform",
+  "uid": "ashby:kraken.com:932fa767-7a6d-45bb-807b-48f881b53aeb",
+  "url": "https://jobs.ashbyhq.com/kraken.com/932fa767-7a6d-45bb-807b-48f881b53aeb",
+  "workplace": "Remote"
+ },
  "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07": {
   "category": "software",
   "company": "Kraken.Com",
