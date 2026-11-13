@@ -196,6 +196,15 @@
   "name": "AlgoDriven",
   "via": "fantastic"
  },
+ "ashby:alta-ares": {
+  "ats": "ashby",
+  "found": "2026-11-13",
+  "id": "alta-ares",
+  "last_uae": "2026-11-13",
+  "name": "Alta Ares",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:analog": {
   "ats": "ashby",
   "found": "2026-10-19",
@@ -273,6 +282,15 @@
   "id": "cerebras",
   "last_uae": "2026-11-13",
   "name": "Cerebras",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:chainalysis-careers": {
+  "ats": "ashby",
+  "found": "2026-11-13",
+  "id": "chainalysis-careers",
+  "last_uae": "2026-11-13",
+  "name": "Chainalysis Careers",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -534,6 +552,15 @@
   "id": "netgear",
   "last_uae": "2026-11-13",
   "name": "Netgear",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:newxel": {
+  "ats": "ashby",
+  "found": "2026-11-13",
+  "id": "newxel",
+  "last_uae": "2026-11-13",
+  "name": "Newxel",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1974,6 +2001,15 @@
   "last_uae": "2026-11-13",
   "name": "Telnyx",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:tenableinc": {
+  "ats": "greenhouse",
+  "found": "2026-11-13",
+  "id": "tenableinc",
+  "last_uae": "2026-11-13",
+  "name": "Tenable, Inc.",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:teneolinkedin": {
@@ -4736,6 +4772,15 @@
   "last_uae": "2026-11-13",
   "name": "Sunreef Yachts 1",
   "uae_jobs": 32,
+  "via": "sweep"
+ },
+ "workable:talentgratorjobs": {
+  "ats": "workable",
+  "found": "2026-11-13",
+  "id": "talentgratorjobs",
+  "last_uae": "2026-11-13",
+  "name": "Talentgratorjobs",
+  "uae_jobs": 7,
   "via": "sweep"
  },
  "workable:tamatem": {
