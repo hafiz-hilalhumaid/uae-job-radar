@@ -2902,6 +2902,28 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007",
   "workplace": ""
  },
+ "greenhouse:andurilindustries:5206672007": {
+  "category": "software",
+  "company": "Anduril Industries",
+  "company_key": "greenhouse:andurilindustries",
+  "fingerprint": "andurilindustries|senior software engineer modelling simulation advanced capabilities|abudhabi",
+  "first_seen": "2026-11-13T00:19:54+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, United Arab Emirates; London, England, United Kingdom, Abu Dhabi, United Arab Emirates (UAE-01), London, England, United Kingdom",
+  "notified": "queued",
+  "posted_at": "2026-08-12T11:02:04-04:00",
+  "salary": "",
+  "score": 57,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Senior Software Engineer, Modelling & Simulation - Advanced Capabilities",
+  "uid": "greenhouse:andurilindustries:5206672007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206672007?gh_jid=5206672007",
+  "workplace": ""
+ },
  "greenhouse:audiomob:4988498101": {
   "category": "software",
   "company": "Audiomob",
