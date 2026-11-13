@@ -187,6 +187,26 @@
   "url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
   "workplace": "Hybrid"
  },
+ "ashby:elevenlabs:3809888d-a838-420a-8474-d217e48cef88": {
+  "category": "fullstack",
+  "company": "Elevenlabs",
+  "company_key": "ashby:elevenlabs",
+  "fingerprint": "elevenlabs|full stack engineer elevenai|uae",
+  "first_seen": "2026-11-13T12:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Kingdom, Dublin, Hungary, Bulgaria, Sofia, Switzerland, Denmark, Poland, Warsaw, Sweden, Zurich, Stockholm, London, Czechia, UAE , Berlin",
+  "notified": "queued",
+  "posted_at": "2026-11-13T12:16:28.859+00:00",
+  "salary": "",
+  "score": 64,
+  "source": "ashby",
+  "status": "open",
+  "title": "Full-Stack Engineer (Backend Leaning) - ElevenAI",
+  "uid": "ashby:elevenlabs:3809888d-a838-420a-8474-d217e48cef88",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88",
+  "workplace": "Remote"
+ },
  "ashby:ether.fi:4e31c644-c560-4fb2-8d49-00dd21fd8175": {
   "category": "software",
   "closed_at": "2026-11-09T17:37:33+00:00",
