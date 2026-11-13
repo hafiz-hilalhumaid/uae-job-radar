@@ -4059,7 +4059,6 @@
  },
  "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94": {
   "category": "fullstack",
-  "closed_at": "2026-11-13T06:37:38+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|java fullstack software engineer|uae",
@@ -4072,7 +4071,7 @@
   "salary": "",
   "score": 65,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
   "uid": "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94",
   "url": "https://jobs.lever.co/jobgether/fedab1a4-cd4d-4490-b075-ce881c196f94",
