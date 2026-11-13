@@ -1683,6 +1683,7 @@
  },
  "fantastic:2427853794": {
   "category": "software",
+  "closed_at": "2026-11-13T02:37:33+00:00",
   "company": "BlackStone eIT",
   "company_key": "fantastic",
   "expires": "2026-11-13T01:37:35+00:00",
@@ -1696,7 +1697,7 @@
   "salary": "",
   "score": 45,
   "source": "fantastic/workable",
-  "status": "open",
+  "status": "closed",
   "title": "Software Developer - UAE PASS Integration",
   "uid": "fantastic:2427853794",
   "url": "https://jobs.workable.com/view/3Atwyp4hUnPXX32d55qnJj/software-developer---uae-pass-integration-in-abu-dhabi-at-blackstone-eit",
@@ -1704,6 +1705,7 @@
  },
  "fantastic:2427948062": {
   "category": "fullstack",
+  "closed_at": "2026-11-13T02:37:33+00:00",
   "company": "Bamboo Card",
   "company_key": "fantastic",
   "expires": "2026-11-13T01:37:35+00:00",
@@ -1717,7 +1719,7 @@
   "salary": "",
   "score": 71,
   "source": "fantastic/hibob",
-  "status": "open",
+  "status": "closed",
   "title": "Full Stack Developer",
   "uid": "fantastic:2427948062",
   "url": "https://bamboocard.careers.hibob.com/jobs/a6106900-f5dd-4603-ae68-fee8427671fa",
