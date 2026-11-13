@@ -7731,27 +7731,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-11-11",
+ "last_digest": "2026-11-13",
  "last_sweep": {
   "added": 0,
   "checked": 3200,
   "date": "2026-11-12",
   "total": 23518
  },
- "queue": [
-  "lever:jobgether:164d7026-388a-4bce-b1e6-9291fe7ef69a",
-  "fantastic:2461390486",
-  "fantastic:2461390485",
-  "fantastic:2461390484",
-  "fantastic:2461390483",
-  "fantastic:2461390475",
-  "fantastic:2461390474",
-  "fantastic:2461159669",
-  "greenhouse:andurilindustries:5206672007",
-  "fantastic:2463669892",
-  "fantastic:2463520777",
-  "fantastic:2463520022"
- ],
+ "queue": [],
  "rejected": {
   "ashby:115ventures:c72f8983-033a-4a23-b41e-5b524621d29c": "2026-11-03T23:37:37+00:00",
   "ashby:115ventures:ffcaf72b-bd58-4b49-aa9f-6b6905879825": "2026-11-03T23:37:37+00:00",
