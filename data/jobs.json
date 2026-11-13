@@ -3081,6 +3081,26 @@
   "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4905494101",
   "workplace": ""
  },
+ "greenhouse:bybit:5035675101": {
+  "category": "ai",
+  "company": "Bybit",
+  "company_key": "greenhouse:bybit",
+  "fingerprint": "bybit|ai agent architect|abudhabi",
+  "first_seen": "2026-11-13T10:37:32+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, UAE; Hong Kong SAR; Kuala Lumpur, Malaysia, Kuala Lumpur Tech Office",
+  "notified": "queued",
+  "posted_at": "2026-11-13T04:57:34-05:00",
+  "salary": "",
+  "score": 67,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "AI Agent Architect",
+  "uid": "greenhouse:bybit:5035675101",
+  "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035675101",
+  "workplace": ""
+ },
  "greenhouse:datacamp:7619318": {
   "category": "ai",
   "company": "DataCamp",
