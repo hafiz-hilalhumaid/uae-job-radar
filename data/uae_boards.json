@@ -3129,6 +3129,15 @@
   "name": "Virtua Advanced Solution",
   "via": "fantastic"
  },
+ "smartrecruiters:Wabtec": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-14",
+  "id": "Wabtec",
+  "last_uae": "2026-11-14",
+  "name": "Wabtec",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:Whitecollars": {
   "ats": "smartrecruiters",
   "found": "2026-09-30",
@@ -3486,6 +3495,15 @@
   "last_uae": "2026-11-14",
   "name": "Naffco",
   "uae_jobs": 97,
+  "via": "sweep"
+ },
+ "teamtailor:https://praktika.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-11-14",
+  "id": "https://praktika.teamtailor.com",
+  "last_uae": "2026-11-14",
+  "name": "Praktika",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "teamtailor:https://rejlersabudhabi.teamtailor.com": {
