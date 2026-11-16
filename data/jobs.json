@@ -3502,6 +3502,26 @@
   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7235544",
   "workplace": ""
  },
+ "lever:1inch:6d94cd07-e9e6-4230-a107-25fe4f3a5c9b": {
+  "category": "software",
+  "company": "1inch",
+  "company_key": "lever:1inch",
+  "fingerprint": "1inch|senior software engineer smart order router|dubai",
+  "first_seen": "2026-11-16T14:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "UAE - Dubai, UK, Portugal",
+  "notified": "queued",
+  "posted_at": "2026-11-16T14:29:57.911000+00:00",
+  "salary": "",
+  "score": 50,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Software Engineer, Smart Order Router",
+  "uid": "lever:1inch:6d94cd07-e9e6-4230-a107-25fe4f3a5c9b",
+  "url": "https://jobs.lever.co/1inch/6d94cd07-e9e6-4230-a107-25fe4f3a5c9b",
+  "workplace": "hybrid"
+ },
  "lever:1inch:827649c3-2dab-4911-bb2f-97b84dc93126": {
   "category": "frontend",
   "closed_at": "2026-10-15T15:37:36+00:00",
