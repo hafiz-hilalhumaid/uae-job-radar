@@ -5090,6 +5090,7 @@
  },
  "workable:callsign:3447333C50": {
   "category": "software",
+  "closed_at": "2026-11-16T09:37:34+00:00",
   "company": "Callsign",
   "company_key": "workable:callsign",
   "fingerprint": "callsign|senior software engineer|abudhabi",
@@ -5104,7 +5105,7 @@
   "salary": "",
   "score": 55,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer",
   "uid": "workable:callsign:3447333C50",
   "url": "https://apply.workable.com/j/3447333C50",
@@ -5112,6 +5113,7 @@
  },
  "workable:callsign:BD71CEB924": {
   "category": "software",
+  "closed_at": "2026-11-16T09:37:34+00:00",
   "company": "Callsign",
   "company_key": "workable:callsign",
   "fingerprint": "callsign|software engineer|abudhabi",
@@ -5126,7 +5128,7 @@
   "salary": "",
   "score": 55,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer",
   "uid": "workable:callsign:BD71CEB924",
   "url": "https://apply.workable.com/j/BD71CEB924",
