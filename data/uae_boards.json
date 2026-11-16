@@ -1857,6 +1857,24 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:sanmar": {
+  "ats": "greenhouse",
+  "found": "2026-11-16",
+  "id": "sanmar",
+  "last_uae": "2026-11-16",
+  "name": "SanMar- External ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:sanmaremployeeopenings": {
+  "ats": "greenhouse",
+  "found": "2026-11-16",
+  "id": "sanmaremployeeopenings",
+  "last_uae": "2026-11-16",
+  "name": "SanMar-Internal ",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:sayari": {
   "ats": "greenhouse",
   "found": "2026-10-16",
@@ -1900,6 +1918,15 @@
   "last_uae": "2026-11-16",
   "name": "SentinelOne",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "greenhouse:sevenroomsuae": {
+  "ats": "greenhouse",
+  "found": "2026-11-16",
+  "id": "sevenroomsuae",
+  "last_uae": "2026-11-16",
+  "name": "SevenRooms, a DoorDash company - United Arab Emirates",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "greenhouse:socket": {

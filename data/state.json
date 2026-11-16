@@ -6190,6 +6190,7 @@
   "greenhouse:pubgseattle": "us",
   "greenhouse:public": "us",
   "greenhouse:public-io": "us",
+  "greenhouse:publicinput": "us",
   "greenhouse:publiclabel": "us",
   "greenhouse:pubnub": "us",
   "greenhouse:puffco": "us",
@@ -6610,11 +6611,13 @@
   "greenhouse:setsales": "us",
   "greenhouse:seurat": "us",
   "greenhouse:sevenresearch": "us",
+  "greenhouse:sevenroomsuae": "us",
   "greenhouse:seymourveterinaryclinic": "us",
   "greenhouse:seyond": "us",
   "greenhouse:sezzle": "us",
   "greenhouse:sezzleinternships": "us",
   "greenhouse:sfaf": "us",
+  "greenhouse:sfox": "us",
   "greenhouse:sfweb": "eu_page",
   "greenhouse:shakepay": "us",
   "greenhouse:shakepayfr": "us",
@@ -7770,9 +7773,9 @@
  },
  "last_digest": "2026-11-16",
  "last_sweep": {
-  "added": 0,
-  "checked": 8200,
-  "date": "2026-11-15",
+  "added": 3,
+  "checked": 14400,
+  "date": "2026-11-16",
   "total": 23518
  },
  "queue": [
@@ -99899,5 +99902,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 4883
+ "sweep_cursor": 19283
 }
