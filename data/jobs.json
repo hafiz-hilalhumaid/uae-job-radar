@@ -735,6 +735,26 @@
   "url": "https://jobs.ashbyhq.com/openai/e9d435e1-1b9e-4715-84ce-75f372e5559c",
   "workplace": "Hybrid"
  },
+ "ashby:paradox:e878cabd-e493-432e-ab1f-ad2f4f813e16": {
+  "category": "ai",
+  "company": "Paradox",
+  "company_key": "ashby:paradox",
+  "fingerprint": "paradox|ai native creative strategist edtech|dubai",
+  "first_seen": "2026-11-16T15:37:35+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Remote Dubai, Dublin Remote, Palma Remote, Remote Latvia, Sofia Remote, Remote Lithuania, Remote Portugal, Remote Turin, Remote Austria, Remote Lebanon, Copenhagen Remote, Tallinn Remote, Budapest Remote, Remote Germany, Remote Abu Dhabi, Zaragoza Remote, Zagreb Remote, Valletta Remote, Barcelona Remote, Roma Remote, Remote Croatia, Warsow Remote, Remote Sharjah, Remote Greece, Athens Remote, Remote Netherlands, Remote Ireland, Remote Spain, Bratislava Remote, Remote Ras Al Khaimah, Remote Umm Al Quwain, Remote Egypt, Bucharest Remote, Prague Remote, Brussels Remote, Remote Poland, Remote Malta, Madrid Remote, Remote Roumania, Stockholm Remote, Vienna Remote , Remote Milan, Remote Naples, Remote Slovakia, Nicosia Remote, Remote Cyprus, Remote Fujaira, Remote Estonia, Amsterdam Remote, Faro Remote, Berlin Remote, Remote Belgium, Remote Hungary, Luxembourg Remote, Sevilla Remote, Remote Ajman, Remote Turkey, Remote Slovenia, Malaga Remote, Vilnius Remote, Remote Bulgaria, Remote Italy, Valencia Remote, Remote Canary Islands, Murcia Remote, Helsinki Remote, Remote Czechia, Porto Remote, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-16T15:04:32.907+00:00",
+  "salary": "",
+  "score": 57,
+  "source": "ashby",
+  "status": "open",
+  "title": "AI Native Creative Strategist - EdTech (French fluent 🇫🇷)",
+  "uid": "ashby:paradox:e878cabd-e493-432e-ab1f-ad2f4f813e16",
+  "url": "https://jobs.ashbyhq.com/paradox/e878cabd-e493-432e-ab1f-ad2f4f813e16",
+  "workplace": "Remote"
+ },
  "ashby:qlub:975d7158-906a-4c7c-b74d-8ff2dbd55252": {
   "category": "software",
   "closed_at": "2026-11-05T07:37:34+00:00",
