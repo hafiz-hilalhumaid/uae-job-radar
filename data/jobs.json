@@ -357,6 +357,7 @@
  },
  "ashby:kraken.com:4753ccbf-68dc-4668-904f-a3156041fdc8": {
   "category": "software",
+  "closed_at": "2026-11-17T09:37:47+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|senior software engineer agent systems|uae",
@@ -369,7 +370,7 @@
   "salary": "",
   "score": 54,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer – Agent Systems",
   "uid": "ashby:kraken.com:4753ccbf-68dc-4668-904f-a3156041fdc8",
   "url": "https://jobs.ashbyhq.com/kraken.com/4753ccbf-68dc-4668-904f-a3156041fdc8",
@@ -3988,6 +3989,7 @@
  },
  "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb": {
   "category": "frontend",
+  "closed_at": "2026-11-17T09:37:47+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior frontend developer|uae",
@@ -4000,7 +4002,7 @@
   "salary": "",
   "score": 72,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Frontend Developer",
   "uid": "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb",
   "url": "https://jobs.lever.co/jobgether/857be3a9-978b-4d12-a736-cdcb820b55cb",
