@@ -608,6 +608,7 @@
  },
  "ashby:noda-ai:08a9faf2-76a9-496a-80da-b77384aa9041": {
   "category": "ai",
+  "closed_at": "2026-11-17T17:37:36+00:00",
   "company": "Noda Ai",
   "company_key": "ashby:noda-ai",
   "fingerprint": "nodaai|forward deployed solution engineer international|uae",
@@ -620,7 +621,7 @@
   "salary": "",
   "score": 64,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Forward-Deployed Solution Engineer - International",
   "uid": "ashby:noda-ai:08a9faf2-76a9-496a-80da-b77384aa9041",
   "url": "https://jobs.ashbyhq.com/noda-ai/08a9faf2-76a9-496a-80da-b77384aa9041",
