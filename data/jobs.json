@@ -3990,7 +3990,6 @@
  },
  "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb": {
   "category": "frontend",
-  "closed_at": "2026-11-17T09:37:47+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior frontend developer|uae",
@@ -4003,7 +4002,7 @@
   "salary": "",
   "score": 72,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Senior Frontend Developer",
   "uid": "lever:jobgether:857be3a9-978b-4d12-a736-cdcb820b55cb",
   "url": "https://jobs.lever.co/jobgether/857be3a9-978b-4d12-a736-cdcb820b55cb",
@@ -4267,6 +4266,7 @@
  },
  "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94": {
   "category": "fullstack",
+  "closed_at": "2026-11-17T20:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|java fullstack software engineer|uae",
@@ -4279,7 +4279,7 @@
   "salary": "",
   "score": 65,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
   "uid": "lever:jobgether:fedab1a4-cd4d-4490-b075-ce881c196f94",
   "url": "https://jobs.lever.co/jobgether/fedab1a4-cd4d-4490-b075-ce881c196f94",
