@@ -1213,6 +1213,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:catonetworks": {
+  "ats": "greenhouse",
+  "found": "2026-11-18",
+  "id": "catonetworks",
+  "last_uae": "2026-11-18",
+  "name": "Cato Networks",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:celonis": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -4495,6 +4504,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:logifuture": {
+  "ats": "workable",
+  "found": "2026-11-18",
+  "id": "logifuture",
+  "last_uae": "2026-11-18",
+  "name": "Logifuture",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:luxarabia-1": {
   "ats": "workable",
   "found": "2026-10-01",
@@ -4630,6 +4648,15 @@
   "uae_jobs": 45,
   "via": "sweep"
  },
+ "workable:pepperstone": {
+  "ats": "workable",
+  "found": "2026-11-18",
+  "id": "pepperstone",
+  "last_uae": "2026-11-18",
+  "name": "Pepperstone",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:petlab-co": {
   "ats": "workable",
   "found": "2026-10-10",
@@ -4684,6 +4711,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:remofirst": {
+  "ats": "workable",
+  "found": "2026-11-18",
+  "id": "remofirst",
+  "last_uae": "2026-11-18",
+  "name": "Remofirst",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:remotepass": {
   "ats": "workable",
   "found": "2026-10-01",
@@ -4709,6 +4745,15 @@
   "last_uae": "2026-11-18",
   "name": "Robusta",
   "uae_jobs": 16,
+  "via": "sweep"
+ },
+ "workable:sapsol-technologies-inc-7": {
+  "ats": "workable",
+  "found": "2026-11-18",
+  "id": "sapsol-technologies-inc-7",
+  "last_uae": "2026-11-18",
+  "name": "Sapsol Technologies Inc 7",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:scalesource-1": {
@@ -4925,6 +4970,15 @@
   "last_uae": "2026-11-18",
   "name": "Utopia Life Worth Living",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "workable:valsoft-corp": {
+  "ats": "workable",
+  "found": "2026-11-18",
+  "id": "valsoft-corp",
+  "last_uae": "2026-11-18",
+  "name": "Valsoft Corp",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:vinmar-international": {

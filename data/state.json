@@ -2985,6 +2985,7 @@
   "greenhouse:babyzone": "us",
   "greenhouse:backblaze": "us",
   "greenhouse:baidu": "us",
+  "greenhouse:bailiwick": "us",
   "greenhouse:bakerhicks": "eu_page",
   "greenhouse:balsambrands": "us",
   "greenhouse:bamboohr17": "us",
@@ -3075,6 +3076,7 @@
   "greenhouse:biohub": "us",
   "greenhouse:biomechanicsconsultingandresearchllc": "us",
   "greenhouse:biomedrealty": "us",
+  "greenhouse:biomodal": "eu_page",
   "greenhouse:bioptimus-careers": "eu_page",
   "greenhouse:bioptimus8": "eu_page",
   "greenhouse:biosphere": "us",
@@ -4250,6 +4252,7 @@
   "greenhouse:focuspartnersaustralia": "us",
   "greenhouse:focuspartnerswealth": "us",
   "greenhouse:foleyhoag": "us",
+  "greenhouse:foliahealth": "us",
   "greenhouse:follettsoftware": "us",
   "greenhouse:folxhealth": "us",
   "greenhouse:footanstey": "us",
@@ -4391,6 +4394,7 @@
   "greenhouse:geotekoperationslimited": "us",
   "greenhouse:getbuilt": "us",
   "greenhouse:getnet": "eu_page",
+  "greenhouse:getnetbrasiljovemaprendiz": "eu_page",
   "greenhouse:getyourguide": "us",
   "greenhouse:ghost": "us",
   "greenhouse:gibsondunn": "us",
@@ -4501,6 +4505,7 @@
   "greenhouse:greenirony": "us",
   "greenhouse:greenlightconsulting": "us",
   "greenhouse:greenlightguru": "us",
+  "greenhouse:greenpeace": "us",
   "greenhouse:greenplaces": "us",
   "greenhouse:greenpointtechnologies": "us",
   "greenhouse:greenthumbindustries": "us",
@@ -7785,9 +7790,9 @@
  },
  "last_digest": "2026-11-18",
  "last_sweep": {
-  "added": 3,
-  "checked": 14400,
-  "date": "2026-11-16",
+  "added": 6,
+  "checked": 12600,
+  "date": "2026-11-18",
   "total": 23518
  },
  "queue": [
@@ -103400,5 +103405,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 19283
+ "sweep_cursor": 8365
 }
