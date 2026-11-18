@@ -7783,18 +7783,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-11-16",
+ "last_digest": "2026-11-18",
  "last_sweep": {
   "added": 3,
   "checked": 14400,
   "date": "2026-11-16",
   "total": 23518
  },
- "queue": [
-  "lever:1inch:6d94cd07-e9e6-4230-a107-25fe4f3a5c9b",
-  "ashby:paradox:e878cabd-e493-432e-ab1f-ad2f4f813e16",
-  "lever:jobgether:c08eee00-dbd7-4bff-830b-0516e7cca0da"
- ],
+ "queue": [],
  "rejected": {
   "ashby:115ventures:c72f8983-033a-4a23-b41e-5b524621d29c": "2026-11-03T23:37:37+00:00",
   "ashby:115ventures:ffcaf72b-bd58-4b49-aa9f-6b6905879825": "2026-11-03T23:37:37+00:00",
