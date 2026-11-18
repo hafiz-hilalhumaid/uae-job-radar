@@ -2406,12 +2406,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 57,
+   "fails": 58,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 70,
+   "fails": 71,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -12332,6 +12332,7 @@
   "ashby:clickhouse:5822f2c8-a00c-4499-b595-85e8796db3cd": "2026-10-27T18:37:37+00:00",
   "ashby:clickhouse:586876a1-0847-4652-b799-1680eb2ef880": "2026-11-13T00:19:54+00:00",
   "ashby:clickhouse:58e30f20-26a9-4940-bd56-f2021d3ae91d": "2026-11-13T00:19:54+00:00",
+  "ashby:clickhouse:5be47330-6fe8-4bd9-968f-fccda175f9f9": "2026-11-18T21:54:52+00:00",
   "ashby:clickhouse:5bf525ff-b7dc-4c28-a521-8999bb190d8c": "2026-11-18T12:37:34+00:00",
   "ashby:clickhouse:5d287e14-c3fe-4442-8924-bcff052e7244": "2026-11-13T00:19:54+00:00",
   "ashby:clickhouse:5e8ba258-6b44-459e-a307-970a5e7db244": "2026-11-13T00:19:54+00:00",
@@ -13819,6 +13820,7 @@
   "ashby:horizon3ai:c7405594-7e7a-4881-a028-74be80e82914": "2026-10-26T21:37:34+00:00",
   "ashby:horizon3ai:c7b82351-d467-4453-9d93-9f73cf37a326": "2026-11-13T00:19:54+00:00",
   "ashby:horizon3ai:c87e8623-770a-489f-9ab1-1be4a37a3263": "2026-11-13T00:19:54+00:00",
+  "ashby:horizon3ai:c916d392-b0dc-48f7-bf9c-72cba7e8284c": "2026-11-18T21:54:52+00:00",
   "ashby:horizon3ai:cdc05764-c378-42e2-8a9d-7ce3cc7a4444": "2026-10-23T19:37:34+00:00",
   "ashby:horizon3ai:d1618fd9-7610-445a-be91-3ca9cffbb780": "2026-11-13T00:19:54+00:00",
   "ashby:horizon3ai:d29ee5f3-2b4f-416f-8771-7c419e7db974": "2026-11-13T00:19:54+00:00",
@@ -23063,6 +23065,7 @@
   "greenhouse:appian:8396993": "2026-11-17T20:37:35+00:00",
   "greenhouse:appian:8398600": "2026-11-18T09:37:37+00:00",
   "greenhouse:appian:8398900": "2026-11-18T13:37:36+00:00",
+  "greenhouse:appian:8400610": "2026-11-18T21:54:52+00:00",
   "greenhouse:appspace:6163357004": "2026-11-13T00:19:54+00:00",
   "greenhouse:appspace:6196327004": "2026-10-15T20:37:34+00:00",
   "greenhouse:appspace:6223561004": "2026-10-16T21:37:36+00:00",
@@ -35459,6 +35462,7 @@
   "greenhouse:intersystems:6612217003": "2026-11-13T00:19:54+00:00",
   "greenhouse:intersystems:6666089003": "2026-11-13T00:19:54+00:00",
   "greenhouse:intersystems:6682743003": "2026-11-13T00:19:54+00:00",
+  "greenhouse:intersystems:6748692003": "2026-11-18T21:54:52+00:00",
   "greenhouse:intersystems:6969077003": "2026-11-13T00:19:54+00:00",
   "greenhouse:intersystems:7504143003": "2026-11-13T00:19:54+00:00",
   "greenhouse:intersystems:7570533003": "2026-11-13T00:19:54+00:00",
@@ -42394,6 +42398,7 @@
   "greenhouse:torq:6264880004": "2026-11-18T09:37:37+00:00",
   "greenhouse:torq:6265435004": "2026-11-18T19:37:46+00:00",
   "greenhouse:torq:6265557004": "2026-11-18T21:37:35+00:00",
+  "greenhouse:torq:6265594004": "2026-11-18T21:54:52+00:00",
   "greenhouse:towerresearchcapital:16619": "2026-11-17T01:37:34+00:00",
   "greenhouse:towerresearchcapital:16635": "2026-11-17T01:37:34+00:00",
   "greenhouse:towerresearchcapital:3878081": "2026-11-17T01:37:34+00:00",
@@ -76879,6 +76884,7 @@
   "recruitee:transperfect:2832756": "2026-11-18T18:37:37+00:00",
   "recruitee:transperfect:2832758": "2026-11-18T18:37:37+00:00",
   "recruitee:transperfect:2832774": "2026-11-18T18:37:37+00:00",
+  "recruitee:transperfect:2832825": "2026-11-18T21:54:52+00:00",
   "recruitee:unitedalsaqergroup:1511417": "2026-11-16T01:37:36+00:00",
   "recruitee:unitedalsaqergroup:1687152": "2026-11-16T01:37:36+00:00",
   "recruitee:unitedalsaqergroup:1903070": "2026-11-06T07:37:34+00:00",
@@ -92134,6 +92140,7 @@
   "workable:pavago:39F56C51E1": "2026-11-11T19:37:37+00:00",
   "workable:pavago:39FA0937DA": "2026-10-15T18:16:49+00:00",
   "workable:pavago:3A2039880E": "2026-11-13T04:37:33+00:00",
+  "workable:pavago:3A535FE0C2": "2026-11-18T21:54:52+00:00",
   "workable:pavago:3AADCA50F6": "2026-11-16T18:37:36+00:00",
   "workable:pavago:3AC4D4712C": "2026-10-27T20:37:36+00:00",
   "workable:pavago:3AED8E0723": "2026-10-07T20:36:06+00:00",
@@ -94157,6 +94164,7 @@
   "workable:sideinc:B0BDCD60A4": "2026-10-16T17:37:33+00:00",
   "workable:sideinc:B1B9AA45D4": "2026-11-06T07:37:34+00:00",
   "workable:sideinc:B29B43DD52": "2026-11-13T04:37:33+00:00",
+  "workable:sideinc:B2B097A795": "2026-11-18T21:54:52+00:00",
   "workable:sideinc:B38EDDE6FB": "2026-11-13T04:37:33+00:00",
   "workable:sideinc:B5A9A1421E": "2026-10-16T19:37:38+00:00",
   "workable:sideinc:BA54FC78C9": "2026-11-17T02:37:51+00:00",
