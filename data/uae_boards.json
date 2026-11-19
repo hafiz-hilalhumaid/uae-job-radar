@@ -2401,6 +2401,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "recruitee:dbfinancial": {
+  "ats": "recruitee",
+  "found": "2026-11-19",
+  "id": "dbfinancial",
+  "last_uae": "2026-11-19",
+  "name": "Dbfinancial",
+  "uae_jobs": 2,
+  "via": "sweep"
+ },
  "recruitee:deluxeholidayhomes": {
   "ats": "recruitee",
   "found": "2026-10-01",
@@ -3040,6 +3049,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "smartrecruiters:ServiceNow": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-19",
+  "id": "ServiceNow",
+  "last_uae": "2026-11-19",
+  "name": "Servicenow",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:ShijiGroup": {
   "ats": "smartrecruiters",
   "found": "2026-09-28",
@@ -3342,6 +3360,15 @@
   "id": "nielseniq",
   "last_uae": "2026-11-19",
   "name": "Nielseniq",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "smartrecruiters:servicenow": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-19",
+  "id": "servicenow",
+  "last_uae": "2026-11-19",
+  "name": "Servicenow",
   "uae_jobs": 1,
   "via": "sweep"
  },

@@ -5241,6 +5241,7 @@
   "greenhouse:lokalise": "us",
   "greenhouse:lolablankets": "us",
   "greenhouse:longbeachaudi": "us",
+  "greenhouse:longmark": "us",
   "greenhouse:lookers": "eu_page",
   "greenhouse:lookout": "us",
   "greenhouse:lookoutinc": "us",
@@ -5760,6 +5761,7 @@
   "greenhouse:offshorelaunch": "us",
   "greenhouse:ogilvy": "us",
   "greenhouse:ogilvyaus": "us",
+  "greenhouse:ogilvycanada": "us",
   "greenhouse:ogilvygermany": "us",
   "greenhouse:ogilvyhealthcanada": "us",
   "greenhouse:ogilvyhealthuk": "us",
@@ -6291,6 +6293,7 @@
   "greenhouse:raft": "us",
   "greenhouse:railsware": "us",
   "greenhouse:raisin": "eu_page",
+  "greenhouse:rajasthanroyals": "us",
   "greenhouse:ramosmarbleandgranite": "us",
   "greenhouse:ramp": "us",
   "greenhouse:rangeviewinc": "us",
@@ -6384,6 +6387,7 @@
   "greenhouse:reolink": "us",
   "greenhouse:repisodic": "us",
   "greenhouse:reproductivefreedomforall": "us",
+  "greenhouse:reprofreedomforallinternships": "us",
   "greenhouse:res": "us",
   "greenhouse:researchpartnership": "us",
   "greenhouse:resideliving": "us",
@@ -6618,6 +6622,7 @@
   "greenhouse:seekout": "us",
   "greenhouse:seekr": "us",
   "greenhouse:seenhealth": "us",
+  "greenhouse:seer": "us",
   "greenhouse:seesaw": "us",
   "greenhouse:seisandbox": "us",
   "greenhouse:selectmanagementgroup": "us",
@@ -7202,6 +7207,7 @@
   "greenhouse:tollesonwealthmanagement": "us",
   "greenhouse:tomofunfurbo": "us",
   "greenhouse:tomorrow": "us",
+  "greenhouse:tomorrowhealth": "us",
   "greenhouse:toojaysdeli": "us",
   "greenhouse:topsort": "us",
   "greenhouse:topsteptrader": "us",
@@ -7814,9 +7820,9 @@
  },
  "last_digest": "2026-11-18",
  "last_sweep": {
-  "added": 6,
-  "checked": 12600,
-  "date": "2026-11-18",
+  "added": 3,
+  "checked": 11000,
+  "date": "2026-11-19",
   "total": 23518
  },
  "queue": [
@@ -101807,5 +101813,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 8365
+ "sweep_cursor": 19365
 }
