@@ -4203,6 +4203,7 @@
  },
  "lever:jobgether:a7ed8c1e-ea18-4a62-824a-37c58f241339": {
   "category": "fullstack",
+  "closed_at": "2026-11-19T20:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|full stack software engineer ai first|uae",
@@ -4215,7 +4216,7 @@
   "salary": "",
   "score": 71,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Full Stack Software Engineer - AI-First",
   "uid": "lever:jobgether:a7ed8c1e-ea18-4a62-824a-37c58f241339",
   "url": "https://jobs.lever.co/jobgether/a7ed8c1e-ea18-4a62-824a-37c58f241339",
