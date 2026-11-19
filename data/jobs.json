@@ -5475,6 +5475,26 @@
   "url": "https://apply.workable.com/j/445826625E",
   "workplace": ""
  },
+ "workable:gsstech-group:597CB30F08": {
+  "category": "ai",
+  "company": "Gsstech Group",
+  "company_key": "workable:gsstech-group",
+  "fingerprint": "gsstech|ai ml engineer|fujairah",
+  "first_seen": "2026-11-19T09:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Fujairah, Fujairah, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-19",
+  "salary": "",
+  "score": 70,
+  "source": "workable",
+  "status": "open",
+  "title": "AI/ML Engineer",
+  "uid": "workable:gsstech-group:597CB30F08",
+  "url": "https://apply.workable.com/j/597CB30F08",
+  "workplace": ""
+ },
  "workable:gsstech-group:6FD8EF5C86": {
   "category": "ai",
   "closed_at": "2026-10-23T07:29:52+00:00",
