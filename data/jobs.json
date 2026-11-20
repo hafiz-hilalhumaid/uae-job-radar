@@ -4838,6 +4838,26 @@
   "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000141192639-software-engineer-backend-php-",
   "workplace": ""
  },
+ "smartrecruiters:SellAnyCarcom:744000153727459": {
+  "category": "software",
+  "company": "SellAnyCar",
+  "company_key": "smartrecruiters:SellAnyCarcom",
+  "fingerprint": "sellanycar|software engineer backend|dubai",
+  "first_seen": "2026-11-20T13:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-10-06T10:54:28.859Z",
+  "salary": "",
+  "score": 52,
+  "source": "smartrecruiters",
+  "status": "open",
+  "title": "Software Engineer - Backend (PHP)",
+  "uid": "smartrecruiters:SellAnyCarcom:744000153727459",
+  "url": "https://jobs.smartrecruiters.com/SellAnyCarcom/744000153727459-software-engineer-backend-php-",
+  "workplace": ""
+ },
  "smartrecruiters:Sia:744000157081509": {
   "category": "ai",
   "closed_at": "2026-10-29T17:37:33+00:00",
