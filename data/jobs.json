@@ -3888,6 +3888,26 @@
   "url": "https://jobs.lever.co/jobgether/164d7026-388a-4bce-b1e6-9291fe7ef69a",
   "workplace": "remote"
  },
+ "lever:jobgether:18cea25a-85e6-470b-a1f4-f5b87871a2ac": {
+  "category": "ai",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior ai engineer|uae",
+  "first_seen": "2026-11-20T20:13:23+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-20T12:12:34.964000+00:00",
+  "salary": "",
+  "score": 72,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior AI Engineer (Internal Tools & Agents)",
+  "uid": "lever:jobgether:18cea25a-85e6-470b-a1f4-f5b87871a2ac",
+  "url": "https://jobs.lever.co/jobgether/18cea25a-85e6-470b-a1f4-f5b87871a2ac",
+  "workplace": "remote"
+ },
  "lever:jobgether:2a329053-4f84-4f8e-bc18-5a8aca1194f1": {
   "category": "software",
   "closed_at": "2026-10-06T20:18:27+00:00",
