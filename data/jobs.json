@@ -4694,6 +4694,7 @@
  },
  "smartrecruiters:DeliveryHero:744000159382315": {
   "category": "software",
+  "closed_at": "2026-11-20T12:37:33+00:00",
   "company": "talabat (Delivery Hero)",
   "company_key": "smartrecruiters:DeliveryHero",
   "fingerprint": "talabatdeliveryhero|software engineer l backend|dubai",
@@ -4706,7 +4707,7 @@
   "salary": "",
   "score": 45,
   "source": "smartrecruiters",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer l - Backend",
   "uid": "smartrecruiters:DeliveryHero:744000159382315",
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159382315-software-engineer-l-backend",
