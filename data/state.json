@@ -2442,12 +2442,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 28,
+   "fails": 29,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 147,
+   "fails": 148,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
