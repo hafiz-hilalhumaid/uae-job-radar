@@ -3168,6 +3168,52 @@
   "url": "https://jobs.thecignagroup.com/us/en/job/26013913/Front-end-developer-NAS-Neuron",
   "workplace": "On-site"
  },
+ "fantastic:2477537744": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "fantastic",
+  "expires": "2026-12-12T01:30:19+00:00",
+  "fingerprint": "jobgether|software engineer postgres tooling|uae",
+  "first_seen": "2026-11-21T01:30:19+00:00",
+  "flags": [
+   "8+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-11-20T00:00:00",
+  "salary": "",
+  "score": 31,
+  "source": "fantastic/lever.co",
+  "status": "open",
+  "title": "Software Engineer - Postgres Tooling",
+  "uid": "fantastic:2477537744",
+  "url": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
+  "workplace": "Remote Solely"
+ },
+ "fantastic:2477709712": {
+  "category": "ai",
+  "company": "ALBA CARS",
+  "company_key": "fantastic",
+  "expires": "2026-12-12T01:30:19+00:00",
+  "fingerprint": "albacars|ai engineer|dubai",
+  "first_seen": "2026-11-21T01:30:19+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-20T07:10:26",
+  "salary": "AED 6000-8000 month",
+  "score": 75,
+  "source": "fantastic/teamtailor",
+  "status": "open",
+  "title": "AI Engineer (Vibe Coder)",
+  "uid": "fantastic:2477709712",
+  "url": "https://careers.albacars.ae/jobs/8772071-ai-engineer-vibe-coder",
+  "workplace": "On-site"
+ },
  "greenhouse:ai71ai:4608506101": {
   "category": "ai",
   "company": "ai71 _",
