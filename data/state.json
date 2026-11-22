@@ -2442,12 +2442,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 7,
+   "fails": 8,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 159,
+   "fails": 160,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -9719,6 +9719,7 @@
   "ashby:OpenAI:83b21911-d467-44ab-af3b-c0b898488ab4": "2026-11-20T03:11:31+00:00",
   "ashby:OpenAI:83f6d415-9462-4afc-a539-ca8d996e011a": "2026-11-13T00:19:54+00:00",
   "ashby:OpenAI:840963bb-7b1a-4021-91a0-40baf71b7e20": "2026-11-13T00:19:54+00:00",
+  "ashby:OpenAI:848c5e55-422c-4797-add4-22e0e6511a47": "2026-11-22T03:37:33+00:00",
   "ashby:OpenAI:850a0f1b-26ed-462e-9236-22c9f09aa03c": "2026-10-28T23:37:34+00:00",
   "ashby:OpenAI:85d4e269-af3f-4b62-91d3-8ede8361cd16": "2026-11-04T14:37:35+00:00",
   "ashby:OpenAI:85feb543-f234-4db3-9d9c-a6fb195ddc19": "2026-11-13T00:19:54+00:00",
@@ -16727,6 +16728,7 @@
   "ashby:openai:83ef2875-3b91-4f4d-88c5-68317e56d039": "2026-11-08T21:37:34+00:00",
   "ashby:openai:83f6d415-9462-4afc-a539-ca8d996e011a": "2026-11-08T21:37:34+00:00",
   "ashby:openai:840963bb-7b1a-4021-91a0-40baf71b7e20": "2026-11-08T21:37:34+00:00",
+  "ashby:openai:848c5e55-422c-4797-add4-22e0e6511a47": "2026-11-22T03:37:33+00:00",
   "ashby:openai:850a0f1b-26ed-462e-9236-22c9f09aa03c": "2026-10-28T23:37:34+00:00",
   "ashby:openai:85d4e269-af3f-4b62-91d3-8ede8361cd16": "2026-11-04T14:37:35+00:00",
   "ashby:openai:85feb543-f234-4db3-9d9c-a6fb195ddc19": "2026-11-09T20:37:35+00:00",
@@ -20725,6 +20727,7 @@
   "greenhouse:andurilindustries:5134868007": "2026-11-21T01:30:19+00:00",
   "greenhouse:andurilindustries:5135008007": "2026-11-13T00:19:54+00:00",
   "greenhouse:andurilindustries:5135616007": "2026-11-13T00:19:54+00:00",
+  "greenhouse:andurilindustries:5136122007": "2026-11-22T03:37:33+00:00",
   "greenhouse:andurilindustries:5136146007": "2026-11-13T00:19:54+00:00",
   "greenhouse:andurilindustries:5136367007": "2026-10-14T18:37:34+00:00",
   "greenhouse:andurilindustries:5136534007": "2026-11-13T00:19:54+00:00",
@@ -34883,6 +34886,7 @@
   "greenhouse:gitlab:8658878002": "2026-11-13T00:19:54+00:00",
   "greenhouse:gitlab:8675560002": "2026-11-13T00:19:54+00:00",
   "greenhouse:gitlab:8682860002": "2026-11-13T00:19:54+00:00",
+  "greenhouse:gitlab:8687958002": "2026-11-22T03:37:33+00:00",
   "greenhouse:gitlab:8688078002": "2026-11-13T00:19:54+00:00",
   "greenhouse:gitlab:8689236002": "2026-11-13T00:19:54+00:00",
   "greenhouse:gitlab:8689243002": "2026-11-21T17:29:03+00:00",
@@ -46560,6 +46564,7 @@
   "lever:crypto:2a8eb2c0-eb04-4d85-8e8a-70835d61764e": "2026-11-08T21:37:34+00:00",
   "lever:crypto:2b22d4ce-69f2-497e-bdf4-57c80fc1268a": "2026-11-08T21:37:34+00:00",
   "lever:crypto:2da41337-1968-407e-8837-d703bca8d212": "2026-11-11T21:37:34+00:00",
+  "lever:crypto:2f09bd86-e134-4fcc-bad9-b17d44ca5f9f": "2026-11-22T03:37:33+00:00",
   "lever:crypto:2f728145-d821-4e28-9359-22f59632f049": "2026-11-18T12:37:34+00:00",
   "lever:crypto:306d5afc-5dfc-47bb-8f53-f0817e32bb44": "2026-11-19T10:37:38+00:00",
   "lever:crypto:34663b60-9015-4c56-be57-42890411746f": "2026-10-26T04:37:35+00:00",
@@ -46614,6 +46619,7 @@
   "lever:crypto:a898683e-d211-4e8c-8576-21f676993d90": "2026-11-09T00:52:29+00:00",
   "lever:crypto:a9695010-f3ae-4264-a0b6-458e43f8a696": "2026-10-09T09:37:36+00:00",
   "lever:crypto:aa2dbb2a-1d58-4b46-9556-423500c0672f": "2026-11-19T03:24:19+00:00",
+  "lever:crypto:af08c610-f050-479a-8ec6-b4d5102bf460": "2026-11-22T03:37:33+00:00",
   "lever:crypto:b27075e9-45b8-440f-96a1-cd19326fe8e2": "2026-11-08T21:37:34+00:00",
   "lever:crypto:b4b242cd-6b65-48c9-bd5c-087160a35897": "2026-10-26T14:37:36+00:00",
   "lever:crypto:b4dc8249-5e6d-4c64-a4e8-cce3dd2be239": "2026-11-16T19:37:36+00:00",
