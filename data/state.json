@@ -2851,6 +2851,7 @@
   "greenhouse:applytoterial": "us",
   "greenhouse:appnovation": "us",
   "greenhouse:appodeal": "us",
+  "greenhouse:appomni": "us",
   "greenhouse:appsflyer": "us",
   "greenhouse:appspace": "us",
   "greenhouse:apptronik": "us",
@@ -2894,6 +2895,7 @@
   "greenhouse:arsys": "eu_page",
   "greenhouse:artefact": "us",
   "greenhouse:artefactlinkedin": "us",
+  "greenhouse:arteriaai": "us",
   "greenhouse:articlegroup": "us",
   "greenhouse:arvaintelligence": "us",
   "greenhouse:arvinas": "us",
@@ -3318,6 +3320,7 @@
   "greenhouse:canopyworks": "us",
   "greenhouse:canto": "us",
   "greenhouse:capco": "us",
+  "greenhouse:capellaspace": "us",
   "greenhouse:capfigroupe": "eu_page",
   "greenhouse:capgeminideutschlandgmbh": "eu_page",
   "greenhouse:capintel": "us",
@@ -3848,6 +3851,7 @@
   "greenhouse:digitalbiology": "us",
   "greenhouse:digitalbridge": "us",
   "greenhouse:digitalcurrencygroup": "us",
+  "greenhouse:digitaleclipse": "us",
   "greenhouse:digitalextremes": "us",
   "greenhouse:digitalhands": "us",
   "greenhouse:digitalocean98": "us",
@@ -4101,6 +4105,7 @@
   "greenhouse:ernesta": "us",
   "greenhouse:ernestpackagingsolutions": "us",
   "greenhouse:errg": "us",
+  "greenhouse:escribe": "us",
   "greenhouse:escribers": "us",
   "greenhouse:espresa": "us",
   "greenhouse:esri": "us",
@@ -4184,6 +4189,7 @@
   "greenhouse:fanaticsinc": "us",
   "greenhouse:fanduel": "us",
   "greenhouse:faradayfuture": "us",
+  "greenhouse:faralloncapitalmanagementllc": "us",
   "greenhouse:farmersmutualhailinsurancecompany": "us",
   "greenhouse:farmsanctuary": "us",
   "greenhouse:faropoint": "us",
@@ -5774,6 +5780,7 @@
   "greenhouse:ogilvy": "us",
   "greenhouse:ogilvyaus": "us",
   "greenhouse:ogilvycanada": "us",
+  "greenhouse:ogilvyearlycareers": "us",
   "greenhouse:ogilvygermany": "us",
   "greenhouse:ogilvyhealthcanada": "us",
   "greenhouse:ogilvyhealthuk": "us",
@@ -7832,9 +7839,9 @@
  },
  "last_digest": "2026-11-23",
  "last_sweep": {
-  "added": 0,
-  "checked": 3000,
-  "date": "2026-11-22",
+  "added": 9,
+  "checked": 16400,
+  "date": "2026-11-23",
   "total": 23518
  },
  "queue": [
@@ -100250,5 +100257,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/zmir-Turkey/Customer-Executive---zmir_R-1189072-1": "2026-10-12T13:37:33+00:00"
  },
- "sweep_cursor": 22365
+ "sweep_cursor": 15247
 }

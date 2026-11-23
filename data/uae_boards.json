@@ -35,6 +35,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:Clera": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "Clera",
+  "last_uae": "2026-11-23",
+  "name": "Clera",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:Cohere": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -303,6 +312,15 @@
   "uae_jobs": 5,
   "via": "sweep"
  },
+ "ashby:clera": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "clera",
+  "last_uae": "2026-11-23",
+  "name": "Clera",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:clickhouse": {
   "ats": "ashby",
   "found": "2026-09-28",
@@ -400,6 +418,24 @@
   "last_uae": "2026-11-23",
   "name": "Elevenlabs",
   "uae_jobs": 11,
+  "via": "sweep"
+ },
+ "ashby:ema": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "ema",
+  "last_uae": "2026-11-23",
+  "name": "Ema",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:everai": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "everai",
+  "last_uae": "2026-11-23",
+  "name": "Everai",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "ashby:happyrobot.ai": {
@@ -725,12 +761,30 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "ashby:sanctuary": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "sanctuary",
+  "last_uae": "2026-11-23",
+  "name": "Sanctuary",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "ashby:sardine": {
   "ats": "ashby",
   "found": "2026-09-28",
   "id": "sardine",
   "last_uae": "2026-11-23",
   "name": "Sardine",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "ashby:sentient": {
+  "ats": "ashby",
+  "found": "2026-11-23",
+  "id": "sentient",
+  "last_uae": "2026-11-23",
+  "name": "Sentient",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1156,6 +1210,16 @@
   "id": "bitgo",
   "last_uae": "2026-11-17",
   "name": "Bitgo",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:bitpanda": {
+  "ats": "greenhouse",
+  "found": "2026-11-23",
+  "host": "eu",
+  "id": "bitpanda",
+  "last_uae": "2026-11-23",
+  "name": "Bitpanda",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -1621,6 +1685,16 @@
   "uae_jobs": 5,
   "via": "sweep"
  },
+ "greenhouse:justmarkets": {
+  "ats": "greenhouse",
+  "found": "2026-11-23",
+  "host": "eu",
+  "id": "justmarkets",
+  "last_uae": "2026-11-23",
+  "name": "Justmarkets",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:landor": {
   "ats": "greenhouse",
   "found": "2026-10-10",
@@ -1854,6 +1928,15 @@
   "id": "rondoenergy",
   "last_uae": "2026-11-23",
   "name": "Rondo Energy",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:rubrik": {
+  "ats": "greenhouse",
+  "found": "2026-11-23",
+  "id": "rubrik",
+  "last_uae": "2026-11-23",
+  "name": "Rubrik Job Board",
   "uae_jobs": 1,
   "via": "sweep"
  },
