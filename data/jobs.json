@@ -4029,6 +4029,7 @@
  },
  "lever:jobgether:18cea25a-85e6-470b-a1f4-f5b87871a2ac": {
   "category": "ai",
+  "closed_at": "2026-11-23T13:37:34+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior ai engineer|uae",
@@ -4041,7 +4042,7 @@
   "salary": "",
   "score": 72,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior AI Engineer (Internal Tools & Agents)",
   "uid": "lever:jobgether:18cea25a-85e6-470b-a1f4-f5b87871a2ac",
   "url": "https://jobs.lever.co/jobgether/18cea25a-85e6-470b-a1f4-f5b87871a2ac",
