@@ -121,6 +121,26 @@
   "url": "https://jobs.ashbyhq.com/brainco/d8b1b928-d00e-4516-ba85-398cf9aba690",
   "workplace": "Hybrid"
  },
+ "ashby:clera:04c4e97e-33bd-4adf-b6b8-178b6155a3eb": {
+  "category": "ai",
+  "company": "Clera",
+  "company_key": "ashby:clera",
+  "fingerprint": "clera|ai builder forward deployed engineer|uae",
+  "first_seen": "2026-11-23T23:37:33+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "seed",
+  "posted_at": "2026-11-23T01:04:46.288+00:00",
+  "salary": "",
+  "score": 70,
+  "source": "ashby",
+  "status": "open",
+  "title": "AI Builder, Forward Deployed Engineer",
+  "uid": "ashby:clera:04c4e97e-33bd-4adf-b6b8-178b6155a3eb",
+  "url": "https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb",
+  "workplace": "OnSite"
+ },
  "ashby:cohere:291e5dee-dcda-49e6-a1b6-dae0d48f80af": {
   "category": "ai",
   "company": "Cohere",
