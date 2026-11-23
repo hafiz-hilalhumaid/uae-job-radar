@@ -3502,6 +3502,26 @@
   "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035675101",
   "workplace": ""
  },
+ "greenhouse:bybit:5044371101": {
+  "category": "frontend",
+  "company": "Bybit",
+  "company_key": "greenhouse:bybit",
+  "fingerprint": "bybit|principal frontend engineer|abudhabi",
+  "first_seen": "2026-11-23T16:37:37+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, UAE, Malaysia",
+  "notified": "queued",
+  "posted_at": "2026-11-23T11:30:34-05:00",
+  "salary": "",
+  "score": 57,
+  "source": "greenhouse",
+  "status": "open",
+  "title": "Principal Frontend Engineer",
+  "uid": "greenhouse:bybit:5044371101",
+  "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5044371101",
+  "workplace": ""
+ },
  "greenhouse:datacamp:7619318": {
   "category": "ai",
   "company": "DataCamp",
