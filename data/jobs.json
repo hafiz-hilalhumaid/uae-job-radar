@@ -3263,29 +3263,6 @@
   "url": "https://jobs.thecignagroup.com/us/en/job/26013913/Front-end-developer-NAS-Neuron",
   "workplace": "On-site"
  },
- "fantastic:2477537744": {
-  "category": "software",
-  "company": "Jobgether",
-  "company_key": "fantastic",
-  "expires": "2026-12-12T01:30:19+00:00",
-  "fingerprint": "jobgether|software engineer postgres tooling|uae",
-  "first_seen": "2026-11-21T01:30:19+00:00",
-  "flags": [
-   "8+ yrs asked"
-  ],
-  "loc_type": "uae",
-  "location": "United Arab Emirates",
-  "notified": "none",
-  "posted_at": "2026-11-20T00:00:00",
-  "salary": "",
-  "score": 31,
-  "source": "fantastic/lever.co",
-  "status": "open",
-  "title": "Software Engineer - Postgres Tooling",
-  "uid": "fantastic:2477537744",
-  "url": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
-  "workplace": "Remote Solely"
- },
  "fantastic:2477709712": {
   "category": "ai",
   "company": "ALBA CARS",
@@ -4350,6 +4327,7 @@
  },
  "lever:jobgether:5617c640-d552-4348-8a98-aabd3598d9e4": {
   "category": "ai",
+  "closed_at": "2026-11-24T20:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|machine learning engineer|uae",
@@ -4362,10 +4340,30 @@
   "salary": "",
   "score": 73,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Machine Learning Engineer",
   "uid": "lever:jobgether:5617c640-d552-4348-8a98-aabd3598d9e4",
   "url": "https://jobs.lever.co/jobgether/5617c640-d552-4348-8a98-aabd3598d9e4",
+  "workplace": "remote"
+ },
+ "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|senior software engineer bot detection|uae",
+  "first_seen": "2026-11-24T20:37:36+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-24T16:41:14.251000+00:00",
+  "salary": "",
+  "score": 53,
+  "source": "lever",
+  "status": "open",
+  "title": "Senior Software Engineer, Bot Detection (Client-Side & Signals)",
+  "uid": "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134",
+  "url": "https://jobs.lever.co/jobgether/58e90412-ae91-443b-8d33-d43be4f8e134",
   "workplace": "remote"
  },
  "lever:jobgether:74e0b8ea-9174-4f4a-a314-9df871eda7bb": {
@@ -4602,6 +4600,7 @@
  },
  "lever:jobgether:c08eee00-dbd7-4bff-830b-0516e7cca0da": {
   "category": "software",
+  "closed_at": "2026-11-24T20:37:36+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|middle software engineer backend|uae",
@@ -4614,7 +4613,7 @@
   "salary": "",
   "score": 45,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Middle Software Engineer - Backend (Platform)",
   "uid": "lever:jobgether:c08eee00-dbd7-4bff-830b-0516e7cca0da",
   "url": "https://jobs.lever.co/jobgether/c08eee00-dbd7-4bff-830b-0516e7cca0da",
@@ -4663,6 +4662,28 @@
   "uid": "lever:jobgether:d1fdc68c-7296-4ade-a52d-122a933b4722",
   "url": "https://jobs.lever.co/jobgether/d1fdc68c-7296-4ade-a52d-122a933b4722",
   "workplace": "remote"
+ },
+ "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e": {
+  "category": "software",
+  "company": "Jobgether",
+  "company_key": "lever:jobgether",
+  "fingerprint": "jobgether|software engineer postgres tooling|uae",
+  "first_seen": "2026-11-21T01:30:19+00:00",
+  "flags": [
+   "8+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-11-20T00:00:00",
+  "salary": "",
+  "score": 31,
+  "source": "lever",
+  "status": "open",
+  "title": "Software Engineer - Postgres Tooling",
+  "uid": "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
+  "url": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
+  "workplace": "Remote Solely"
  },
  "lever:jobgether:e04a1da1-47af-4daa-90aa-9896e7bdcf88": {
   "category": "frontend",
