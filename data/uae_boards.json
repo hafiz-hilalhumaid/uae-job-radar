@@ -197,6 +197,14 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
+ "ashby:aleroy": {
+  "ats": "ashby",
+  "found": "2026-11-24",
+  "id": "aleroy",
+  "last_uae": "2026-11-24",
+  "name": "Aleroy",
+  "via": "fantastic"
+ },
  "ashby:algodriven": {
   "ats": "ashby",
   "found": "2026-10-21",
