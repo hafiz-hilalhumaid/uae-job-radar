@@ -3570,6 +3570,7 @@
  },
  "greenhouse:bybit:4905494101": {
   "category": "ai",
+  "closed_at": "2026-11-24T06:37:36+00:00",
   "company": "Bybit",
   "company_key": "greenhouse:bybit",
   "fingerprint": "bybit|principal ai agent development engineer architect|abudhabi",
@@ -3584,7 +3585,7 @@
   "salary": "",
   "score": 77,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Principal AI Agent Development Engineer/Architect",
   "uid": "greenhouse:bybit:4905494101",
   "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4905494101",
