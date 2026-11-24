@@ -163,6 +163,7 @@
  },
  "ashby:clera:04c4e97e-33bd-4adf-b6b8-178b6155a3eb": {
   "category": "ai",
+  "closed_at": "2026-11-24T03:37:36+00:00",
   "company": "Clera",
   "company_key": "ashby:clera",
   "fingerprint": "clera|ai builder forward deployed engineer|uae",
@@ -175,7 +176,7 @@
   "salary": "",
   "score": 70,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "AI Builder, Forward Deployed Engineer",
   "uid": "ashby:clera:04c4e97e-33bd-4adf-b6b8-178b6155a3eb",
   "url": "https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb",
