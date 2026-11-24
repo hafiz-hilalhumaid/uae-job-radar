@@ -505,6 +505,7 @@
  },
  "ashby:kraken.com:932fa767-7a6d-45bb-807b-48f881b53aeb": {
   "category": "frontend",
+  "closed_at": "2026-11-24T22:37:40+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|software engineer ii frontend developer platform|uae",
@@ -517,7 +518,7 @@
   "salary": "",
   "score": 74,
   "source": "ashby",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer II - Frontend - Developer Platform",
   "uid": "ashby:kraken.com:932fa767-7a6d-45bb-807b-48f881b53aeb",
   "url": "https://jobs.ashbyhq.com/kraken.com/932fa767-7a6d-45bb-807b-48f881b53aeb",
