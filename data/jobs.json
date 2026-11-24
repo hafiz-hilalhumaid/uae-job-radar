@@ -3840,6 +3840,7 @@
  },
  "greenhouse:telnyx54:7992726003": {
   "category": "ai",
+  "closed_at": "2026-11-24T00:37:36+00:00",
   "company": "Telnyx",
   "company_key": "greenhouse:telnyx54",
   "fingerprint": "telnyx|forward deployed engineer uae|dubai",
@@ -3854,7 +3855,7 @@
   "salary": "",
   "score": 87,
   "source": "greenhouse",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Engineer, UAE",
   "uid": "greenhouse:telnyx54:7992726003",
   "url": "https://job-boards.greenhouse.io/telnyx54/jobs/7992726003",
