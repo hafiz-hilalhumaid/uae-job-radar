@@ -3274,6 +3274,15 @@
   "uae_jobs": 7,
   "via": "sweep"
  },
+ "smartrecruiters:Veremark": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-25",
+  "id": "Veremark",
+  "last_uae": "2026-11-25",
+  "name": "Veremark",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "smartrecruiters:VirtuaAdvancedSolution": {
   "ats": "smartrecruiters",
   "found": "2026-11-11",
@@ -3514,6 +3523,15 @@
   "last_uae": "2026-11-25",
   "name": "Veoliaenvironnementsa",
   "uae_jobs": 7,
+  "via": "sweep"
+ },
+ "smartrecruiters:veremark": {
+  "ats": "smartrecruiters",
+  "found": "2026-11-25",
+  "id": "veremark",
+  "last_uae": "2026-11-25",
+  "name": "Veremark",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "smartrecruiters:whitecollars": {
@@ -4315,6 +4333,15 @@
   "uae_jobs": 7,
   "via": "sweep"
  },
+ "workable:genetec-inc": {
+  "ats": "workable",
+  "found": "2026-11-25",
+  "id": "genetec-inc",
+  "last_uae": "2026-11-25",
+  "name": "Genetec Inc",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:genplusgroup": {
   "ats": "workable",
   "found": "2026-10-10",
@@ -4511,6 +4538,15 @@
   "last_uae": "2026-11-25",
   "name": "Innovaccer Analytics",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:innovationteam": {
+  "ats": "workable",
+  "found": "2026-11-25",
+  "id": "innovationteam",
+  "last_uae": "2026-11-25",
+  "name": "Innovationteam",
+  "uae_jobs": 3,
   "via": "sweep"
  },
  "workable:intellecthq": {
