@@ -4711,6 +4711,7 @@
  },
  "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e": {
   "category": "software",
+  "closed_at": "2026-11-25T08:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer postgres tooling|uae",
@@ -4725,7 +4726,7 @@
   "salary": "",
   "score": 31,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer - Postgres Tooling",
   "uid": "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
   "url": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
