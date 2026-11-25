@@ -4394,6 +4394,7 @@
  },
  "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134": {
   "category": "software",
+  "closed_at": "2026-11-25T09:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior software engineer bot detection|uae",
@@ -4406,7 +4407,7 @@
   "salary": "",
   "score": 53,
   "source": "lever",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Software Engineer, Bot Detection (Client-Side & Signals)",
   "uid": "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134",
   "url": "https://jobs.lever.co/jobgether/58e90412-ae91-443b-8d33-d43be4f8e134",
