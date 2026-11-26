@@ -7899,9 +7899,9 @@
  },
  "last_digest": "2026-11-25",
  "last_sweep": {
-  "added": 4,
-  "checked": 5600,
-  "date": "2026-11-25",
+  "added": 2,
+  "checked": 9600,
+  "date": "2026-11-26",
   "total": 23518
  },
  "queue": [
@@ -104957,5 +104957,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Yogyakarta-Indonesia/Horeca-Consultant-Yogyakarta_R-1188133": "2026-10-13T13:37:35+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00"
  },
- "sweep_cursor": 20847
+ "sweep_cursor": 6929
 }

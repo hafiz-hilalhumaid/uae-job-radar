@@ -4702,6 +4702,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "workable:matific": {
+  "ats": "workable",
+  "found": "2026-11-26",
+  "id": "matific",
+  "last_uae": "2026-11-26",
+  "name": "Matific",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "workable:max-accelerate": {
   "ats": "workable",
   "found": "2026-09-28",
@@ -5159,6 +5168,15 @@
   "last_uae": "2026-10-06",
   "name": "Visit",
   "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "workable:volga-partners": {
+  "ats": "workable",
+  "found": "2026-11-26",
+  "id": "volga-partners",
+  "last_uae": "2026-11-26",
+  "name": "Volga Partners",
+  "uae_jobs": 2,
   "via": "sweep"
  },
  "workable:we-are-social-1": {
