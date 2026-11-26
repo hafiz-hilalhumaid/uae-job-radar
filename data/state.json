@@ -2510,12 +2510,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 20,
+   "fails": 21,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 288,
+   "fails": 289,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -29554,7 +29554,6 @@
   "greenhouse:chaosindustries:5257697007": "2026-11-23T19:37:36+00:00",
   "greenhouse:chaosindustries:5257699007": "2026-11-21T20:37:36+00:00",
   "greenhouse:chaosindustries:5257703007": "2026-11-21T20:37:36+00:00",
-  "greenhouse:chaosindustries:5257705007": "2026-10-12T23:37:34+00:00",
   "greenhouse:chaosindustries:5257707007": "2026-10-22T22:37:33+00:00",
   "greenhouse:chaosindustries:5257716007": "2026-11-23T00:37:35+00:00",
   "greenhouse:chaosindustries:5258939007": "2026-11-20T17:37:36+00:00",
@@ -92149,6 +92148,7 @@
   "workable:pavago:217FA482C7": "2026-11-13T04:37:33+00:00",
   "workable:pavago:218B73A334": "2026-11-13T04:37:33+00:00",
   "workable:pavago:218FBA2844": "2026-11-12T19:37:34+00:00",
+  "workable:pavago:21CE2F0F6F": "2026-11-26T23:49:58+00:00",
   "workable:pavago:220FDF967D": "2026-10-15T18:16:49+00:00",
   "workable:pavago:2212524043": "2026-10-20T21:37:37+00:00",
   "workable:pavago:2265994A92": "2026-10-21T17:37:35+00:00",
