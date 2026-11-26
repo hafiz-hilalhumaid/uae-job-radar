@@ -4478,7 +4478,6 @@
  },
  "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134": {
   "category": "software",
-  "closed_at": "2026-11-26T06:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|senior software engineer bot detection|uae",
@@ -4491,7 +4490,7 @@
   "salary": "",
   "score": 53,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Senior Software Engineer, Bot Detection (Client-Side & Signals)",
   "uid": "lever:jobgether:58e90412-ae91-443b-8d33-d43be4f8e134",
   "url": "https://jobs.lever.co/jobgether/58e90412-ae91-443b-8d33-d43be4f8e134",
@@ -4797,7 +4796,6 @@
  },
  "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e": {
   "category": "software",
-  "closed_at": "2026-11-26T05:37:35+00:00",
   "company": "Jobgether",
   "company_key": "lever:jobgether",
   "fingerprint": "jobgether|software engineer postgres tooling|uae",
@@ -4812,7 +4810,7 @@
   "salary": "",
   "score": 31,
   "source": "lever",
-  "status": "closed",
+  "status": "open",
   "title": "Software Engineer - Postgres Tooling",
   "uid": "lever:jobgether:d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
   "url": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
