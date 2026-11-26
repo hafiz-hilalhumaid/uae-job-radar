@@ -2502,12 +2502,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 52,
+   "fails": 53,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 264,
+   "fails": 265,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -11281,6 +11281,7 @@
   "ashby:Snowflake:ccefa621-7c3c-4908-a7ce-380033415bd8": "2026-11-13T00:19:54+00:00",
   "ashby:Snowflake:cdebc456-bb4f-4cc7-84fc-dccb8499a8f6": "2026-11-13T00:19:54+00:00",
   "ashby:Snowflake:ce0b7fb7-c38f-486a-aeb6-d70c26f99b03": "2026-11-06T02:37:36+00:00",
+  "ashby:Snowflake:ce588f6d-e567-4cdb-9b2d-20cc2b23a9f0": "2026-11-26T02:37:43+00:00",
   "ashby:Snowflake:d0532a39-1cf9-467c-9ab4-b895c82ea4e5": "2026-10-14T02:37:33+00:00",
   "ashby:Snowflake:d08054aa-4357-4eb5-b8ac-a0e97982fbc6": "2026-11-10T06:37:38+00:00",
   "ashby:Snowflake:d136f868-6f3a-4e22-9cad-a6e95348e407": "2026-11-13T00:19:54+00:00",
@@ -19538,6 +19539,7 @@
   "ashby:snowflake:ccefa621-7c3c-4908-a7ce-380033415bd8": "2026-11-13T00:19:54+00:00",
   "ashby:snowflake:cdebc456-bb4f-4cc7-84fc-dccb8499a8f6": "2026-11-13T00:19:54+00:00",
   "ashby:snowflake:ce0b7fb7-c38f-486a-aeb6-d70c26f99b03": "2026-11-06T02:37:36+00:00",
+  "ashby:snowflake:ce588f6d-e567-4cdb-9b2d-20cc2b23a9f0": "2026-11-26T02:37:43+00:00",
   "ashby:snowflake:d0532a39-1cf9-467c-9ab4-b895c82ea4e5": "2026-10-14T02:37:33+00:00",
   "ashby:snowflake:d08054aa-4357-4eb5-b8ac-a0e97982fbc6": "2026-11-10T06:37:38+00:00",
   "ashby:snowflake:d136f868-6f3a-4e22-9cad-a6e95348e407": "2026-11-13T00:19:54+00:00",
@@ -26784,6 +26786,7 @@
   "greenhouse:binance:5047031101": "2026-11-25T11:37:34+00:00",
   "greenhouse:binance:5047033101": "2026-11-25T11:37:34+00:00",
   "greenhouse:binance:5047354101": "2026-11-25T09:37:35+00:00",
+  "greenhouse:binance:5047655101": "2026-11-26T02:37:43+00:00",
   "greenhouse:binance:5047704101": "2026-11-25T06:37:34+00:00",
   "greenhouse:bitgo:7307107002": "2026-11-06T23:37:33+00:00",
   "greenhouse:bitgo:7344201002": "2026-11-06T23:37:33+00:00",
@@ -33259,6 +33262,7 @@
   "greenhouse:dragos:5462656008": "2026-11-12T16:37:38+00:00",
   "greenhouse:dragos:5462673008": "2026-11-10T21:37:40+00:00",
   "greenhouse:dragos:5462768008": "2026-11-10T14:37:37+00:00",
+  "greenhouse:dragos:5463248008": "2026-11-26T02:37:43+00:00",
   "greenhouse:dragos:5466493008": "2026-11-10T19:37:34+00:00",
   "greenhouse:dragos:5467366008": "2026-11-10T16:37:37+00:00",
   "greenhouse:dragos:5468281008": "2026-11-24T19:37:40+00:00",
@@ -82763,6 +82767,7 @@
   "workable:bbgc:875ACA924E": "2026-11-20T04:37:39+00:00",
   "workable:bbgc:9CE4EF869C": "2026-11-15T01:37:34+00:00",
   "workable:bbgc:B36A711685": "2026-11-15T01:37:34+00:00",
+  "workable:bbgc:BA881C5A09": "2026-11-26T02:37:43+00:00",
   "workable:bbgc:D68D36BB29": "2026-11-15T01:37:34+00:00",
   "workable:bbgc:DAC9DF53D8": "2026-11-15T01:37:34+00:00",
   "workable:bbgc:DCD618EC28": "2026-11-20T15:37:37+00:00",
@@ -85058,6 +85063,7 @@
   "workable:d2b-1:4D844C7199": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:4E0A47C95F": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:4EFFDCC78E": "2026-11-13T00:19:54+00:00",
+  "workable:d2b-1:4F2B4E9C22": "2026-11-26T02:37:43+00:00",
   "workable:d2b-1:4F5984270A": "2026-11-12T15:37:35+00:00",
   "workable:d2b-1:4F90D444BF": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:4FA0105223": "2026-11-13T00:19:54+00:00",
@@ -85238,6 +85244,7 @@
   "workable:d2b-1:C15A4FA922": "2026-11-23T08:37:34+00:00",
   "workable:d2b-1:C1B2A755FB": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:C216D809B4": "2026-11-13T00:19:54+00:00",
+  "workable:d2b-1:C38799E558": "2026-11-26T02:37:43+00:00",
   "workable:d2b-1:C4243DB1B3": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:C483BF1329": "2026-11-13T00:19:54+00:00",
   "workable:d2b-1:C4C735AD07": "2026-10-14T06:37:40+00:00",

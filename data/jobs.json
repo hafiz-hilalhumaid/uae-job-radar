@@ -2459,6 +2459,7 @@
  },
  "fantastic:2449126213": {
   "category": "fullstack",
+  "closed_at": "2026-11-26T02:37:43+00:00",
   "company": "Al Ghurair",
   "company_key": "fantastic",
   "expires": "2026-11-26T01:37:43+00:00",
@@ -2472,7 +2473,7 @@
   "salary": "",
   "score": 75,
   "source": "fantastic/oraclecloud",
-  "status": "open",
+  "status": "closed",
   "title": "Senior Specialist - Fullstack Engineer",
   "uid": "fantastic:2449126213",
   "url": "https://iaaxey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5715",
@@ -2480,6 +2481,7 @@
  },
  "fantastic:2449474870": {
   "category": "software",
+  "closed_at": "2026-11-26T02:37:43+00:00",
   "company": "Jobgether",
   "company_key": "fantastic",
   "expires": "2026-11-26T01:37:43+00:00",
@@ -2493,7 +2495,7 @@
   "salary": "",
   "score": 52,
   "source": "fantastic/lever.co",
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer (Edge - Networking & Fleet)",
   "uid": "fantastic:2449474870",
   "url": "https://jobs.lever.co/jobgether/38698611-2a52-41c4-80d1-04f0542dc882",
