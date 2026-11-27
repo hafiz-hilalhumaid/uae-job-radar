@@ -5245,6 +5245,26 @@
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159382315-software-engineer-l-backend",
   "workplace": ""
  },
+ "smartrecruiters:DeliveryHero:744000163980920": {
+  "category": "software",
+  "company": "talabat (Delivery Hero)",
+  "company_key": "smartrecruiters:DeliveryHero",
+  "fingerprint": "talabatdeliveryhero|staff software engineer backend|dubai",
+  "first_seen": "2026-11-27T08:25:53+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "none",
+  "posted_at": "2026-11-27T08:25:36.877Z",
+  "salary": "",
+  "score": 30,
+  "source": "smartrecruiters",
+  "status": "open",
+  "title": "Staff Software engineer - Backend (Golang)",
+  "uid": "smartrecruiters:DeliveryHero:744000163980920",
+  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000163980920-staff-software-engineer-backend-golang-",
+  "workplace": ""
+ },
  "smartrecruiters:GhobashGroup:744000105793435": {
   "category": "software",
   "closed_at": "2026-10-12T07:37:36+00:00",
