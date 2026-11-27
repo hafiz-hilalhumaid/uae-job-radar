@@ -4107,6 +4107,7 @@
   "greenhouse:energycx": "us",
   "greenhouse:energyexemplarllc": "us",
   "greenhouse:energyhub": "us",
+  "greenhouse:energyimpactpartnerslp": "us",
   "greenhouse:energysolutions": "us",
   "greenhouse:energysolutionsinternships": "us",
   "greenhouse:enforce": "us",
@@ -4129,6 +4130,7 @@
   "greenhouse:ensco": "us",
   "greenhouse:enscoTTC": "us",
   "greenhouse:enscohotjobs": "us",
+  "greenhouse:ensemble": "us",
   "greenhouse:enshored": "eu_page",
   "greenhouse:ensono": "us",
   "greenhouse:entera": "us",
@@ -6852,6 +6854,7 @@
   "greenhouse:smartasset": "us",
   "greenhouse:smartbear": "us",
   "greenhouse:smarterdx": "us",
+  "greenhouse:smarterdxprivate": "us",
   "greenhouse:smartling": "us",
   "greenhouse:smartlyio": "us",
   "greenhouse:smartrent": "us",
@@ -7907,9 +7910,9 @@
  },
  "last_digest": "2026-11-27",
  "last_sweep": {
-  "added": 2,
-  "checked": 9600,
-  "date": "2026-11-26",
+  "added": 4,
+  "checked": 12200,
+  "date": "2026-11-27",
   "total": 23518
  },
  "queue": [
@@ -105114,5 +105117,5 @@
   "workday:unilever/Unilever_Experienced_Professionals:/job/Vinhedo-Brazil/Coordenador-de-Projetos_R-1190777": "2026-11-04T14:37:35+00:00",
   "workday:unilever/Unilever_Experienced_Professionals:/job/stanbul-Turkey/Assistant-Manex-Manager_R-1190411-1": "2026-11-01T23:37:19+00:00"
  },
- "sweep_cursor": 6929
+ "sweep_cursor": 19129
 }

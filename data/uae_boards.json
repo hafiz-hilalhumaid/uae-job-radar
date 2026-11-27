@@ -1549,6 +1549,15 @@
   "uae_jobs": 1,
   "via": "sweep"
  },
+ "greenhouse:fgsglobal": {
+  "ats": "greenhouse",
+  "found": "2026-11-27",
+  "id": "fgsglobal",
+  "last_uae": "2026-11-27",
+  "name": "FGS Global",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
  "greenhouse:figureai": {
   "ats": "greenhouse",
   "found": "2026-09-28",
@@ -1700,6 +1709,15 @@
   "id": "justmarkets",
   "last_uae": "2026-11-27",
   "name": "Justmarkets",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:keyfactorinc": {
+  "ats": "greenhouse",
+  "found": "2026-11-27",
+  "id": "keyfactorinc",
+  "last_uae": "2026-11-27",
+  "name": "Keyfactor, Inc.",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -2238,6 +2256,15 @@
   "id": "verkada",
   "last_uae": "2026-10-28",
   "name": "Verkada",
+  "uae_jobs": 1,
+  "via": "sweep"
+ },
+ "greenhouse:vtex": {
+  "ats": "greenhouse",
+  "found": "2026-11-27",
+  "id": "vtex",
+  "last_uae": "2026-11-27",
+  "name": "Vtex",
   "uae_jobs": 1,
   "via": "sweep"
  },
@@ -3791,6 +3818,15 @@
   "last_uae": "2026-11-27",
   "name": "Wiser",
   "uae_jobs": 2,
+  "via": "sweep"
+ },
+ "teamtailor:https://zanders.teamtailor.com": {
+  "ats": "teamtailor",
+  "found": "2026-11-27",
+  "id": "https://zanders.teamtailor.com",
+  "last_uae": "2026-11-27",
+  "name": "Zanders",
+  "uae_jobs": 1,
   "via": "sweep"
  },
  "workable:abakus-center": {
