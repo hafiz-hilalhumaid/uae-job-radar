@@ -5761,6 +5761,28 @@
   "url": "https://apply.workable.com/j/00D8EE106A",
   "workplace": ""
  },
+ "workable:blackstone-eit-2:04B49FC2B5": {
+  "category": "ai",
+  "company": "Blackstone Eit 2",
+  "company_key": "workable:blackstone-eit-2",
+  "fingerprint": "blackstoneeit2|senior net ai developer|dubai",
+  "first_seen": "2026-11-27T06:37:43+00:00",
+  "flags": [
+   "8+ yrs asked"
+  ],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-27",
+  "salary": "",
+  "score": 60,
+  "source": "workable",
+  "status": "open",
+  "title": "Senior .NET AI Developer",
+  "uid": "workable:blackstone-eit-2:04B49FC2B5",
+  "url": "https://apply.workable.com/j/04B49FC2B5",
+  "workplace": ""
+ },
  "workable:blackstone-eit-2:4228049909": {
   "category": "software",
   "company": "Blackstone Eit 2",
@@ -5946,6 +5968,26 @@
   "title": "Senior Full Stack Developer - TAMM",
   "uid": "workable:blackstone-eit-2:BE261712D0",
   "url": "https://apply.workable.com/j/BE261712D0",
+  "workplace": ""
+ },
+ "workable:blackstone-eit-2:C5340CFF19": {
+  "category": "ai",
+  "company": "Blackstone Eit 2",
+  "company_key": "workable:blackstone-eit-2",
+  "fingerprint": "blackstoneeit2|senior ai engineer|dubai",
+  "first_seen": "2026-11-27T06:37:43+00:00",
+  "flags": [],
+  "loc_type": "uae",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "notified": "queued",
+  "posted_at": "2026-11-27",
+  "salary": "",
+  "score": 69,
+  "source": "workable",
+  "status": "open",
+  "title": "Senior AI Engineer (LLM, RAG & AI Evaluation)",
+  "uid": "workable:blackstone-eit-2:C5340CFF19",
+  "url": "https://apply.workable.com/j/C5340CFF19",
   "workplace": ""
  },
  "workable:callsign:3447333C50": {
