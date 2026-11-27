@@ -2503,6 +2503,7 @@
  },
  "fantastic:2451678585": {
   "category": "ai",
+  "closed_at": "2026-11-27T02:37:34+00:00",
   "company": "Jobgether",
   "company_key": "fantastic",
   "expires": "2026-11-27T01:37:46+00:00",
@@ -2516,7 +2517,7 @@
   "salary": "",
   "score": 57,
   "source": "fantastic/lever.co",
-  "status": "open",
+  "status": "closed",
   "title": "Staff AI Engineer",
   "uid": "fantastic:2451678585",
   "url": "https://jobs.lever.co/jobgether/e06cac72-44b4-4aed-a294-4e94593e4caf",
@@ -2524,6 +2525,7 @@
  },
  "fantastic:2452028938": {
   "category": "ai",
+  "closed_at": "2026-11-27T02:37:34+00:00",
   "company": "AVEVA",
   "company_key": "fantastic",
   "expires": "2026-11-27T01:37:46+00:00",
@@ -2539,7 +2541,7 @@
   "salary": "",
   "score": 46,
   "source": "fantastic/workday",
-  "status": "open",
+  "status": "closed",
   "title": "Forward Deployed Solutions Engineer - AIM",
   "uid": "fantastic:2452028938",
   "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Abu-Dhabi-United-Arab-Emirates/Forward-Deployed-Solutions-Engineer---AIM_R015918",
