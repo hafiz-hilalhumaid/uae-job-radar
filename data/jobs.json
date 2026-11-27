@@ -458,7 +458,6 @@
  },
  "ashby:kraken.com:4753ccbf-68dc-4668-904f-a3156041fdc8": {
   "category": "software",
-  "closed_at": "2026-11-17T09:37:47+00:00",
   "company": "Kraken.Com",
   "company_key": "ashby:kraken.com",
   "fingerprint": "krakencom|senior software engineer agent systems|uae",
@@ -471,7 +470,7 @@
   "salary": "",
   "score": 54,
   "source": "ashby",
-  "status": "closed",
+  "status": "open",
   "title": "Senior Software Engineer – Agent Systems",
   "uid": "ashby:kraken.com:4753ccbf-68dc-4668-904f-a3156041fdc8",
   "url": "https://jobs.ashbyhq.com/kraken.com/4753ccbf-68dc-4668-904f-a3156041fdc8",
