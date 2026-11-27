@@ -7905,20 +7905,14 @@
   "lever:xtb": "eu",
   "lever:zippi": "global"
  },
- "last_digest": "2026-11-25",
+ "last_digest": "2026-11-27",
  "last_sweep": {
   "added": 2,
   "checked": 9600,
   "date": "2026-11-26",
   "total": 23518
  },
- "queue": [
-  "workable:blackstone-eit-2:4228049909",
-  "ashby:cognition:3e6e7519-b71a-45e9-a913-4a17d8741688",
-  "fantastic:2485711757",
-  "fantastic:2485264580",
-  "fantastic:2487591414"
- ],
+ "queue": [],
  "rejected": {
   "ashby:115ventures:c72f8983-033a-4a23-b41e-5b524621d29c": "2026-11-03T23:37:37+00:00",
   "ashby:115ventures:ffcaf72b-bd58-4b49-aa9f-6b6905879825": "2026-11-03T23:37:37+00:00",
