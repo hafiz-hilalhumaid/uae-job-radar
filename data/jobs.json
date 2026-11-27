@@ -5180,29 +5180,6 @@
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000104669132-senior-software-engineer-backend",
   "workplace": ""
  },
- "smartrecruiters:DeliveryHero:744000149320649": {
-  "category": "software",
-  "closed_at": "2026-09-28T09:32:07+00:00",
-  "company": "talabat (Delivery Hero)",
-  "company_key": "smartrecruiters:DeliveryHero",
-  "fingerprint": "talabatdeliveryhero|staff software engineer|dubai",
-  "first_seen": "2026-09-24T20:59:40+00:00",
-  "flags": [
-   "8+ yrs asked"
-  ],
-  "loc_type": "uae",
-  "location": "Dubai, Dubai, United Arab Emirates",
-  "notified": "seed",
-  "posted_at": "2026-09-14T12:31:19.055Z",
-  "salary": "",
-  "score": 10,
-  "source": "smartrecruiters",
-  "status": "closed",
-  "title": "Staff Software Engineer",
-  "uid": "smartrecruiters:DeliveryHero:744000149320649",
-  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000149320649-staff-software-engineer",
-  "workplace": ""
- },
  "smartrecruiters:DeliveryHero:744000159376699": {
   "category": "software",
   "closed_at": "2026-11-19T07:37:34+00:00",
