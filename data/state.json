@@ -1878,7 +1878,7 @@
    "seeded": true
   },
   "workable:adia": {
-   "fails": 1,
+   "fails": 2,
    "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/adia",
    "seeded": true
   },
@@ -1895,16 +1895,16 @@
    "seeded": true
   },
   "workable:ai-acquisition": {
-   "fails": 1,
-   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/ai-acquisition",
-   "seeded": true
-  },
-  "workable:al-jomaih-energy-and-water": {
    "fails": 0,
    "seeded": true
   },
-  "workable:alex-staff-agency-careers": {
+  "workable:al-jomaih-energy-and-water": {
    "fails": 1,
+   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/al-jomaih-energy-and-water",
+   "seeded": true
+  },
+  "workable:alex-staff-agency-careers": {
+   "fails": 2,
    "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/alex-staff-agency-careers",
    "seeded": true
   },
@@ -1917,12 +1917,11 @@
    "seeded": true
   },
   "workable:arcsen": {
-   "fails": 1,
-   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/arcsen",
+   "fails": 0,
    "seeded": true
   },
   "workable:avomind": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/avomind",
    "seeded": true
   },
@@ -1935,7 +1934,8 @@
    "seeded": true
   },
   "workable:bbgc": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/bbgc",
    "seeded": true
   },
   "workable:beond": {
@@ -2019,7 +2019,8 @@
    "seeded": true
   },
   "workable:decentralized-masters": {
-   "fails": 0,
+   "fails": 1,
+   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/decentralized-masters",
    "seeded": true
   },
   "workable:destinusgroup": {
@@ -2367,13 +2368,11 @@
    "seeded": true
   },
   "workable:rentokil-initial": {
-   "fails": 1,
-   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/rentokil-initial",
+   "fails": 0,
    "seeded": true
   },
   "workable:robusta": {
-   "fails": 1,
-   "last_error": "RuntimeError: HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/robusta",
+   "fails": 0,
    "seeded": true
   },
   "workable:weorbit": {
@@ -2381,12 +2380,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 62,
+   "fails": 63,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 330,
+   "fails": 331,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -9468,6 +9467,7 @@
   "ashby:Legora:98bc0821-75a1-4fce-ba58-5b1658a0a721": "2026-11-05T16:37:38+00:00",
   "ashby:Legora:994ad2d8-2428-4926-b835-3c2ef1970912": "2026-11-12T01:37:35+00:00",
   "ashby:Legora:9a04bbd8-0583-48de-9606-431c01079b8b": "2026-11-18T00:37:34+00:00",
+  "ashby:Legora:9a66506b-d584-4d7a-a64d-c284a3dc1b64": "2026-11-28T13:37:35+00:00",
   "ashby:Legora:9b243f9e-a508-4c8d-bcfc-25bfbe53b591": "2026-10-26T18:37:41+00:00",
   "ashby:Legora:9cbd8455-89f5-46c7-b7ad-9a6255c8ebb4": "2026-11-18T00:37:34+00:00",
   "ashby:Legora:9d37e6e0-15d9-4af1-b552-729bacbc4a2a": "2026-11-18T00:37:34+00:00",
@@ -14732,6 +14732,7 @@
   "ashby:harmattan-ai:15fbe2a3-c937-49c0-8413-90ec650bf153": "2026-11-09T16:37:35+00:00",
   "ashby:harmattan-ai:167a90cf-c3bf-4ad2-8ef3-f698855cac44": "2026-11-13T00:19:54+00:00",
   "ashby:harmattan-ai:18889cb3-89f0-483a-afd6-4c62e3cd9fa3": "2026-11-12T18:53:25+00:00",
+  "ashby:harmattan-ai:19c1e5f5-d3d6-4bfe-aa7e-fbe48eb1e7d7": "2026-11-28T13:37:35+00:00",
   "ashby:harmattan-ai:19f037a0-a880-47be-8bc2-1e5fb2d637b4": "2026-11-27T14:37:35+00:00",
   "ashby:harmattan-ai:1b9b840e-79b9-4533-b425-ae4f2f4b5b52": "2026-11-20T16:37:38+00:00",
   "ashby:harmattan-ai:1c0ee96e-51f5-49d7-85db-89fabfed41b4": "2026-10-16T08:37:38+00:00",
@@ -15266,6 +15267,7 @@
   "ashby:iceye:4d7e8a9b-a659-409b-83fb-07e4b10313f0": "2026-11-13T10:37:32+00:00",
   "ashby:iceye:4e5287d1-69d5-40b9-bc1a-bf6acd944d0a": "2026-10-30T09:37:35+00:00",
   "ashby:iceye:4f00e104-a4a1-4fa3-ac73-3c8c3f64b123": "2026-11-13T00:19:54+00:00",
+  "ashby:iceye:511f26c8-63cf-4689-9d8c-3abc7c0410e6": "2026-11-28T13:37:35+00:00",
   "ashby:iceye:51a5d21b-80e2-420f-b7e2-ff031b42e836": "2026-11-13T00:19:54+00:00",
   "ashby:iceye:551ed47a-6af8-48ef-8275-4273e635b909": "2026-11-13T00:19:54+00:00",
   "ashby:iceye:5613d6f6-24be-4ebf-9b0e-a2284fd21650": "2026-11-24T14:37:41+00:00",
@@ -16258,6 +16260,7 @@
   "ashby:legora:98bc0821-75a1-4fce-ba58-5b1658a0a721": "2026-11-05T16:37:38+00:00",
   "ashby:legora:994ad2d8-2428-4926-b835-3c2ef1970912": "2026-11-12T01:37:35+00:00",
   "ashby:legora:9a04bbd8-0583-48de-9606-431c01079b8b": "2026-11-13T00:19:54+00:00",
+  "ashby:legora:9a66506b-d584-4d7a-a64d-c284a3dc1b64": "2026-11-28T13:37:35+00:00",
   "ashby:legora:9b243f9e-a508-4c8d-bcfc-25bfbe53b591": "2026-10-26T18:37:41+00:00",
   "ashby:legora:9cbd8455-89f5-46c7-b7ad-9a6255c8ebb4": "2026-11-13T00:19:54+00:00",
   "ashby:legora:9d37e6e0-15d9-4af1-b552-729bacbc4a2a": "2026-11-13T00:19:54+00:00",
@@ -37304,6 +37307,7 @@
   "greenhouse:inmobi:8273734": "2026-11-05T09:37:41+00:00",
   "greenhouse:inmobi:8273775": "2026-11-17T03:50:39+00:00",
   "greenhouse:inmobi:8273823": "2026-11-17T03:50:39+00:00",
+  "greenhouse:inmobi:8275865": "2026-11-28T13:37:35+00:00",
   "greenhouse:inmobi:8280728": "2026-11-16T02:37:35+00:00",
   "greenhouse:inmobi:8281290": "2026-10-16T09:37:35+00:00",
   "greenhouse:inmobi:8285386": "2026-10-22T02:37:33+00:00",
@@ -40491,6 +40495,7 @@
   "greenhouse:point72:8876354002": "2026-10-19T16:37:43+00:00",
   "greenhouse:point72:8877421002": "2026-11-22T02:37:34+00:00",
   "greenhouse:point72:8878966002": "2026-11-06T14:37:35+00:00",
+  "greenhouse:point72:8881651002": "2026-11-28T13:37:35+00:00",
   "greenhouse:point72:8883820002": "2026-11-26T20:37:35+00:00",
   "greenhouse:point72:8885299002": "2026-10-14T14:37:40+00:00",
   "greenhouse:point72:8885528002": "2026-11-27T22:37:35+00:00",
@@ -41384,6 +41389,7 @@
   "greenhouse:quberesearchandtechnologies:8951047002": "2026-11-25T09:37:35+00:00",
   "greenhouse:quberesearchandtechnologies:8955964002": "2026-11-20T06:37:41+00:00",
   "greenhouse:quberesearchandtechnologies:8955965002": "2026-11-20T06:37:41+00:00",
+  "greenhouse:quberesearchandtechnologies:8958320002": "2026-11-28T13:37:35+00:00",
   "greenhouse:quberesearchandtechnologies:8958584002": "2026-11-23T16:37:37+00:00",
   "greenhouse:quberesearchandtechnologies:8959525002": "2026-11-24T02:37:36+00:00",
   "greenhouse:quberesearchandtechnologies:8959536002": "2026-11-24T02:37:36+00:00",
@@ -46587,6 +46593,7 @@
   "greenhouse:wppmedia:5416583008": "2026-10-29T19:37:34+00:00",
   "greenhouse:wppmedia:5417489008": "2026-11-13T00:19:54+00:00",
   "greenhouse:wppmedia:5417494008": "2026-11-13T00:19:54+00:00",
+  "greenhouse:wppmedia:5417594008": "2026-11-28T13:37:35+00:00",
   "greenhouse:wppmedia:5417646008": "2026-11-16T06:37:33+00:00",
   "greenhouse:wppmedia:5417652008": "2026-10-30T11:37:34+00:00",
   "greenhouse:wppmedia:5417676008": "2026-11-13T00:19:54+00:00",
@@ -48250,6 +48257,7 @@
   "lever:Yassir:1e458c84-e802-4eee-95c7-6710fbb38357": "2026-11-19T17:37:46+00:00",
   "lever:Yassir:1eddf301-02e0-4057-a69e-579c6f7e15b1": "2026-11-08T21:37:34+00:00",
   "lever:Yassir:237a0cd7-866c-484d-a3db-8f51a95cf8c6": "2026-11-08T21:37:34+00:00",
+  "lever:Yassir:23d51b3b-294f-4cc1-922d-90713f58c936": "2026-11-28T13:37:35+00:00",
   "lever:Yassir:268b96b0-41a9-490c-b22b-f87a47259ae7": "2026-11-18T13:37:36+00:00",
   "lever:Yassir:2b201131-e2b3-45b0-9372-2d095af5a10a": "2026-10-25T10:37:35+00:00",
   "lever:Yassir:2d1164d2-134e-403a-a4d0-e41080db2cba": "2026-11-08T21:37:34+00:00",
@@ -78914,6 +78922,7 @@
   "smartrecruiters:RHG:744000154925554": "2026-11-26T08:37:34+00:00",
   "smartrecruiters:RHG:744000154926859": "2026-11-26T08:37:34+00:00",
   "smartrecruiters:RHG:744000155019650": "2026-11-26T14:37:35+00:00",
+  "smartrecruiters:RHG:744000155493989": "2026-11-28T13:37:35+00:00",
   "smartrecruiters:RHG:744000155628339": "2026-10-15T00:37:34+00:00",
   "smartrecruiters:RHG:744000155628379": "2026-10-15T00:37:34+00:00",
   "smartrecruiters:RHG:744000155721939": "2026-10-15T10:37:34+00:00",
@@ -80852,6 +80861,7 @@
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:eb12f5a5-ef9f-4390-b526-928d1c93d228": "2026-11-27T13:37:37+00:00",
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:ebb7fd65-f45d-4232-b204-541233d489be": "2026-11-14T11:37:34+00:00",
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:ecfc376f-9ff6-44cb-8296-675a9cf26dc4": "2026-11-13T00:19:54+00:00",
+  "teamtailor:https://davidkennedyrecruitment.teamtailor.com:ee1c1869-e039-412b-b44f-c051680b9f64": "2026-11-28T13:37:35+00:00",
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:ee213664-dec8-464b-b24c-9725dbd9ba4f": "2026-11-13T00:19:54+00:00",
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:f084e2f5-f9f4-4817-8ec3-17d63419572b": "2026-10-19T15:37:44+00:00",
   "teamtailor:https://davidkennedyrecruitment.teamtailor.com:f0b65167-a6d6-4c9f-9529-0f563e588921": "2026-11-02T11:37:34+00:00",
@@ -80918,6 +80928,7 @@
   "teamtailor:https://itpmediagroup.teamtailor.com:182deb6b-86b4-4d6f-bcf7-5f2665c83a5e": "2026-11-13T00:19:54+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:1fdb8b71-25ed-4a18-a65b-ed7401752a2b": "2026-11-13T00:19:54+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:1fe60fc1-9d05-4758-8430-96728e051c5b": "2026-11-13T00:19:54+00:00",
+  "teamtailor:https://itpmediagroup.teamtailor.com:218877b9-f808-4560-b230-3959b9341a60": "2026-11-28T13:37:35+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:2807e9d3-cfab-4474-9319-9064454b194d": "2026-11-09T07:37:36+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:297c235b-9800-4e59-a4d2-4f3d8b2aa6fb": "2026-11-13T00:19:54+00:00",
   "teamtailor:https://itpmediagroup.teamtailor.com:29ca6f2d-dc77-42cf-8f75-30f0e9468575": "2026-10-15T09:37:36+00:00",
@@ -86573,8 +86584,10 @@
   "workable:eva-pharma:AD7366ACB4": "2026-11-13T00:19:54+00:00",
   "workable:eva-pharma:B18E3C10A5": "2026-11-13T00:19:54+00:00",
   "workable:eva-pharma:B1D14D9A3D": "2026-11-03T10:37:34+00:00",
+  "workable:eva-pharma:B32A6C9CA0": "2026-11-28T13:37:35+00:00",
   "workable:eva-pharma:B6A1FE5C73": "2026-11-13T00:19:54+00:00",
   "workable:eva-pharma:B85A49A4CC": "2026-11-13T00:19:54+00:00",
+  "workable:eva-pharma:BDA4E4CF01": "2026-11-28T13:37:35+00:00",
   "workable:eva-pharma:BDBDE188F1": "2026-10-20T11:37:36+00:00",
   "workable:eva-pharma:BF9641B2D1": "2026-11-13T00:19:54+00:00",
   "workable:eva-pharma:C1517E34F9": "2026-11-13T00:19:54+00:00",
