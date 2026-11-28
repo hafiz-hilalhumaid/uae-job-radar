@@ -6326,6 +6326,7 @@
  },
  "workable:stakefish:5218ED958E": {
   "category": "fullstack",
+  "closed_at": "2026-11-28T11:37:39+00:00",
   "company": "Stakefish",
   "company_key": "workable:stakefish",
   "fingerprint": "stakefish|web3 full stack software engineer|dubai",
@@ -6338,7 +6339,7 @@
   "salary": "",
   "score": 74,
   "source": "workable",
-  "status": "open",
+  "status": "closed",
   "title": "Web3 / Full-stack Software Engineer",
   "uid": "workable:stakefish:5218ED958E",
   "url": "https://apply.workable.com/j/5218ED958E",
