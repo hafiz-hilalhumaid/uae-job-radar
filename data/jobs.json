@@ -3633,29 +3633,6 @@
   "url": "https://jobs.workable.com/view/rhoDtuacU6in4zhcTFjKaS/senior-ai-engineer-(llm%2C-rag-%26-ai-evaluation)-in-dubai-at-blackstone-eit",
   "workplace": "On-site"
  },
- "fantastic:2489685499": {
-  "category": "ai",
-  "company": "EWOR GmbH",
-  "company_key": "fantastic",
-  "expires": "2026-12-19T01:37:44+00:00",
-  "fingerprint": "eworgmbh|agentic ai co founder cco|abudhabi",
-  "first_seen": "2026-11-28T01:37:44+00:00",
-  "flags": [
-   "visa/relocation"
-  ],
-  "loc_type": "uae",
-  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-  "notified": "instant",
-  "posted_at": "2026-11-27T00:00:00",
-  "salary": "",
-  "score": 72,
-  "source": "fantastic/recruitee",
-  "status": "open",
-  "title": "Agentic AI Co-Founder / CCO (100 % remote) (m/f/d)",
-  "uid": "fantastic:2489685499",
-  "url": "https://eworgmbh.recruitee.com/o/agentic-ai-co-founder-cco-100-remote-mfd-90",
-  "workplace": "Remote Solely"
- },
  "fantastic:2490129254": {
   "category": "fullstack",
   "company": "INCEPTION ARTIFICIAL INTELLIGENCE L.L.C - O.P.C",
@@ -5145,6 +5122,28 @@
   "uid": "lever:quadcode:33963386-c714-43f1-966f-a8887e4b156a",
   "url": "https://jobs.eu.lever.co/quadcode/33963386-c714-43f1-966f-a8887e4b156a",
   "workplace": "remote"
+ },
+ "recruitee:eworgmbh:2843378": {
+  "category": "ai",
+  "company": "EWOR GmbH",
+  "company_key": "recruitee:eworgmbh",
+  "fingerprint": "eworgmbh|agentic ai co founder cco|abudhabi",
+  "first_seen": "2026-11-28T01:37:44+00:00",
+  "flags": [
+   "visa/relocation"
+  ],
+  "loc_type": "uae",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "notified": "instant",
+  "posted_at": "2026-11-27T00:00:00",
+  "salary": "",
+  "score": 72,
+  "source": "recruitee",
+  "status": "open",
+  "title": "Agentic AI Co-Founder / CCO (100 % remote) (m/f/d)",
+  "uid": "recruitee:eworgmbh:2843378",
+  "url": "https://ewor.com/o/agentic-ai-co-founder-cco-100-remote-mfd-90",
+  "workplace": "Remote Solely"
  },
  "recruitee:tether:2637659": {
   "category": "ai",
