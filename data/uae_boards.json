@@ -3945,15 +3945,6 @@
   "uae_jobs": 6,
   "via": "sweep"
  },
- "workable:avomind": {
-  "ats": "workable",
-  "found": "2026-09-28",
-  "id": "avomind",
-  "last_uae": "2026-11-28",
-  "name": "Avomind",
-  "uae_jobs": 1,
-  "via": "sweep"
- },
  "workable:bask-health-1": {
   "ats": "workable",
   "found": "2026-09-28",
