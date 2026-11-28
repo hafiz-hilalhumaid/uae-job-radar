@@ -2530,12 +2530,12 @@
    "seeded": true
   },
   "workday:parsons/Search": {
-   "fails": 54,
+   "fails": 55,
    "last_error": "RuntimeError: HTTP 429 from https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
    "seeded": true
   },
   "workday:unilever/Unilever_Experienced_Professionals": {
-   "fails": 322,
+   "fails": 323,
    "last_error": "RuntimeError: HTTP 429 from https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
    "seeded": true
   }
@@ -77793,6 +77793,7 @@
   "smartrecruiters:AccorHotel:744000155282290": "2026-11-27T16:37:34+00:00",
   "smartrecruiters:AccorHotel:744000155343759": "2026-11-27T21:37:36+00:00",
   "smartrecruiters:AccorHotel:744000155354830": "2026-11-27T22:37:35+00:00",
+  "smartrecruiters:AccorHotel:744000155414664": "2026-11-28T06:37:37+00:00",
   "smartrecruiters:AccorHotel:744000155417471": "2026-10-14T06:37:40+00:00",
   "smartrecruiters:AccorHotel:744000155418424": "2026-10-14T06:37:40+00:00",
   "smartrecruiters:AccorHotel:744000155419633": "2026-10-14T07:37:35+00:00",
@@ -79417,6 +79418,7 @@
   "smartrecruiters:GhobashGroup:744000155180720": "2026-11-27T16:37:34+00:00",
   "smartrecruiters:GhobashGroup:744000155180900": "2026-11-27T16:37:34+00:00",
   "smartrecruiters:GhobashGroup:744000155206170": "2026-11-27T18:37:35+00:00",
+  "smartrecruiters:GhobashGroup:744000155413444": "2026-11-28T06:37:37+00:00",
   "smartrecruiters:GhobashGroup:744000155416305": "2026-10-14T06:37:40+00:00",
   "smartrecruiters:GhobashGroup:744000155909819": "2026-10-16T05:37:35+00:00",
   "smartrecruiters:GhobashGroup:744000155910389": "2026-10-16T05:37:35+00:00",
@@ -86603,6 +86605,7 @@
   "workable:eramtalent-1:03161ED70F": "2026-11-13T00:19:54+00:00",
   "workable:eramtalent-1:03496F8A39": "2026-11-13T00:19:54+00:00",
   "workable:eramtalent-1:037F8CC97E": "2026-11-13T00:19:54+00:00",
+  "workable:eramtalent-1:03815EAEE0": "2026-11-28T06:37:37+00:00",
   "workable:eramtalent-1:04BE1844A8": "2026-11-13T00:19:54+00:00",
   "workable:eramtalent-1:05EAA33D35": "2026-11-13T00:19:54+00:00",
   "workable:eramtalent-1:062DB2228E": "2026-11-13T00:19:54+00:00",
@@ -88200,6 +88203,7 @@
   "workable:fuku:94803F9866": "2026-10-23T05:37:44+00:00",
   "workable:fuku:94991B72D8": "2026-11-17T10:37:36+00:00",
   "workable:fuku:949D18F7DF": "2026-10-28T09:37:37+00:00",
+  "workable:fuku:94D39EFCD6": "2026-11-28T06:37:37+00:00",
   "workable:fuku:9512681189": "2026-11-13T00:19:54+00:00",
   "workable:fuku:9513198146": "2026-11-13T00:19:54+00:00",
   "workable:fuku:9513318C4C": "2026-10-21T10:37:36+00:00",
@@ -104619,6 +104623,7 @@
   "workable:zaintech:89596DAA8D": "2026-10-15T08:37:36+00:00",
   "workable:zaintech:8AD5DB8DFF": "2026-11-11T12:37:34+00:00",
   "workable:zaintech:8C829A36B2": "2026-11-11T11:37:38+00:00",
+  "workable:zaintech:8CB766EAF0": "2026-11-28T06:37:37+00:00",
   "workable:zaintech:8CDDED7F23": "2026-11-24T10:37:46+00:00",
   "workable:zaintech:95313C74D6": "2026-10-20T10:02:28+00:00",
   "workable:zaintech:9EDD436151": "2026-11-18T06:37:36+00:00",
